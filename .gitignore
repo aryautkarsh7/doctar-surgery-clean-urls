@@ -1,0 +1,8 @@
+.DS_Store
+node_modules/
+.next/
+dist/
+build/
+*.log
+fix.js
+test_runtime.js
