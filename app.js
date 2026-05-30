@@ -170,23 +170,56 @@ ${treatmentShowcase.map(item => `
         <h2 class="section-title">Our Expert Surgeons</h2>
         <p class="section-subtitle">Highly experienced, board-certified doctors dedicated to your care.</p>
         <div class="doctors-grid">
-${DOCTORS.slice(0, 4).map(doc => `
+${DOCTORS.slice(0, 6).map(doc => `
             <div class="doctor-card">
-              <div class="doctor-img" style="background: var(--primary-light); display:flex; align-items:center; justify-content:center; font-size:4rem;">👨‍⚕️</div>
-              <div class="doctor-info">
-                <h3>${doc.name}</h3>
-                <p class="doctor-specialty">${doc.specialty}</p>
-                <div class="doctor-stats">
-                  <div class="stat"><span>⭐</span> ${doc.rating} (${doc.reviews})</div>
-                  <div class="stat"><span>💼</span> ${doc.experience}</div>
+              <div class="dc-top">
+                <div class="dc-avatar">👨‍⚕️</div>
+                <div class="dc-header-info">
+                  <h3 class="dc-name">${doc.name}</h3>
+                  <span class="dc-specialty-badge">🩺 ${doc.specialty}</span>
+                  <p class="dc-degree">${doc.degree}</p>
+                  <div class="dc-meta">
+                    <span class="dc-rating">⭐ ${doc.rating} (${doc.reviews} Reviews)</span>
+                    <span class="dc-dot">•</span>
+                    <span class="dc-exp">👥 ${doc.experience} Experience</span>
+                  </div>
                 </div>
-                <div class="doctor-actions">
-                  <button class="btn-secondary" onclick="alert('Profile viewing coming soon')">View Profile</button>
-                  <button class="btn-book" onclick="alert('Booking modal coming soon')">Book Visit</button>
+              </div>
+              <div class="dc-middle">
+                <div class="dc-fee-box">
+                  <div class="dc-fee">₹${doc.fee.toLocaleString('en-IN')}</div>
+                  <div class="dc-fee-label">Consultation fee</div>
+                  <div class="dc-mode">🏥 In - Clinic</div>
                 </div>
+                <div class="dc-avail-box">
+                  <div class="dc-avail-status"><span class="dc-avail-dot"></span> Available</div>
+                  <div class="dc-avail-label">Today Next Slot</div>
+                  <div class="dc-next-slot">🕐 ${doc.nextSlot}</div>
+                </div>
+              </div>
+              <div class="dc-hospital">
+                <span class="dc-hosp-icon">🏢</span>
+                <div>
+                  <div class="dc-hosp-name">${doc.hospital}</div>
+                  <div class="dc-hosp-loc">📍 ${doc.location}</div>
+                </div>
+              </div>
+              <div class="dc-slots">
+                <span class="dc-slots-label">Available Slots</span>
+                <div class="dc-slots-list">
+                  ${doc.slots.map(s => `<span class="dc-slot">🕐 ${s}</span>`).join('')}
+                  <span class="dc-slot dc-slot-more">+ 2 More</span>
+                </div>
+              </div>
+              <div class="dc-actions">
+                <button class="dc-btn-book" onclick="alert('Booking coming soon')">📅 Book Appointment</button>
+                <button class="dc-btn-call" onclick="alert('Calling coming soon')">📞 Call</button>
               </div>
             </div>
           `).join('')}
+        </div>
+        <div style="text-align:center; margin-top: 36px;">
+          <button class="doctors-view-all" onclick="alert('All doctors coming soon')">View All Surgeons →</button>
         </div>
       </section>
     `;
