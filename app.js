@@ -32,6 +32,57 @@ document.addEventListener('DOMContentLoaded', () => {
     }
   }
 
+  function getDoctorCity(doctor) {
+    return (doctor.location || '').split(',').pop().trim();
+  }
+
+  function getAvailableDoctorCities() {
+    return [...new Set(DOCTORS.map(getDoctorCity).filter(Boolean))];
+  }
+
+  function getCurrentCity() {
+    const availableCities = getAvailableDoctorCities();
+    const candidates = [];
+
+    try {
+      const params = new URLSearchParams(window.location.search || '');
+      candidates.push(params.get('city'));
+    } catch (e) {
+      // Ignore URL parsing issues and continue with DOM/config fallbacks.
+    }
+
+    try {
+      candidates.push(localStorage.getItem('selectedCity'));
+    } catch (e) {
+      // localStorage can be unavailable in restricted browser contexts.
+    }
+
+    if (typeof document.querySelector === 'function') {
+      const citySelector = document.querySelector('.city-selector');
+      if (citySelector) candidates.push(citySelector.textContent);
+    }
+
+    candidates.push(SITE_CONFIG.city);
+
+    for (const candidate of candidates) {
+      if (!candidate) continue;
+      const matchedCity = availableCities.find(city =>
+        candidate.toLowerCase().includes(city.toLowerCase())
+      );
+      if (matchedCity) return matchedCity;
+    }
+
+    return availableCities[0] || 'India';
+  }
+
+  function getDoctorsForCity(city) {
+    const cityDoctors = DOCTORS.filter(doc =>
+      getDoctorCity(doc).toLowerCase() === city.toLowerCase()
+    );
+
+    return cityDoctors.length > 0 ? cityDoctors : DOCTORS;
+  }
+
   // =====================================================
   // RENDER HOMEPAGE
   // =====================================================
@@ -68,6 +119,15 @@ document.addEventListener('DOMContentLoaded', () => {
     ];
 
     window.popularProcedures = popularProcedures;
+    const currentCity = getCurrentCity();
+    const homeDoctors = getDoctorsForCity(currentCity);
+    const isCitySpecific = homeDoctors.some(doc =>
+      getDoctorCity(doc).toLowerCase() === currentCity.toLowerCase()
+    );
+    const doctorsHeading = isCitySpecific ? `Expert Surgeons in ${currentCity}` : 'Our Expert Surgeons';
+    const doctorsSubtitle = isCitySpecific
+      ? `Highly experienced, board-certified doctors available near you in ${currentCity}.`
+      : 'Highly experienced, board-certified doctors dedicated to your care.';
 
     let html = `
       <!-- HERO SECTION -->
@@ -129,35 +189,50 @@ document.addEventListener('DOMContentLoaded', () => {
         </div>
       </section>
 
-      <!-- PREMIUM TREATMENT BROWSER -->
+      <!-- TREATMENT BROWSER -->
       <section class="treatment-browser" id="categories">
-        <img class="treatment-artwork-bg" src="indiaartwork.png" alt="" aria-hidden="true">
-        <div class="container">
-          <div class="treatment-browser-hero">
-            <div class="treatment-copy">
+        <!-- Kolkata city background image -->
+        <div class="tb-city-bg" style="background-image: url('images/image 708.png');"></div>
+
+        <div class="container tb-inner">
+          <!-- Header row -->
+          <div class="tb-header">
+            <div class="tb-copy">
               <div class="treatment-eyebrow">
-                <i class="fa-solid fa-star"></i>
-                Explore Treatments
+                <i class="fa-solid fa-star"></i> Explore Treatments
               </div>
-              <h2>Find the right <span>treatment</span> for you</h2>
-              <p>Browse by speciality or condition to discover treatments and expert surgeons.</p>
+              <h2 class="tb-title">Find the right <span>treatment</span> for you</h2>
+              <p class="tb-sub">Browse by speciality or condition to discover treatments and expert surgeons.</p>
             </div>
-            <div class="treatment-artwork-space" aria-hidden="true"></div>
+            <!-- Arrow buttons -->
+            <div class="tb-arrows">
+              <button class="tb-arrow" id="tb-prev" aria-label="Previous">
+                <i class="fa-solid fa-chevron-left"></i>
+              </button>
+              <button class="tb-arrow" id="tb-next" aria-label="Next">
+                <i class="fa-solid fa-chevron-right"></i>
+              </button>
+            </div>
           </div>
+
+          <!-- Trust bar -->
           <div class="treatment-trust-bar">
 ${treatmentTrust.map(item => `
-              <div class="treatment-trust-item">
-                <div class="trust-icon"><i class="${item.icon}"></i></div>
-                <div>
-                  <h4>${item.title}</h4>
-                  <p>${item.subtitle}</p>
-                </div>
+            <div class="treatment-trust-item">
+              <div class="trust-icon"><i class="${item.icon}"></i></div>
+              <div>
+                <h4>${item.title}</h4>
+                <p>${item.subtitle}</p>
               </div>
-            `).join('')}
+            </div>
+          `).join('')}
           </div>
-          <div class="treatment-showcase-grid">
+
+          <!-- Carousel track -->
+          <div class="tb-carousel-wrap">
+            <div class="tb-track" id="tb-track">
 ${treatmentShowcase.map(item => `
-              <a href="#/category/${item.slug}" class="treatment-showcase-card" style="--card-accent: ${item.color};">
+              <a href="#/category/${item.slug}" class="treatment-showcase-card tb-card" style="--card-accent: ${item.color};">
                 <div class="treatment-visual">
                   <img src="${item.image}" alt="${item.title}">
                 </div>
@@ -168,25 +243,25 @@ ${treatmentShowcase.map(item => `
                   <div class="treatment-explore">Explore <span>→</span></div>
                 </div>
               </a>
-            `).join('')}
+`).join('')}
+            </div>
           </div>
-          <div style="text-align:center; margin-top: 36px;">
+
+          <div style="text-align:center; margin-top: 32px;">
             <a href="#/categories" class="view-all-cats-btn">
-              <i class="fa-solid fa-grid-2"></i> View All Specialities
-              <span>→</span>
+              <i class="fa-solid fa-grid-2"></i> View All Specialities <span>→</span>
             </a>
           </div>
           <div id="fp-carousel-root"></div>
-
         </div>
       </section>
 
       <!-- DOCTORS SECTION -->
       <section class="container" style="padding: 60px 0;">
-        <h2 class="section-title">Our Expert Surgeons</h2>
-        <p class="section-subtitle">Highly experienced, board-certified doctors dedicated to your care.</p>
+        <h2 class="section-title">${doctorsHeading}</h2>
+        <p class="section-subtitle">${doctorsSubtitle}</p>
         <div class="doctors-grid">
-${DOCTORS.slice(0, 6).map(doc => `
+${homeDoctors.slice(0, 6).map(doc => `
             <div class="doctor-card">
               <div class="dc-top">
                 <div class="dc-avatar">👨‍⚕️</div>
@@ -235,13 +310,14 @@ ${DOCTORS.slice(0, 6).map(doc => `
           `).join('')}
         </div>
         <div style="text-align:center; margin-top: 36px;">
-          <button class="doctors-view-all" onclick="alert('All doctors coming soon')">View All Surgeons →</button>
+          <button class="doctors-view-all" onclick="alert('All doctors coming soon')">View All ${isCitySpecific ? currentCity + ' ' : ''}Surgeons →</button>
         </div>
       </section>
     `;
 
     appContainer.innerHTML = html;
     initFeaturedCarousel();
+    initTreatmentCarousel();
   }
 
   // =====================================================
@@ -318,6 +394,37 @@ ${DOCTORS.slice(0, 6).map(doc => `
   // =====================================================
   // FEATURED CAROUSEL COMPONENT LOGIC
   // =====================================================
+  function initTreatmentCarousel() {
+    const track = document.getElementById('tb-track');
+    const prevBtn = document.getElementById('tb-prev');
+    const nextBtn = document.getElementById('tb-next');
+    if (!track || !prevBtn || !nextBtn) return;
+
+    let index = 0;
+    const cards = track.querySelectorAll('.tb-card');
+    const total = cards.length;
+    const visible = 3; // full visible cards (4th peeks at 20%)
+
+    function getCardWidth() {
+      if (!cards[0]) return 0;
+      const style = window.getComputedStyle(cards[0]);
+      return cards[0].offsetWidth + parseInt(style.marginRight || 0);
+    }
+
+    function update() {
+      const cardW = getCardWidth();
+      track.style.transform = `translateX(-${index * cardW}px)`;
+      prevBtn.disabled = index === 0;
+      nextBtn.disabled = index >= total - visible;
+      prevBtn.style.opacity = index === 0 ? '0.4' : '1';
+      nextBtn.style.opacity = index >= total - visible ? '0.4' : '1';
+    }
+
+    prevBtn.addEventListener('click', () => { if (index > 0) { index--; update(); } });
+    nextBtn.addEventListener('click', () => { if (index < total - visible) { index++; update(); } });
+    update();
+  }
+
   function initFeaturedCarousel() {
     const root = document.getElementById('fp-carousel-root');
     if (!root) return;
@@ -556,57 +663,53 @@ ${DOCTORS.slice(0, 6).map(doc => `
               <i class="fa-solid fa-user-doctor"></i>
               <p>No doctors match your filters. Try adjusting them.</p>
             </div>
-          ` : doctors.map(doc => `
-            <div class="hd-card">
-              <!-- PURPLE HEADER -->
-              <div class="hd-card-header">
-                <div class="hd-card-avatar">👨‍⚕️</div>
-                <div class="hd-card-info">
-                  <h3 class="hd-doc-name">${doc.name}</h3>
-                  <span class="hd-spec-tag">${doc.specialty}</span>
-                  <p class="hd-degree">${doc.degree}</p>
-                  <div class="hd-pills-row">
-                    <span class="hd-pill"><i class="fa-solid fa-star"></i> ${doc.rating} (${doc.reviews} reviews)</span>
-                    <span class="hd-pill"><i class="fa-regular fa-clock"></i> ${doc.experience}</span>
+          ` : `<div class="doctors-grid tpl-doctors-grid">` + doctors.map(doc => `
+            <div class="doctor-card">
+              <div class="dc-top">
+                <div class="dc-avatar">👨‍⚕️</div>
+                <div class="dc-header-info">
+                  <h3 class="dc-name">${doc.name}</h3>
+                  <span class="dc-specialty-badge">🩺 ${doc.specialty}</span>
+                  <p class="dc-degree">${doc.degree}</p>
+                  <div class="dc-meta">
+                    <span class="dc-rating">⭐ ${doc.rating} (${doc.reviews} Reviews)</span>
+                    <span class="dc-dot">•</span>
+                    <span class="dc-exp">👥 ${doc.experience} Experience</span>
                   </div>
                 </div>
               </div>
-              <!-- FEE + AVAILABILITY -->
-              <div class="hd-card-body">
-                <div class="hd-fee-col">
-                  <div class="hd-fee-label">CONSULTATION FEE</div>
-                  <div class="hd-fee-amount">₹${doc.fee.toLocaleString('en-IN')}</div>
-                  <div class="hd-fee-sub">Per visit · In-clinic</div>
-                  <div class="hd-home-badge"><i class="fa-solid fa-house-medical"></i> In-Clinic available</div>
+              <div class="dc-middle">
+                <div class="dc-fee-box">
+                  <div class="dc-fee">₹${doc.fee.toLocaleString('en-IN')}</div>
+                  <div class="dc-fee-label">Consultation fee</div>
+                  <div class="dc-mode">🏥 In - Clinic</div>
                 </div>
-                <div class="hd-avail-col">
-                  <div class="hd-avail-dot-row"><span class="hd-green-dot"></span> Available</div>
-                  <div class="hd-avail-sub">Next: <strong>${doc.nextSlot}</strong></div>
-                  <div class="hd-slots">
-                    ${doc.slots.slice(0,2).map(s=>`<span class="hd-slot">${s}</span>`).join('')}
-                  </div>
+                <div class="dc-avail-box">
+                  <div class="dc-avail-status"><span class="dc-avail-dot"></span> Available</div>
+                  <div class="dc-avail-label">Today Next Slot</div>
+                  <div class="dc-next-slot">🕐 ${doc.nextSlot}</div>
                 </div>
               </div>
-              <!-- HOSPITAL ROW -->
-              <div class="hd-hospital-row">
-                <div class="hd-hosp-icon-wrap"><i class="fa-solid fa-hospital"></i></div>
-                <div class="hd-hosp-text">
-                  <span class="hd-hosp-name">${doc.hospital}</span>
-                  <span class="hd-hosp-loc">${doc.location}</span>
+              <div class="dc-hospital">
+                <span class="dc-hosp-icon">🏢</span>
+                <div>
+                  <div class="dc-hosp-name">${doc.hospital}</div>
+                  <div class="dc-hosp-loc">📍 ${doc.location}</div>
                 </div>
-                <i class="fa-solid fa-chevron-right hd-hosp-arrow"></i>
               </div>
-              <!-- ACTIONS -->
-              <div class="hd-card-actions">
-                <button class="hd-btn-book" onclick="alert('Booking coming soon')">
-                  <i class="fa-solid fa-calendar-check"></i> Book Appointment
-                </button>
-                <button class="hd-btn-call" onclick="alert('Calling coming soon')">
-                  <i class="fa-solid fa-phone"></i>
-                </button>
+              <div class="dc-slots">
+                <span class="dc-slots-label">Available Slots</span>
+                <div class="dc-slots-list">
+                  ${doc.slots.map(s => `<span class="dc-slot">🕐 ${s}</span>`).join('')}
+                  <span class="dc-slot dc-slot-more">+ 2 More</span>
+                </div>
+              </div>
+              <div class="dc-actions">
+                <button class="dc-btn-book" onclick="alert('Booking coming soon')">📅 Book Appointment</button>
+                <button class="dc-btn-call" onclick="alert('Calling coming soon')">📞 Call</button>
               </div>
             </div>
-          `).join('')}
+          `).join('') + `</div>`}
 
           <!-- FAQ SECTION -->
           <div class="tpl-faq-section">
