@@ -16,6 +16,8 @@ document.addEventListener('DOMContentLoaded', () => {
     window.scrollTo(0, 0);
     if (hash === '#/') {
       renderHomePage();
+    } else if (hash === '#/categories') {
+      renderAllCategoriesPage();
     } else if (hash.startsWith('#/category/')) {
       const slug = hash.replace('#/category/', '');
       renderCategoryPage(slug);
@@ -40,6 +42,10 @@ document.addEventListener('DOMContentLoaded', () => {
       { title: 'Urology', slug: 'urology', image: 'images/service-neuro.png', icon: 'fa-solid fa-kit-medical', tags: ['Kidney Stone', 'Prostate', 'UTI'], treatmentCount: 14, color: '#60a5fa' },
       { title: 'General Surgery', slug: 'laparoscopy', image: 'images/service-general.png', icon: 'fa-solid fa-stethoscope', tags: ['Hernia', 'Gallstone', 'Appendix'], treatmentCount: 20, color: '#34d399' },
       { title: 'Cosmetic & Skin', slug: 'aesthetics', image: 'images/about-surgery.png', icon: 'fa-solid fa-wand-magic-sparkles', tags: ['Hair', 'Skin', 'Weight Loss'], treatmentCount: 11, color: '#a78bfa' },
+      { title: 'Proctology', slug: 'proctology', image: 'images/service-general.png', icon: 'fa-solid fa-stethoscope', tags: ['Piles', 'Fissure', 'Fistula'], treatmentCount: 5, color: '#8B4513' },
+      { title: 'Vascular', slug: 'vascular', image: 'images/service-cardiac.png', icon: 'fa-solid fa-droplet', tags: ['Varicose Veins', 'DVT', 'AV Fistula'], treatmentCount: 6, color: '#dc2626' },
+      { title: 'Fertility', slug: 'fertility', image: 'images/service-general.png', icon: 'fa-solid fa-baby', tags: ['IVF', 'IUI', 'Egg Freezing'], treatmentCount: 6, color: '#9f1239' },
+      { title: 'Weight Loss', slug: 'weight-loss', image: 'images/about-surgery.png', icon: 'fa-solid fa-weight-scale', tags: ['Bariatric', 'Gastric Balloon', 'Liposuction'], treatmentCount: 3, color: '#65a30d' },
     ];
 
     const treatmentTrust = [
@@ -161,7 +167,14 @@ ${treatmentShowcase.map(item => `
               </a>
             `).join('')}
           </div>
+          <div style="text-align:center; margin-top: 36px;">
+            <a href="#/categories" class="view-all-cats-btn">
+              <i class="fa-solid fa-grid-2"></i> View All Specialities
+              <span>→</span>
+            </a>
+          </div>
           <div id="fp-carousel-root"></div>
+
         </div>
       </section>
 
@@ -229,6 +242,77 @@ ${DOCTORS.slice(0, 6).map(doc => `
   }
 
   // =====================================================
+  // RENDER ALL CATEGORIES PAGE
+  // =====================================================
+  function renderAllCategoriesPage() {
+    const totalTreatments = CATEGORIES.reduce((sum, c) => sum + c.treatmentCount, 0);
+
+    const html = `
+      <!-- ALL CATEGORIES HERO -->
+      <div class="all-cat-hero">
+        <div class="container all-cat-hero-inner">
+          <div class="breadcrumb" style="margin-bottom: 20px;">
+            <a href="#/">Home</a> <span>›</span>
+            <span>All Specialities</span>
+          </div>
+          <div class="all-cat-eyebrow">
+            <i class="fa-solid fa-grid-2"></i> Browse All Specialities
+          </div>
+          <h1 class="all-cat-title">Find Your <span>Treatment</span></h1>
+          <p class="all-cat-sub">Explore ${CATEGORIES.length} specialities and ${totalTreatments}+ treatments. Expert surgeons, free consultations &amp; insurance support across 150+ clinics in India.</p>
+          <div class="all-cat-stats-row">
+            <div class="all-cat-stat"><span>${CATEGORIES.length}</span><p>Specialities</p></div>
+            <div class="all-cat-stat"><span>${totalTreatments}+</span><p>Treatments</p></div>
+            <div class="all-cat-stat"><span>150+</span><p>Clinics</p></div>
+            <div class="all-cat-stat"><span>Free</span><p>Consultation</p></div>
+          </div>
+        </div>
+      </div>
+
+      <!-- TRUST STRIP -->
+      <div class="cat-trust-strip">
+        <div class="container cat-trust-inner">
+          <div class="cat-trust-item"><i class="fa-solid fa-shield-halved"></i><span>USFDA Approved Procedures</span></div>
+          <div class="cat-trust-item"><i class="fa-solid fa-car"></i><span>Free Cab Service</span></div>
+          <div class="cat-trust-item"><i class="fa-solid fa-wallet"></i><span>No Cost EMI</span></div>
+          <div class="cat-trust-item"><i class="fa-solid fa-clipboard-check"></i><span>Insurance Covered</span></div>
+        </div>
+      </div>
+
+      <!-- ALL CATEGORIES GRID -->
+      <div class="container all-cat-grid-section">
+        <div class="all-cat-section-header">
+          <h2>All Specialities <span class="cat-count-badge">${CATEGORIES.length}</span></h2>
+          <p>Click on a speciality to see all available treatments, costs, and doctors.</p>
+        </div>
+        <div class="all-cat-main-grid">
+          ${CATEGORIES.map(cat => `
+            <a href="#/category/${cat.slug}" class="all-cat-card" style="--acc: ${cat.color}; --acc-light: ${cat.colorLight};">
+              <div class="acc-icon-wrap" style="background: ${cat.colorLight}; color: ${cat.color};">
+                <span class="acc-emoji">${cat.icon}</span>
+              </div>
+              <div class="acc-body">
+                <h3 class="acc-name">${cat.name}</h3>
+                <p class="acc-desc">${cat.description}</p>
+                <div class="acc-tags">
+                  ${cat.tags.map(t => `<span class="acc-tag" style="border-color:${cat.color}; color:${cat.color};">${t}</span>`).join('')}
+                </div>
+                <div class="acc-footer">
+                  <span class="acc-count" style="background:${cat.colorLight}; color:${cat.color};">
+                    <i class="fa-solid fa-list-check"></i> ${cat.treatmentCount} Treatments
+                  </span>
+                  <span class="acc-explore" style="color:${cat.color};">Explore →</span>
+                </div>
+              </div>
+            </a>
+          `).join('')}
+        </div>
+      </div>
+    `;
+    appContainer.innerHTML = html;
+  }
+
+  // =====================================================
   // FEATURED CAROUSEL COMPONENT LOGIC
   // =====================================================
   function initFeaturedCarousel() {
@@ -278,44 +362,76 @@ ${DOCTORS.slice(0, 6).map(doc => `
     const category = findCategory(slug);
     if (!category) { handleRoute(); return; }
     const treatments = TREATMENTS[slug] || [];
+    const relatedDoctors = getDoctorsForCategory(slug).slice(0, 3);
+
     let html = `
-      <div class="container">
-        <div class="breadcrumb">
-          <a href="#/">Home</a> <span>›</span>
-          <span>${category.name}</span>
-        </div>
-        <div class="category-hero">
-          <div class="cat-hero-icon" style="background-color: ${category.colorLight}; color: ${category.color};">
-            ${category.icon}
+      <!-- CATEGORY HERO BANNER -->
+      <div class="cat-page-hero" style="--cat-color: ${category.color}; --cat-light: ${category.colorLight};">
+        <div class="container cat-page-hero-inner">
+          <div class="breadcrumb" style="margin-bottom: 20px;">
+            <a href="#/">Home</a> <span>›</span>
+            <span>${category.name}</span>
           </div>
-          <div class="cat-hero-info">
-            <h1>${category.name}</h1>
-            <p>${category.description}</p>
+          <div class="cat-hero-badge" style="background: ${category.colorLight}; color: ${category.color};">
+            ${category.icon} &nbsp;${category.name}
+          </div>
+          <h1 class="cat-page-title">${category.name} Treatments</h1>
+          <p class="cat-page-desc">${category.description}</p>
+          <div class="cat-page-tags">
+            ${category.tags.map(tag => `<span class="cat-tag" style="border-color:${category.color}; color:${category.color};">${tag}</span>`).join('')}
+          </div>
+          <div class="cat-page-stats">
+            <div class="cat-stat"><span>${category.treatmentCount}+</span><p>Treatments</p></div>
+            <div class="cat-stat"><span>${relatedDoctors.length > 0 ? relatedDoctors.length + '+' : '10+'}</span><p>Expert Surgeons</p></div>
+            <div class="cat-stat"><span>4.8★</span><p>Avg. Rating</p></div>
+            <div class="cat-stat"><span>Free</span><p>Consultation</p></div>
           </div>
         </div>
-        <h2 class="section-title" style="text-align: left; font-size: 1.8rem; margin-bottom: 30px;">
-          Available Treatments (${category.treatmentCount})
-        </h2>
-        <div class="treatments-grid">
-          ${treatments.map(t => `
-            <div class="treatment-card">
-              <h3>${t.name}</h3>
-              <p>${t.brief}</p>
-              <div class="treatment-meta">
-                <span class="meta-item">⏱️ ${t.recovery} Recovery</span>
-                <span class="meta-item">💰 ${t.costRange}</span>
+      </div>
+
+      <!-- TRUST BAR -->
+      <div class="cat-trust-strip">
+        <div class="container cat-trust-inner">
+          <div class="cat-trust-item"><i class="fa-solid fa-shield-halved"></i><span>USFDA Approved Procedures</span></div>
+          <div class="cat-trust-item"><i class="fa-solid fa-car"></i><span>Free Cab Service</span></div>
+          <div class="cat-trust-item"><i class="fa-solid fa-wallet"></i><span>No Cost EMI</span></div>
+          <div class="cat-trust-item"><i class="fa-solid fa-clipboard-check"></i><span>Insurance Covered</span></div>
+        </div>
+      </div>
+
+      <!-- TREATMENTS GRID -->
+      <div class="container" style="padding: 50px 0 80px;">
+        <div class="cat-section-header">
+          <h2>All ${category.name} Treatments <span class="cat-count-badge">${treatments.length}</span></h2>
+          <p>Click any treatment to see full details, cost, and book a free consultation.</p>
+        </div>
+
+        <div class="cat-treatments-grid">
+          ${treatments.map((t, i) => `
+            <a href="#/treatment/${t.slug}" class="cat-treatment-card" style="--card-color: ${category.color}; --card-light: ${category.colorLight};">
+              <div class="ctc-top">
+                <div class="ctc-icon" style="background: ${category.colorLight}; color: ${category.color};">
+                  ${category.icon}
+                </div>
+                <div class="ctc-badge" style="color: ${category.color};">${category.name}</div>
               </div>
-              <div class="treatment-actions">
-                <a href="#/treatment/${t.slug}" class="btn-secondary">Know More</a>
-                <button class="btn-book" onclick="alert('Booking modal coming soon')">Book Now</button>
+              <h3 class="ctc-name">${t.name}</h3>
+              <p class="ctc-brief">${t.brief}</p>
+              <div class="ctc-meta">
+                <span><i class="fa-regular fa-clock"></i> ${t.recovery}</span>
+                <span><i class="fa-solid fa-indian-rupee-sign"></i> ${t.costRange}</span>
               </div>
-            </div>
+              <div class="ctc-cta" style="background: ${category.color};">
+                View Details &nbsp;→
+              </div>
+            </a>
           `).join('')}
         </div>
       </div>
     `;
     appContainer.innerHTML = html;
   }
+
 
   // =====================================================
   // RENDER TREATMENT PAGE
@@ -324,48 +440,147 @@ ${DOCTORS.slice(0, 6).map(doc => `
     const treatment = findTreatment(slug);
     if (!treatment) { handleRoute(); return; }
     const category = findCategory(treatment.categorySlug);
+    const otherTreatments = (TREATMENTS[treatment.categorySlug] || [])
+      .filter(t => t.slug !== slug).slice(0, 3);
+
     let html = `
-      <div class="container">
-        <div class="breadcrumb">
-          <a href="#/">Home</a> <span>›</span>
-          <a href="#/category/${category.slug}">${category.name}</a> <span>›</span>
-          <span>${treatment.name}</span>
+      <!-- TREATMENT HERO -->
+      <div class="tp-hero" style="--cat-color: ${category.color}; --cat-light: ${category.colorLight};">
+        <div class="container">
+          <div class="breadcrumb" style="margin-bottom: 20px;">
+            <a href="#/">Home</a> <span>›</span>
+            <a href="#/category/${category.slug}">${category.name}</a> <span>›</span>
+            <span>${treatment.name}</span>
+          </div>
+          <div class="tp-hero-badge" style="background:${category.colorLight}; color:${category.color};">
+            ${category.icon} &nbsp;${category.name}
+          </div>
+          <h1 class="tp-hero-title">${treatment.name}</h1>
+          <p class="tp-hero-brief">${treatment.brief}</p>
         </div>
-        <div class="treatment-layout">
-          <div class="treatment-main">
-            <div class="treatment-header">
-              <h1>${treatment.name}</h1>
-              <p>${treatment.brief}</p>
+      </div>
+
+      <!-- MAIN LAYOUT -->
+      <div class="container tp-layout">
+
+        <!-- LEFT: CONTENT -->
+        <div class="tp-main">
+
+          <!-- QUICK INFO CARDS -->
+          <div class="tp-info-cards">
+            <div class="tp-info-card">
+              <i class="fa-solid fa-indian-rupee-sign" style="color:${category.color};"></i>
+              <div>
+                <h4>Estimated Cost</h4>
+                <p>${treatment.costRange}</p>
+              </div>
             </div>
-            <div class="info-blocks">
-              <div class="info-block"><h4>Estimated Cost</h4><p>${treatment.costRange}</p></div>
-              <div class="info-block"><h4>Recovery Time</h4><p>${treatment.recovery}</p></div>
+            <div class="tp-info-card">
+              <i class="fa-regular fa-clock" style="color:${category.color};"></i>
+              <div>
+                <h4>Recovery Time</h4>
+                <p>${treatment.recovery}</p>
+              </div>
             </div>
-            <div class="content-section">
-              <h2>About the Procedure</h2>
-              <p>${treatment.procedure}</p>
+            <div class="tp-info-card">
+              <i class="fa-solid fa-shield-halved" style="color:${category.color};"></i>
+              <div>
+                <h4>Insurance</h4>
+                <p>Covered by most plans</p>
+              </div>
             </div>
-            <div class="content-section">
-              <h2>Key Benefits</h2>
-              <ul class="benefits-list">
-                ${treatment.benefits.map(b => `<li>${b}</li>`).join('')}
-              </ul>
+            <div class="tp-info-card">
+              <i class="fa-solid fa-calendar-check" style="color:${category.color};"></i>
+              <div>
+                <h4>Consultation</h4>
+                <p>Free &amp; No Obligation</p>
+              </div>
             </div>
           </div>
-          <div class="treatment-sidebar">
-            <div class="booking-card">
-              <h3>Book Free Consultation</h3>
-              <p>For ${treatment.name}</p>
-              <form id="bookingForm" onsubmit="event.preventDefault(); alert('Consultation booked successfully! Our team will contact you shortly.');">
-                <div class="form-group"><input type="text" class="form-control" placeholder="Patient Name" required></div>
-                <div class="form-group"><input type="tel" class="form-control" placeholder="Mobile Number" required></div>
-                <div class="form-group"><input type="text" class="form-control" value="Kolkata" readonly></div>
-                <button type="submit" class="btn-submit">Submit Details</button>
-              </form>
-              <p style="text-align: center; margin-top: 15px; font-size: 0.85rem; opacity: 0.8;">By submitting, you agree to our T&C</p>
+
+          <!-- ABOUT THE PROCEDURE -->
+          <div class="tp-section">
+            <h2>About the Procedure</h2>
+            <p>${treatment.procedure}</p>
+          </div>
+
+          <!-- KEY BENEFITS -->
+          <div class="tp-section">
+            <h2>Key Benefits</h2>
+            <div class="tp-benefits-grid">
+              ${treatment.benefits.map(b => `
+                <div class="tp-benefit-item">
+                  <i class="fa-solid fa-circle-check" style="color:${category.color};"></i>
+                  <span>${b}</span>
+                </div>
+              `).join('')}
+            </div>
+          </div>
+
+          <!-- OTHER TREATMENTS FROM CATEGORY -->
+          ${otherTreatments.length > 0 ? `
+          <div class="tp-section">
+            <h2>Other ${category.name} Treatments</h2>
+            <div class="tp-related-grid">
+              ${otherTreatments.map(t => `
+                <a href="#/treatment/${t.slug}" class="tp-related-card" style="border-color:${category.colorLight};">
+                  <div class="tp-related-icon" style="background:${category.colorLight}; color:${category.color};">${category.icon}</div>
+                  <div>
+                    <h4>${t.name}</h4>
+                    <p>${t.brief}</p>
+                    <span style="color:${category.color}; font-size:13px; font-weight:600;">View Details →</span>
+                  </div>
+                </a>
+              `).join('')}
+            </div>
+          </div>
+          ` : ''}
+        </div>
+
+        <!-- RIGHT: BOOKING SIDEBAR -->
+        <div class="tp-sidebar">
+          <div class="tp-booking-card" style="--cat-color:${category.color};">
+            <div class="tp-booking-header" style="background:${category.color};">
+              <i class="fa-solid fa-calendar-check"></i>
+              <div>
+                <h3>Book Free Consultation</h3>
+                <p>For ${treatment.name}</p>
+              </div>
+            </div>
+            <form class="tp-booking-form" onsubmit="event.preventDefault(); alert('Consultation booked! Our care coordinator will call you shortly.');">
+              <div class="tp-form-group">
+                <label>Patient Name</label>
+                <input type="text" class="tp-input" placeholder="Enter full name" required>
+              </div>
+              <div class="tp-form-group">
+                <label>Mobile Number</label>
+                <input type="tel" class="tp-input" placeholder="+91 XXXXX XXXXX" required>
+              </div>
+              <div class="tp-form-group">
+                <label>City</label>
+                <input type="text" class="tp-input" value="Kolkata" readonly>
+              </div>
+              <button type="submit" class="tp-submit-btn" style="background:${category.color};">
+                <i class="fa-solid fa-phone"></i> Get Free Callback
+              </button>
+            </form>
+            <div class="tp-booking-trust">
+              <span><i class="fa-solid fa-lock"></i> 100% Private</span>
+              <span><i class="fa-solid fa-shield-halved"></i> Insurance Help</span>
+              <span><i class="fa-solid fa-car"></i> Free Cab</span>
+            </div>
+          </div>
+
+          <!-- HELPLINE CARD -->
+          <div class="tp-helpline-card">
+            <i class="fa-solid fa-headset" style="color:${category.color}; font-size:28px;"></i>
+            <div>
+              <h4>24/7 Helpline</h4>
+              <a href="tel:+918877772277" style="color:${category.color}; font-weight:700; font-size:16px;">+91-8877772277</a>
             </div>
           </div>
         </div>
+
       </div>
     `;
     appContainer.innerHTML = html;
