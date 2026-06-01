@@ -4883,6 +4883,7 @@ footer::before {
 .ds-btn-profile {
   width: 99px;
   min-width: 99px;
+  flex-shrink: 0;
   height: 30px;
   background: #fff;
   border: 1.5px solid rgba(48,48,48,0.3);
@@ -4899,8 +4900,7 @@ footer::before {
 .ds-btn-profile:hover { background: #f5f3ff; }
 
 .ds-btn-book {
-  width: 175px;
-  min-width: 175px;
+  flex: 1;
   height: 30px;
   background: #7551B3;
   border: none;
