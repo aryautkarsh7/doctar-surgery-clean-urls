@@ -24,6 +24,9 @@ document.addEventListener('DOMContentLoaded', () => {
     } else if (hash.startsWith('#/treatment/')) {
       const slug = hash.replace('#/treatment/', '');
       renderTreatmentPage(slug);
+    } else if (hash.startsWith('#/doctors/')) {
+      const catSlug = hash.replace('#/doctors/', '');
+      renderDoctorsListingPage(catSlug);
     } else {
       renderHomePage();
     }
@@ -518,13 +521,16 @@ ${DOCTORS.slice(0, 6).map(doc => `
             </div>
           </div>
 
-          <!-- AVAILABLE SURGEONS -->
+          <!-- AVAILABLE SURGEONS PREVIEW -->
           ${availableDoctors.length > 0 ? `
           <div class="tp-section">
-            <h2>Available Surgeons for ${treatment.name}</h2>
+            <div class="tp-section-header-row">
+              <h2>Available Surgeons</h2>
+              <a href="#/doctors/${category.slug}" class="tp-view-all-docs" style="color:${category.color};">View All ${availableDoctors.length} Surgeons →</a>
+            </div>
             <p style="color:#666; margin-bottom:20px; font-size:0.95rem;">Board-certified specialists with proven expertise in ${category.name}.</p>
             <div class="tp-doctors-list">
-              ${availableDoctors.map(doc => `
+              ${availableDoctors.slice(0,2).map(doc => `
                 <div class="tp-doc-card">
                   <div class="tp-doc-left">
                     <div class="tp-doc-avatar">👨‍⚕️</div>
@@ -551,6 +557,11 @@ ${DOCTORS.slice(0, 6).map(doc => `
                   </div>
                 </div>
               `).join('')}
+            </div>
+            <div style="text-align:center; margin-top:16px;">
+              <a href="#/doctors/${category.slug}" class="tp-see-all-btn" style="border-color:${category.color}; color:${category.color};">
+                See All ${availableDoctors.length} Surgeons for ${category.name} →
+              </a>
             </div>
           </div>
           ` : ''}
@@ -623,6 +634,181 @@ ${DOCTORS.slice(0, 6).map(doc => `
     `;
     appContainer.innerHTML = html;
   }
+
+  // =====================================================
+  // RENDER DOCTORS LISTING PAGE
+  // =====================================================
+  function renderDoctorsListingPage(catSlug, filters) {
+    const category = findCategory(catSlug);
+    if (!category) { handleRoute(); return; }
+
+    filters = filters || { availability: 'all', rating: 0, fee: 'all', experience: 'all', gender: 'all' };
+
+    let doctors = getDoctorsForCategory(catSlug);
+
+    // Apply filters
+    if (filters.rating > 0) doctors = doctors.filter(d => d.rating >= filters.rating);
+    if (filters.gender !== 'all') doctors = doctors.filter(d => (d.gender || 'male') === filters.gender);
+    if (filters.availability === 'today') doctors = doctors.filter(d => d.nextSlot);
+    if (filters.fee === 'under1000') doctors = doctors.filter(d => d.fee < 1000);
+    if (filters.fee === '1000-2000') doctors = doctors.filter(d => d.fee >= 1000 && d.fee <= 2000);
+    if (filters.fee === 'above2000') doctors = doctors.filter(d => d.fee > 2000);
+    if (filters.experience === '0-10') doctors = doctors.filter(d => parseInt(d.experience) <= 10);
+    if (filters.experience === '10-20') doctors = doctors.filter(d => parseInt(d.experience) > 10 && parseInt(d.experience) <= 20);
+    if (filters.experience === '20+') doctors = doctors.filter(d => parseInt(d.experience) > 20);
+
+    const html = `
+      <!-- LISTING HERO -->
+      <div class="dl-hero" style="background: linear-gradient(135deg, ${category.color}15 0%, #fff 60%);">
+        <div class="container dl-hero-inner">
+          <div class="breadcrumb" style="margin-bottom:14px;">
+            <a href="#/">Home</a> <span>›</span>
+            <a href="#/category/${category.slug}">${category.name}</a> <span>›</span>
+            <span>Surgeons</span>
+          </div>
+          <h1 class="dl-hero-title">
+            <span style="color:${category.color}">${doctors.length} Verified</span> ${category.name} Surgeons in Kolkata
+          </h1>
+          <p class="dl-hero-sub">Board-certified specialists with proven expertise. Free consultation, insurance support &amp; cab service.</p>
+          <div class="dl-trust-badges">
+            <span class="dl-badge"><i class="fa-solid fa-circle-check" style="color:${category.color}"></i> Licensed &amp; Verified</span>
+            <span class="dl-badge"><i class="fa-solid fa-hospital" style="color:${category.color}"></i> In-Clinic Available</span>
+            <span class="dl-badge"><i class="fa-solid fa-headset" style="color:${category.color}"></i> 24/7 On-Call Service</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- LAYOUT: SIDEBAR + CARDS -->
+      <div class="container dl-layout">
+
+        <!-- LEFT SIDEBAR: FILTERS -->
+        <aside class="dl-sidebar">
+          <div class="dl-filter-header">
+            <i class="fa-solid fa-sliders"></i> Filter Doctors
+          </div>
+
+          <div class="dl-filter-group">
+            <h4>Availability</h4>
+            <label class="dl-radio"><input type="radio" name="avail" value="all" ${filters.availability==='all'?'checked':''} onchange="applyDLFilter('${catSlug}','availability','all')"> Any Time</label>
+            <label class="dl-radio"><input type="radio" name="avail" value="today" ${filters.availability==='today'?'checked':''} onchange="applyDLFilter('${catSlug}','availability','today')"> Available Today</label>
+          </div>
+
+          <div class="dl-filter-group">
+            <h4>Minimum Rating</h4>
+            ${[4.5,4.0,3.5,3.0].map(r => `
+              <label class="dl-radio"><input type="radio" name="rating" value="${r}" ${filters.rating===r?'checked':''} onchange="applyDLFilter('${catSlug}','rating',${r})"> ${r}+ ⭐</label>
+            `).join('')}
+            <label class="dl-radio"><input type="radio" name="rating" value="0" ${filters.rating===0?'checked':''} onchange="applyDLFilter('${catSlug}','rating',0)"> Any Rating</label>
+          </div>
+
+          <div class="dl-filter-group">
+            <h4>Consultation Fee</h4>
+            <label class="dl-radio"><input type="radio" name="fee" value="all" ${filters.fee==='all'?'checked':''} onchange="applyDLFilter('${catSlug}','fee','all')"> Any</label>
+            <label class="dl-radio"><input type="radio" name="fee" value="under1000" ${filters.fee==='under1000'?'checked':''} onchange="applyDLFilter('${catSlug}','fee','under1000')"> Under ₹1,000</label>
+            <label class="dl-radio"><input type="radio" name="fee" value="1000-2000" ${filters.fee==='1000-2000'?'checked':''} onchange="applyDLFilter('${catSlug}','fee','1000-2000')"> ₹1,000 – ₹2,000</label>
+            <label class="dl-radio"><input type="radio" name="fee" value="above2000" ${filters.fee==='above2000'?'checked':''} onchange="applyDLFilter('${catSlug}','fee','above2000')"> Above ₹2,000</label>
+          </div>
+
+          <div class="dl-filter-group">
+            <h4>Experience</h4>
+            <label class="dl-radio"><input type="radio" name="exp" value="all" ${filters.experience==='all'?'checked':''} onchange="applyDLFilter('${catSlug}','experience','all')"> Any</label>
+            <label class="dl-radio"><input type="radio" name="exp" value="0-10" ${filters.experience==='0-10'?'checked':''} onchange="applyDLFilter('${catSlug}','experience','0-10')"> 0–10 yrs</label>
+            <label class="dl-radio"><input type="radio" name="exp" value="10-20" ${filters.experience==='10-20'?'checked':''} onchange="applyDLFilter('${catSlug}','experience','10-20')"> 10–20 yrs</label>
+            <label class="dl-radio"><input type="radio" name="exp" value="20+" ${filters.experience==='20+'?'checked':''} onchange="applyDLFilter('${catSlug}','experience','20+')"> 20+ yrs</label>
+          </div>
+
+          <div class="dl-filter-group">
+            <h4>Doctor Gender</h4>
+            <label class="dl-radio"><input type="radio" name="gender" value="all" ${filters.gender==='all'?'checked':''} onchange="applyDLFilter('${catSlug}','gender','all')"> Any</label>
+            <label class="dl-radio"><input type="radio" name="gender" value="male" ${filters.gender==='male'?'checked':''} onchange="applyDLFilter('${catSlug}','gender','male')"> Male</label>
+            <label class="dl-radio"><input type="radio" name="gender" value="female" ${filters.gender==='female'?'checked':''} onchange="applyDLFilter('${catSlug}','gender','female')"> Female</label>
+          </div>
+        </aside>
+
+        <!-- RIGHT: DOCTOR CARDS -->
+        <div class="dl-cards">
+          <div class="dl-results-bar">
+            <span><strong>${doctors.length}</strong> surgeons found</span>
+            <span class="dl-sort">Sort by: <strong>Relevance</strong> ▾</span>
+          </div>
+
+          ${doctors.length === 0 ? `
+            <div class="dl-empty">
+              <i class="fa-solid fa-user-doctor" style="font-size:3rem; color:#ccc;"></i>
+              <p>No doctors match your filters. Try adjusting them.</p>
+            </div>
+          ` : doctors.map(doc => `
+            <div class="dl-card">
+              <div class="dl-card-left">
+                <div class="dl-card-avatar">👨‍⚕️</div>
+              </div>
+              <div class="dl-card-body">
+                <div class="dl-card-top">
+                  <div>
+                    <h3 class="dl-doc-name">${doc.name}</h3>
+                    <span class="dl-doc-badge" style="background:${category.colorLight}; color:${category.color};">🩺 ${doc.specialty}</span>
+                    <p class="dl-doc-degree">${doc.degree}</p>
+                    <div class="dl-doc-meta">
+                      <span>⭐ ${doc.rating} <span style="color:#aaa;">(${doc.reviews} reviews)</span></span>
+                      <span class="dl-sep">•</span>
+                      <span>👥 ${doc.experience} experience</span>
+                    </div>
+                  </div>
+                  <div class="dl-card-fee-block">
+                    <div class="dl-fee">₹${doc.fee.toLocaleString('en-IN')}</div>
+                    <div class="dl-fee-label">Consultation fee</div>
+                    <div class="dl-clinic-mode">🏥 In-Clinic</div>
+                  </div>
+                </div>
+
+                <div class="dl-hospital-row">
+                  <span class="dl-hosp-icon">🏢</span>
+                  <div>
+                    <span class="dl-hosp-name">${doc.hospital}</span>
+                    <span class="dl-hosp-loc"> &nbsp;📍 ${doc.location}</span>
+                  </div>
+                </div>
+
+                <div class="dl-avail-row">
+                  <div class="dl-avail-left">
+                    <span class="dl-avail-status"><span class="dl-avail-dot"></span> Available Today</span>
+                    <span class="dl-next-slot">Next Slot: <strong>${doc.nextSlot}</strong></span>
+                  </div>
+                  <div class="dl-slots">
+                    ${doc.slots.map(s => `<span class="dl-slot">🕐 ${s}</span>`).join('')}
+                    <span class="dl-slot dl-slot-more">+2 More</span>
+                  </div>
+                </div>
+
+                <div class="dl-card-actions">
+                  <button class="dl-btn-book" style="background:${category.color};" onclick="alert('Booking coming soon')">
+                    <i class="fa-solid fa-calendar-check"></i> Book Appointment
+                  </button>
+                  <button class="dl-btn-call" style="color:${category.color}; border-color:${category.color};" onclick="alert('Calling coming soon')">
+                    <i class="fa-solid fa-phone"></i> Call
+                  </button>
+                </div>
+              </div>
+            </div>
+          `).join('')}
+        </div>
+
+      </div>
+    `;
+
+    appContainer.innerHTML = html;
+
+    // Store current filters on window for filter changes
+    window._dlFilters = filters;
+  }
+
+  // Called by filter radio buttons
+  window.applyDLFilter = function(catSlug, key, value) {
+    const filters = Object.assign({}, window._dlFilters || {}, { [key]: value });
+    // parse numeric rating
+    if (key === 'rating') filters.rating = parseFloat(value);
+    renderDoctorsListingPage(catSlug, filters);
+  };
 
   initRouter();
 });
