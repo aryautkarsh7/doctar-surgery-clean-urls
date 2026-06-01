@@ -4703,8 +4703,8 @@ footer::before {
    W:290px H:322px radius:16px stroke:2px #303030@48%
 ========================================= */
 .ds-doc-card {
-  width: 290px;
-  min-width: 290px;
+  width: 320px;
+  min-width: 320px;
   height: 322px;
   border-radius: 16px;
   border: 2px solid rgba(48, 48, 48, 0.48);
@@ -4924,7 +4924,7 @@ footer::before {
 
 /* Override tb-card sizing for doctor cards */
 .ds-section .tb-card {
-  flex: 0 0 290px;
-  min-width: 290px;
+  flex: 0 0 320px;
+  min-width: 320px;
   height: 322px;
 }
