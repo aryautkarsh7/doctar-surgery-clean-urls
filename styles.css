@@ -4588,3 +4588,112 @@ footer::before {
   .tb-title { font-size: 1.5rem; }
   .tb-header { flex-direction: column; align-items: flex-start; }
 }
+
+/* =========================================
+   DOCTORS CAROUSEL SECTION (matches Explore Treatments style)
+========================================= */
+.ds-section {
+  background: #fff;
+}
+
+.ds-doc-card {
+  background: #fff;
+  border-radius: 16px;
+  overflow: hidden;
+  border: 1px solid #e8e8f0;
+  box-shadow: 0 2px 12px rgba(100,80,200,0.07);
+  display: flex;
+  flex-direction: column;
+  text-decoration: none;
+  transition: box-shadow 0.2s, transform 0.2s;
+  cursor: pointer;
+}
+
+.ds-doc-card:hover {
+  box-shadow: 0 8px 28px rgba(117,81,179,0.18);
+  transform: translateY(-3px);
+}
+
+/* Avatar area — same proportions as treatment card image */
+.ds-card-img {
+  width: 100%;
+  height: 160px;
+  background: linear-gradient(135deg, #6b21a8 0%, #7551B3 100%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 4rem;
+}
+
+.ds-card-content {
+  padding: 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
+  flex: 1;
+}
+
+.ds-doc-name {
+  font-size: 1rem;
+  font-weight: 700;
+  color: #1a1a2e;
+  margin: 0;
+}
+
+.ds-spec-tag {
+  display: inline-block;
+  background: #f0eeff;
+  color: #7551B3;
+  font-size: 0.76rem;
+  font-weight: 600;
+  padding: 3px 10px;
+  border-radius: 20px;
+  width: fit-content;
+}
+
+.ds-meta-row {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 0.78rem;
+  color: #666;
+  flex-wrap: wrap;
+}
+
+.ds-meta-row i { color: #7551B3; }
+.ds-meta-row b { color: #ddd; font-weight: 400; }
+
+.ds-fee-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 6px;
+  padding: 8px 0;
+  border-top: 1px solid #f0f0f0;
+  border-bottom: 1px solid #f0f0f0;
+}
+
+.ds-fee {
+  font-size: 1.05rem;
+  font-weight: 800;
+  color: #1a1a2e;
+}
+
+.ds-avail {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  font-size: 0.76rem;
+  color: #444;
+}
+
+.ds-explore {
+  font-size: 0.88rem;
+  font-weight: 700;
+  color: #7551B3;
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  margin-top: 2px;
+}

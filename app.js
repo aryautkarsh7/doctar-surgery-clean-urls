@@ -257,60 +257,57 @@ ${treatmentShowcase.map(item => `
       </section>
 
       <!-- DOCTORS SECTION -->
-      <section class="container" style="padding: 60px 0;">
-        <h2 class="section-title">${doctorsHeading}</h2>
-        <p class="section-subtitle">${doctorsSubtitle}</p>
-        <div class="doctors-grid">
-${homeDoctors.slice(0, 6).map(doc => `
-            <div class="hd-card">
-              <div class="hd-card-header">
-                <div class="hd-card-avatar">👨‍⚕️</div>
-                <div class="hd-card-info">
-                  <h3 class="hd-doc-name">${doc.name}</h3>
-                  <span class="hd-spec-tag">${doc.specialty}</span>
-                  <p class="hd-degree">${doc.degree}</p>
-                  <div class="hd-pills-row">
-                    <span class="hd-pill"><i class="fa-solid fa-star"></i> ${doc.rating} (${doc.reviews} reviews)</span>
-                    <span class="hd-pill"><i class="fa-regular fa-clock"></i> ${doc.experience}</span>
-                  </div>
-                </div>
+      <section class="treatment-browser ds-section" id="doctors-section">
+        <div class="container tb-inner">
+          <!-- Header row — same as Explore Treatments -->
+          <div class="tb-header">
+            <div class="tb-copy">
+              <div class="treatment-eyebrow">
+                <i class="fa-solid fa-user-doctor"></i> Expert Surgeons
               </div>
-              <div class="hd-card-body">
-                <div class="hd-fee-col">
-                  <div class="hd-fee-label">CONSULTATION FEE</div>
-                  <div class="hd-fee-amount">₹${doc.fee.toLocaleString('en-IN')}</div>
-                  <div class="hd-fee-sub">Per visit · In-clinic</div>
-                  <div class="hd-home-badge"><i class="fa-solid fa-house-medical"></i> In-Clinic available</div>
-                </div>
-                <div class="hd-avail-col">
-                  <div class="hd-avail-dot-row"><span class="hd-green-dot"></span> Available</div>
-                  <div class="hd-avail-sub">Next: <strong>${doc.nextSlot}</strong></div>
-                  <div class="hd-slots">
-                    ${doc.slots.slice(0,2).map(s=>`<span class="hd-slot">${s}</span>`).join('')}
-                  </div>
-                </div>
-              </div>
-              <div class="hd-hospital-row">
-                <div class="hd-hosp-icon-wrap"><i class="fa-solid fa-hospital"></i></div>
-                <div class="hd-hosp-text">
-                  <span class="hd-hosp-name">${doc.hospital}</span>
-                  <span class="hd-hosp-loc">${doc.location}</span>
-                </div>
-                <i class="fa-solid fa-chevron-right hd-hosp-arrow"></i>
-              </div>
-              <div class="hd-card-actions">
-                <button class="hd-btn-book" onclick="alert('Booking coming soon')">
-                  <i class="fa-solid fa-calendar-check"></i> Book Appointment
-                </button>
-                <button class="hd-btn-call" onclick="alert('Calling coming soon')">
-                  <i class="fa-solid fa-phone"></i>
-                </button>
-              </div>
+              <h2 class="tb-title">${doctorsHeading}</h2>
+              <p class="tb-sub">${doctorsSubtitle}</p>
             </div>
-          `).join('')}
-        </div>
-        <div style="text-align:center; margin-top: 36px;">
-          <button class="doctors-view-all" onclick="alert('All doctors coming soon')">View All ${isCitySpecific ? currentCity + ' ' : ''}Surgeons →</button>
+            <div class="tb-arrows">
+              <button class="tb-arrow" id="ds-prev" aria-label="Previous">
+                <i class="fa-solid fa-chevron-left"></i>
+              </button>
+              <button class="tb-arrow" id="ds-next" aria-label="Next">
+                <i class="fa-solid fa-chevron-right"></i>
+              </button>
+            </div>
+          </div>
+
+          <!-- Carousel track -->
+          <div class="tb-carousel-wrap">
+            <div class="tb-track" id="ds-track">
+${homeDoctors.slice(0, 8).map(doc => `
+              <a href="#/doctors/${doc.categories[0]}" class="ds-doc-card tb-card">
+                <div class="ds-card-img">👨‍⚕️</div>
+                <div class="ds-card-content">
+                  <h3 class="ds-doc-name">${doc.name}</h3>
+                  <span class="ds-spec-tag">${doc.specialty}</span>
+                  <div class="ds-meta-row">
+                    <span><i class="fa-solid fa-star"></i> ${doc.rating} (${doc.reviews})</span>
+                    <b>•</b>
+                    <span><i class="fa-regular fa-clock"></i> ${doc.experience}</span>
+                  </div>
+                  <div class="ds-fee-row">
+                    <span class="ds-fee">₹${doc.fee.toLocaleString('en-IN')}</span>
+                    <span class="ds-avail"><span class="hd-green-dot"></span> Available · ${doc.nextSlot}</span>
+                  </div>
+                  <div class="ds-explore">Book Now <span>→</span></div>
+                </div>
+              </a>
+`).join('')}
+            </div>
+          </div>
+
+          <div style="text-align:center; margin-top: 32px;">
+            <button class="doctors-view-all" onclick="alert('All doctors coming soon')">
+              View All Surgeons →
+            </button>
+          </div>
         </div>
       </section>
     `;
@@ -318,6 +315,7 @@ ${homeDoctors.slice(0, 6).map(doc => `
     appContainer.innerHTML = html;
     initFeaturedCarousel();
     initTreatmentCarousel();
+    initCarousel('ds-track', 'ds-prev', 'ds-next', 3);
   }
 
   // =====================================================
@@ -395,27 +393,26 @@ ${homeDoctors.slice(0, 6).map(doc => `
   // FEATURED CAROUSEL COMPONENT LOGIC
   // =====================================================
   function initTreatmentCarousel() {
-    const track = document.getElementById('tb-track');
-    const prevBtn = document.getElementById('tb-prev');
-    const nextBtn = document.getElementById('tb-next');
+    initCarousel('tb-track', 'tb-prev', 'tb-next', 3);
+  }
+
+  function initCarousel(trackId, prevId, nextId, visible) {
+    const track = document.getElementById(trackId);
+    const prevBtn = document.getElementById(prevId);
+    const nextBtn = document.getElementById(nextId);
     if (!track || !prevBtn || !nextBtn) return;
 
     let index = 0;
     const cards = track.querySelectorAll('.tb-card');
     const total = cards.length;
-    const visible = 3; // full visible cards (4th peeks at 20%)
 
     function getCardWidth() {
       if (!cards[0]) return 0;
-      const style = window.getComputedStyle(cards[0]);
-      return cards[0].offsetWidth + parseInt(style.marginRight || 0);
+      return cards[0].offsetWidth + 20; // 20 = gap
     }
 
     function update() {
-      const cardW = getCardWidth();
-      track.style.transform = `translateX(-${index * cardW}px)`;
-      prevBtn.disabled = index === 0;
-      nextBtn.disabled = index >= total - visible;
+      track.style.transform = `translateX(-${index * getCardWidth()}px)`;
       prevBtn.style.opacity = index === 0 ? '0.4' : '1';
       nextBtn.style.opacity = index >= total - visible ? '0.4' : '1';
     }
