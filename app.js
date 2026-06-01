@@ -185,51 +185,55 @@ ${treatmentShowcase.map(item => `
       <section class="container" style="padding: 60px 0;">
         <h2 class="section-title">Our Expert Surgeons</h2>
         <p class="section-subtitle">Highly experienced, board-certified doctors dedicated to your care.</p>
-        <div class="doctors-grid">
-${DOCTORS.slice(0, 6).map(doc => `
-            <div class="doctor-card">
-              <div class="dc-top">
-                <div class="dc-avatar">👨‍⚕️</div>
-                <div class="dc-header-info">
-                  <h3 class="dc-name">${doc.name}</h3>
-                  <span class="dc-specialty-badge">🩺 ${doc.specialty}</span>
-                  <p class="dc-degree">${doc.degree}</p>
-                  <div class="dc-meta">
-                    <span class="dc-rating">⭐ ${doc.rating} (${doc.reviews} Reviews)</span>
-                    <span class="dc-dot">•</span>
-                    <span class="dc-exp">👥 ${doc.experience} Experience</span>
+        <div class="hd-doctors-grid">
+${DOCTORS.slice(0, 4).map(doc => `
+            <div class="hd-card">
+              <!-- PURPLE HEADER -->
+              <div class="hd-card-header">
+                <div class="hd-card-avatar">👨‍⚕️</div>
+                <div class="hd-card-info">
+                  <h3 class="hd-doc-name">${doc.name}</h3>
+                  <span class="hd-spec-tag">${doc.specialty}</span>
+                  <p class="hd-degree">${doc.degree}</p>
+                  <div class="hd-pills-row">
+                    <span class="hd-pill"><i class="fa-solid fa-star"></i> ${doc.rating} (${doc.reviews} reviews)</span>
+                    <span class="hd-pill"><i class="fa-regular fa-clock"></i> ${doc.experience}</span>
                   </div>
                 </div>
               </div>
-              <div class="dc-middle">
-                <div class="dc-fee-box">
-                  <div class="dc-fee">₹${doc.fee.toLocaleString('en-IN')}</div>
-                  <div class="dc-fee-label">Consultation fee</div>
-                  <div class="dc-mode">🏥 In - Clinic</div>
+              <!-- FEE + AVAILABILITY -->
+              <div class="hd-card-body">
+                <div class="hd-fee-col">
+                  <div class="hd-fee-label">CONSULTATION FEE</div>
+                  <div class="hd-fee-amount">₹${doc.fee.toLocaleString('en-IN')}</div>
+                  <div class="hd-fee-sub">Per visit · In-clinic</div>
+                  <div class="hd-home-badge"><i class="fa-solid fa-house-medical"></i> In-Clinic available</div>
                 </div>
-                <div class="dc-avail-box">
-                  <div class="dc-avail-status"><span class="dc-avail-dot"></span> Available</div>
-                  <div class="dc-avail-label">Today Next Slot</div>
-                  <div class="dc-next-slot">🕐 ${doc.nextSlot}</div>
-                </div>
-              </div>
-              <div class="dc-hospital">
-                <span class="dc-hosp-icon">🏢</span>
-                <div>
-                  <div class="dc-hosp-name">${doc.hospital}</div>
-                  <div class="dc-hosp-loc">📍 ${doc.location}</div>
+                <div class="hd-avail-col">
+                  <div class="hd-avail-dot-row"><span class="hd-green-dot"></span> Available</div>
+                  <div class="hd-avail-sub">Next: <strong>${doc.nextSlot}</strong></div>
+                  <div class="hd-slots">
+                    ${doc.slots.slice(0,2).map(s=>`<span class="hd-slot">${s}</span>`).join('')}
+                  </div>
                 </div>
               </div>
-              <div class="dc-slots">
-                <span class="dc-slots-label">Available Slots</span>
-                <div class="dc-slots-list">
-                  ${doc.slots.map(s => `<span class="dc-slot">🕐 ${s}</span>`).join('')}
-                  <span class="dc-slot dc-slot-more">+ 2 More</span>
+              <!-- HOSPITAL ROW -->
+              <div class="hd-hospital-row">
+                <div class="hd-hosp-icon-wrap"><i class="fa-solid fa-hospital"></i></div>
+                <div class="hd-hosp-text">
+                  <span class="hd-hosp-name">${doc.hospital}</span>
+                  <span class="hd-hosp-loc">${doc.location}</span>
                 </div>
+                <i class="fa-solid fa-chevron-right hd-hosp-arrow"></i>
               </div>
-              <div class="dc-actions">
-                <button class="dc-btn-book" onclick="alert('Booking coming soon')">📅 Book Appointment</button>
-                <button class="dc-btn-call" onclick="alert('Calling coming soon')">📞 Call</button>
+              <!-- ACTIONS -->
+              <div class="hd-card-actions">
+                <button class="hd-btn-book" onclick="alert('Booking coming soon')">
+                  <i class="fa-solid fa-calendar-check"></i> Book Appointment
+                </button>
+                <button class="hd-btn-call" onclick="alert('Calling coming soon')">
+                  <i class="fa-solid fa-phone"></i>
+                </button>
               </div>
             </div>
           `).join('')}
