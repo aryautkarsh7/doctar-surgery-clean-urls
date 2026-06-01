@@ -4870,6 +4870,7 @@ footer::before {
   overflow: hidden;
   text-overflow: ellipsis;
   white-space: nowrap;
+  padding-right: 8px;
 }
 
 /* ACTION BUTTONS */
@@ -4898,8 +4899,8 @@ footer::before {
 .ds-btn-profile:hover { background: #f5f3ff; }
 
 .ds-btn-book {
-  width: 161px;
-  min-width: 161px;
+  width: 175px;
+  min-width: 175px;
   height: 30px;
   background: #7551B3;
   border: none;
