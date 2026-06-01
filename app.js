@@ -258,6 +258,7 @@ ${treatmentShowcase.map(item => `
 
       <!-- DOCTORS SECTION -->
       <section class="treatment-browser ds-section" id="doctors-section">
+        <div class="tb-city-bg" style="background-image: url('images/image 708.png'); opacity: 0.30;"></div>
         <div class="container tb-inner">
           <!-- Header row — same as Explore Treatments -->
           <div class="tb-header">
