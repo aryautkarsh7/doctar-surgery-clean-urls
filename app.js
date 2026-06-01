@@ -437,203 +437,218 @@ ${DOCTORS.slice(0, 6).map(doc => `
 
 
   // =====================================================
-  // RENDER TREATMENT PAGE
+  // RENDER TREATMENT PAGE (doctar.in listing style)
   // =====================================================
-  function renderTreatmentPage(slug) {
+  function renderTreatmentPage(slug, filters) {
     const treatment = findTreatment(slug);
     if (!treatment) { handleRoute(); return; }
     const category = findCategory(treatment.categorySlug);
-    const otherTreatments = (TREATMENTS[treatment.categorySlug] || [])
-      .filter(t => t.slug !== slug).slice(0, 3);
-    const availableDoctors = getDoctorsForCategory(treatment.categorySlug);
 
-    let html = `
-      <!-- TREATMENT HERO -->
-      <div class="tp-hero" style="--cat-color: ${category.color}; --cat-light: ${category.colorLight};">
-        <div class="container">
-          <div class="breadcrumb" style="margin-bottom: 20px;">
+    filters = filters || { availability: 'all', rating: 0, fee: 'all', experience: 'all', gender: 'all' };
+
+    let doctors = getDoctorsForCategory(treatment.categorySlug);
+
+    // Apply filters
+    if (filters.rating > 0)            doctors = doctors.filter(d => d.rating >= filters.rating);
+    if (filters.gender !== 'all')       doctors = doctors.filter(d => (d.gender || 'male') === filters.gender);
+    if (filters.availability === 'today') doctors = doctors.filter(d => d.nextSlot);
+    if (filters.fee === 'under1000')    doctors = doctors.filter(d => d.fee < 1000);
+    if (filters.fee === '1000-2000')    doctors = doctors.filter(d => d.fee >= 1000 && d.fee <= 2000);
+    if (filters.fee === 'above2000')    doctors = doctors.filter(d => d.fee > 2000);
+    if (filters.experience === '0-10')  doctors = doctors.filter(d => parseInt(d.experience) <= 10);
+    if (filters.experience === '10-20') doctors = doctors.filter(d => parseInt(d.experience) > 10 && parseInt(d.experience) <= 20);
+    if (filters.experience === '20+')   doctors = doctors.filter(d => parseInt(d.experience) > 20);
+
+    const allDoctors = getDoctorsForCategory(treatment.categorySlug);
+
+    const html = `
+      <!-- TOP HERO STRIP -->
+      <div class="tpl-hero" style="background: linear-gradient(120deg, ${category.color}18 0%, #fff 70%);">
+        <div class="container tpl-hero-inner">
+          <div class="breadcrumb">
             <a href="#/">Home</a> <span>›</span>
             <a href="#/category/${category.slug}">${category.name}</a> <span>›</span>
             <span>${treatment.name}</span>
           </div>
-          <div class="tp-hero-badge" style="background:${category.colorLight}; color:${category.color};">
-            ${category.icon} &nbsp;${category.name}
+          <h1 class="tpl-title">
+            <span style="color:${category.color}">${allDoctors.length} Verified</span> ${treatment.name} Surgeons in Kolkata
+          </h1>
+          <p class="tpl-sub">Expert ${treatment.name} specialists in Kolkata. Book verified surgeons available for in-clinic consultations with free consultation, insurance support &amp; cab service.</p>
+          <div class="tpl-trust-row">
+            <span class="tpl-badge"><i class="fa-solid fa-circle-check" style="color:${category.color}"></i> Licensed &amp; Verified</span>
+            <span class="tpl-badge"><i class="fa-solid fa-hospital" style="color:${category.color}"></i> In-Clinic Available</span>
+            <span class="tpl-badge"><i class="fa-solid fa-headset" style="color:${category.color}"></i> 24/7 On-Call Service</span>
+            <span class="tpl-badge"><i class="fa-solid fa-car" style="color:${category.color}"></i> Free Cab</span>
           </div>
-          <h1 class="tp-hero-title">${treatment.name}</h1>
-          <p class="tp-hero-brief">${treatment.brief}</p>
+          <!-- Quick info pills -->
+          <div class="tpl-info-pills">
+            <span class="tpl-pill"><i class="fa-solid fa-indian-rupee-sign"></i> ${treatment.costRange}</span>
+            <span class="tpl-pill"><i class="fa-regular fa-clock"></i> ${treatment.recovery} Recovery</span>
+            <span class="tpl-pill"><i class="fa-solid fa-shield-halved"></i> Insurance Covered</span>
+            <span class="tpl-pill"><i class="fa-solid fa-calendar-check"></i> Free Consultation</span>
+          </div>
         </div>
       </div>
 
-      <!-- MAIN LAYOUT -->
-      <div class="container tp-layout">
+      <!-- MAIN: SIDEBAR + CARDS -->
+      <div class="container tpl-layout">
 
-        <!-- LEFT: CONTENT -->
-        <div class="tp-main">
-
-          <!-- QUICK INFO CARDS -->
-          <div class="tp-info-cards">
-            <div class="tp-info-card">
-              <i class="fa-solid fa-indian-rupee-sign" style="color:${category.color};"></i>
-              <div>
-                <h4>Estimated Cost</h4>
-                <p>${treatment.costRange}</p>
-              </div>
-            </div>
-            <div class="tp-info-card">
-              <i class="fa-regular fa-clock" style="color:${category.color};"></i>
-              <div>
-                <h4>Recovery Time</h4>
-                <p>${treatment.recovery}</p>
-              </div>
-            </div>
-            <div class="tp-info-card">
-              <i class="fa-solid fa-shield-halved" style="color:${category.color};"></i>
-              <div>
-                <h4>Insurance</h4>
-                <p>Covered by most plans</p>
-              </div>
-            </div>
-            <div class="tp-info-card">
-              <i class="fa-solid fa-calendar-check" style="color:${category.color};"></i>
-              <div>
-                <h4>Consultation</h4>
-                <p>Free &amp; No Obligation</p>
-              </div>
-            </div>
+        <!-- LEFT SIDEBAR: FILTERS -->
+        <aside class="tpl-sidebar">
+          <div class="tpl-filter-head">
+            <i class="fa-solid fa-sliders"></i> Filter Doctors
+            <button class="tpl-reset-btn" onclick="window._tplFilters={}; renderTreatmentPageGlobal('${slug}')">Reset All</button>
           </div>
 
-          <!-- ABOUT THE PROCEDURE -->
-          <div class="tp-section">
-            <h2>About the Procedure</h2>
-            <p>${treatment.procedure}</p>
+          <div class="tpl-filter-group">
+            <h4>Availability</h4>
+            <label class="tpl-radio"><input type="radio" name="tpl-avail" value="all" ${filters.availability==='all'?'checked':''} onchange="applyTPLFilter('${slug}','availability','all')"> Any Time</label>
+            <label class="tpl-radio"><input type="radio" name="tpl-avail" value="today" ${filters.availability==='today'?'checked':''} onchange="applyTPLFilter('${slug}','availability','today')"> Available Today</label>
           </div>
 
-          <!-- KEY BENEFITS -->
-          <div class="tp-section">
-            <h2>Key Benefits</h2>
-            <div class="tp-benefits-grid">
-              ${treatment.benefits.map(b => `
-                <div class="tp-benefit-item">
-                  <i class="fa-solid fa-circle-check" style="color:${category.color};"></i>
-                  <span>${b}</span>
-                </div>
-              `).join('')}
-            </div>
+          <div class="tpl-filter-group">
+            <h4>Minimum Rating</h4>
+            ${[4.5,4.0,3.5,3.0].map(r=>`
+              <label class="tpl-radio"><input type="radio" name="tpl-rating" value="${r}" ${filters.rating===r?'checked':''} onchange="applyTPLFilter('${slug}','rating',${r})"> ${r}+ ⭐</label>
+            `).join('')}
+            <label class="tpl-radio"><input type="radio" name="tpl-rating" value="0" ${filters.rating===0?'checked':''} onchange="applyTPLFilter('${slug}','rating',0)"> Any Rating</label>
           </div>
 
-          <!-- AVAILABLE SURGEONS PREVIEW -->
-          ${availableDoctors.length > 0 ? `
-          <div class="tp-section">
-            <div class="tp-section-header-row">
-              <h2>Available Surgeons</h2>
-              <a href="#/doctors/${category.slug}" class="tp-view-all-docs" style="color:${category.color};">View All ${availableDoctors.length} Surgeons →</a>
+          <div class="tpl-filter-group">
+            <h4>Consultation Fee</h4>
+            <label class="tpl-radio"><input type="radio" name="tpl-fee" value="all" ${filters.fee==='all'?'checked':''} onchange="applyTPLFilter('${slug}','fee','all')"> Any</label>
+            <label class="tpl-radio"><input type="radio" name="tpl-fee" value="under1000" ${filters.fee==='under1000'?'checked':''} onchange="applyTPLFilter('${slug}','fee','under1000')"> Under ₹1,000</label>
+            <label class="tpl-radio"><input type="radio" name="tpl-fee" value="1000-2000" ${filters.fee==='1000-2000'?'checked':''} onchange="applyTPLFilter('${slug}','fee','1000-2000')"> ₹1,000 – ₹2,000</label>
+            <label class="tpl-radio"><input type="radio" name="tpl-fee" value="above2000" ${filters.fee==='above2000'?'checked':''} onchange="applyTPLFilter('${slug}','fee','above2000')"> Above ₹2,000</label>
+          </div>
+
+          <div class="tpl-filter-group">
+            <h4>Experience</h4>
+            <label class="tpl-radio"><input type="radio" name="tpl-exp" value="all" ${filters.experience==='all'?'checked':''} onchange="applyTPLFilter('${slug}','experience','all')"> Any</label>
+            <label class="tpl-radio"><input type="radio" name="tpl-exp" value="0-10" ${filters.experience==='0-10'?'checked':''} onchange="applyTPLFilter('${slug}','experience','0-10')"> 0–10 yrs</label>
+            <label class="tpl-radio"><input type="radio" name="tpl-exp" value="10-20" ${filters.experience==='10-20'?'checked':''} onchange="applyTPLFilter('${slug}','experience','10-20')"> 10–20 yrs</label>
+            <label class="tpl-radio"><input type="radio" name="tpl-exp" value="20+" ${filters.experience==='20+'?'checked':''} onchange="applyTPLFilter('${slug}','experience','20+')"> 20+ yrs</label>
+          </div>
+
+          <div class="tpl-filter-group">
+            <h4>Doctor Gender</h4>
+            <label class="tpl-radio"><input type="radio" name="tpl-gender" value="all" ${filters.gender==='all'?'checked':''} onchange="applyTPLFilter('${slug}','gender','all')"> Any</label>
+            <label class="tpl-radio"><input type="radio" name="tpl-gender" value="male" ${filters.gender==='male'?'checked':''} onchange="applyTPLFilter('${slug}','gender','male')"> Male</label>
+            <label class="tpl-radio"><input type="radio" name="tpl-gender" value="female" ${filters.gender==='female'?'checked':''} onchange="applyTPLFilter('${slug}','gender','female')"> Female</label>
+          </div>
+
+          <!-- About procedure box in sidebar -->
+          <div class="tpl-about-box" style="border-color:${category.colorLight};">
+            <h4 style="color:${category.color};">About ${treatment.name}</h4>
+            <p>${treatment.brief}</p>
+          </div>
+        </aside>
+
+        <!-- RIGHT: DOCTOR CARDS -->
+        <div class="tpl-cards-col">
+          <div class="tpl-results-bar">
+            <span><strong>${doctors.length}</strong> surgeon${doctors.length !== 1 ? 's' : ''} found for <em>${treatment.name}</em></span>
+            <span class="tpl-sort-label">Sort: <strong>Relevance</strong> ▾</span>
+          </div>
+
+          ${doctors.length === 0 ? `
+            <div class="tpl-empty">
+              <i class="fa-solid fa-user-doctor"></i>
+              <p>No doctors match your filters. Try adjusting them.</p>
             </div>
-            <p style="color:#666; margin-bottom:20px; font-size:0.95rem;">Board-certified specialists with proven expertise in ${category.name}.</p>
-            <div class="tp-doctors-list">
-              ${availableDoctors.slice(0,2).map(doc => `
-                <div class="tp-doc-card">
-                  <div class="tp-doc-left">
-                    <div class="tp-doc-avatar">👨‍⚕️</div>
-                    <div class="tp-doc-info">
-                      <h4 class="tp-doc-name">${doc.name}</h4>
-                      <span class="tp-doc-badge" style="background:${category.colorLight}; color:${category.color};">🩺 ${doc.specialty}</span>
-                      <p class="tp-doc-degree">${doc.degree}</p>
-                      <div class="tp-doc-meta">
-                        <span>⭐ ${doc.rating} (${doc.reviews} reviews)</span>
-                        <span class="tp-doc-sep">•</span>
-                        <span>👥 ${doc.experience} exp</span>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="tp-doc-right">
-                    <div class="tp-doc-fee">₹${doc.fee.toLocaleString('en-IN')}</div>
-                    <div class="tp-doc-fee-label">Consultation</div>
-                    <div class="tp-doc-avail"><span class="tp-doc-dot"></span> Available Today</div>
-                    <div class="tp-doc-next">Next: ${doc.nextSlot}</div>
-                    <div class="tp-doc-slots">
-                      ${doc.slots.map(s => `<span class="tp-slot">🕐 ${s}</span>`).join('')}
-                    </div>
-                    <button class="tp-doc-book-btn" style="background:${category.color};" onclick="alert('Booking coming soon')">📅 Book Appointment</button>
+          ` : doctors.map(doc => `
+            <div class="tpl-doc-card">
+              <!-- TOP ROW: avatar + info + fee -->
+              <div class="tpl-card-top">
+                <div class="tpl-avatar">👨‍⚕️</div>
+                <div class="tpl-doc-info">
+                  <h3 class="tpl-doc-name">${doc.name}</h3>
+                  <span class="tpl-spec-badge" style="background:${category.colorLight}; color:${category.color};">🩺 ${doc.specialty}</span>
+                  <p class="tpl-doc-degree">${doc.degree}</p>
+                  <div class="tpl-doc-meta">
+                    <span>⭐ ${doc.rating} <span class="tpl-reviews">(${doc.reviews} reviews)</span></span>
+                    <span class="tpl-dot-sep">•</span>
+                    <span>👥 ${doc.experience} experience</span>
                   </div>
                 </div>
-              `).join('')}
-            </div>
-            <div style="text-align:center; margin-top:16px;">
-              <a href="#/doctors/${category.slug}" class="tp-see-all-btn" style="border-color:${category.color}; color:${category.color};">
-                See All ${availableDoctors.length} Surgeons for ${category.name} →
-              </a>
-            </div>
-          </div>
-          ` : ''}
+                <div class="tpl-fee-block">
+                  <div class="tpl-fee">₹${doc.fee.toLocaleString('en-IN')}</div>
+                  <div class="tpl-fee-label">Consultation fee</div>
+                  <div class="tpl-mode">🏥 In-Clinic</div>
+                </div>
+              </div>
 
-          <!-- OTHER TREATMENTS FROM CATEGORY -->
-          ${otherTreatments.length > 0 ? `
-          <div class="tp-section">
-            <h2>Other ${category.name} Treatments</h2>
-            <div class="tp-related-grid">
-              ${otherTreatments.map(t => `
-                <a href="#/treatment/${t.slug}" class="tp-related-card" style="border-color:${category.colorLight};">
-                  <div class="tp-related-icon" style="background:${category.colorLight}; color:${category.color};">${category.icon}</div>
-                  <div>
-                    <h4>${t.name}</h4>
-                    <p>${t.brief}</p>
-                    <span style="color:${category.color}; font-size:13px; font-weight:600;">View Details →</span>
-                  </div>
-                </a>
-              `).join('')}
+              <!-- HOSPITAL ROW -->
+              <div class="tpl-hospital-row">
+                <span class="tpl-hosp-icon">🏢</span>
+                <span class="tpl-hosp-name">${doc.hospital}</span>
+                <span class="tpl-hosp-sep">·</span>
+                <span class="tpl-hosp-loc">📍 ${doc.location}</span>
+              </div>
+
+              <!-- AVAILABILITY + SLOTS -->
+              <div class="tpl-avail-row">
+                <div class="tpl-avail-left">
+                  <span class="tpl-avail-pill"><span class="tpl-green-dot"></span> Available Today &nbsp;·&nbsp; Next: <strong>${doc.nextSlot}</strong></span>
+                </div>
+                <div class="tpl-slots-row">
+                  ${doc.slots.map(s=>`<span class="tpl-slot">🕐 ${s}</span>`).join('')}
+                  <span class="tpl-slot tpl-slot-more">+2 More</span>
+                </div>
+              </div>
+
+              <!-- ACTIONS -->
+              <div class="tpl-actions">
+                <button class="tpl-btn-book" style="background:${category.color};" onclick="alert('Booking coming soon')">
+                  <i class="fa-solid fa-calendar-check"></i> Book Appointment
+                </button>
+                <button class="tpl-btn-call" style="color:${category.color}; border-color:${category.color};" onclick="alert('Calling coming soon')">
+                  <i class="fa-solid fa-phone"></i> Call
+                </button>
+              </div>
             </div>
+          `).join('')}
+
+          <!-- FAQ SECTION -->
+          <div class="tpl-faq-section">
+            <h2>Frequently Asked Questions</h2>
+            <p class="tpl-faq-sub">Everything you need to know about ${treatment.name} in Kolkata</p>
+            ${[
+              { q: `How do I find the best ${treatment.name} surgeon in Kolkata?`, a: `Use the filters above to narrow by rating, experience, and fee. All our surgeons are board-certified with proven expertise in ${treatment.name}.` },
+              { q: `What is the cost of ${treatment.name} in Kolkata?`, a: `The estimated cost ranges from ${treatment.costRange}. This may vary based on the hospital, surgeon experience, and complexity of your case.` },
+              { q: `How long is the recovery after ${treatment.name}?`, a: `Typical recovery time is ${treatment.recovery}. Your surgeon will give you a personalised recovery plan during your consultation.` },
+              { q: `Is ${treatment.name} covered by insurance?`, a: `Yes, ${treatment.name} is covered by most major health insurance plans. Our team handles all paperwork and claims processing for a cashless experience.` },
+              { q: `Is the consultation free?`, a: `Yes, the first consultation with our surgeons is completely free. Book an appointment above or call our 24/7 helpline.` },
+            ].map((faq, i) => `
+              <div class="tpl-faq-item" onclick="this.classList.toggle('open')">
+                <div class="tpl-faq-q">
+                  <span>${faq.q}</span>
+                  <i class="fa-solid fa-chevron-down tpl-faq-icon"></i>
+                </div>
+                <div class="tpl-faq-a">${faq.a}</div>
+              </div>
+            `).join('')}
           </div>
-          ` : ''}
+
         </div>
-
-        <!-- RIGHT: BOOKING SIDEBAR -->
-        <div class="tp-sidebar">
-          <div class="tp-booking-card" style="--cat-color:${category.color};">
-            <div class="tp-booking-header" style="background:${category.color};">
-              <i class="fa-solid fa-calendar-check"></i>
-              <div>
-                <h3>Book Free Consultation</h3>
-                <p>For ${treatment.name}</p>
-              </div>
-            </div>
-            <form class="tp-booking-form" onsubmit="event.preventDefault(); alert('Consultation booked! Our care coordinator will call you shortly.');">
-              <div class="tp-form-group">
-                <label>Patient Name</label>
-                <input type="text" class="tp-input" placeholder="Enter full name" required>
-              </div>
-              <div class="tp-form-group">
-                <label>Mobile Number</label>
-                <input type="tel" class="tp-input" placeholder="+91 XXXXX XXXXX" required>
-              </div>
-              <div class="tp-form-group">
-                <label>City</label>
-                <input type="text" class="tp-input" value="Kolkata" readonly>
-              </div>
-              <button type="submit" class="tp-submit-btn" style="background:${category.color};">
-                <i class="fa-solid fa-phone"></i> Get Free Callback
-              </button>
-            </form>
-            <div class="tp-booking-trust">
-              <span><i class="fa-solid fa-lock"></i> 100% Private</span>
-              <span><i class="fa-solid fa-shield-halved"></i> Insurance Help</span>
-              <span><i class="fa-solid fa-car"></i> Free Cab</span>
-            </div>
-          </div>
-
-          <!-- HELPLINE CARD -->
-          <div class="tp-helpline-card">
-            <i class="fa-solid fa-headset" style="color:${category.color}; font-size:28px;"></i>
-            <div>
-              <h4>24/7 Helpline</h4>
-              <a href="tel:+918877772277" style="color:${category.color}; font-weight:700; font-size:16px;">+91-8877772277</a>
-            </div>
-          </div>
-        </div>
-
       </div>
     `;
+
     appContainer.innerHTML = html;
+    window._tplFilters = filters;
+    window._tplSlug = slug;
   }
+
+  // Called by filter radio buttons on treatment page
+  window.applyTPLFilter = function(slug, key, value) {
+    const filters = Object.assign({}, window._tplFilters || {}, { [key]: value });
+    if (key === 'rating') filters.rating = parseFloat(value);
+    renderTreatmentPage(slug, filters);
+  };
+
+  window.renderTreatmentPageGlobal = function(slug) {
+    renderTreatmentPage(slug, {});
+  };
 
   // =====================================================
   // RENDER DOCTORS LISTING PAGE
