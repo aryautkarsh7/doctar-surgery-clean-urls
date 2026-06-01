@@ -4697,3 +4697,234 @@ footer::before {
   gap: 4px;
   margin-top: 2px;
 }
+
+/* =========================================
+   HOME SURGEON CARD — exact spec
+   W:290px H:322px radius:16px stroke:2px #303030@48%
+========================================= */
+.ds-doc-card {
+  width: 290px;
+  min-width: 290px;
+  height: 322px;
+  border-radius: 16px;
+  border: 2px solid rgba(48, 48, 48, 0.48);
+  background: #fff;
+  display: flex;
+  flex-direction: column;
+  padding: 16px;
+  box-sizing: border-box;
+  gap: 0;
+  cursor: default;
+  transition: box-shadow 0.2s, transform 0.2s;
+  text-decoration: none;
+  overflow: hidden;
+}
+
+.ds-doc-card:hover {
+  box-shadow: 0 8px 28px rgba(117,81,179,0.16);
+  transform: translateY(-3px);
+}
+
+/* TOP SECTION */
+.ds-card-top {
+  display: flex;
+  gap: 12px;
+  align-items: flex-start;
+  margin-bottom: 12px;
+}
+
+.ds-photo-wrap {
+  position: relative;
+  width: 72px;
+  height: 72px;
+  flex-shrink: 0;
+}
+
+.ds-photo {
+  width: 72px;
+  height: 72px;
+  border-radius: 12px;
+  object-fit: cover;
+  background: #f0eeff;
+}
+
+.ds-photo-fallback {
+  width: 72px;
+  height: 72px;
+  border-radius: 12px;
+  background: #f0eeff;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.2rem;
+}
+
+.ds-verified {
+  position: absolute;
+  bottom: -4px;
+  right: -4px;
+  width: 20px;
+  height: 20px;
+}
+
+.ds-top-info {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  min-width: 0;
+}
+
+.ds-doc-name {
+  font-size: 0.95rem;
+  font-weight: 700;
+  color: #1a1a2e;
+  margin: 0;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.ds-specialty {
+  font-size: 0.78rem;
+  font-weight: 600;
+  color: #7551B3;
+  margin: 0;
+}
+
+.ds-rating-row {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  margin-top: 2px;
+}
+
+.ds-star-icon {
+  width: 14px;
+  height: 14px;
+}
+
+.ds-rating-val {
+  font-size: 0.82rem;
+  font-weight: 700;
+  color: #1a1a2e;
+}
+
+.ds-divider {
+  color: #ccc;
+  font-size: 0.78rem;
+}
+
+.ds-reviews {
+  font-size: 0.78rem;
+  color: #888;
+}
+
+/* DIVIDER LINE */
+.ds-divider-line {
+  height: 1px;
+  background: rgba(48,48,48,0.12);
+  margin-bottom: 10px;
+}
+
+/* INFO ROWS */
+.ds-info-rows {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  flex: 1;
+}
+
+.ds-info-row {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.ds-info-icon-wrap {
+  width: 30px;
+  height: 30px;
+  background: #f5f3ff;
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+
+.ds-info-icon-wrap img {
+  width: 16px;
+  height: 16px;
+  object-fit: contain;
+}
+
+.ds-info-label {
+  font-size: 0.78rem;
+  color: #888;
+  flex: 1;
+}
+
+.ds-info-val {
+  font-size: 0.78rem;
+  font-weight: 600;
+  color: #1a1a2e;
+  text-align: right;
+  max-width: 110px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+/* ACTION BUTTONS */
+.ds-card-actions {
+  display: flex;
+  gap: 8px;
+  margin-top: 12px;
+}
+
+.ds-btn-profile {
+  flex: 1;
+  background: #fff;
+  border: 1.5px solid rgba(48,48,48,0.3);
+  border-radius: 10px;
+  padding: 9px 8px;
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: #1a1a2e;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+
+.ds-btn-profile:hover { background: #f5f3ff; }
+
+.ds-btn-book {
+  flex: 1.4;
+  background: #7551B3;
+  border: none;
+  border-radius: 10px;
+  padding: 9px 8px;
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: #fff;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  transition: background 0.2s;
+}
+
+.ds-btn-book:hover { background: #5b3fa0; }
+
+.ds-btn-icon {
+  width: 14px;
+  height: 14px;
+  object-fit: contain;
+  filter: brightness(10);
+}
+
+/* Override tb-card sizing for doctor cards */
+.ds-section .tb-card {
+  flex: 0 0 290px;
+  min-width: 290px;
+  height: 322px;
+}

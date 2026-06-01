@@ -283,23 +283,62 @@ ${treatmentShowcase.map(item => `
           <div class="tb-carousel-wrap">
             <div class="tb-track" id="ds-track">
 ${homeDoctors.slice(0, 8).map(doc => `
-              <a href="#/doctors/${doc.categories[0]}" class="ds-doc-card tb-card">
-                <div class="ds-card-img">👨‍⚕️</div>
-                <div class="ds-card-content">
-                  <h3 class="ds-doc-name">${doc.name}</h3>
-                  <span class="ds-spec-tag">${doc.specialty}</span>
-                  <div class="ds-meta-row">
-                    <span><i class="fa-solid fa-star"></i> ${doc.rating} (${doc.reviews})</span>
-                    <b>•</b>
-                    <span><i class="fa-regular fa-clock"></i> ${doc.experience}</span>
+              <div class="ds-doc-card tb-card">
+                <!-- TOP: photo + name + specialty + rating -->
+                <div class="ds-card-top">
+                  <div class="ds-photo-wrap">
+                    <img src="${doc.image}" alt="${doc.name}" class="ds-photo" onerror="this.style.display='none'; this.nextElementSibling.style.display='flex'">
+                    <div class="ds-photo-fallback" style="display:none">👨‍⚕️</div>
+                    <img src="home screen section/verified.png" class="ds-verified" alt="verified">
                   </div>
-                  <div class="ds-fee-row">
-                    <span class="ds-fee">₹${doc.fee.toLocaleString('en-IN')}</span>
-                    <span class="ds-avail"><span class="hd-green-dot"></span> Available · ${doc.nextSlot}</span>
+                  <div class="ds-top-info">
+                    <h3 class="ds-doc-name">${doc.name}</h3>
+                    <p class="ds-specialty">${doc.specialty}</p>
+                    <div class="ds-rating-row">
+                      <img src="home screen section/Calendar.png" class="ds-star-icon" alt="rating">
+                      <span class="ds-rating-val">${doc.rating}</span>
+                      <span class="ds-divider">|</span>
+                      <span class="ds-reviews">${doc.reviews} Reviews</span>
+                    </div>
                   </div>
-                  <div class="ds-explore">Book Now <span>→</span></div>
                 </div>
-              </a>
+
+                <!-- DIVIDER -->
+                <div class="ds-divider-line"></div>
+
+                <!-- MIDDLE: info rows -->
+                <div class="ds-info-rows">
+                  <div class="ds-info-row">
+                    <div class="ds-info-icon-wrap">
+                      <img src="home screen section/Calendar.png" alt="experience">
+                    </div>
+                    <span class="ds-info-label">Experience</span>
+                    <span class="ds-info-val">${doc.experience}</span>
+                  </div>
+                  <div class="ds-info-row">
+                    <div class="ds-info-icon-wrap">
+                      <img src="home screen section/ruppe.png" alt="fee">
+                    </div>
+                    <span class="ds-info-label">Consultation Fee</span>
+                    <span class="ds-info-val">₹${doc.fee.toLocaleString('en-IN')}</span>
+                  </div>
+                  <div class="ds-info-row">
+                    <div class="ds-info-icon-wrap">
+                      <img src="home screen section/languane.png" alt="language">
+                    </div>
+                    <span class="ds-info-label">Language</span>
+                    <span class="ds-info-val">${doc.language}</span>
+                  </div>
+                </div>
+
+                <!-- BOTTOM: buttons -->
+                <div class="ds-card-actions">
+                  <button class="ds-btn-profile" onclick="alert('Profile coming soon')">View Profile</button>
+                  <button class="ds-btn-book" onclick="alert('Booking coming soon')">
+                    <img src="home screen section/Icon.png" alt="" class="ds-btn-icon"> Book Appointment
+                  </button>
+                </div>
+              </div>
 `).join('')}
             </div>
           </div>
