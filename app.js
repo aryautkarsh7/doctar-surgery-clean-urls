@@ -442,6 +442,7 @@ ${DOCTORS.slice(0, 6).map(doc => `
     const category = findCategory(treatment.categorySlug);
     const otherTreatments = (TREATMENTS[treatment.categorySlug] || [])
       .filter(t => t.slug !== slug).slice(0, 3);
+    const availableDoctors = getDoctorsForCategory(treatment.categorySlug);
 
     let html = `
       <!-- TREATMENT HERO -->
@@ -516,6 +517,43 @@ ${DOCTORS.slice(0, 6).map(doc => `
               `).join('')}
             </div>
           </div>
+
+          <!-- AVAILABLE SURGEONS -->
+          ${availableDoctors.length > 0 ? `
+          <div class="tp-section">
+            <h2>Available Surgeons for ${treatment.name}</h2>
+            <p style="color:#666; margin-bottom:20px; font-size:0.95rem;">Board-certified specialists with proven expertise in ${category.name}.</p>
+            <div class="tp-doctors-list">
+              ${availableDoctors.map(doc => `
+                <div class="tp-doc-card">
+                  <div class="tp-doc-left">
+                    <div class="tp-doc-avatar">👨‍⚕️</div>
+                    <div class="tp-doc-info">
+                      <h4 class="tp-doc-name">${doc.name}</h4>
+                      <span class="tp-doc-badge" style="background:${category.colorLight}; color:${category.color};">🩺 ${doc.specialty}</span>
+                      <p class="tp-doc-degree">${doc.degree}</p>
+                      <div class="tp-doc-meta">
+                        <span>⭐ ${doc.rating} (${doc.reviews} reviews)</span>
+                        <span class="tp-doc-sep">•</span>
+                        <span>👥 ${doc.experience} exp</span>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="tp-doc-right">
+                    <div class="tp-doc-fee">₹${doc.fee.toLocaleString('en-IN')}</div>
+                    <div class="tp-doc-fee-label">Consultation</div>
+                    <div class="tp-doc-avail"><span class="tp-doc-dot"></span> Available Today</div>
+                    <div class="tp-doc-next">Next: ${doc.nextSlot}</div>
+                    <div class="tp-doc-slots">
+                      ${doc.slots.map(s => `<span class="tp-slot">🕐 ${s}</span>`).join('')}
+                    </div>
+                    <button class="tp-doc-book-btn" style="background:${category.color};" onclick="alert('Booking coming soon')">📅 Book Appointment</button>
+                  </div>
+                </div>
+              `).join('')}
+            </div>
+          </div>
+          ` : ''}
 
           <!-- OTHER TREATMENTS FROM CATEGORY -->
           ${otherTreatments.length > 0 ? `
