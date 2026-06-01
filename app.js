@@ -295,7 +295,7 @@ ${homeDoctors.slice(0, 8).map(doc => `
                     <h3 class="ds-doc-name">${doc.name}</h3>
                     <p class="ds-specialty">${doc.specialty}</p>
                     <div class="ds-rating-row">
-                      <img src="home screen section/Calendar.png" class="ds-star-icon" alt="rating">
+                      <span class="ds-star-icon">⭐</span>
                       <span class="ds-rating-val">${doc.rating}</span>
                       <span class="ds-divider">|</span>
                       <span class="ds-reviews">${doc.reviews} Reviews</span>
