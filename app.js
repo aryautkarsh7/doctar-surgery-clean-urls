@@ -144,7 +144,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const isCitySpecific = homeDoctors.some(doc =>
       getDoctorCity(doc).toLowerCase() === currentCity.toLowerCase()
     );
-    const doctorsHeading = isCitySpecific ? `Expert Surgeons in ${currentCity}` : 'Our Expert Surgeons';
+    const doctorsHeading = isCitySpecific ? `Expert Surgeons in <span>${currentCity}</span>` : 'Our Expert <span>Surgeons</span>';
     const doctorsSubtitle = isCitySpecific
       ? `Highly experienced, board-certified doctors available near you in ${currentCity}.`
       : 'Highly experienced, board-certified doctors dedicated to your care.';

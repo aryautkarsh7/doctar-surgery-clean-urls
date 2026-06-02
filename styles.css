@@ -444,18 +444,40 @@ header {
 .treatment-eyebrow {
   display: inline-flex;
   align-items: center;
-  gap: 8px;
-  color: #6d35f2;
-  background: rgba(255, 255, 255, 0.86);
+  gap: 9px;
+  color: var(--primary);
+  background: rgba(255, 255, 255, 0.9);
   border: 1px solid #ECE6FF;
-  padding: 10px 20px;
+  padding: 8px 18px;
   border-radius: 999px;
-  font-size: 0.82rem;
+  font-size: 0.74rem;
   font-weight: 800;
   text-transform: uppercase;
-  letter-spacing: 0;
-  box-shadow: 0 12px 35px rgba(94, 64, 145, 0.08);
-  margin-bottom: 26px;
+  letter-spacing: 0.08em;
+  box-shadow: 0 8px 30px rgba(94, 64, 145, 0.08);
+  margin-bottom: 22px;
+}
+
+/* doctar.in dot-led eyebrow pills — replace icons with a brand dot */
+.treatment-eyebrow > i,
+.pr-eyebrow > i,
+.faq-eyebrow > i,
+.hj-eyebrow > i,
+.all-cat-eyebrow > i {
+  display: none;
+}
+
+.treatment-eyebrow::before,
+.pr-eyebrow::before,
+.faq-eyebrow::before,
+.hj-eyebrow::before,
+.all-cat-eyebrow::before {
+  content: "";
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background: var(--primary);
+  flex-shrink: 0;
 }
 
 .treatment-copy h2 {
@@ -625,7 +647,7 @@ header {
 }
 
 .treatment-explore {
-  color: #6d35f2;
+  color: var(--primary);
   font-size: 0.88rem;
   font-weight: 800;
 }
@@ -4582,6 +4604,21 @@ footer::before {
   background: #faf9ff;
 }
 
+/* doctar.in faint grid texture */
+.treatment-browser::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background-image:
+    linear-gradient(rgba(94, 64, 145, 0.04) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(94, 64, 145, 0.04) 1px, transparent 1px);
+  background-size: 46px 46px;
+  pointer-events: none;
+  z-index: 0;
+  -webkit-mask-image: radial-gradient(ellipse 80% 70% at 50% 40%, #000 55%, transparent 100%);
+  mask-image: radial-gradient(ellipse 80% 70% at 50% 40%, #000 55%, transparent 100%);
+}
+
 /* Kolkata city background */
 .tb-city-bg {
   position: absolute;
@@ -4635,23 +4672,36 @@ footer::before {
 }
 
 .tb-arrow {
-  width: 44px;
-  height: 44px;
+  width: 46px;
+  height: 46px;
   border-radius: 50%;
-  background: #5e4091;
-  border: none;
+  background: var(--primary);
+  border: 1.5px solid var(--primary);
   color: #fff;
   font-size: 0.9rem;
   cursor: pointer;
   display: flex;
   align-items: center;
   justify-content: center;
-  transition: background 0.2s, transform 0.15s;
-  box-shadow: 0 4px 12px rgba(94, 64, 145,0.35);
+  transition: all 0.25s var(--ease);
+  box-shadow: 0 8px 20px rgba(94, 64, 145, 0.3);
+}
+
+/* doctar.in style: first (prev) arrow is outlined, second (next) is filled */
+.tb-arrow:first-child {
+  background: #fff;
+  color: var(--primary);
+  border-color: #e5dff5;
+  box-shadow: var(--shadow-card);
+}
+
+.tb-arrow:first-child:hover:not(:disabled) {
+  background: var(--primary-light);
+  border-color: var(--primary-accent);
 }
 
 .tb-arrow:hover:not(:disabled) {
-  background: #4a3275;
+  background: var(--primary-dark);
   transform: scale(1.08);
 }
 
@@ -4699,6 +4749,8 @@ footer::before {
 ========================================= */
 .ds-section {
   background: #fff;
+  position: relative;
+  overflow: hidden;
 }
 
 .ds-doc-card {
