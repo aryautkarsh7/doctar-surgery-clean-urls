@@ -4932,3 +4932,535 @@ footer::before {
   flex: 0 0 320px;
   min-width: 320px;
 }
+
+/* =========================================
+   DOCTOR PROFILE PAGE
+========================================= */
+.dpp-breadcrumb {
+  padding: 16px 0;
+  font-size: 0.85rem;
+  color: #888;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+.dpp-breadcrumb a { color: #7551B3; text-decoration: none; }
+.dpp-breadcrumb a:hover { text-decoration: underline; }
+.dpp-breadcrumb span { color: #bbb; }
+
+.dpp-layout {
+  display: grid;
+  grid-template-columns: 300px 1fr;
+  gap: 28px;
+  padding-bottom: 60px;
+  align-items: start;
+}
+
+/* LEFT SIDEBAR */
+.dpp-sidebar {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  position: sticky;
+  top: 88px;
+}
+
+.dpp-profile-card {
+  background: #6b21a8;
+  border-radius: 16px;
+  padding: 24px 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  gap: 8px;
+}
+
+.dpp-photo-wrap {
+  position: relative;
+  width: 100px;
+  height: 100px;
+  margin-bottom: 4px;
+}
+
+.dpp-photo {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 3px solid rgba(255,255,255,0.3);
+}
+
+.dpp-verified {
+  position: absolute;
+  bottom: 2px;
+  right: 2px;
+  width: 24px;
+  height: 24px;
+}
+
+.dpp-name {
+  font-size: 1.2rem;
+  font-weight: 700;
+  color: #fff;
+  margin: 0;
+}
+
+.dpp-specialty {
+  font-size: 0.85rem;
+  color: rgba(255,255,255,0.8);
+  margin: 0;
+}
+
+.dpp-exp {
+  font-size: 0.8rem;
+  color: rgba(255,255,255,0.65);
+  margin: 0;
+}
+
+.dpp-rating-row {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  font-size: 0.9rem;
+  color: #f9c74f;
+}
+
+.dpp-rating-val {
+  color: #fff;
+  font-weight: 700;
+}
+
+.dpp-rating-count {
+  color: rgba(255,255,255,0.6);
+  font-size: 0.8rem;
+}
+
+.dpp-divider {
+  width: 100%;
+  height: 1px;
+  background: rgba(255,255,255,0.15);
+  margin: 4px 0;
+}
+
+.dpp-info-list {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  text-align: left;
+}
+
+.dpp-info-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 8px;
+  font-size: 0.8rem;
+}
+
+.dpp-info-label { color: rgba(255,255,255,0.6); flex-shrink: 0; }
+.dpp-info-val { color: #fff; font-weight: 600; text-align: right; }
+.dpp-no { color: #fc8181; }
+
+.dpp-sidebar-actions {
+  display: flex;
+  gap: 10px;
+  width: 100%;
+  margin-top: 4px;
+}
+
+.dpp-btn-book {
+  flex: 1;
+  background: #fff;
+  color: #6b21a8;
+  border: none;
+  border-radius: 10px;
+  padding: 11px 12px;
+  font-size: 0.85rem;
+  font-weight: 700;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  transition: background 0.2s;
+}
+.dpp-btn-book:hover { background: #f0eeff; }
+
+.dpp-btn-call {
+  width: 42px;
+  height: 42px;
+  min-width: 42px;
+  background: rgba(255,255,255,0.15);
+  border: 1.5px solid rgba(255,255,255,0.3);
+  border-radius: 10px;
+  color: #fff;
+  font-size: 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+  transition: background 0.2s;
+}
+.dpp-btn-call:hover { background: rgba(255,255,255,0.25); }
+
+/* Hospital card */
+.dpp-hospital-card {
+  background: #fff;
+  border: 1px solid #e8e8f0;
+  border-radius: 14px;
+  padding: 16px;
+  display: flex;
+  gap: 14px;
+  align-items: flex-start;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+}
+
+.dpp-hosp-icon {
+  width: 44px;
+  height: 44px;
+  background: #f0eeff;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #7551B3;
+  font-size: 1.2rem;
+  flex-shrink: 0;
+}
+
+.dpp-hosp-info h4 {
+  font-size: 0.95rem;
+  font-weight: 700;
+  color: #1a1a2e;
+  margin: 0 0 3px;
+}
+
+.dpp-hosp-info p {
+  font-size: 0.8rem;
+  color: #888;
+  margin: 0 0 8px;
+}
+
+.dpp-fee-row {
+  display: flex;
+  align-items: baseline;
+  gap: 6px;
+}
+
+.dpp-fee {
+  font-size: 1.1rem;
+  font-weight: 800;
+  color: #1a1a2e;
+}
+
+.dpp-fee-label {
+  font-size: 0.75rem;
+  color: #aaa;
+}
+
+/* RIGHT MAIN */
+.dpp-main {
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+}
+
+/* TABS */
+.dpp-tabs {
+  display: flex;
+  gap: 4px;
+  background: #f4f3ff;
+  border-radius: 12px;
+  padding: 5px;
+  margin-bottom: 20px;
+}
+
+.dpp-tab {
+  flex: 1;
+  background: none;
+  border: none;
+  border-radius: 9px;
+  padding: 10px;
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: #666;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.dpp-tab.active {
+  background: #6b21a8;
+  color: #fff;
+  box-shadow: 0 2px 8px rgba(107,33,168,0.3);
+}
+
+/* SECTIONS */
+.dpp-section {
+  background: #fff;
+  border: 1px solid #e8e8f0;
+  border-radius: 14px;
+  padding: 22px;
+  margin-bottom: 16px;
+}
+
+.dpp-section-title {
+  font-size: 1rem;
+  font-weight: 700;
+  color: #1a1a2e;
+  margin: 0 0 14px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+.dpp-section-title i { color: #7551B3; }
+
+.dpp-section p {
+  font-size: 0.9rem;
+  color: #555;
+  line-height: 1.7;
+  margin: 0 0 10px;
+}
+
+/* Education card */
+.dpp-edu-card {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  background: #f8f7ff;
+  border-radius: 10px;
+  padding: 14px;
+}
+
+.dpp-edu-icon {
+  width: 42px;
+  height: 42px;
+  background: #7551B3;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+  font-size: 1.1rem;
+  flex-shrink: 0;
+}
+
+.dpp-edu-degree {
+  font-size: 0.9rem;
+  font-weight: 700;
+  color: #1a1a2e;
+  margin: 0 0 3px !important;
+}
+
+.dpp-edu-exp {
+  font-size: 0.8rem;
+  color: #888;
+  margin: 0 !important;
+}
+
+/* Home visit card */
+.dpp-home-visit-card {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  background: #fff5f5;
+  border: 1px solid #fed7d7;
+  border-radius: 10px;
+  padding: 14px;
+}
+
+.dpp-hv-title {
+  font-size: 0.9rem;
+  font-weight: 700;
+  color: #c53030;
+  margin: 0 0 3px !important;
+}
+
+.dpp-hv-sub {
+  font-size: 0.8rem;
+  color: #888;
+  margin: 0 !important;
+}
+
+/* FAQ */
+.dpp-faq-item {
+  border-bottom: 1px solid #f0f0f0;
+  padding: 12px 0;
+  cursor: pointer;
+}
+.dpp-faq-item:last-child { border-bottom: none; }
+
+.dpp-faq-q {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 0.88rem;
+  font-weight: 600;
+  color: #1a1a2e;
+  gap: 10px;
+}
+.dpp-faq-q i { color: #aaa; font-size: 0.75rem; transition: transform 0.2s; flex-shrink: 0; }
+
+.dpp-faq-a {
+  font-size: 0.84rem;
+  color: #666;
+  line-height: 1.6;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.3s ease, margin-top 0.2s;
+  margin: 0;
+}
+.dpp-faq-item.open .dpp-faq-a { max-height: 150px; margin-top: 8px; }
+.dpp-faq-item.open .dpp-faq-q i { transform: rotate(180deg); }
+
+/* REVIEWS TAB */
+.dpp-rating-summary {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  background: #f8f7ff;
+  border-radius: 12px;
+  padding: 16px;
+  margin-bottom: 16px;
+}
+.dpp-big-rating { font-size: 3rem; font-weight: 800; color: #7551B3; }
+.dpp-stars-big { font-size: 1.2rem; color: #f9c74f; }
+
+.dpp-review-card {
+  background: #f8f7ff;
+  border-radius: 12px;
+  padding: 14px;
+  margin-bottom: 10px;
+}
+.dpp-review-top {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 8px;
+}
+.dpp-reviewer-avatar {
+  width: 36px;
+  height: 36px;
+  background: #7551B3;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+  font-size: 0.75rem;
+  font-weight: 700;
+  flex-shrink: 0;
+}
+.dpp-reviewer-name { font-size: 0.88rem; font-weight: 700; color: #1a1a2e; margin: 0; }
+.dpp-review-stars { color: #f9c74f; font-size: 0.8rem; }
+.dpp-review-date { margin-left: auto; font-size: 0.75rem; color: #aaa; }
+.dpp-review-text { font-size: 0.85rem; color: #555; margin: 0; }
+
+/* BOOKING TAB */
+.dpp-day-selector {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 16px;
+  flex-wrap: wrap;
+}
+.dpp-day-btn {
+  padding: 8px 18px;
+  border: 1.5px solid #e0daf5;
+  border-radius: 20px;
+  background: #fff;
+  color: #555;
+  font-size: 0.85rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+.dpp-day-btn.active {
+  background: #7551B3;
+  color: #fff;
+  border-color: #7551B3;
+}
+
+.dpp-slots-grid {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+  margin-bottom: 24px;
+}
+.dpp-slot-btn {
+  padding: 9px 16px;
+  border: 1.5px solid #d0caf0;
+  border-radius: 10px;
+  background: #fff;
+  color: #555;
+  font-size: 0.85rem;
+  font-weight: 500;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  transition: all 0.2s;
+}
+.dpp-slot-btn.active { background: #7551B3; color: #fff; border-color: #7551B3; }
+.dpp-slot-btn:hover:not(.active) { border-color: #7551B3; color: #7551B3; }
+
+.dpp-book-form {
+  background: #f8f7ff;
+  border-radius: 12px;
+  padding: 20px;
+}
+.dpp-book-form h3 { font-size: 1rem; font-weight: 700; color: #1a1a2e; margin: 0 0 14px; }
+
+.dpp-form-row {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+}
+.dpp-input {
+  width: 100%;
+  padding: 10px 14px;
+  border: 1.5px solid #e0daf5;
+  border-radius: 10px;
+  font-size: 0.88rem;
+  color: #333;
+  background: #fff;
+  box-sizing: border-box;
+  outline: none;
+}
+.dpp-input:focus { border-color: #7551B3; }
+
+.dpp-confirm-btn {
+  width: 100%;
+  background: #7551B3;
+  color: #fff;
+  border: none;
+  border-radius: 10px;
+  padding: 13px;
+  font-size: 0.95rem;
+  font-weight: 700;
+  cursor: pointer;
+  margin-top: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  transition: background 0.2s;
+}
+.dpp-confirm-btn:hover { background: #5b3fa0; }
+
+.dpp-form-note {
+  text-align: center;
+  font-size: 0.78rem;
+  color: #aaa;
+  margin-top: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 5px;
+}
+
+/* Responsive */
+@media (max-width: 900px) {
+  .dpp-layout { grid-template-columns: 1fr; }
+  .dpp-sidebar { position: static; }
+}

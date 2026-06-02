@@ -24,6 +24,9 @@ document.addEventListener('DOMContentLoaded', () => {
     } else if (hash.startsWith('#/treatment/')) {
       const slug = hash.replace('#/treatment/', '');
       renderTreatmentPage(slug);
+    } else if (hash.startsWith('#/doctor/')) {
+      const docSlug = hash.replace('#/doctor/', '');
+      renderDoctorProfilePage(docSlug);
     } else if (hash.startsWith('#/doctors/')) {
       const catSlug = hash.replace('#/doctors/', '');
       renderDoctorsListingPage(catSlug);
@@ -333,8 +336,8 @@ ${homeDoctors.slice(0, 8).map(doc => `
 
                 <!-- BOTTOM: buttons -->
                 <div class="ds-card-actions">
-                  <button class="ds-btn-profile" onclick="alert('Profile coming soon')">View Profile</button>
-                  <button class="ds-btn-book" onclick="alert('Booking coming soon')">
+                  <button class="ds-btn-profile" onclick="window.location.hash='#/doctor/${doc.slug}'">View Profile</button>
+                  <button class="ds-btn-book" onclick="window.location.hash='#/doctor/${doc.slug}'">
                     <img src="home screen section/Icon.png" alt="" class="ds-btn-icon"> Book Appointment
                   </button>
                 </div>
@@ -787,6 +790,223 @@ ${homeDoctors.slice(0, 8).map(doc => `
 
   window.renderTreatmentPageGlobal = function(slug) {
     renderTreatmentPage(slug, {});
+  };
+
+  // =====================================================
+  // RENDER DOCTOR PROFILE PAGE
+  // =====================================================
+  function renderDoctorProfilePage(slug) {
+    const doc = DOCTORS.find(d => d.slug === slug);
+    if (!doc) { handleRoute(); return; }
+
+    const faqs = [
+      { q: `What are ${doc.name}'s qualifications?`, a: `${doc.name} holds ${doc.degree} with ${doc.experience} of clinical experience.` },
+      { q: `Where does ${doc.name} practice?`, a: `${doc.name} practices at ${doc.hospital}, ${doc.location}.` },
+      { q: `What is the consultation fee?`, a: `The consultation fee is ₹${doc.fee.toLocaleString('en-IN')} per visit (in-clinic).` },
+      { q: `What languages does ${doc.name} speak?`, a: `${doc.name} speaks ${doc.language}.` },
+      { q: `How do I book an appointment?`, a: `Click the "Book Appointment" button above or call our 24/7 helpline at +91-8877772277.` },
+      { q: `Is the first consultation free?`, a: `Yes, the first consultation is completely free. Our care coordinator will reach out to confirm your appointment.` },
+    ];
+
+    const weekDays = ['Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'];
+
+    const html = `
+      <!-- BREADCRUMB -->
+      <div class="container dpp-breadcrumb">
+        <a href="#/">Home</a> <span>/</span>
+        <a href="#/doctors/${doc.categories[0]}">Doctors</a> <span>/</span>
+        <span>${doc.name}</span>
+      </div>
+
+      <!-- MAIN LAYOUT -->
+      <div class="container dpp-layout">
+
+        <!-- LEFT: PROFILE CARD (purple) -->
+        <aside class="dpp-sidebar">
+          <div class="dpp-profile-card">
+            <div class="dpp-photo-wrap">
+              <img src="${doc.image}" alt="${doc.name}" class="dpp-photo" onerror="this.src=''; this.style.fontSize='4rem'; this.style.display='flex'; this.textContent='👨‍⚕️'">
+              <img src="home screen section/verified.png" class="dpp-verified" alt="verified">
+            </div>
+            <h1 class="dpp-name">${doc.name}</h1>
+            <p class="dpp-specialty">${doc.specialty}</p>
+            <p class="dpp-exp">${doc.experience} experience</p>
+            <div class="dpp-rating-row">
+              ${'★'.repeat(5)} <span class="dpp-rating-val">${doc.rating}</span>
+              <span class="dpp-rating-count">(${doc.reviews} reviews)</span>
+            </div>
+            <div class="dpp-divider"></div>
+            <div class="dpp-info-list">
+              <div class="dpp-info-item">
+                <span class="dpp-info-label">Qualification</span>
+                <span class="dpp-info-val">${doc.degree}</span>
+              </div>
+              <div class="dpp-info-item">
+                <span class="dpp-info-label">Experience</span>
+                <span class="dpp-info-val">${doc.experience}</span>
+              </div>
+              <div class="dpp-info-item">
+                <span class="dpp-info-label">Language</span>
+                <span class="dpp-info-val">${doc.language}</span>
+              </div>
+              <div class="dpp-info-item">
+                <span class="dpp-info-label">Home Visit</span>
+                <span class="dpp-info-val dpp-no">Not Available</span>
+              </div>
+            </div>
+            <div class="dpp-divider"></div>
+            <div class="dpp-sidebar-actions">
+              <button class="dpp-btn-book" onclick="document.getElementById('dpp-booking-tab').click()">
+                <i class="fa-solid fa-calendar-check"></i> Book Appointment
+              </button>
+              <a href="tel:+918877772277" class="dpp-btn-call">
+                <i class="fa-solid fa-phone"></i>
+              </a>
+            </div>
+          </div>
+
+          <!-- Hospital card -->
+          <div class="dpp-hospital-card">
+            <div class="dpp-hosp-icon"><i class="fa-solid fa-hospital"></i></div>
+            <div class="dpp-hosp-info">
+              <h4>${doc.hospital}</h4>
+              <p>${doc.location}</p>
+              <div class="dpp-fee-row">
+                <span class="dpp-fee">₹${doc.fee.toLocaleString('en-IN')}</span>
+                <span class="dpp-fee-label">Consultation Fee</span>
+              </div>
+            </div>
+          </div>
+        </aside>
+
+        <!-- RIGHT: TABS + CONTENT -->
+        <div class="dpp-main">
+
+          <!-- TABS -->
+          <div class="dpp-tabs">
+            <button class="dpp-tab active" data-tab="about" onclick="switchDppTab('about', this)">About</button>
+            <button class="dpp-tab" data-tab="reviews" onclick="switchDppTab('reviews', this)">Reviews</button>
+            <button class="dpp-tab" id="dpp-booking-tab" data-tab="booking" onclick="switchDppTab('booking', this)">Booking</button>
+          </div>
+
+          <!-- ABOUT TAB -->
+          <div class="dpp-tab-content" id="dpp-tab-about">
+            <div class="dpp-section">
+              <h2 class="dpp-section-title"><i class="fa-solid fa-user-doctor"></i> About ${doc.name}</h2>
+              <p>${doc.bio}</p>
+            </div>
+
+            <div class="dpp-section">
+              <h2 class="dpp-section-title"><i class="fa-solid fa-graduation-cap"></i> Education &amp; Qualification</h2>
+              <div class="dpp-edu-card">
+                <div class="dpp-edu-icon"><i class="fa-solid fa-certificate"></i></div>
+                <div>
+                  <p class="dpp-edu-degree">${doc.degree}</p>
+                  <p class="dpp-edu-exp">${doc.experience} of experience</p>
+                </div>
+              </div>
+            </div>
+
+            <div class="dpp-section">
+              <h2 class="dpp-section-title"><i class="fa-solid fa-house-medical"></i> Home Visit Service</h2>
+              <div class="dpp-home-visit-card">
+                <i class="fa-solid fa-ban" style="color:#e53e3e; font-size:1.5rem;"></i>
+                <div>
+                  <p class="dpp-hv-title">Home Visits Not Available</p>
+                  <p class="dpp-hv-sub">This doctor is available for in-clinic consultations only at ${doc.hospital}.</p>
+                </div>
+              </div>
+            </div>
+
+            <!-- FAQ -->
+            <div class="dpp-section">
+              <h2 class="dpp-section-title"><i class="fa-solid fa-circle-question"></i> Frequently Asked Questions</h2>
+              ${faqs.map(f => `
+                <div class="dpp-faq-item" onclick="this.classList.toggle('open')">
+                  <div class="dpp-faq-q">${f.q} <i class="fa-solid fa-chevron-down"></i></div>
+                  <div class="dpp-faq-a">${f.a}</div>
+                </div>
+              `).join('')}
+            </div>
+          </div>
+
+          <!-- REVIEWS TAB -->
+          <div class="dpp-tab-content" id="dpp-tab-reviews" style="display:none;">
+            <div class="dpp-section">
+              <h2 class="dpp-section-title"><i class="fa-solid fa-star"></i> Patient Reviews</h2>
+              <div class="dpp-rating-summary">
+                <div class="dpp-big-rating">${doc.rating}</div>
+                <div>
+                  <div class="dpp-stars-big">${'★'.repeat(Math.floor(doc.rating))}${'☆'.repeat(5 - Math.floor(doc.rating))}</div>
+                  <p>${doc.reviews} reviews</p>
+                </div>
+              </div>
+              ${['Excellent experience with Dr.!', 'Very knowledgeable and caring.', 'Highly recommend for anyone needing treatment.'].map((text, i) => `
+                <div class="dpp-review-card">
+                  <div class="dpp-review-top">
+                    <div class="dpp-reviewer-avatar">${['RK','SM','AP'][i]}</div>
+                    <div>
+                      <p class="dpp-reviewer-name">${['Rahul Kumar','Sunita Mehta','Arun Patel'][i]}</p>
+                      <div class="dpp-review-stars">★★★★★</div>
+                    </div>
+                    <span class="dpp-review-date">${['2 days ago','1 week ago','2 weeks ago'][i]}</span>
+                  </div>
+                  <p class="dpp-review-text">${text}</p>
+                </div>
+              `).join('')}
+            </div>
+          </div>
+
+          <!-- BOOKING TAB -->
+          <div class="dpp-tab-content" id="dpp-tab-booking" style="display:none;">
+            <div class="dpp-section">
+              <h2 class="dpp-section-title"><i class="fa-solid fa-calendar-check"></i> Book Appointment</h2>
+              <p style="color:#666; margin-bottom:20px;">Select a day and time slot to book your consultation with ${doc.name}.</p>
+
+              <!-- Day selector -->
+              <div class="dpp-day-selector">
+                ${weekDays.map((d, i) => `
+                  <button class="dpp-day-btn ${i===0?'active':''}" onclick="document.querySelectorAll('.dpp-day-btn').forEach(b=>b.classList.remove('active')); this.classList.add('active')">${d}</button>
+                `).join('')}
+              </div>
+
+              <!-- Slots -->
+              <div class="dpp-slots-grid">
+                ${doc.slots.map(s => `
+                  <button class="dpp-slot-btn" onclick="document.querySelectorAll('.dpp-slot-btn').forEach(b=>b.classList.remove('active')); this.classList.add('active')">
+                    <i class="fa-regular fa-clock"></i> ${s}
+                  </button>
+                `).join('')}
+              </div>
+
+              <!-- Booking form -->
+              <div class="dpp-book-form">
+                <h3>Confirm Your Details</h3>
+                <div class="dpp-form-row">
+                  <input type="text" class="dpp-input" placeholder="Patient Name" required>
+                  <input type="tel" class="dpp-input" placeholder="Mobile Number" required>
+                </div>
+                <input type="text" class="dpp-input" placeholder="Your City" value="Kolkata" readonly style="margin-top:10px;">
+                <button class="dpp-confirm-btn" onclick="alert('Appointment booked! Our team will call you to confirm.')">
+                  <i class="fa-solid fa-calendar-check"></i> Confirm Booking
+                </button>
+                <p class="dpp-form-note"><i class="fa-solid fa-lock"></i> 100% Private &amp; Confidential</p>
+              </div>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    `;
+
+    appContainer.innerHTML = html;
+  }
+
+  window.switchDppTab = function(tab, btn) {
+    document.querySelectorAll('.dpp-tab').forEach(t => t.classList.remove('active'));
+    document.querySelectorAll('.dpp-tab-content').forEach(c => c.style.display = 'none');
+    btn.classList.add('active');
+    document.getElementById('dpp-tab-' + tab).style.display = 'block';
   };
 
   // =====================================================
