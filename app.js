@@ -510,33 +510,33 @@ ${homeDoctors.slice(0, 8).map(doc => `
             <div class="pr-reviews-viewport" id="pr-reviews-viewport">
               <div class="pr-reviews-track" id="pr-reviews-track">
                 ${patientReviews.map((r, i) => `
-                <div style=”background:#fff; border:1.5px solid #ECE6FF; border-radius:22px; padding:26px 24px; display:flex; flex-direction:column; gap:14px; box-shadow:0 2px 18px rgba(109,59,255,0.07); transition:transform 0.25s, box-shadow 0.25s;” onmouseenter=”this.style.transform='translateY(-5px)';this.style.boxShadow='0 14px 40px rgba(109,59,255,0.14)'” onmouseleave=”this.style.transform='';this.style.boxShadow='0 2px 18px rgba(109,59,255,0.07)'”>
+                <div style="background:#fff; border:1.5px solid #ECE6FF; border-radius:22px; padding:26px 24px; display:flex; flex-direction:column; gap:14px; box-shadow:0 2px 18px rgba(109,59,255,0.07); transition:transform 0.25s, box-shadow 0.25s;" onmouseenter="this.style.transform='translateY(-5px)';this.style.boxShadow='0 14px 40px rgba(109,59,255,0.14)'" onmouseleave="this.style.transform='';this.style.boxShadow='0 2px 18px rgba(109,59,255,0.07)'">
                   <!-- Top row -->
-                  <div style=”display:flex; justify-content:space-between; align-items:center;”>
-                    <span style=”display:inline-flex; align-items:center; gap:6px; background:#f0ebff; color:#6D3BFF; border-radius:999px; padding:5px 13px; font-size:0.73rem; font-weight:700;”>
-                      <i class=”fa-solid fa-circle-check”></i> Verified Patient
+                  <div style="display:flex; justify-content:space-between; align-items:center;">
+                    <span style="display:inline-flex; align-items:center; gap:6px; background:#f0ebff; color:#6D3BFF; border-radius:999px; padding:5px 13px; font-size:0.73rem; font-weight:700;">
+                      <i class="fa-solid fa-circle-check"></i> Verified Patient
                     </span>
-                    <i class=”fa-solid fa-quote-left” style=”color:#d8d0f7; font-size:1.4rem;”></i>
+                    <i class="fa-solid fa-quote-left" style="color:#d8d0f7; font-size:1.4rem;"></i>
                   </div>
                   <!-- Patient -->
-                  <div style=”display:flex; align-items:center; gap:14px;”>
-                    <div style=”width:50px; height:50px; min-width:50px; border-radius:50%; background:linear-gradient(135deg,#7551B3,#6D3BFF); display:flex; align-items:center; justify-content:center; color:#fff; font-size:1rem; font-weight:700; box-shadow:0 2px 10px rgba(109,59,255,0.25);”>
+                  <div style="display:flex; align-items:center; gap:14px;">
+                    <div style="width:50px; height:50px; min-width:50px; border-radius:50%; background:linear-gradient(135deg,#7551B3,#6D3BFF); display:flex; align-items:center; justify-content:center; color:#fff; font-size:1rem; font-weight:700; box-shadow:0 2px 10px rgba(109,59,255,0.25);">
                       ${r.name.split(' ').map(w=>w[0]).join('').slice(0,2)}
                     </div>
                     <div>
-                      <div style=”font-size:1rem; font-weight:700; color:#111827; margin-bottom:3px;”>${r.name}</div>
-                      <div style=”color:#fbbf24; font-size:0.9rem; letter-spacing:2px;”>★★★★★</div>
+                      <div style="font-size:1rem; font-weight:700; color:#111827; margin-bottom:3px;">${r.name}</div>
+                      <div style="color:#fbbf24; font-size:0.9rem; letter-spacing:2px;">★★★★★</div>
                     </div>
                   </div>
                   <!-- Review text -->
-                  <p style=”font-size:0.9rem; color:#374151; line-height:1.75; margin:0; flex:1;”>${r.review}</p>
+                  <p style="font-size:0.9rem; color:#374151; line-height:1.75; margin:0; flex:1;">${r.review}</p>
                   <!-- Meta -->
-                  <div style=”border-top:1px solid #f3f0fb; padding-top:14px; display:flex; flex-direction:column; gap:6px;”>
-                    <div style=”display:flex; flex-wrap:wrap; gap:12px;”>
-                      <span style=”display:inline-flex; align-items:center; gap:5px; font-size:0.77rem; color:#6b7280; font-weight:500;”><i class=”fa-solid fa-stethoscope” style=”color:#6D3BFF;”></i> ${r.consultation}</span>
-                      <span style=”display:inline-flex; align-items:center; gap:5px; font-size:0.77rem; color:#6b7280; font-weight:500;”><i class=”fa-solid fa-hospital” style=”color:#6D3BFF;”></i> ${r.hospital}</span>
+                  <div style="border-top:1px solid #f3f0fb; padding-top:14px; display:flex; flex-direction:column; gap:6px;">
+                    <div style="display:flex; flex-wrap:wrap; gap:12px;">
+                      <span style="display:inline-flex; align-items:center; gap:5px; font-size:0.77rem; color:#6b7280; font-weight:500;"><i class="fa-solid fa-stethoscope" style="color:#6D3BFF;"></i> ${r.consultation}</span>
+                      <span style="display:inline-flex; align-items:center; gap:5px; font-size:0.77rem; color:#6b7280; font-weight:500;"><i class="fa-solid fa-hospital" style="color:#6D3BFF;"></i> ${r.hospital}</span>
                     </div>
-                    <span style=”display:inline-flex; align-items:center; gap:5px; font-size:0.77rem; color:#6b7280; font-weight:500;”><i class=”fa-solid fa-location-dot” style=”color:#6D3BFF;”></i> ${r.city}</span>
+                    <span style="display:inline-flex; align-items:center; gap:5px; font-size:0.77rem; color:#6b7280; font-weight:500;"><i class="fa-solid fa-location-dot" style="color:#6D3BFF;"></i> ${r.city}</span>
                   </div>
                 </div>`).join('')}
               </div>
