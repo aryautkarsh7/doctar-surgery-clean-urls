@@ -510,17 +510,17 @@ ${homeDoctors.slice(0, 8).map(doc => `
             <div class="pr-reviews-viewport" id="pr-reviews-viewport">
               <div class="pr-reviews-track" id="pr-reviews-track">
                 ${patientReviews.map((r, i) => `
-                <div style="background:#fff; border:1.5px solid #ECE6FF; border-radius:22px; padding:26px 24px; display:flex; flex-direction:column; gap:14px; box-shadow:0 2px 18px rgba(109,59,255,0.07); transition:transform 0.25s, box-shadow 0.25s;" onmouseenter="this.style.transform='translateY(-5px)';this.style.boxShadow='0 14px 40px rgba(109,59,255,0.14)'" onmouseleave="this.style.transform='';this.style.boxShadow='0 2px 18px rgba(109,59,255,0.07)'">
+                <div style="background:#fff; border:1.5px solid #ECE6FF; border-radius:22px; padding:26px 24px; display:flex; flex-direction:column; gap:14px; box-shadow:0 2px 18px rgba(94, 64, 145,0.07); transition:transform 0.25s, box-shadow 0.25s;" onmouseenter="this.style.transform='translateY(-5px)';this.style.boxShadow='0 14px 40px rgba(94, 64, 145,0.14)'" onmouseleave="this.style.transform='';this.style.boxShadow='0 2px 18px rgba(94, 64, 145,0.07)'">
                   <!-- Top row -->
                   <div style="display:flex; justify-content:space-between; align-items:center;">
-                    <span style="display:inline-flex; align-items:center; gap:6px; background:#f0ebff; color:#6D3BFF; border-radius:999px; padding:5px 13px; font-size:0.73rem; font-weight:700;">
+                    <span style="display:inline-flex; align-items:center; gap:6px; background:#f0ebff; color:#5e4091; border-radius:999px; padding:5px 13px; font-size:0.73rem; font-weight:700;">
                       <i class="fa-solid fa-circle-check"></i> Verified Patient
                     </span>
                     <i class="fa-solid fa-quote-left" style="color:#d8d0f7; font-size:1.4rem;"></i>
                   </div>
                   <!-- Patient -->
                   <div style="display:flex; align-items:center; gap:14px;">
-                    <div style="width:50px; height:50px; min-width:50px; border-radius:50%; background:linear-gradient(135deg,#7551B3,#6D3BFF); display:flex; align-items:center; justify-content:center; color:#fff; font-size:1rem; font-weight:700; box-shadow:0 2px 10px rgba(109,59,255,0.25);">
+                    <div style="width:50px; height:50px; min-width:50px; border-radius:50%; background:linear-gradient(135deg,#5e4091,#5e4091); display:flex; align-items:center; justify-content:center; color:#fff; font-size:1rem; font-weight:700; box-shadow:0 2px 10px rgba(94, 64, 145,0.25);">
                       ${r.name.split(' ').map(w=>w[0]).join('').slice(0,2)}
                     </div>
                     <div>
@@ -533,10 +533,10 @@ ${homeDoctors.slice(0, 8).map(doc => `
                   <!-- Meta -->
                   <div style="border-top:1px solid #f3f0fb; padding-top:14px; display:flex; flex-direction:column; gap:6px;">
                     <div style="display:flex; flex-wrap:wrap; gap:12px;">
-                      <span style="display:inline-flex; align-items:center; gap:5px; font-size:0.77rem; color:#6b7280; font-weight:500;"><i class="fa-solid fa-stethoscope" style="color:#6D3BFF;"></i> ${r.consultation}</span>
-                      <span style="display:inline-flex; align-items:center; gap:5px; font-size:0.77rem; color:#6b7280; font-weight:500;"><i class="fa-solid fa-hospital" style="color:#6D3BFF;"></i> ${r.hospital}</span>
+                      <span style="display:inline-flex; align-items:center; gap:5px; font-size:0.77rem; color:#6b7280; font-weight:500;"><i class="fa-solid fa-stethoscope" style="color:#5e4091;"></i> ${r.consultation}</span>
+                      <span style="display:inline-flex; align-items:center; gap:5px; font-size:0.77rem; color:#6b7280; font-weight:500;"><i class="fa-solid fa-hospital" style="color:#5e4091;"></i> ${r.hospital}</span>
                     </div>
-                    <span style="display:inline-flex; align-items:center; gap:5px; font-size:0.77rem; color:#6b7280; font-weight:500;"><i class="fa-solid fa-location-dot" style="color:#6D3BFF;"></i> ${r.city}</span>
+                    <span style="display:inline-flex; align-items:center; gap:5px; font-size:0.77rem; color:#6b7280; font-weight:500;"><i class="fa-solid fa-location-dot" style="color:#5e4091;"></i> ${r.city}</span>
                   </div>
                 </div>`).join('')}
               </div>
@@ -605,7 +605,7 @@ ${homeDoctors.slice(0, 8).map(doc => `
           <!-- 2x2 Feature Grid -->
           <div class="hj-features-grid">
             <div class="hj-feature-card">
-              <div class="hj-feature-icon" style="--hj-icon-color:#6D3BFF; --hj-icon-bg:#f0ebff;">
+              <div class="hj-feature-icon" style="--hj-icon-color:#5e4091; --hj-icon-bg:#f0ebff;">
                 <i class="fa-solid fa-user-doctor"></i>
               </div>
               <div class="hj-feature-content">
