@@ -4,7 +4,8 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Doctar - Expert Surgical Care</title>
-  <link rel="stylesheet" href="styles.css?v=20260602-dpp-links">
+  <link rel="stylesheet" href="styles.css?v=20260602-reviews-fix">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
   
   <!-- Add Font Awesome for icons (if needed later) -->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
@@ -14,10 +15,16 @@
   <!-- HEADER (Persistent) -->
   <header>
     <div class="container header-top">
-      <div class="logo-area">
+      <div class="logo-area" style="position: relative;">
         <a href="#/" class="logo">DOCTAR</a>
-        <div class="city-selector">
-          📍 Kolkata <span>▼</span>
+        <div class="city-selector" id="citySelectorBtn">
+          <span id="currentCityText">📍 Kolkata</span> <span>▼</span>
+        </div>
+        <div class="city-dropdown" id="cityDropdownMenu" style="display: none;">
+          <div class="city-dropdown-item active" data-city="Kolkata">Kolkata</div>
+          <div class="city-dropdown-item" data-city="Delhi NCR">Delhi NCR</div>
+          <div class="city-dropdown-item" data-city="Bangalore">Bangalore</div>
+          <div class="city-dropdown-item" data-city="Mumbai">Mumbai</div>
         </div>
       </div>
       
@@ -112,7 +119,8 @@
   </footer>
 
   <!-- Scripts -->
-  <script src="data.js?v=20260602-dpp-links"></script>
-  <script src="app.js?v=20260602-dpp-links"></script>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="data.js?v=20260602-reviews-fix"></script>
+  <script src="app.js?v=20260602-reviews-fix"></script>
 </body>
 </html>

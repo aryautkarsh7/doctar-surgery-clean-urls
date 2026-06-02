@@ -16,8 +16,14 @@ document.addEventListener('DOMContentLoaded', () => {
     window.scrollTo(0, 0);
     if (hash === '#/') {
       renderHomePage();
+    } else if (hash === '#/doctors') {
+      renderAllDoctorsPage();
+    } else if (hash === '#/hospitals') {
+      renderAllHospitalsPage();
     } else if (hash === '#/categories') {
       renderAllCategoriesPage();
+    } else if (hash === '#/procedures') {
+      renderAllProceduresPage();
     } else if (hash.startsWith('#/category/')) {
       const slug = hash.replace('#/category/', '');
       renderCategoryPage(slug);
@@ -27,6 +33,9 @@ document.addEventListener('DOMContentLoaded', () => {
     } else if (hash.startsWith('#/doctor/')) {
       const docSlug = hash.replace('#/doctor/', '');
       renderDoctorProfilePage(docSlug);
+    } else if (hash.startsWith('#/hospital/')) {
+      const hospitalSlug = hash.replace('#/hospital/', '');
+      renderHospitalDetailPage(hospitalSlug);
     } else if (hash.startsWith('#/doctors/')) {
       const catSlug = hash.replace('#/doctors/', '');
       renderDoctorsListingPage(catSlug);
@@ -86,6 +95,14 @@ document.addEventListener('DOMContentLoaded', () => {
     return cityDoctors.length > 0 ? cityDoctors : DOCTORS;
   }
 
+  function getHospitalsForCity(city) {
+    const cityHospitals = HOSPITALS.filter(hospital =>
+      hospital.city.toLowerCase() === city.toLowerCase()
+    );
+
+    return cityHospitals.length > 0 ? cityHospitals : HOSPITALS;
+  }
+
   // =====================================================
   // RENDER HOMEPAGE
   // =====================================================
@@ -131,6 +148,28 @@ document.addEventListener('DOMContentLoaded', () => {
     const doctorsSubtitle = isCitySpecific
       ? `Highly experienced, board-certified doctors available near you in ${currentCity}.`
       : 'Highly experienced, board-certified doctors dedicated to your care.';
+    const featuredHospitals = getHospitalsForCity(currentCity);
+
+    const patientReviews = [
+      {
+        name: 'Riya Sharma',
+        photo: 'https://randomuser.me/api/portraits/women/44.jpg',
+        city: 'Kolkata', consultation: 'Orthopedics Consultation', hospital: 'Apollo Hospitals',
+        review: 'Booking through Doctar was incredibly smooth. The hospital information was transparent and the doctor consultation was scheduled within minutes.'
+      },
+      {
+        name: 'Arjun Banerjee',
+        photo: 'https://randomuser.me/api/portraits/men/32.jpg',
+        city: 'Kolkata', consultation: 'Cardiology Consultation', hospital: 'Fortis Hospital',
+        review: 'The entire process from finding a specialist to treatment was seamless. Highly recommended.'
+      },
+      {
+        name: 'Priya Das',
+        photo: 'https://randomuser.me/api/portraits/women/68.jpg',
+        city: 'Kolkata', consultation: 'Gynecology Consultation', hospital: 'AMRI Hospital',
+        review: 'Very easy appointment booking and excellent follow-up support after treatment.'
+      },
+    ];
 
     let html = `
       <!-- HERO SECTION -->
@@ -138,17 +177,17 @@ document.addEventListener('DOMContentLoaded', () => {
         <div class="container hero-new-inner">
           <div class="hero-left">
             <div class="hero-eyebrow">
-              <i class="fa-solid fa-shield-halved"></i> India's Trusted Surgical Network
+              <i class="fa-solid fa-shield-halved"></i> ${currentCity}'s Trusted Surgical Network
             </div>
             <h1 class="hero-title-new">
               Simplifying Surgery<br>
-              <span>Experience in India</span>
+              <span>Experience in ${currentCity}</span>
             </h1>
             <p class="hero-sub-new">
-              Book appointments with expert surgeons near you. Free consultation, cab drop & zero-cost EMI across 150+ clinics.
+              Book appointments with expert surgeons in ${currentCity}. Free consultation, cab drop & zero-cost EMI across 150+ clinics.
             </p>
             <div class="hero-trust-points">
-              <div class="hero-tp"><i class="fa-solid fa-circle-check"></i><span>Consultation for 50+ diseases across India</span></div>
+              <div class="hero-tp"><i class="fa-solid fa-circle-check"></i><span>Consultation for 50+ diseases in ${currentCity}</span></div>
               <div class="hero-tp"><i class="fa-solid fa-circle-check"></i><span>In-person & online with expert doctors</span></div>
               <div class="hero-tp"><i class="fa-solid fa-circle-check"></i><span>Insurance covered & No Cost EMI</span></div>
             </div>
@@ -204,8 +243,8 @@ document.addEventListener('DOMContentLoaded', () => {
               <div class="treatment-eyebrow">
                 <i class="fa-solid fa-star"></i> Explore Treatments
               </div>
-              <h2 class="tb-title">Find the right <span>treatment</span> for you</h2>
-              <p class="tb-sub">Browse by speciality or condition to discover treatments and expert surgeons.</p>
+              <h2 class="tb-title">Find the right <span>treatment</span> in ${currentCity}</h2>
+              <p class="tb-sub">Browse by speciality or condition to discover treatments and expert surgeons in ${currentCity}.</p>
             </div>
             <!-- Arrow buttons -->
             <div class="tb-arrows">
@@ -347,10 +386,309 @@ ${homeDoctors.slice(0, 8).map(doc => `
           </div>
 
           <div style="text-align:center; margin-top: 32px;">
-            <button class="doctors-view-all" onclick="alert('All doctors coming soon')">
+            <button class="doctors-view-all" onclick="window.location.hash='#/doctors'">
               View All Surgeons →
             </button>
           </div>
+        </div>
+      </section>
+
+      <!-- FEATURED HOSPITALS SECTION -->
+      <section class="featured-hospitals-section" id="featured-hospitals">
+        <div class="fh-city-bg" style="background-image: url('images/image 708.png');"></div>
+        <div class="container fh-inner">
+          <div class="fh-header">
+            <div>
+              <div class="treatment-eyebrow">
+                <i class="fa-solid fa-hospital"></i> Featured Hospitals
+              </div>
+              <h2 class="tb-title">Featured Hospitals in ${currentCity}</h2>
+              <p class="tb-sub">Verified partner hospitals and surgical clinics with modern OT facilities, insurance support, and guided admission.</p>
+            </div>
+            <div class="fh-header-actions">
+              <a href="tel:+918877772277" class="fh-call-btn">
+                <i class="fa-solid fa-phone"></i> Talk to Care Expert
+              </a>
+              <button class="fh-view-all-btn" onclick="window.location.hash='#/hospitals'">
+                View All Hospitals
+              </button>
+            </div>
+          </div>
+
+          <div class="fh-layout">
+            <details class="fh-map-details" open>
+              <summary>View hospital map</summary>
+              <div class="fh-map-panel" aria-label="Featured hospital locations in ${currentCity}">
+                <div id="featuredHospitalMap" class="fh-live-map"></div>
+                <button type="button" class="fh-location-btn" onclick="centerHospitalMapOnCity()" aria-label="Center map on ${currentCity}">
+                  <i class="fa-solid fa-location-crosshairs"></i>
+                </button>
+                <div class="fh-map-fallback">
+                  <i class="fa-solid fa-map-location-dot"></i>
+                  <span>Loading live hospital map...</span>
+                </div>
+              </div>
+            </details>
+
+            <div class="fh-cards">
+              ${featuredHospitals.map(hospital => `
+                <article class="fh-card" data-hospital-card="${hospital.slug}">
+                  <div class="fh-card-media">
+                    <img src="${hospital.image}" alt="${hospital.name}" onerror="this.src='images/about-surgery.png'">
+                  </div>
+                  <div class="fh-card-body">
+                    <div class="fh-card-top">
+                      <h3>${hospital.name}</h3>
+                      <span class="fh-rating">${hospital.rating} <i class="fa-solid fa-star"></i></span>
+                    </div>
+                    <div class="fh-meta">
+                      <span><i class="fa-solid fa-location-dot"></i> ${hospital.address}</span>
+                      <span><i class="fa-solid fa-route"></i> ${hospital.distance}</span>
+                      <span><i class="fa-solid fa-user-doctor"></i> ${hospital.type}</span>
+                    </div>
+                    <div class="fh-metrics">
+                      ${hospital.metrics.slice(0, 2).map(metric => `<span>${metric}</span>`).join('')}
+                    </div>
+                    <div class="fh-services">
+                      ${hospital.services.map(service => `<span>${service}</span>`).join('')}
+                    </div>
+                    <div class="fh-card-actions">
+                      <a href="#/hospital/${hospital.slug}" class="fh-card-primary">View Hospital →</a>
+                      <button type="button" class="fh-card-secondary" onclick="highlightHospitalPin('${hospital.slug}')">View on Map</button>
+                    </div>
+                  </div>
+                </article>
+              `).join('')}
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- PATIENT REVIEWS SECTION -->
+      <section class="pr-section" id="patient-reviews">
+        <div class="container pr-inner">
+
+          <div class="pr-header pr-fade-in">
+            <div class="pr-eyebrow"><i class="fa-solid fa-users"></i> Patient Reviews</div>
+            <h2 class="pr-title">Trusted by Thousands of Patients</h2>
+            <p class="pr-subtitle">Real experiences from patients who booked consultations, treatments, diagnostics, and healthcare services through <strong>Doctar.</strong></p>
+          </div>
+
+          <div class="pr-trust-banner pr-fade-in pr-delay-1">
+            <div class="pr-trust-rating">
+              <div class="pr-trust-shield-wrap"><i class="fa-solid fa-shield-halved"></i></div>
+              <div class="pr-trust-score">
+                <div class="pr-score-main">
+                  <span class="pr-score-num">4.8/5</span>
+                  <span class="pr-score-stars">★★★★★</span>
+                </div>
+                <div class="pr-score-label">Average Rating</div>
+                <div class="pr-score-sub">Trusted by <strong>10,000+</strong> patients across India</div>
+              </div>
+            </div>
+            <div class="pr-trust-sep"></div>
+            <div class="pr-trust-indicators">
+              <div class="pr-trust-ind">
+                <div class="pr-trust-ind-icon"><i class="fa-solid fa-shield-halved"></i></div>
+                <span>Verified<br>Reviews</span>
+              </div>
+              <div class="pr-trust-ind">
+                <div class="pr-trust-ind-icon"><i class="fa-solid fa-hospital"></i></div>
+                <span>Partner<br>Hospitals</span>
+              </div>
+              <div class="pr-trust-ind">
+                <div class="pr-trust-ind-icon"><i class="fa-solid fa-user-doctor"></i></div>
+                <span>Expert<br>Doctors</span>
+              </div>
+            </div>
+          </div>
+
+          <div class="pr-reviews-wrap">
+            <button class="pr-nav-btn pr-nav-prev" id="pr-prev" aria-label="Previous review">
+              <i class="fa-solid fa-chevron-left"></i>
+            </button>
+            <div class="pr-reviews-viewport" id="pr-reviews-viewport">
+              <div class="pr-reviews-track" id="pr-reviews-track">
+                ${patientReviews.map((r, i) => `
+                <div class=”pr-review-card”>
+                  <div class=”pr-card-top”>
+                    <span class=”pr-verified-badge”><i class=”fa-solid fa-circle-check”></i> Verified Patient</span>
+                    <span class=”pr-quote-icon”><i class=”fa-solid fa-quote-left”></i></span>
+                  </div>
+                  <div class=”pr-card-patient”>
+                    <div class=”pr-avatar-fallback”>${r.name.split(' ').map(w=>w[0]).join('').slice(0,2)}</div>
+                    <div>
+                      <div class=”pr-patient-name”>${r.name}</div>
+                      <div class=”pr-patient-stars”>★★★★★</div>
+                    </div>
+                  </div>
+                  <p class=”pr-review-text”>${r.review}</p>
+                  <div class=”pr-card-meta”>
+                    <span><i class=”fa-solid fa-stethoscope”></i> ${r.consultation}</span>
+                    <span><i class=”fa-solid fa-hospital”></i> ${r.hospital}</span>
+                  </div>
+                  <div class=”pr-card-location”><i class=”fa-solid fa-location-dot”></i> ${r.city}</div>
+                </div>`).join('')}
+              </div>
+            </div>
+            <button class="pr-nav-btn pr-nav-next" id="pr-next" aria-label="Next review">
+              <i class="fa-solid fa-chevron-right"></i>
+            </button>
+          </div>
+
+          <div class="pr-dots">
+            ${patientReviews.map((_, i) => `<button class="pr-dot${i === 0 ? ' active' : ''}" data-slide="${i}"></button>`).join('')}
+          </div>
+
+          <div class="pr-metrics pr-fade-in">
+            <div class="pr-metric-card">
+              <div class="pr-metric-icon"><i class="fa-solid fa-calendar-check"></i></div>
+              <div class="pr-metric-num-row"><span class="pr-metric-val" data-pr-count="10000">0</span><span class="pr-metric-suffix">+</span></div>
+              <div class="pr-metric-title">Appointments Booked</div>
+              <div class="pr-metric-sub">Across 30+ cities</div>
+            </div>
+            <div class="pr-metric-card">
+              <div class="pr-metric-icon"><i class="fa-solid fa-user-doctor"></i></div>
+              <div class="pr-metric-num-row"><span class="pr-metric-val" data-pr-count="500">0</span><span class="pr-metric-suffix">+</span></div>
+              <div class="pr-metric-title">Verified Doctors</div>
+              <div class="pr-metric-sub">Experienced specialists</div>
+            </div>
+            <div class="pr-metric-card">
+              <div class="pr-metric-icon"><i class="fa-solid fa-hospital"></i></div>
+              <div class="pr-metric-num-row"><span class="pr-metric-val" data-pr-count="150">0</span><span class="pr-metric-suffix">+</span></div>
+              <div class="pr-metric-title">Partner Hospitals</div>
+              <div class="pr-metric-sub">NABH &amp; JCI Accredited</div>
+            </div>
+            <div class="pr-metric-card">
+              <div class="pr-metric-icon"><i class="fa-solid fa-star"></i></div>
+              <div class="pr-metric-num-row"><span class="pr-metric-val-static">4.8</span><span class="pr-metric-star">★</span></div>
+              <div class="pr-metric-title">Average Patient Rating</div>
+              <div class="pr-metric-sub">From 10,000+ reviews</div>
+            </div>
+          </div>
+
+          <div class="pr-cta-row pr-fade-in">
+            <button class="pr-cta-primary" onclick="alert('Reviews page coming soon!')">
+              View All Reviews <i class="fa-solid fa-arrow-right"></i>
+            </button>
+            <button class="pr-cta-secondary" onclick="alert('Thank you! Share form coming soon.')">
+              Share Your Experience
+            </button>
+          </div>
+
+        </div>
+      </section>
+
+      <!-- HEALTHCARE JOURNEY SECTION -->
+      <section class="hj-section">
+        <div class="container hj-inner">
+
+          <!-- Header -->
+          <div class="hj-header">
+            <div class="hj-eyebrow">
+              <i class="fa-solid fa-route"></i> How It Works
+            </div>
+            <h2 class="hj-title">Your Healthcare Journey, <span>Simplified</span></h2>
+            <p class="hj-subtitle">From finding the right doctor to post-treatment support, Doctar helps you at every step.</p>
+          </div>
+
+          <!-- 2x2 Feature Grid -->
+          <div class="hj-features-grid">
+            <div class="hj-feature-card">
+              <div class="hj-feature-icon" style="--hj-icon-color:#6D3BFF; --hj-icon-bg:#f0ebff;">
+                <i class="fa-solid fa-user-doctor"></i>
+              </div>
+              <div class="hj-feature-content">
+                <h3>Find the Right Specialist</h3>
+                <p>Connect with experienced doctors, surgeons, and specialists across multiple medical disciplines.</p>
+              </div>
+            </div>
+            <div class="hj-feature-card">
+              <div class="hj-feature-icon" style="--hj-icon-color:#0ea5e9; --hj-icon-bg:#e0f2fe;">
+                <i class="fa-solid fa-hospital"></i>
+              </div>
+              <div class="hj-feature-content">
+                <h3>Verified Hospitals &amp; Clinics</h3>
+                <p>Explore trusted hospitals and healthcare facilities with transparent information and patient reviews.</p>
+              </div>
+            </div>
+            <div class="hj-feature-card">
+              <div class="hj-feature-icon" style="--hj-icon-color:#10b981; --hj-icon-bg:#d1fae5;">
+                <i class="fa-solid fa-calendar-check"></i>
+              </div>
+              <div class="hj-feature-content">
+                <h3>Easy Appointment Booking</h3>
+                <p>Book consultations, diagnostic tests, and treatments in just a few clicks.</p>
+              </div>
+            </div>
+            <div class="hj-feature-card">
+              <div class="hj-feature-icon" style="--hj-icon-color:#f59e0b; --hj-icon-bg:#fef3c7;">
+                <i class="fa-solid fa-heart-pulse"></i>
+              </div>
+              <div class="hj-feature-content">
+                <h3>Continuous Care Support</h3>
+                <p>Receive assistance throughout your healthcare journey, from consultation to recovery.</p>
+              </div>
+            </div>
+          </div>
+
+          <!-- Trust Metrics -->
+          <div class="hj-metrics-row">
+            <div class="hj-metric-item">
+              <div class="hj-metric-value">10,000+</div>
+              <div class="hj-metric-label">Appointments Booked</div>
+            </div>
+            <div class="hj-metric-divider"></div>
+            <div class="hj-metric-item">
+              <div class="hj-metric-value">150+</div>
+              <div class="hj-metric-label">Partner Hospitals</div>
+            </div>
+            <div class="hj-metric-divider"></div>
+            <div class="hj-metric-item">
+              <div class="hj-metric-value">500+</div>
+              <div class="hj-metric-label">Specialists Available</div>
+            </div>
+            <div class="hj-metric-divider"></div>
+            <div class="hj-metric-item">
+              <div class="hj-metric-value">4.8★</div>
+              <div class="hj-metric-label">Average Patient Rating</div>
+            </div>
+          </div>
+
+          <!-- How Doctar Works -->
+          <div class="hj-steps-section">
+            <h3 class="hj-steps-heading">How Doctar Works</h3>
+            <div class="hj-steps-track">
+              <div class="hj-step">
+                <div class="hj-step-icon"><i class="fa-solid fa-magnifying-glass"></i></div>
+                <div class="hj-step-num">Step 01</div>
+                <div class="hj-step-title">Search</div>
+                <p class="hj-step-desc">Find doctors, hospitals, or treatments by condition or specialty.</p>
+              </div>
+              <div class="hj-step-connector"></div>
+              <div class="hj-step">
+                <div class="hj-step-icon"><i class="fa-solid fa-scale-balanced"></i></div>
+                <div class="hj-step-num">Step 02</div>
+                <div class="hj-step-title">Compare</div>
+                <p class="hj-step-desc">Review ratings, fees, and availability side by side.</p>
+              </div>
+              <div class="hj-step-connector"></div>
+              <div class="hj-step">
+                <div class="hj-step-icon"><i class="fa-solid fa-calendar-check"></i></div>
+                <div class="hj-step-num">Step 03</div>
+                <div class="hj-step-title">Book</div>
+                <p class="hj-step-desc">Confirm your appointment online in seconds — no waiting on hold.</p>
+              </div>
+              <div class="hj-step-connector"></div>
+              <div class="hj-step">
+                <div class="hj-step-icon"><i class="fa-solid fa-shield-heart"></i></div>
+                <div class="hj-step-num">Step 04</div>
+                <div class="hj-step-title">Get Care</div>
+                <p class="hj-step-desc">Receive expert treatment with end-to-end support from our care team.</p>
+              </div>
+            </div>
+          </div>
+
         </div>
       </section>
     `;
@@ -359,7 +697,238 @@ ${homeDoctors.slice(0, 8).map(doc => `
     initFeaturedCarousel();
     initTreatmentCarousel();
     initCarousel('ds-track', 'ds-prev', 'ds-next', 3);
+    initHospitalMapHover();
+    initFeaturedHospitalMap(featuredHospitals, currentCity);
+    initPatientReviews();
   }
+
+  function initPatientReviews() {
+    const viewport = document.getElementById('pr-reviews-viewport');
+    const prevBtn = document.getElementById('pr-prev');
+    const nextBtn = document.getElementById('pr-next');
+    const dots = document.querySelectorAll('.pr-dot');
+    if (!viewport || !prevBtn || !nextBtn) return;
+
+    let currentSlide = 0;
+    const totalSlides = dots.length || 3;
+
+    function isMobile() { return window.innerWidth < 768; }
+
+    function goToSlide(n) {
+      if (!isMobile()) return;
+      currentSlide = ((n % totalSlides) + totalSlides) % totalSlides;
+      const cards = viewport.querySelectorAll('.pr-review-card');
+      if (cards[currentSlide]) {
+        cards[currentSlide].scrollIntoView({ behavior: 'smooth', inline: 'start', block: 'nearest' });
+      }
+      dots.forEach((d, i) => d.classList.toggle('active', i === currentSlide));
+    }
+
+    prevBtn.addEventListener('click', () => goToSlide(currentSlide - 1));
+    nextBtn.addEventListener('click', () => goToSlide(currentSlide + 1));
+    dots.forEach((dot, i) => dot.addEventListener('click', () => goToSlide(i)));
+
+    viewport.addEventListener('scroll', () => {
+      if (!isMobile()) return;
+      const cards = viewport.querySelectorAll('.pr-review-card');
+      let closest = 0, minDist = Infinity;
+      const vpLeft = viewport.getBoundingClientRect().left;
+      cards.forEach((card, i) => {
+        const dist = Math.abs(card.getBoundingClientRect().left - vpLeft);
+        if (dist < minDist) { minDist = dist; closest = i; }
+      });
+      if (closest !== currentSlide) {
+        currentSlide = closest;
+        dots.forEach((d, i) => d.classList.toggle('active', i === currentSlide));
+      }
+    }, { passive: true });
+
+    // Counter animation on scroll
+    const metricsEl = document.querySelector('.pr-metrics');
+    if (metricsEl) {
+      let counted = false;
+      new IntersectionObserver(entries => {
+        if (!entries[0].isIntersecting || counted) return;
+        counted = true;
+        metricsEl.querySelectorAll('[data-pr-count]').forEach(el => {
+          const target = parseInt(el.dataset.prCount, 10);
+          const startTime = performance.now();
+          const duration = 1600;
+          function tick(now) {
+            const p = Math.min((now - startTime) / duration, 1);
+            const eased = 1 - Math.pow(1 - p, 3);
+            el.textContent = Math.round(eased * target).toLocaleString('en-IN');
+            if (p < 1) requestAnimationFrame(tick);
+          }
+          requestAnimationFrame(tick);
+        });
+      }, { threshold: 0.3 }).observe(metricsEl);
+    }
+
+    // Fade-in on scroll
+    document.querySelectorAll('.pr-section .pr-fade-in').forEach(el => {
+      new IntersectionObserver(entries => {
+        entries.forEach(entry => {
+          if (entry.isIntersecting) {
+            entry.target.classList.add('is-visible');
+          }
+        });
+      }, { threshold: 0.1 }).observe(el);
+    });
+  }
+
+  function getHospitalMapCenter(hospitals) {
+    const mappedHospitals = hospitals.filter(hospital => hospital.map && hospital.map.lat && hospital.map.lng);
+    if (!mappedHospitals.length) return [22.5726, 88.3639];
+
+    const lat = mappedHospitals.reduce((sum, hospital) => sum + hospital.map.lat, 0) / mappedHospitals.length;
+    const lng = mappedHospitals.reduce((sum, hospital) => sum + hospital.map.lng, 0) / mappedHospitals.length;
+    return [lat, lng];
+  }
+
+  function createHospitalMarkerIcon(isActive) {
+    return L.divIcon({
+      className: `fh-live-marker${isActive ? ' is-active' : ''}`,
+      html: '<span><i class="fa-solid fa-hospital"></i></span>',
+      iconSize: [42, 42],
+      iconAnchor: [21, 21],
+      popupAnchor: [0, -20],
+    });
+  }
+
+  function setFeaturedHospitalMarkerActive(slug) {
+    if (typeof L === 'undefined') return;
+
+    const markers = window._featuredHospitalMarkers || {};
+
+    Object.keys(markers).forEach(markerSlug => {
+      const marker = markers[markerSlug];
+      marker.setIcon(createHospitalMarkerIcon(markerSlug === slug));
+    });
+  }
+
+  function initFeaturedHospitalMap(hospitals, city) {
+    const mapEl = document.getElementById('featuredHospitalMap');
+    if (!mapEl) return;
+
+    if (typeof L === 'undefined') {
+      mapEl.closest('.fh-map-panel')?.classList.add('map-unavailable');
+      return;
+    }
+
+    if (window._featuredHospitalMap) {
+      window._featuredHospitalMap.remove();
+      window._featuredHospitalMap = null;
+      window._featuredHospitalMarkers = {};
+    }
+
+    const mappedHospitals = hospitals.filter(hospital => hospital.map && hospital.map.lat && hospital.map.lng);
+    const center = getHospitalMapCenter(mappedHospitals);
+    const map = L.map(mapEl, {
+      zoomControl: true,
+      scrollWheelZoom: false,
+      attributionControl: true,
+    }).setView(center, 12);
+
+    map.attributionControl.setPrefix('');
+
+    L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors &copy; CARTO',
+    }).addTo(map);
+
+    window._featuredHospitalMap = map;
+    window._featuredHospitalMarkers = {};
+
+    mappedHospitals.forEach(hospital => {
+      const marker = L.marker([hospital.map.lat, hospital.map.lng], {
+        icon: createHospitalMarkerIcon(false),
+        title: hospital.name,
+      }).addTo(map);
+
+      marker.bindPopup(`
+        <div class="fh-map-popup">
+          <strong>${hospital.name}</strong>
+          <span>${hospital.address}</span>
+          <a href="#/hospital/${hospital.slug}">View Hospital →</a>
+        </div>
+      `);
+
+      marker.on('mouseover', () => {
+        setFeaturedHospitalMarkerActive(hospital.slug);
+        marker.openPopup();
+      });
+
+      marker.on('mouseout', () => {
+        setFeaturedHospitalMarkerActive(null);
+      });
+
+      window._featuredHospitalMarkers[hospital.slug] = marker;
+    });
+
+    if (mappedHospitals.length > 1) {
+      const bounds = L.latLngBounds(mappedHospitals.map(hospital => [hospital.map.lat, hospital.map.lng]));
+      map.fitBounds(bounds, { padding: [36, 36], maxZoom: 13 });
+    }
+
+    setTimeout(() => map.invalidateSize(), 120);
+  }
+
+  function initHospitalMapHover() {
+    const cards = document.querySelectorAll('[data-hospital-card]');
+    if (!cards.length) return;
+
+    const clearActivePins = () => {
+      document.querySelectorAll('[data-hospital-pin]').forEach(pin => pin.classList.remove('is-active'));
+      setFeaturedHospitalMarkerActive(null);
+    };
+
+    cards.forEach(card => {
+      const slug = card.getAttribute('data-hospital-card');
+      const pin = document.querySelector(`[data-hospital-pin="${slug}"]`);
+
+      card.addEventListener('mouseenter', () => {
+        clearActivePins();
+        if (pin) pin.classList.add('is-active');
+        setFeaturedHospitalMarkerActive(slug);
+      });
+
+      card.addEventListener('mouseleave', clearActivePins);
+    });
+  }
+
+  window.highlightHospitalPin = function(slug) {
+    const mapDetails = document.querySelector('.fh-map-details');
+    if (mapDetails) mapDetails.open = true;
+
+    const map = document.querySelector('.fh-map-panel');
+    const pin = document.querySelector(`[data-hospital-pin="${slug}"]`);
+    if (!map) return;
+
+    document.querySelectorAll('[data-hospital-pin]').forEach(item => item.classList.remove('is-active'));
+    if (pin) pin.classList.add('is-active');
+
+    setFeaturedHospitalMarkerActive(slug);
+    const marker = window._featuredHospitalMarkers && window._featuredHospitalMarkers[slug];
+    if (window._featuredHospitalMap && marker) {
+      window._featuredHospitalMap.setView(marker.getLatLng(), 14, { animate: true });
+      marker.openPopup();
+      setTimeout(() => window._featuredHospitalMap.invalidateSize(), 100);
+    }
+
+    map.scrollIntoView({ behavior: 'smooth', block: 'center' });
+  };
+
+  window.centerHospitalMapOnCity = function() {
+    const map = window._featuredHospitalMap;
+    if (!map) return;
+
+    const markers = Object.values(window._featuredHospitalMarkers || {});
+    if (markers.length > 1) {
+      const bounds = L.latLngBounds(markers.map(marker => marker.getLatLng()));
+      map.fitBounds(bounds, { padding: [36, 36], maxZoom: 13 });
+    }
+  };
 
   // =====================================================
   // RENDER ALL CATEGORIES PAGE
@@ -477,11 +1046,11 @@ ${homeDoctors.slice(0, 8).map(doc => `
           <div class="fp-header-left">
             <div class="fp-icon-badge"><i class="fa-regular fa-star"></i></div>
             <div class="fp-header-text">
-              <h3>Popular Procedures</h3>
-              <p>Most searched and booked treatments across India</p>
+              <h3>Popular Procedures in ${getCurrentCity()}</h3>
+              <p>Most searched and booked treatments in ${getCurrentCity()}</p>
             </div>
           </div>
-          <a href="#/" class="fp-view-all">View All Procedures →</a>
+          <a href="#/procedures" class="fp-view-all">View All Procedures →</a>
         </div>
         <div class="fp-equal-grid">
           ${procedures.map(p => `
@@ -503,6 +1072,98 @@ ${homeDoctors.slice(0, 8).map(doc => `
     `;
 
     root.innerHTML = html;
+  }
+
+  // =====================================================
+  // RENDER ALL PROCEDURES PAGE (city-aware)
+  // =====================================================
+  function renderAllProceduresPage() {
+    const currentCity = getCurrentCity();
+    // Gather all treatments across all categories
+    const allTreatments = [];
+    for (const catSlug in TREATMENTS) {
+      const cat = findCategory(catSlug);
+      if (!cat) continue;
+      TREATMENTS[catSlug].forEach(t => {
+        allTreatments.push({ ...t, category: cat });
+      });
+    }
+    const totalDoctors = getDoctorsForCity(currentCity).length;
+
+    const html = `
+      <!-- HERO -->
+      <div class="all-cat-hero">
+        <div class="container all-cat-hero-inner">
+          <div class="breadcrumb" style="margin-bottom: 20px;">
+            <a href="#/">Home</a> <span>›</span>
+            <span>All Procedures</span>
+          </div>
+          <div class="all-cat-eyebrow">
+            <i class="fa-solid fa-stethoscope"></i> Popular Procedures
+          </div>
+          <h1 class="all-cat-title">Popular Procedures in <span>${currentCity}</span></h1>
+          <p class="all-cat-sub">Browse ${allTreatments.length}+ procedures across ${CATEGORIES.length} specialities. Find expert surgeons, costs, and book free consultations in ${currentCity}.</p>
+          <div class="all-cat-stats-row">
+            <div class="all-cat-stat"><span>${allTreatments.length}+</span><p>Procedures</p></div>
+            <div class="all-cat-stat"><span>${CATEGORIES.length}</span><p>Specialities</p></div>
+            <div class="all-cat-stat"><span>${totalDoctors}+</span><p>Surgeons</p></div>
+            <div class="all-cat-stat"><span>Free</span><p>Consultation</p></div>
+          </div>
+        </div>
+      </div>
+
+      <!-- TRUST STRIP -->
+      <div class="cat-trust-strip">
+        <div class="container cat-trust-inner">
+          <div class="cat-trust-item"><i class="fa-solid fa-shield-halved"></i><span>USFDA Approved</span></div>
+          <div class="cat-trust-item"><i class="fa-solid fa-car"></i><span>Free Cab Service</span></div>
+          <div class="cat-trust-item"><i class="fa-solid fa-wallet"></i><span>No Cost EMI</span></div>
+          <div class="cat-trust-item"><i class="fa-solid fa-clipboard-check"></i><span>Insurance Covered</span></div>
+        </div>
+      </div>
+
+      <!-- PROCEDURES BY CATEGORY -->
+      <div class="container" style="padding: 50px 0 80px;">
+        ${CATEGORIES.map(cat => {
+          const catTreatments = TREATMENTS[cat.slug] || [];
+          if (catTreatments.length === 0) return '';
+          return `
+            <div class="proc-cat-block" style="margin-bottom: 50px;">
+              <div class="proc-cat-header" style="display:flex; align-items:center; gap:14px; margin-bottom:24px;">
+                <span style="font-size:1.6rem;">${cat.icon}</span>
+                <div>
+                  <h2 style="font-size:1.4rem; font-weight:800; color:#1a1a2e; margin:0;">${cat.name} <span class="cat-count-badge">${catTreatments.length}</span></h2>
+                  <p style="color:#777; font-size:0.88rem; margin:4px 0 0;">${cat.description.substring(0, 80)}...</p>
+                </div>
+                <a href="#/category/${cat.slug}" style="margin-left:auto; font-size:0.85rem; font-weight:700; color:${cat.color}; text-decoration:none;">View All →</a>
+              </div>
+              <div class="cat-treatments-grid">
+                ${catTreatments.map(t => `
+                  <a href="#/treatment/${t.slug}" class="cat-treatment-card" style="--card-color: ${cat.color}; --card-light: ${cat.colorLight};">
+                    <div class="ctc-top">
+                      <div class="ctc-icon" style="background: ${cat.colorLight}; color: ${cat.color};">
+                        ${cat.icon}
+                      </div>
+                      <div class="ctc-badge" style="color: ${cat.color};">${cat.name}</div>
+                    </div>
+                    <h3 class="ctc-name">${t.name}</h3>
+                    <p class="ctc-brief">${t.brief}</p>
+                    <div class="ctc-meta">
+                      <span><i class="fa-regular fa-clock"></i> ${t.recovery}</span>
+                      <span><i class="fa-solid fa-indian-rupee-sign"></i> ${t.costRange}</span>
+                    </div>
+                    <div class="ctc-cta" style="background: ${cat.color};">
+                      View Details &nbsp;→
+                    </div>
+                  </a>
+                `).join('')}
+              </div>
+            </div>
+          `;
+        }).join('')}
+      </div>
+    `;
+    appContainer.innerHTML = html;
   }
 
   // =====================================================
@@ -590,6 +1251,7 @@ ${homeDoctors.slice(0, 8).map(doc => `
     const treatment = findTreatment(slug);
     if (!treatment) { handleRoute(); return; }
     const category = findCategory(treatment.categorySlug);
+    const currentCity = getCurrentCity();
 
     filters = filters || { availability: 'all', rating: 0, fee: 'all', experience: 'all', gender: 'all' };
 
@@ -618,9 +1280,9 @@ ${homeDoctors.slice(0, 8).map(doc => `
             <span>${treatment.name}</span>
           </div>
           <h1 class="tpl-title">
-            <span style="color:${category.color}">${allDoctors.length} Verified</span> ${treatment.name} Surgeons in Kolkata
+            <span style="color:${category.color}">${allDoctors.length} Verified</span> ${treatment.name} Surgeons in ${currentCity}
           </h1>
-          <p class="tpl-sub">Expert ${treatment.name} specialists in Kolkata. Book verified surgeons available for in-clinic consultations with free consultation, insurance support &amp; cab service.</p>
+          <p class="tpl-sub">Expert ${treatment.name} specialists in ${currentCity}. Book verified surgeons available for in-clinic consultations with free consultation, insurance support &amp; cab service.</p>
           <div class="tpl-trust-row">
             <span class="tpl-badge"><i class="fa-solid fa-circle-check" style="color:${category.color}"></i> Licensed &amp; Verified</span>
             <span class="tpl-badge"><i class="fa-solid fa-hospital" style="color:${category.color}"></i> In-Clinic Available</span>
@@ -754,10 +1416,10 @@ ${homeDoctors.slice(0, 8).map(doc => `
           <!-- FAQ SECTION -->
           <div class="tpl-faq-section">
             <h2>Frequently Asked Questions</h2>
-            <p class="tpl-faq-sub">Everything you need to know about ${treatment.name} in Kolkata</p>
+            <p class="tpl-faq-sub">Everything you need to know about ${treatment.name} in ${currentCity}</p>
             ${[
-              { q: `How do I find the best ${treatment.name} surgeon in Kolkata?`, a: `Use the filters above to narrow by rating, experience, and fee. All our surgeons are board-certified with proven expertise in ${treatment.name}.` },
-              { q: `What is the cost of ${treatment.name} in Kolkata?`, a: `The estimated cost ranges from ${treatment.costRange}. This may vary based on the hospital, surgeon experience, and complexity of your case.` },
+              { q: `How do I find the best ${treatment.name} surgeon in ${currentCity}?`, a: `Use the filters above to narrow by rating, experience, and fee. All our surgeons are board-certified with proven expertise in ${treatment.name}.` },
+              { q: `What is the cost of ${treatment.name} in ${currentCity}?`, a: `The estimated cost ranges from ${treatment.costRange}. This may vary based on the hospital, surgeon experience, and complexity of your case.` },
               { q: `How long is the recovery after ${treatment.name}?`, a: `Typical recovery time is ${treatment.recovery}. Your surgeon will give you a personalised recovery plan during your consultation.` },
               { q: `Is ${treatment.name} covered by insurance?`, a: `Yes, ${treatment.name} is covered by most major health insurance plans. Our team handles all paperwork and claims processing for a cashless experience.` },
               { q: `Is the consultation free?`, a: `Yes, the first consultation with our surgeons is completely free. Book an appointment above or call our 24/7 helpline.` },
@@ -986,7 +1648,7 @@ ${homeDoctors.slice(0, 8).map(doc => `
                   <input type="text" class="dpp-input" placeholder="Patient Name" required>
                   <input type="tel" class="dpp-input" placeholder="Mobile Number" required>
                 </div>
-                <input type="text" class="dpp-input" placeholder="Your City" value="Kolkata" readonly style="margin-top:10px;">
+                <input type="text" class="dpp-input" placeholder="Your City" value="${getCurrentCity()}" readonly style="margin-top:10px;">
                 <button class="dpp-confirm-btn" onclick="alert('Appointment booked! Our team will call you to confirm.')">
                   <i class="fa-solid fa-calendar-check"></i> Confirm Booking
                 </button>
@@ -1008,6 +1670,156 @@ ${homeDoctors.slice(0, 8).map(doc => `
     btn.classList.add('active');
     document.getElementById('dpp-tab-' + tab).style.display = 'block';
   };
+
+  // =====================================================
+  // RENDER HOSPITAL DETAIL PAGE
+  // =====================================================
+  function renderHospitalDetailPage(slug) {
+    const hospital = findHospital(slug);
+    if (!hospital) { handleRoute(); return; }
+
+    const hospitalDoctors = DOCTORS.filter(doc => doc.hospital === hospital.name);
+    const faqs = [
+      { q: `Where is ${hospital.name} located?`, a: `${hospital.name} is located at ${hospital.address}.` },
+      { q: `What type of facility is ${hospital.name}?`, a: `${hospital.name} is a ${hospital.type.toLowerCase()} with support for planned surgical care.` },
+      { q: 'Is insurance support available?', a: 'Yes, our care team helps with insurance paperwork, cashless approval, and claim coordination wherever applicable.' },
+      { q: 'Can I book a free consultation here?', a: 'Yes, you can request a free consultation and our coordinator will help confirm the best doctor and slot.' },
+    ];
+
+    const html = `
+      <div class="container dpp-breadcrumb">
+        <a href="#/">Home</a> <span>/</span>
+        <a href="#/">Hospitals</a> <span>/</span>
+        <span>${hospital.name}</span>
+      </div>
+
+      <section class="container hpp-hero">
+        <div class="hpp-hero-media">
+          <img src="${hospital.image}" alt="${hospital.name}">
+        </div>
+        <div class="hpp-hero-content">
+          <div class="treatment-eyebrow">
+            <i class="fa-solid fa-hospital"></i> Featured Hospital
+          </div>
+          <h1>${hospital.name}</h1>
+          <p>${hospital.overview}</p>
+          <div class="hpp-hero-meta">
+            <span><i class="fa-solid fa-star"></i> ${hospital.rating} (${hospital.reviews} reviews)</span>
+            <span><i class="fa-solid fa-location-dot"></i> ${hospital.address}</span>
+            <span><i class="fa-solid fa-clock"></i> ${hospital.hours}</span>
+          </div>
+          <div class="hpp-hero-actions">
+            <button class="hpp-primary-btn" onclick="document.getElementById('hpp-booking').scrollIntoView({behavior:'smooth'})">
+              <i class="fa-solid fa-calendar-check"></i> Book FREE Appointment
+            </button>
+            <a href="tel:${hospital.phone.replace(/-/g, '')}" class="hpp-secondary-btn">
+              <i class="fa-solid fa-phone"></i> Call Hospital
+            </a>
+          </div>
+        </div>
+      </section>
+
+      <div class="container hpp-layout">
+        <aside class="hpp-sidebar">
+          <div class="hpp-summary-card">
+            <h3>Hospital Details</h3>
+            <div class="hpp-summary-row">
+              <span>Facility Type</span>
+              <strong>${hospital.type}</strong>
+            </div>
+            <div class="hpp-summary-row">
+              <span>Location</span>
+              <strong>${hospital.address}</strong>
+            </div>
+            <div class="hpp-summary-row">
+              <span>Timings</span>
+              <strong>${hospital.hours}</strong>
+            </div>
+            <div class="hpp-summary-row">
+              <span>Helpline</span>
+              <strong>${hospital.phone}</strong>
+            </div>
+          </div>
+
+          <div class="hpp-map-mini">
+            <div class="fh-map-grid"></div>
+            <div class="fh-map-road road-one"></div>
+            <div class="fh-map-road road-two"></div>
+            <span class="fh-map-label label-main">${hospital.city}</span>
+            <div class="fh-pin pin-1"><i class="fa-solid fa-location-dot"></i></div>
+          </div>
+        </aside>
+
+        <main class="hpp-main">
+          <section class="hpp-section">
+            <h2><i class="fa-solid fa-shield-halved"></i> Services Available</h2>
+            <div class="hpp-chip-grid">
+              ${hospital.services.map(service => `<span>${service}</span>`).join('')}
+            </div>
+          </section>
+
+          <section class="hpp-section">
+            <h2><i class="fa-solid fa-stethoscope"></i> Specialities</h2>
+            <div class="hpp-specialty-grid">
+              ${hospital.specialties.map(name => `<span><i class="fa-solid fa-circle-check"></i> ${name}</span>`).join('')}
+            </div>
+          </section>
+
+          <section class="hpp-section">
+            <h2><i class="fa-solid fa-building-circle-check"></i> Amenities</h2>
+            <div class="hpp-amenity-grid">
+              ${hospital.amenities.map(item => `<div><i class="fa-solid fa-check"></i><span>${item}</span></div>`).join('')}
+            </div>
+          </section>
+
+          <section class="hpp-section">
+            <h2><i class="fa-solid fa-user-doctor"></i> Available Surgeons</h2>
+            ${hospitalDoctors.length === 0 ? `
+              <p>Our care team will help match you with the right specialist at this hospital.</p>
+            ` : `
+              <div class="hpp-doctors">
+                ${hospitalDoctors.map(doc => `
+                  <a href="#/doctor/${doc.slug}" class="hpp-doctor-card">
+                    <img src="${doc.image}" alt="${doc.name}">
+                    <div>
+                      <h3>${doc.name}</h3>
+                      <p>${doc.specialty}</p>
+                      <span>${doc.rating} ★ · ${doc.experience}</span>
+                    </div>
+                  </a>
+                `).join('')}
+              </div>
+            `}
+          </section>
+
+          <section class="hpp-section" id="hpp-booking">
+            <h2><i class="fa-solid fa-calendar-check"></i> Book Appointment</h2>
+            <div class="hpp-book-card">
+              <input type="text" class="dpp-input" placeholder="Patient Name">
+              <input type="tel" class="dpp-input" placeholder="Mobile Number">
+              <input type="text" class="dpp-input" value="${hospital.name}, ${hospital.address}" readonly>
+              <button class="dpp-confirm-btn" onclick="alert('Appointment request sent! Our care team will call you shortly.')">
+                <i class="fa-solid fa-calendar-check"></i> Request Appointment
+              </button>
+              <p class="dpp-form-note"><i class="fa-solid fa-lock"></i> 100% Private &amp; Confidential</p>
+            </div>
+          </section>
+
+          <section class="hpp-section">
+            <h2><i class="fa-solid fa-circle-question"></i> Frequently Asked Questions</h2>
+            ${faqs.map(faq => `
+              <div class="dpp-faq-item" onclick="this.classList.toggle('open')">
+                <div class="dpp-faq-q">${faq.q} <i class="fa-solid fa-chevron-down"></i></div>
+                <div class="dpp-faq-a">${faq.a}</div>
+              </div>
+            `).join('')}
+          </section>
+        </main>
+      </div>
+    `;
+
+    appContainer.innerHTML = html;
+  }
 
   // =====================================================
   // RENDER DOCTORS LISTING PAGE
@@ -1041,7 +1853,7 @@ ${homeDoctors.slice(0, 8).map(doc => `
             <span>Surgeons</span>
           </div>
           <h1 class="dl-hero-title">
-            <span style="color:${category.color}">${doctors.length} Verified</span> ${category.name} Surgeons in Kolkata
+            <span style="color:${category.color}">${doctors.length} Verified</span> ${category.name} Surgeons in ${getCurrentCity()}
           </h1>
           <p class="dl-hero-sub">Board-certified specialists with proven expertise. Free consultation, insurance support &amp; cab service.</p>
           <div class="dl-trust-badges">
@@ -1184,5 +1996,393 @@ ${homeDoctors.slice(0, 8).map(doc => `
     renderDoctorsListingPage(catSlug, filters);
   };
 
+  // =====================================================
+  // RENDER ALL DOCTORS PAGE
+  // =====================================================
+  function renderAllDoctorsPage(filters) {
+    const currentCity = getCurrentCity();
+    filters = filters || { availability: 'all', rating: 0, fee: 'all', experience: 'all', gender: 'all' };
+
+    let doctors = getDoctorsForCity(currentCity);
+
+    // Apply filters
+    if (filters.rating > 0) doctors = doctors.filter(d => d.rating >= filters.rating);
+    if (filters.gender !== 'all') doctors = doctors.filter(d => (d.gender || 'male') === filters.gender);
+    if (filters.availability === 'today') doctors = doctors.filter(d => d.nextSlot);
+    if (filters.fee === 'under1000') doctors = doctors.filter(d => d.fee < 1000);
+    if (filters.fee === '1000-2000') doctors = doctors.filter(d => d.fee >= 1000 && d.fee <= 2000);
+    if (filters.fee === 'above2000') doctors = doctors.filter(d => d.fee > 2000);
+    if (filters.experience === '0-10') doctors = doctors.filter(d => parseInt(d.experience) <= 10);
+    if (filters.experience === '10-20') doctors = doctors.filter(d => parseInt(d.experience) > 10 && parseInt(d.experience) <= 20);
+    if (filters.experience === '20+') doctors = doctors.filter(d => parseInt(d.experience) > 20);
+
+    const html = `
+      <!-- HERO -->
+      <div class="tpl-hero" style="background: linear-gradient(120deg, #7c3aed18 0%, #fff 70%);">
+        <div class="container tpl-hero-inner">
+          <div class="breadcrumb">
+            <a href="#/">Home</a> <span>›</span>
+            <span class="breadcrumb-current">All Surgeons</span>
+          </div>
+          <h1 class="tpl-title">
+            <span style="color:#7c3aed">${doctors.length} Verified</span> Surgeons in ${currentCity}
+          </h1>
+          <p class="tpl-sub">Find the best board-certified surgeons in ${currentCity}. Book verified specialists available for in-clinic consultations with free consultation, insurance support &amp; cab service.</p>
+          <div class="tpl-trust-row">
+            <span class="tpl-badge"><i class="fa-solid fa-circle-check" style="color:#7c3aed"></i> Licensed &amp; Verified</span>
+            <span class="tpl-badge"><i class="fa-solid fa-hospital" style="color:#7c3aed"></i> In-Clinic Available</span>
+            <span class="tpl-badge"><i class="fa-solid fa-headset" style="color:#7c3aed"></i> 24/7 On-Call Service</span>
+            <span class="tpl-badge"><i class="fa-solid fa-car" style="color:#7c3aed"></i> Free Cab</span>
+          </div>
+          <div class="tpl-info-pills">
+            <span class="tpl-pill"><i class="fa-solid fa-shield-halved"></i> USFDA Approved</span>
+            <span class="tpl-pill"><i class="fa-solid fa-calendar-check"></i> Free Consultation</span>
+            <span class="tpl-pill"><i class="fa-solid fa-wallet"></i> Insurance Covered</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- MAIN LAYOUT -->
+      <div class="container tpl-layout">
+        <!-- LEFT SIDEBAR: FILTERS -->
+        <aside class="tpl-sidebar">
+          <div class="tpl-filter-head">
+            <i class="fa-solid fa-sliders"></i> Filter Doctors
+            <button class="tpl-reset-btn" onclick="window._allDoctorsFilters={}; renderAllDoctorsPage()">Reset All</button>
+          </div>
+
+          <div class="tpl-filter-group">
+            <h4>Availability</h4>
+            <label class="tpl-radio"><input type="radio" name="all-avail" value="all" ${filters.availability==='all'?'checked':''} onchange="applyAllDoctorsFilter('availability','all')"> Any Time</label>
+            <label class="tpl-radio"><input type="radio" name="all-avail" value="today" ${filters.availability==='today'?'checked':''} onchange="applyAllDoctorsFilter('availability','today')"> Available Today</label>
+          </div>
+
+          <div class="tpl-filter-group">
+            <h4>Minimum Rating</h4>
+            ${[4.5,4.0,3.5,3.0].map(r=>`
+              <label class="tpl-radio"><input type="radio" name="all-rating" value="${r}" ${filters.rating===r?'checked':''} onchange="applyAllDoctorsFilter('rating',${r})"> ${r}+ ⭐</label>
+            `).join('')}
+            <label class="tpl-radio"><input type="radio" name="all-rating" value="0" ${filters.rating===0?'checked':''} onchange="applyAllDoctorsFilter('rating',0)"> Any Rating</label>
+          </div>
+
+          <div class="tpl-filter-group">
+            <h4>Consultation Fee</h4>
+            <label class="tpl-radio"><input type="radio" name="all-fee" value="all" ${filters.fee==='all'?'checked':''} onchange="applyAllDoctorsFilter('fee','all')"> Any</label>
+            <label class="tpl-radio"><input type="radio" name="all-fee" value="under1000" ${filters.fee==='under1000'?'checked':''} onchange="applyAllDoctorsFilter('fee','under1000')"> Under ₹1,000</label>
+            <label class="tpl-radio"><input type="radio" name="all-fee" value="1000-2000" ${filters.fee==='1000-2000'?'checked':''} onchange="applyAllDoctorsFilter('fee','1000-2000')"> ₹1,000 – ₹2,000</label>
+            <label class="tpl-radio"><input type="radio" name="all-fee" value="above2000" ${filters.fee==='above2000'?'checked':''} onchange="applyAllDoctorsFilter('fee','above2000')"> Above ₹2,000</label>
+          </div>
+
+          <div class="tpl-filter-group">
+            <h4>Experience</h4>
+            <label class="tpl-radio"><input type="radio" name="all-exp" value="all" ${filters.experience==='all'?'checked':''} onchange="applyAllDoctorsFilter('experience','all')"> Any</label>
+            <label class="tpl-radio"><input type="radio" name="all-exp" value="0-10" ${filters.experience==='0-10'?'checked':''} onchange="applyAllDoctorsFilter('experience','0-10')"> 0–10 yrs</label>
+            <label class="tpl-radio"><input type="radio" name="all-exp" value="10-20" ${filters.experience==='10-20'?'checked':''} onchange="applyAllDoctorsFilter('experience','10-20')"> 10–20 yrs</label>
+            <label class="tpl-radio"><input type="radio" name="all-exp" value="20+" ${filters.experience==='20+'?'checked':''} onchange="applyAllDoctorsFilter('experience','20+')"> 20+ yrs</label>
+          </div>
+
+          <div class="tpl-filter-group">
+            <h4>Doctor Gender</h4>
+            <label class="tpl-radio"><input type="radio" name="all-gender" value="all" ${filters.gender==='all'?'checked':''} onchange="applyAllDoctorsFilter('gender','all')"> Any</label>
+            <label class="tpl-radio"><input type="radio" name="all-gender" value="male" ${filters.gender==='male'?'checked':''} onchange="applyAllDoctorsFilter('gender','male')"> Male</label>
+            <label class="tpl-radio"><input type="radio" name="all-gender" value="female" ${filters.gender==='female'?'checked':''} onchange="applyAllDoctorsFilter('gender','female')"> Female</label>
+          </div>
+        </aside>
+
+        <div class="tpl-cards-col">
+          <div class="tpl-results-bar">
+            <span><strong>${doctors.length}</strong> surgeon${doctors.length !== 1 ? 's' : ''} found in ${currentCity}</span>
+            <span class="tpl-sort-label">Sort: <strong>Relevance</strong> ▾</span>
+          </div>
+
+          ${doctors.length === 0 ? `
+            <div class="tpl-empty">
+              <i class="fa-solid fa-user-doctor"></i>
+              <p>No doctors match your filters. Try adjusting them.</p>
+            </div>
+          ` : `<div class="doctors-grid tpl-doctors-grid">` + doctors.map(doc => `
+            <div class="doctor-card">
+              <div class="dc-top">
+                <div class="dc-avatar">👨‍⚕️</div>
+                <div class="dc-header-info">
+                  <h3 class="dc-name">${doc.name}</h3>
+                  <span class="dc-specialty-badge">🩺 ${doc.specialty}</span>
+                  <p class="dc-degree">${doc.degree}</p>
+                  <div class="dc-meta">
+                    <span class="dc-rating">⭐ ${doc.rating} (${doc.reviews} Reviews)</span>
+                    <span class="dc-dot">•</span>
+                    <span class="dc-exp">👥 ${doc.experience} Experience</span>
+                  </div>
+                </div>
+              </div>
+              <div class="dc-middle">
+                <div class="dc-fee-box">
+                  <div class="dc-fee">₹${doc.fee.toLocaleString('en-IN')}</div>
+                  <div class="dc-fee-label">Consultation fee</div>
+                  <div class="dc-mode">🏥 In - Clinic</div>
+                </div>
+                <div class="dc-avail-box">
+                  <div class="dc-avail-status"><span class="dc-avail-dot"></span> Available</div>
+                  <div class="dc-avail-label">Today Next Slot</div>
+                  <div class="dc-next-slot">🕐 ${doc.nextSlot || 'TBD'}</div>
+                </div>
+              </div>
+              <div class="dc-hospital">
+                <span class="dc-hosp-icon">🏢</span>
+                <div>
+                  <div class="dc-hosp-name">${doc.hospital}</div>
+                  <div class="dc-hosp-loc">📍 ${doc.location}</div>
+                </div>
+              </div>
+              <div class="dc-slots">
+                <span class="dc-slots-label">Available Slots</span>
+                <div class="dc-slots-list">
+                  ${doc.slots.map(s => `<span class="dc-slot">🕐 ${s}</span>`).join('')}
+                  <span class="dc-slot dc-slot-more">+ 2 More</span>
+                </div>
+              </div>
+              <div class="dc-actions">
+                <button class="dc-btn-book" onclick="window.location.hash='#/doctor/${doc.slug}'">📅 Book Appointment</button>
+                <button class="dc-btn-call" onclick="window.location.hash='#/doctor/${doc.slug}'">📞 Call</button>
+              </div>
+            </div>
+          `).join('') + `</div>`}
+        </div>
+      </div>
+    `;
+
+    appContainer.innerHTML = html;
+    window._allDoctorsFilters = filters;
+  }
+
+  window.applyAllDoctorsFilter = function(key, value) {
+    const filters = Object.assign({}, window._allDoctorsFilters || {}, { [key]: value });
+    if (key === 'rating') filters.rating = parseFloat(value);
+    renderAllDoctorsPage(filters);
+  };
+
+  // =====================================================
+  // RENDER ALL HOSPITALS PAGE
+  // =====================================================
+  function renderAllHospitalsPage(filters) {
+    const currentCity = getCurrentCity();
+    filters = filters || { type: 'all', rating: 0, accreditation: 'all', service: 'all' };
+
+    let hospitals = getHospitalsForCity(currentCity);
+
+    // Filter by type
+    if (filters.type !== 'all') {
+      hospitals = hospitals.filter(h => {
+        const typeStr = h.type.toLowerCase();
+        if (filters.type === 'multispeciality') return typeStr.includes('multispeciality');
+        if (filters.type === 'surgery-centre') return typeStr.includes('surgery centre') || typeStr.includes('surgery center') || typeStr.includes('advanced surgery');
+        if (filters.type === 'clinic') return typeStr.includes('clinic') || typeStr.includes('surgical clinic');
+        return true;
+      });
+    }
+
+    // Filter by rating
+    if (filters.rating > 0) {
+      hospitals = hospitals.filter(h => h.rating >= filters.rating);
+    }
+
+    // Filter by accreditation
+    if (filters.accreditation !== 'all') {
+      hospitals = hospitals.filter(h => {
+        const metricsStr = h.metrics.join(' ').toLowerCase();
+        if (filters.accreditation === 'jci') return metricsStr.includes('jci');
+        if (filters.accreditation === 'nabh') return metricsStr.includes('nabh');
+        return true;
+      });
+    }
+
+    // Filter by services/amenities
+    if (filters.service !== 'all') {
+      hospitals = hospitals.filter(h => {
+        const allServices = [...h.services, ...h.amenities].map(s => s.toLowerCase());
+        if (filters.service === 'cashless') return allServices.some(s => s.includes('cashless') || s.includes('insurance'));
+        if (filters.service === 'consultation') return allServices.some(s => s.includes('consultation'));
+        if (filters.service === 'cab') return allServices.some(s => s.includes('cab'));
+        if (filters.service === 'ot') return allServices.some(s => s.includes('ot') || s.includes('operation'));
+        return true;
+      });
+    }
+
+    const html = `
+      <!-- HERO -->
+      <div class="tpl-hero" style="background: linear-gradient(120deg, #7c3aed18 0%, #fff 70%);">
+        <div class="container tpl-hero-inner">
+          <div class="breadcrumb">
+            <a href="#/">Home</a> <span>›</span>
+            <span class="breadcrumb-current">All Partner Hospitals</span>
+          </div>
+          <h1 class="tpl-title">
+            <span style="color:#7c3aed">${hospitals.length} Partner</span> Hospitals in ${currentCity}
+          </h1>
+          <p class="tpl-sub">Find the best partner hospitals and surgical clinics in ${currentCity}. Modern modular OT facilities, ICU support, zero cashless billing hassles, and free cab pick-up &amp; drop.</p>
+          <div class="tpl-trust-row">
+            <span class="tpl-badge"><i class="fa-solid fa-circle-check" style="color:#7c3aed"></i> NABH/JCI Accredited</span>
+            <span class="tpl-badge"><i class="fa-solid fa-shield-halved" style="color:#7c3aed"></i> Zero Cashless Hassle</span>
+            <span class="tpl-badge"><i class="fa-solid fa-car" style="color:#7c3aed"></i> Free Home-to-Hospital Cab</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- MAIN LAYOUT -->
+      <div class="container tpl-layout">
+        <!-- LEFT SIDEBAR: FILTERS -->
+        <aside class="tpl-sidebar">
+          <div class="tpl-filter-head">
+            <i class="fa-solid fa-sliders"></i> Filter Hospitals
+            <button class="tpl-reset-btn" onclick="window._allHospitalsFilters={}; renderAllHospitalsPage()">Reset All</button>
+          </div>
+
+          <div class="tpl-filter-group">
+            <h4>Facility Type</h4>
+            <label class="tpl-radio"><input type="radio" name="hosp-type" value="all" ${filters.type==='all'?'checked':''} onchange="applyAllHospitalsFilter('type','all')"> Any Type</label>
+            <label class="tpl-radio"><input type="radio" name="hosp-type" value="multispeciality" ${filters.type==='multispeciality'?'checked':''} onchange="applyAllHospitalsFilter('type','multispeciality')"> Multispeciality Hospital</label>
+            <label class="tpl-radio"><input type="radio" name="hosp-type" value="surgery-centre" ${filters.type==='surgery-centre'?'checked':''} onchange="applyAllHospitalsFilter('type','surgery-centre')"> Surgery Centre</label>
+            <label class="tpl-radio"><input type="radio" name="hosp-type" value="clinic" ${filters.type==='clinic'?'checked':''} onchange="applyAllHospitalsFilter('type','clinic')"> Surgical Clinic</label>
+          </div>
+
+          <div class="tpl-filter-group">
+            <h4>Minimum Rating</h4>
+            ${[4.8, 4.7, 4.6].map(r => `
+              <label class="tpl-radio"><input type="radio" name="hosp-rating" value="${r}" ${filters.rating===r?'checked':''} onchange="applyAllHospitalsFilter('rating',${r})"> ${r}+ ⭐</label>
+            `).join('')}
+            <label class="tpl-radio"><input type="radio" name="hosp-rating" value="0" ${filters.rating===0?'checked':''} onchange="applyAllHospitalsFilter('rating',0)"> Any Rating</label>
+          </div>
+
+          <div class="tpl-filter-group">
+            <h4>Accreditation</h4>
+            <label class="tpl-radio"><input type="radio" name="hosp-accred" value="all" ${filters.accreditation==='all'?'checked':''} onchange="applyAllHospitalsFilter('accreditation','all')"> Any</label>
+            <label class="tpl-radio"><input type="radio" name="hosp-accred" value="jci" ${filters.accreditation==='jci'?'checked':''} onchange="applyAllHospitalsFilter('accreditation','jci')"> JCI Accredited</label>
+            <label class="tpl-radio"><input type="radio" name="hosp-accred" value="nabh" ${filters.accreditation==='nabh'?'checked':''} onchange="applyAllHospitalsFilter('accreditation','nabh')"> NABH Accredited</label>
+          </div>
+
+          <div class="tpl-filter-group">
+            <h4>Featured Amenities</h4>
+            <label class="tpl-radio"><input type="radio" name="hosp-serv" value="all" ${filters.service==='all'?'checked':''} onchange="applyAllHospitalsFilter('service','all')"> Any</label>
+            <label class="tpl-radio"><input type="radio" name="hosp-serv" value="cashless" ${filters.service==='cashless'?'checked':''} onchange="applyAllHospitalsFilter('service','cashless')"> Cashless Billing</label>
+            <label class="tpl-radio"><input type="radio" name="hosp-serv" value="consultation" ${filters.service==='consultation'?'checked':''} onchange="applyAllHospitalsFilter('service','consultation')"> Free Consultation</label>
+            <label class="tpl-radio"><input type="radio" name="hosp-serv" value="cab" ${filters.service==='cab'?'checked':''} onchange="applyAllHospitalsFilter('service','cab')"> Cab Drop Assistance</label>
+          </div>
+        </aside>
+
+        <div class="tpl-cards-col">
+          <div class="tpl-results-bar">
+            <span><strong>${hospitals.length}</strong> hospital${hospitals.length !== 1 ? 's' : ''} found in ${currentCity}</span>
+            <span class="tpl-sort-label">Sort: <strong>Relevance</strong> ▾</span>
+          </div>
+
+          ${hospitals.length === 0 ? `
+            <div class="tpl-empty">
+              <i class="fa-solid fa-hospital"></i>
+              <p>No partner hospitals match your filters in ${currentCity}. Try adjusting them.</p>
+            </div>
+          ` : `<div class="hl-list">` + hospitals.map((hospital, index) => `
+            <article class="hl-card ${index === 0 ? 'is-highlighted' : ''}">
+              <div class="hl-image-wrap">
+                <img src="${hospital.image}" alt="${hospital.name}" onerror="this.src='images/about-surgery.png'">
+              </div>
+              <div class="hl-content">
+                <div class="hl-title-row">
+                  <div>
+                    <h3>${hospital.name}</h3>
+                    <div class="hl-meta-list">
+                      <span><i class="fa-solid fa-location-dot"></i>${hospital.address}</span>
+                      <span><i class="fa-solid fa-route"></i>${hospital.distance}</span>
+                      <span><i class="fa-solid fa-user-doctor"></i>${hospital.type}</span>
+                    </div>
+                  </div>
+                  <div class="hl-rating">${hospital.rating} <i class="fa-solid fa-star"></i> <span>(${hospital.reviews} reviews)</span></div>
+                </div>
+
+                <div class="hl-metrics">
+                  ${hospital.metrics.slice(0, 2).map(metric => `<span>${metric}</span>`).join('')}
+                </div>
+
+                <div class="hl-tags">
+                  ${hospital.services.map(service => `<span>${service}</span>`).join('')}
+                </div>
+
+                <div class="hl-actions">
+                  <a href="#/hospital/${hospital.slug}" class="hl-primary">View Hospital Details →</a>
+                  <a href="tel:${hospital.phone.replace(/-/g, '')}" class="hl-secondary">
+                    <i class="fa-solid fa-phone"></i> Call: ${hospital.phone}
+                  </a>
+                </div>
+              </div>
+            </article>
+          `).join('') + `</div>`}
+        </div>
+      </div>
+    `;
+
+    appContainer.innerHTML = html;
+    window._allHospitalsFilters = filters;
+  }
+
+  window.applyAllHospitalsFilter = function(key, value) {
+    const filters = Object.assign({}, window._allHospitalsFilters || {}, { [key]: value });
+    if (key === 'rating') filters.rating = parseFloat(value);
+    renderAllHospitalsPage(filters);
+  };
+
+
+  function initCitySelector() {
+    const btn = document.getElementById('citySelectorBtn');
+    const menu = document.getElementById('cityDropdownMenu');
+    const textSpan = document.getElementById('currentCityText');
+    const currentCity = getCurrentCity();
+
+    if (textSpan) {
+      textSpan.textContent = `📍 ${currentCity}`;
+    }
+
+    if (menu) {
+      const items = menu.querySelectorAll('.city-dropdown-item');
+      items.forEach(item => {
+        if (item.getAttribute('data-city').toLowerCase() === currentCity.toLowerCase()) {
+          item.classList.add('active');
+        } else {
+          item.classList.remove('active');
+        }
+      });
+    }
+
+    if (!btn || !menu) return;
+
+    btn.addEventListener('click', (e) => {
+      e.stopPropagation();
+      const isVisible = menu.style.display === 'flex';
+      menu.style.display = isVisible ? 'none' : 'flex';
+    });
+
+    document.addEventListener('click', () => {
+      menu.style.display = 'none';
+    });
+
+    menu.addEventListener('click', (e) => {
+      const item = e.target.closest('.city-dropdown-item');
+      if (!item) return;
+
+      const selectedCity = item.getAttribute('data-city');
+      localStorage.setItem('selectedCity', selectedCity);
+
+      if (textSpan) {
+        textSpan.textContent = `📍 ${selectedCity}`;
+      }
+
+      menu.querySelectorAll('.city-dropdown-item').forEach(el => {
+        el.classList.toggle('active', el === item);
+      });
+
+      menu.style.display = 'none';
+      handleRoute();
+    });
+  }
+
+  initCitySelector();
   initRouter();
 });
