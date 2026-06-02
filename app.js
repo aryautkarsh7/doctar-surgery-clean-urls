@@ -2074,21 +2074,21 @@ ${homeDoctors.slice(0, 8).map(doc => `
 
     const html = `
       <!-- HERO -->
-      <div class="tpl-hero" style="background: linear-gradient(120deg, #7c3aed18 0%, #fff 70%);">
+      <div class="tpl-hero" style="background: linear-gradient(120deg, #5e409118 0%, #fff 70%);">
         <div class="container tpl-hero-inner">
           <div class="breadcrumb">
             <a href="#/">Home</a> <span>›</span>
             <span class="breadcrumb-current">All Surgeons</span>
           </div>
           <h1 class="tpl-title">
-            <span style="color:#7c3aed">${doctors.length} Verified</span> Surgeons in ${currentCity}
+            <span style="color:#5e4091">${doctors.length} Verified</span> Surgeons in ${currentCity}
           </h1>
           <p class="tpl-sub">Find the best board-certified surgeons in ${currentCity}. Book verified specialists available for in-clinic consultations with free consultation, insurance support &amp; cab service.</p>
           <div class="tpl-trust-row">
-            <span class="tpl-badge"><i class="fa-solid fa-circle-check" style="color:#7c3aed"></i> Licensed &amp; Verified</span>
-            <span class="tpl-badge"><i class="fa-solid fa-hospital" style="color:#7c3aed"></i> In-Clinic Available</span>
-            <span class="tpl-badge"><i class="fa-solid fa-headset" style="color:#7c3aed"></i> 24/7 On-Call Service</span>
-            <span class="tpl-badge"><i class="fa-solid fa-car" style="color:#7c3aed"></i> Free Cab</span>
+            <span class="tpl-badge"><i class="fa-solid fa-circle-check" style="color:#5e4091"></i> Licensed &amp; Verified</span>
+            <span class="tpl-badge"><i class="fa-solid fa-hospital" style="color:#5e4091"></i> In-Clinic Available</span>
+            <span class="tpl-badge"><i class="fa-solid fa-headset" style="color:#5e4091"></i> 24/7 On-Call Service</span>
+            <span class="tpl-badge"><i class="fa-solid fa-car" style="color:#5e4091"></i> Free Cab</span>
           </div>
           <div class="tpl-info-pills">
             <span class="tpl-pill"><i class="fa-solid fa-shield-halved"></i> USFDA Approved</span>
@@ -2266,20 +2266,20 @@ ${homeDoctors.slice(0, 8).map(doc => `
 
     const html = `
       <!-- HERO -->
-      <div class="tpl-hero" style="background: linear-gradient(120deg, #7c3aed18 0%, #fff 70%);">
+      <div class="tpl-hero" style="background: linear-gradient(120deg, #5e409118 0%, #fff 70%);">
         <div class="container tpl-hero-inner">
           <div class="breadcrumb">
             <a href="#/">Home</a> <span>›</span>
             <span class="breadcrumb-current">All Partner Hospitals</span>
           </div>
           <h1 class="tpl-title">
-            <span style="color:#7c3aed">${hospitals.length} Partner</span> Hospitals in ${currentCity}
+            <span style="color:#5e4091">${hospitals.length} Partner</span> Hospitals in ${currentCity}
           </h1>
           <p class="tpl-sub">Find the best partner hospitals and surgical clinics in ${currentCity}. Modern modular OT facilities, ICU support, zero cashless billing hassles, and free cab pick-up &amp; drop.</p>
           <div class="tpl-trust-row">
-            <span class="tpl-badge"><i class="fa-solid fa-circle-check" style="color:#7c3aed"></i> NABH/JCI Accredited</span>
-            <span class="tpl-badge"><i class="fa-solid fa-shield-halved" style="color:#7c3aed"></i> Zero Cashless Hassle</span>
-            <span class="tpl-badge"><i class="fa-solid fa-car" style="color:#7c3aed"></i> Free Home-to-Hospital Cab</span>
+            <span class="tpl-badge"><i class="fa-solid fa-circle-check" style="color:#5e4091"></i> NABH/JCI Accredited</span>
+            <span class="tpl-badge"><i class="fa-solid fa-shield-halved" style="color:#5e4091"></i> Zero Cashless Hassle</span>
+            <span class="tpl-badge"><i class="fa-solid fa-car" style="color:#5e4091"></i> Free Home-to-Hospital Cab</span>
           </div>
         </div>
       </div>

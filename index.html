@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Doctar - Expert Surgical Care</title>
-  <link rel="stylesheet" href="styles.css?v=20260603-doctar-polish">
+  <link rel="stylesheet" href="styles.css?v=20260603-header-refine">
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
   
   <!-- Add Font Awesome for icons (if needed later) -->
@@ -29,19 +29,22 @@
       </div>
       
       <div class="header-search">
-        <span class="search-icon">🔍</span>
-        <input type="text" placeholder="Search for disease, doctors, treatments...">
+        <span class="search-icon"><i class="fa-solid fa-magnifying-glass"></i></span>
+        <input type="text" placeholder="Search doctors, hospitals, treatments...">
+        <span class="search-lang">En</span>
+        <button class="search-go" aria-label="Search"><i class="fa-solid fa-arrow-right"></i></button>
       </div>
-      
+
       <div class="header-actions">
-        <div class="helpline">
-          <div class="helpline-icon">📞</div>
+        <a href="tel:+918877772277" class="helpline">
+          <div class="helpline-icon"><i class="fa-solid fa-headset"></i></div>
           <div class="helpline-text">
             <p>24/7 Helpline</p>
             <h4>+91-8877772277</h4>
           </div>
-        </div>
-        <button class="btn-outline">Login / Signup</button>
+        </a>
+        <button class="btn-login">Login</button>
+        <button class="btn-signup">Sign Up</button>
       </div>
     </div>
   </header>
@@ -120,7 +123,7 @@
 
   <!-- Scripts -->
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
-  <script src="data.js?v=20260603-doctar-polish"></script>
-  <script src="app.js?v=20260603-doctar-polish"></script>
+  <script src="data.js?v=20260603-header-refine"></script>
+  <script src="app.js?v=20260603-header-refine"></script>
 </body>
 </html>
