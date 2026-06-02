@@ -701,6 +701,52 @@ ${homeDoctors.slice(0, 8).map(doc => `
 
         </div>
       </section>
+
+      <!-- DOCTAR.IN CTA BANNER -->
+      <section class="db-banner-section">
+        <div class="container">
+          <div class="db-banner">
+            <div class="db-banner-glow"></div>
+            <div class="db-banner-content">
+              <div class="db-banner-badge"><i class="fa-solid fa-globe"></i> Powered by Doctar.in</div>
+              <h2 class="db-banner-title">Looking for Home-Visit Doctors &amp; More?</h2>
+              <p class="db-banner-sub">Doctar is India's leading healthcare network — book home-visit doctors, diagnostics, hospitals and specialists across 30+ cities on our main platform.</p>
+            </div>
+            <a href="https://doctar.in" target="_blank" rel="noopener noreferrer" class="db-banner-btn">
+              Visit Doctar.in <i class="fa-solid fa-arrow-right"></i>
+            </a>
+          </div>
+        </div>
+      </section>
+
+      <!-- FAQ SECTION -->
+      <section class="faq-section" id="faq">
+        <div class="container faq-inner">
+          <div class="faq-header">
+            <div class="faq-eyebrow"><i class="fa-solid fa-circle-question"></i> FAQs</div>
+            <h2 class="faq-title">Frequently Asked Questions</h2>
+            <p class="faq-subtitle">Everything you need to know about booking surgery and consultations through Doctar.</p>
+          </div>
+          <div class="faq-list">
+            ${[
+              { q: 'How do I book a surgery or consultation through Doctar?', a: 'Simply search for your condition or speciality, choose a verified surgeon, and click "Book Appointment". You can also call our 24/7 helpline at +91-8877772277 and our care coordinator will guide you through the entire process.' },
+              { q: 'Is the first consultation really free?', a: 'Yes. Your first consultation with our expert surgeons is completely free. You can discuss your condition, explore treatment options, and get a personalised care plan at no cost.' },
+              { q: 'Do you accept health insurance?', a: 'We accept all major health insurance providers. Our dedicated insurance team handles all the paperwork and claims processing, making it a cashless and hassle-free experience.' },
+              { q: 'What is the No Cost EMI option?', a: 'We offer No Cost EMI plans starting from ₹0 down payment. You can spread your surgery cost over 3 to 24 months at zero interest through our banking partners.' },
+              { q: 'Do you provide free cab service?', a: 'Yes. We provide free cab pick-up and drop service from your home to the hospital and back on the day of your surgery.' },
+              { q: 'How experienced are the surgeons on Doctar?', a: 'All our surgeons are board-certified with a minimum of 10 years of experience and are trained in the latest minimally invasive and laser techniques.' },
+            ].map((faq, i) => `
+              <div class="faq-item${i === 0 ? ' open' : ''}" onclick="this.classList.toggle('open')">
+                <div class="faq-q">
+                  <span>${faq.q}</span>
+                  <i class="fa-solid fa-chevron-down faq-chevron"></i>
+                </div>
+                <div class="faq-a"><p>${faq.a}</p></div>
+              </div>
+            `).join('')}
+          </div>
+        </div>
+      </section>
     `;
 
     appContainer.innerHTML = html;
