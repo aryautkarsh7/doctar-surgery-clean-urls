@@ -1531,8 +1531,8 @@ ${homeDoctors.slice(0, 8).map(doc => `
     const html = `
       <!-- BREADCRUMB -->
       <div class="container dpp-breadcrumb">
-        <a href="#/">Home</a> <span>/</span>
-        <a href="#/doctors/${doc.categories[0]}">Doctors</a> <span>/</span>
+        <a href="#/">Home</a> <span>›</span>
+        <a href="#/doctors/${doc.categories[0]}">Doctors</a> <span>›</span>
         <span>${doc.name}</span>
       </div>
 
@@ -1744,8 +1744,8 @@ ${homeDoctors.slice(0, 8).map(doc => `
 
     const html = `
       <div class="container dpp-breadcrumb">
-        <a href="#/">Home</a> <span>/</span>
-        <a href="#/">Hospitals</a> <span>/</span>
+        <a href="#/">Home</a> <span>›</span>
+        <a href="#/">Hospitals</a> <span>›</span>
         <span>${hospital.name}</span>
       </div>
 
