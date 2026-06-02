@@ -745,8 +745,8 @@ ${homeDoctors.slice(0, 8).map(doc => `
                 </div>
               </div>
               <div class="dc-actions">
-                <button class="dc-btn-book" onclick="alert('Booking coming soon')">📅 Book Appointment</button>
-                <button class="dc-btn-call" onclick="alert('Calling coming soon')">📞 Call</button>
+                <button class="dc-btn-book" onclick="window.location.hash='#/doctor/${doc.slug}'">📅 Book Appointment</button>
+                <button class="dc-btn-call" onclick="window.location.hash='#/doctor/${doc.slug}'">📞 Call</button>
               </div>
             </div>
           `).join('') + `</div>`}
@@ -1155,10 +1155,10 @@ ${homeDoctors.slice(0, 8).map(doc => `
                 </div>
 
                 <div class="dl-card-actions">
-                  <button class="dl-btn-book" style="background:${category.color};" onclick="alert('Booking coming soon')">
+                  <button class="dl-btn-book" style="background:${category.color};" onclick="window.location.hash='#/doctor/${doc.slug}'">
                     <i class="fa-solid fa-calendar-check"></i> Book Appointment
                   </button>
-                  <button class="dl-btn-call" style="color:${category.color}; border-color:${category.color};" onclick="alert('Calling coming soon')">
+                  <button class="dl-btn-call" style="color:${category.color}; border-color:${category.color};" onclick="window.location.hash='#/doctor/${doc.slug}'">
                     <i class="fa-solid fa-phone"></i> Call
                   </button>
                 </div>
