@@ -4939,10 +4939,29 @@ footer::before {
 
 /* Carousel container */
 .tb-carousel-wrap {
-  overflow: hidden;
+  overflow-x: auto;
+  overflow-y: hidden;
   padding-top: 8px;
+  scroll-behavior: smooth;
+  scroll-snap-type: x proximity;
+  -webkit-overflow-scrolling: touch;
+  cursor: grab;
+  scrollbar-width: none;
   /* show 3 full cards + 20% of 4th */
   /* card width controlled by .tb-card */
+}
+
+.tb-carousel-wrap::-webkit-scrollbar {
+  display: none;
+}
+
+.tb-carousel-wrap.is-dragging {
+  cursor: grabbing;
+  scroll-behavior: auto;
+}
+
+.tb-carousel-wrap.is-dragging .tb-card {
+  pointer-events: none;
 }
 
 .ds-section .tb-carousel-wrap {
@@ -4954,14 +4973,14 @@ footer::before {
 .tb-track {
   display: flex;
   gap: 20px;
-  transition: transform 0.4s cubic-bezier(0.4, 0, 0.2, 1);
-  will-change: transform;
+  min-width: 100%;
 }
 
 /* Each card — fixed width so 3.2 fit in viewport */
 .tb-card {
   flex: 0 0 calc((100% - 60px) / 3.2);
   min-width: calc((100% - 60px) / 3.2);
+  scroll-snap-align: start;
 }
 
 @media (max-width: 1024px) {

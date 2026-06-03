@@ -1060,9 +1060,11 @@ ${homeDoctors.slice(0, 8).map(doc => `
     const nextBtn = document.getElementById(nextId);
     if (!track || !prevBtn || !nextBtn) return;
 
-    let index = 0;
+    const scroller = track.closest('.tb-carousel-wrap') || track;
     const cards = track.querySelectorAll('.tb-card');
-    const total = cards.length;
+    let isDragging = false;
+    let startX = 0;
+    let startScrollLeft = 0;
 
     function getCardWidth() {
       if (!cards[0]) return 0;
@@ -1070,13 +1072,42 @@ ${homeDoctors.slice(0, 8).map(doc => `
     }
 
     function update() {
-      track.style.transform = `translateX(-${index * getCardWidth()}px)`;
-      prevBtn.style.opacity = index === 0 ? '0.4' : '1';
-      nextBtn.style.opacity = index >= total - visible ? '0.4' : '1';
+      const maxScroll = scroller.scrollWidth - scroller.clientWidth;
+      prevBtn.style.opacity = scroller.scrollLeft <= 2 ? '0.4' : '1';
+      nextBtn.style.opacity = scroller.scrollLeft >= maxScroll - 2 ? '0.4' : '1';
     }
 
-    prevBtn.addEventListener('click', () => { if (index > 0) { index--; update(); } });
-    nextBtn.addEventListener('click', () => { if (index < total - visible) { index++; update(); } });
+    prevBtn.addEventListener('click', () => {
+      scroller.scrollBy({ left: -getCardWidth(), behavior: 'smooth' });
+    });
+
+    nextBtn.addEventListener('click', () => {
+      scroller.scrollBy({ left: getCardWidth(), behavior: 'smooth' });
+    });
+
+    scroller.addEventListener('scroll', update, { passive: true });
+
+    scroller.addEventListener('pointerdown', (event) => {
+      isDragging = true;
+      startX = event.clientX;
+      startScrollLeft = scroller.scrollLeft;
+      scroller.classList.add('is-dragging');
+    });
+
+    scroller.addEventListener('pointermove', (event) => {
+      if (!isDragging) return;
+      event.preventDefault();
+      scroller.scrollLeft = startScrollLeft - (event.clientX - startX);
+    });
+
+    ['pointerup', 'pointerleave', 'pointercancel'].forEach(eventName => {
+      scroller.addEventListener(eventName, () => {
+        isDragging = false;
+        scroller.classList.remove('is-dragging');
+      });
+    });
+
+    window.addEventListener('resize', update);
     update();
   }
 
