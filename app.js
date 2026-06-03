@@ -1092,7 +1092,7 @@ ${homeDoctors.slice(0, 8).map(doc => `
           <div class="fp-header-left">
             <div class="fp-icon-badge"><i class="fa-regular fa-star"></i></div>
             <div class="fp-header-text">
-              <h3>Popular Procedures in ${getCurrentCity()}</h3>
+              <h3>Popular Procedures in <span style="color:var(--primary)">${getCurrentCity()}</span></h3>
               <p>Most searched and booked treatments in ${getCurrentCity()}</p>
             </div>
           </div>
