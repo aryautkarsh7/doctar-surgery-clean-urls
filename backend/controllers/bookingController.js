@@ -32,4 +32,34 @@ async function getAllBookings(req, res) {
   }
 }
 
-module.exports = { createBooking, getAllBookings };
+// PUT /api/bookings/:id/status — update a booking's status
+const ALLOWED_STATUSES = ['pending', 'confirmed', 'cancelled'];
+
+async function updateBookingStatus(req, res) {
+  try {
+    const { status } = req.body;
+
+    if (!ALLOWED_STATUSES.includes(status)) {
+      return res.status(400).json({
+        success: false,
+        message: `Status must be one of: ${ALLOWED_STATUSES.join(', ')}`,
+      });
+    }
+
+    const booking = await Booking.findByIdAndUpdate(
+      req.params.id,
+      { status },
+      { new: true }
+    );
+
+    if (!booking) {
+      return res.status(404).json({ success: false, message: 'Booking not found' });
+    }
+
+    return res.json({ success: true, message: 'Status updated', data: booking });
+  } catch (err) {
+    return res.status(500).json({ success: false, error: err.message });
+  }
+}
+
+module.exports = { createBooking, getAllBookings, updateBookingStatus };

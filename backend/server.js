@@ -1,6 +1,7 @@
 const express = require('express');
 const cors = require('cors');
 const dotenv = require('dotenv');
+const path = require('path');
 
 dotenv.config();
 
@@ -24,6 +25,11 @@ app.use(express.urlencoded({ extended: true }));
 
 // Routes
 app.use('/api/bookings', bookingRoutes);
+
+// Admin panel (static HTML)
+app.get('/admin', (req, res) => {
+  res.sendFile(path.join(__dirname, 'public', 'admin.html'));
+});
 
 // Health-check / test route
 app.get('/', (req, res) => {
