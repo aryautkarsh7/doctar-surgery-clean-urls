@@ -131,11 +131,12 @@ document.addEventListener('DOMContentLoaded', () => {
     ];
 
     const popularProcedures = [
-      { id: 'p1', name: 'Knee Replacement', slug: 'knee-replacement', specialty: 'Orthopedics', image: 'images/service-general.png', rating: '4.8', reviews: '1,245', recovery: '2 - 4 weeks' },
-      { id: 'p2', name: 'Cataract Surgery', slug: 'cataract-surgery', specialty: 'Ophthalmology', image: 'images/service-neuro.png', rating: '4.9', reviews: '980', recovery: '3 - 7 days' },
-      { id: 'p3', name: 'Angioplasty', slug: 'angioplasty', specialty: 'Cardiology', image: 'images/service-cardiac.png', rating: '4.7', reviews: '1,150', recovery: '1 - 3 days' },
-      { id: 'p4', name: 'Gallstone Surgery', slug: 'gallbladder-removal', specialty: 'General Surgery', image: 'images/about-surgery.png', rating: '4.6', reviews: '870', recovery: '3 - 5 days' },
-      { id: 'p5', name: 'Hair Transplant', slug: 'hair-transplant', specialty: 'Cosmetic Surgery', image: 'images/service-general.png', rating: '4.8', reviews: '1,320', recovery: '7 - 10 days' },
+      { id: 'p1', name: 'Knee Replacement', slug: 'knee-replacement', specialty: 'Orthopedics', icon: 'fa-solid fa-bone', color: '#7c3aed', price: '₹80,000*', rating: '95', reviews: '1,240', badge: 'POPULAR', recovery: '2 - 4 weeks' },
+      { id: 'p2', name: 'Cataract Surgery', slug: 'cataract-surgery', specialty: 'Ophthalmology', icon: 'fa-solid fa-eye', color: '#3b82f6', price: '₹25,000*', rating: '98', reviews: '3,200', badge: 'RECOMMENDED', recovery: '3 - 7 days' },
+      { id: 'p3', name: 'Gallstone Surgery', slug: 'gallbladder-removal', specialty: 'General Surgery', icon: 'fa-solid fa-stethoscope', color: '#22c55e', price: '₹40,000*', rating: '97', reviews: '2,100', badge: 'AVAILABLE', recovery: '3 - 5 days' },
+      { id: 'p4', name: 'Angioplasty', slug: 'angioplasty', specialty: 'Cardiology', icon: 'fa-solid fa-heart-pulse', color: '#ef4444', price: '₹1,20,000*', rating: '96', reviews: '1,150', badge: 'POPULAR', recovery: '1 - 3 days' },
+      { id: 'p5', name: 'Hair Transplant', slug: 'hair-transplant', specialty: 'Cosmetic Surgery', icon: 'fa-solid fa-wand-magic-sparkles', color: '#a855f7', price: '₹60,000*', rating: '94', reviews: '1,320', badge: 'AVAILABLE', recovery: '7 - 10 days' },
+      { id: 'p6', name: 'Piles Treatment', slug: 'piles-treatment', specialty: 'Proctology', icon: 'fa-solid fa-notes-medical', color: '#f59e0b', price: '₹35,000*', rating: '96', reviews: '890', badge: 'POPULAR', recovery: '2 - 3 days' },
     ];
 
     window.popularProcedures = popularProcedures;
@@ -1099,17 +1100,26 @@ ${homeDoctors.slice(0, 8).map(doc => `
         </div>
         <div class="fp-equal-grid">
           ${procedures.map(p => `
-            <a href="#/treatment/${p.slug}" class="fp-eq-card">
-              <div class="fp-eq-icon-area">
-                <i class="fa-solid fa-stethoscope"></i>
-                <span class="fp-eq-specialty-tag">${p.specialty}</span>
+            <a href="#/treatment/${p.slug}" class="surg-card">
+              <div class="surg-card-head">
+                <div class="surg-icon" style="background:${p.color}1a; color:${p.color};"><i class="${p.icon}"></i></div>
+                <div class="surg-title-wrap">
+                  <h3 class="surg-name">${p.name}</h3>
+                  <span class="surg-specialty">${p.specialty}</span>
+                </div>
+                <span class="surg-badge surg-badge-${p.badge.toLowerCase()}">${p.badge}</span>
               </div>
-              <div class="fp-eq-body">
-                <div class="fp-eq-name">${p.name}</div>
-                <div class="fp-eq-meta"><i class="fa-solid fa-star"></i><span>${p.rating} (${p.reviews} reviews)</span></div>
-                <div class="fp-eq-meta"><i class="fa-regular fa-clock"></i><span>Recovery ${p.recovery}</span></div>
-                <div class="fp-eq-btn">Learn More →</div>
+              <div class="surg-rows">
+                <div class="surg-row">
+                  <span class="surg-row-label">AVG PRICE</span>
+                  <span class="surg-row-val">${p.price}</span>
+                </div>
+                <div class="surg-row">
+                  <span class="surg-row-label">RATING</span>
+                  <span class="surg-row-val"><i class="fa-solid fa-star" style="color:#fbbf24;"></i> ${p.rating}% <span class="surg-reviews">(${p.reviews})</span></span>
+                </div>
               </div>
+              <span class="surg-book">BOOK NOW <i class="fa-solid fa-arrow-right"></i></span>
             </a>
           `).join('')}
         </div>
