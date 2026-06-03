@@ -6,9 +6,13 @@ dotenv.config();
 
 const connectDB = require('./config/db');
 const bookingRoutes = require('./routes/booking');
+const { verifyMailer } = require('./utils/mailer');
 
 // Connect to the database
 connectDB();
+
+// Verify the email transporter config
+verifyMailer();
 
 const app = express();
 const PORT = process.env.PORT || 3001;

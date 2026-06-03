@@ -4,6 +4,7 @@ const bookingSchema = new mongoose.Schema({
     name: { type: String, required: true },
     phone: { type: String, required: true },
     disease: { type: String, required: true },
+    email: { type: String }, // optional — enables the patient confirmation email
     status: { type: String, default: 'pending' },
     source: { type: String, default: 'surgery.doctar.in' },
     createdAt: { type: Date, default: Date.now }
