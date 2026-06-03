@@ -171,63 +171,52 @@ document.addEventListener('DOMContentLoaded', () => {
       },
     ];
 
+    const heroServices = [
+      { title: 'Find a Surgeon', sub: 'Verified expert surgeons', img: 'images/hero-surgery.png', href: '#/doctors' },
+      { title: 'Surgeries', sub: 'Safe & trusted procedures', img: 'images/service-general.png', href: '#/procedures' },
+      { title: 'Specialities', sub: 'Browse by condition', img: 'images/service-neuro.png', href: '#/categories' },
+      { title: 'Hospitals', sub: 'Top partner facilities', img: 'images/service-cardiac.png', href: '#/hospitals' },
+      { title: 'Treatments', sub: 'Costs & recovery info', img: 'images/about-surgery.png', href: '#/procedures' },
+      { title: 'Free Consultation', sub: 'Talk to our care team', img: 'images/service-general.png', href: 'tel:+918877772277' },
+    ];
+
     let html = `
       <!-- HERO SECTION -->
       <section class="hero-new">
-        <div class="container hero-new-inner">
-          <div class="hero-left">
-            <div class="hero-eyebrow">
-              <i class="fa-solid fa-shield-halved"></i> ${currentCity}'s Trusted Surgical Network
-            </div>
-            <h1 class="hero-title-new">
-              Simplifying Surgery<br>
-              <span>Experience in ${currentCity}</span>
-            </h1>
-            <p class="hero-sub-new">
-              Book appointments with expert surgeons in ${currentCity}. Free consultation, cab drop & zero-cost EMI across 150+ clinics.
-            </p>
-            <div class="hero-trust-points">
-              <div class="hero-tp"><i class="fa-solid fa-circle-check"></i><span>Consultation for 50+ diseases in ${currentCity}</span></div>
-              <div class="hero-tp"><i class="fa-solid fa-circle-check"></i><span>In-person & online with expert doctors</span></div>
-              <div class="hero-tp"><i class="fa-solid fa-circle-check"></i><span>Insurance covered & No Cost EMI</span></div>
-            </div>
-            <a href="tel:+918877772277" class="hero-call-btn">
-              <i class="fa-solid fa-phone"></i> Call Us: +91-8877772277
-            </a>
-          </div>
-          <div class="hero-right">
-            <div class="hero-form-card">
-              <div class="hero-form-header">
-                <i class="fa-solid fa-calendar-check"></i>
-                <h3>Book FREE Doctor Appointment</h3>
-              </div>
-              <div class="hero-form-body">
-                <input type="text" class="hero-input" placeholder="Patient Name" />
-                <input type="tel" class="hero-input" placeholder="Mobile Number" />
-                <div class="hero-select-wrap">
-                  <select class="hero-input hero-select">
-                    <option value="" disabled selected>Select Disease</option>
-                    ${POPULAR_TREATMENTS.map(t => `<option value="${t.slug}">${t.name}</option>`).join('')}
-                  </select>
-                  <i class="fa-solid fa-chevron-down hero-select-icon"></i>
-                </div>
-                <button class="hero-submit-btn" onclick="alert('Our team will contact you shortly!')">
-                  <i class="fa-solid fa-calendar-check"></i> Book Free Appointment
-                </button>
-                <p class="hero-form-note">
-                  <i class="fa-solid fa-lock"></i> 100% Private & Confidential
-                </p>
+        <div class="container">
+          <div class="hero-card">
+            <div class="hero-card-grid"></div>
+            <div class="hero-card-content">
+              <div class="hero-pill"><span class="hero-pill-dot"></span> PREMIUM SURGICAL CARE</div>
+              <h1 class="hero-headline">
+                Your Health,<br>
+                <span>Expertly Managed.</span>
+              </h1>
+              <p class="hero-tagline">Book expert surgeons in ${currentCity} — free consultation, cab drop &amp; zero-cost EMI across 150+ clinics.</p>
+              <div class="hero-services">
+                ${heroServices.map(s => `
+                  <a href="${s.href}" class="hero-service-card">
+                    <div class="hero-service-img"><img src="${s.img}" alt="${s.title}"></div>
+                    <div class="hero-service-body">
+                      <h3>${s.title}</h3>
+                      <p>${s.sub}</p>
+                      <span class="hero-service-explore">Explore <i class="fa-solid fa-chevron-right"></i></span>
+                    </div>
+                  </a>
+                `).join('')}
               </div>
             </div>
           </div>
         </div>
-        <div class="hero-stats-bar">
-          <div class="hero-stat"><span>3M+</span><p>Happy Patients</p></div>
-          <div class="hero-stat"><span>250K+</span><p>Surgeries Done</p></div>
-          <div class="hero-stat"><span>150+</span><p>Clinics Pan India</p></div>
-          <div class="hero-stat"><span>100+</span><p>Expert Surgeons</p></div>
-          <div class="hero-stat"><span>50+</span><p>Cities Covered</p></div>
-          <div class="hero-stat"><span>4.9★</span><p>Patient Rating</p></div>
+        <div class="container">
+          <div class="hero-stats-bar">
+            <div class="hero-stat"><span>3M+</span><p>Happy Patients</p></div>
+            <div class="hero-stat"><span>250K+</span><p>Surgeries Done</p></div>
+            <div class="hero-stat"><span>150+</span><p>Clinics Pan India</p></div>
+            <div class="hero-stat"><span>100+</span><p>Expert Surgeons</p></div>
+            <div class="hero-stat"><span>50+</span><p>Cities Covered</p></div>
+            <div class="hero-stat"><span>4.9★</span><p>Patient Rating</p></div>
+          </div>
         </div>
       </section>
 
