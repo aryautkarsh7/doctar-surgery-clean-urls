@@ -2469,6 +2469,41 @@ ${homeDoctors.slice(0, 8).map(doc => `
     });
   }
 
+  // =====================================================
+  // LOAD DATA FROM BACKEND (/api/data/all), fall back to data.js
+  // =====================================================
+  const API_BASE = window.DOCTAR_API_BASE || 'http://localhost:3001';
+
+  async function loadRemoteData() {
+    try {
+      const res = await fetch(API_BASE + '/api/data/all', { cache: 'no-store' });
+      if (!res.ok) throw new Error('bad status ' + res.status);
+      const json = await res.json();
+      const d = (json && json.data) || {};
+
+      // Mutate the existing globals in place (they are const arrays/objects).
+      if (Array.isArray(d.categories) && d.categories.length) {
+        CATEGORIES.length = 0;
+        CATEGORIES.push(...d.categories);
+      }
+      if (d.treatments && Object.keys(d.treatments).length) {
+        Object.keys(TREATMENTS).forEach(k => delete TREATMENTS[k]);
+        Object.assign(TREATMENTS, d.treatments);
+      }
+      if (Array.isArray(d.doctors) && d.doctors.length) {
+        DOCTORS.length = 0;
+        DOCTORS.push(...d.doctors);
+      }
+      if (Array.isArray(d.hospitals) && d.hospitals.length) {
+        HOSPITALS.length = 0;
+        HOSPITALS.push(...d.hospitals);
+      }
+      console.log('✅ Loaded live data from backend');
+    } catch (err) {
+      console.warn('⚠️ Using bundled data.js (backend unavailable):', err.message);
+    }
+  }
+
   initCitySelector();
-  initRouter();
+  loadRemoteData().finally(initRouter);
 });

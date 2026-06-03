@@ -7,7 +7,14 @@ dotenv.config();
 
 const connectDB = require('./config/db');
 const bookingRoutes = require('./routes/booking');
+const dataRoutes = require('./routes/data');
+const resourceRouter = require('./routes/resource');
 const { verifyMailer } = require('./utils/mailer');
+
+const Category = require('./models/Category');
+const Treatment = require('./models/Treatment');
+const Doctor = require('./models/Doctor');
+const Hospital = require('./models/Hospital');
 
 // Connect to the database
 connectDB();
@@ -25,6 +32,11 @@ app.use(express.urlencoded({ extended: true }));
 
 // Routes
 app.use('/api/bookings', bookingRoutes);
+app.use('/api/categories', resourceRouter(Category, 'Category'));
+app.use('/api/treatments', resourceRouter(Treatment, 'Treatment'));
+app.use('/api/doctors', resourceRouter(Doctor, 'Doctor'));
+app.use('/api/hospitals', resourceRouter(Hospital, 'Hospital'));
+app.use('/api/data', dataRoutes);
 
 // Admin panel (static HTML)
 app.get('/admin', (req, res) => {
