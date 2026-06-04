@@ -11,37 +11,51 @@ document.addEventListener('DOMContentLoaded', () => {
   }
 
   function handleRoute() {
-    const hash = window.location.hash || '#/';
-    appContainer.innerHTML = '';
-    window.scrollTo(0, 0);
-    if (hash === '#/') {
-      renderHomePage();
-    } else if (hash === '#/doctors') {
-      renderAllDoctorsPage();
-    } else if (hash === '#/hospitals') {
-      renderAllHospitalsPage();
-    } else if (hash === '#/categories') {
-      renderAllCategoriesPage();
-    } else if (hash === '#/procedures') {
-      renderAllProceduresPage();
-    } else if (hash.startsWith('#/category/')) {
-      const slug = hash.replace('#/category/', '');
-      renderCategoryPage(slug);
-    } else if (hash.startsWith('#/treatment/')) {
-      const slug = hash.replace('#/treatment/', '');
-      renderTreatmentPage(slug);
-    } else if (hash.startsWith('#/doctor/')) {
-      const docSlug = hash.replace('#/doctor/', '');
-      renderDoctorProfilePage(docSlug);
-    } else if (hash.startsWith('#/hospital/')) {
-      const hospitalSlug = hash.replace('#/hospital/', '');
-      renderHospitalDetailPage(hospitalSlug);
-    } else if (hash.startsWith('#/doctors/')) {
-      const catSlug = hash.replace('#/doctors/', '');
-      renderDoctorsListingPage(catSlug);
-    } else {
-      renderHomePage();
+    try {
+      const hash = window.location.hash || '#/';
+      appContainer.innerHTML = '';
+      window.scrollTo(0, 0);
+      if (hash === '#/') {
+        renderHomePage();
+      } else if (hash === '#/doctors') {
+        renderAllDoctorsPage();
+      } else if (hash === '#/hospitals') {
+        renderAllHospitalsPage();
+      } else if (hash === '#/categories') {
+        renderAllCategoriesPage();
+      } else if (hash === '#/procedures') {
+        renderAllProceduresPage();
+      } else if (hash.startsWith('#/category/')) {
+        const slug = hash.replace('#/category/', '');
+        renderCategoryPage(slug);
+      } else if (hash.startsWith('#/treatment/')) {
+        const slug = hash.replace('#/treatment/', '');
+        renderTreatmentPage(slug);
+      } else if (hash.startsWith('#/doctor/')) {
+        const docSlug = hash.replace('#/doctor/', '');
+        renderDoctorProfilePage(docSlug);
+      } else if (hash.startsWith('#/hospital/')) {
+        const hospitalSlug = hash.replace('#/hospital/', '');
+        renderHospitalDetailPage(hospitalSlug);
+      } else if (hash.startsWith('#/doctors/')) {
+        const catSlug = hash.replace('#/doctors/', '');
+        renderDoctorsListingPage(catSlug);
+      } else {
+        renderHomePage();
+      }
+    } catch (err) {
+      console.error('Routing error:', err);
+      alert('Routing error: ' + err.message + '\nStack: ' + err.stack);
     }
+  }
+
+  // Render a category icon: PNG/WebP image when `iconImage` is set, otherwise the emoji.
+  function catIcon(cat, px) {
+    px = px || 28;
+    if (cat && cat.iconImage) {
+      return `<img src="${cat.iconImage}" alt="${(cat.name || '').replace(/"/g, '')}" style="width:${px}px;height:${px}px;object-fit:contain;display:inline-block;vertical-align:middle;">`;
+    }
+    return cat ? (cat.icon || '') : '';
   }
 
   function getDoctorCity(doctor) {
@@ -315,7 +329,7 @@ ${treatmentShowcase.map(item => `
           <div class="tb-carousel-wrap">
             <div class="tb-track" id="ds-track">
 ${homeDoctors.slice(0, 8).map(doc => `
-              <div class="ds-doc-card tb-card">
+              <div class="ds-doc-card tb-card" onclick="window.location.hash='#/doctor/${doc.slug}'">
                 <!-- TOP: photo + name + specialty + rating -->
                 <div class="ds-card-top">
                   <div class="ds-photo-wrap">
@@ -425,6 +439,11 @@ ${homeDoctors.slice(0, 8).map(doc => `
                 <article class="fh-card" data-hospital-card="${hospital.slug}">
                   <div class="fh-card-media">
                     <img src="${hospital.image}" alt="${hospital.name}" onerror="this.src='images/about-surgery.png'">
+                    <div class="card-logo-slot${hospital.logo ? '' : ' is-empty'}" title="Hospital logo">
+                      ${hospital.logo
+                        ? `<img src="${hospital.logo}" alt="${hospital.name} logo" onerror="this.closest('.card-logo-slot').classList.add('is-empty');this.remove();">`
+                        : `<i class="fa-solid fa-hospital"></i>`}
+                    </div>
                   </div>
                   <div class="fh-card-body">
                     <div class="fh-card-top">
@@ -1024,7 +1043,7 @@ ${homeDoctors.slice(0, 8).map(doc => `
           ${CATEGORIES.map(cat => `
             <a href="#/category/${cat.slug}" class="all-cat-card" style="--acc: ${cat.color}; --acc-light: ${cat.colorLight};">
               <div class="acc-icon-wrap" style="background: ${cat.colorLight}; color: ${cat.color};">
-                <span class="acc-emoji">${cat.icon}</span>
+                <span class="acc-emoji">${catIcon(cat, 32)}</span>
               </div>
               <div class="acc-body">
                 <h3 class="acc-name">${cat.name}</h3>
@@ -1063,8 +1082,10 @@ ${homeDoctors.slice(0, 8).map(doc => `
     const scroller = track.closest('.tb-carousel-wrap') || track;
     const cards = track.querySelectorAll('.tb-card');
     let isDragging = false;
+    let dragMoved = false; // became a real drag (moved past threshold)?
     let startX = 0;
     let startScrollLeft = 0;
+    const DRAG_THRESHOLD = 6; // px of movement before we treat it as a drag
 
     function getCardWidth() {
       if (!cards[0]) return 0;
@@ -1089,15 +1110,23 @@ ${homeDoctors.slice(0, 8).map(doc => `
 
     scroller.addEventListener('pointerdown', (event) => {
       isDragging = true;
+      dragMoved = false;
       startX = event.clientX;
       startScrollLeft = scroller.scrollLeft;
-      scroller.classList.add('is-dragging');
     });
 
     scroller.addEventListener('pointermove', (event) => {
       if (!isDragging) return;
+      const delta = event.clientX - startX;
+      // Only start dragging once the pointer moves past the threshold, so a
+      // plain click (with sub-pixel jitter) still reaches the card's onclick.
+      if (!dragMoved && Math.abs(delta) < DRAG_THRESHOLD) return;
+      if (!dragMoved) {
+        dragMoved = true;
+        scroller.classList.add('is-dragging');
+      }
       event.preventDefault();
-      scroller.scrollLeft = startScrollLeft - (event.clientX - startX);
+      scroller.scrollLeft = startScrollLeft - delta;
     });
 
     ['pointerup', 'pointerleave', 'pointercancel'].forEach(eventName => {
@@ -1106,6 +1135,16 @@ ${homeDoctors.slice(0, 8).map(doc => `
         scroller.classList.remove('is-dragging');
       });
     });
+
+    // If the gesture was an actual drag, swallow the click that follows so it
+    // doesn't accidentally open a card while the user was just scrolling.
+    scroller.addEventListener('click', (event) => {
+      if (dragMoved) {
+        event.stopPropagation();
+        event.preventDefault();
+        dragMoved = false;
+      }
+    }, true);
 
     window.addEventListener('resize', update);
     update();
@@ -1216,7 +1255,7 @@ ${homeDoctors.slice(0, 8).map(doc => `
           return `
             <div class="proc-cat-block" style="margin-bottom: 50px;">
               <div class="proc-cat-header" style="display:flex; align-items:center; gap:14px; margin-bottom:24px;">
-                <span style="font-size:1.6rem;">${cat.icon}</span>
+                <span style="font-size:1.6rem;">${catIcon(cat, 28)}</span>
                 <div>
                   <h2 style="font-size:1.4rem; font-weight:800; color:#1a1a2e; margin:0;">${cat.name} <span class="cat-count-badge">${catTreatments.length}</span></h2>
                   <p style="color:#777; font-size:0.88rem; margin:4px 0 0;">${cat.description.substring(0, 80)}...</p>
@@ -1228,7 +1267,7 @@ ${homeDoctors.slice(0, 8).map(doc => `
                   <a href="#/treatment/${t.slug}" class="cat-treatment-card" style="--card-color: ${cat.color}; --card-light: ${cat.colorLight};">
                     <div class="ctc-top">
                       <div class="ctc-icon" style="background: ${cat.colorLight}; color: ${cat.color};">
-                        ${cat.icon}
+                        ${catIcon(cat, 28)}
                       </div>
                       <div class="ctc-badge" style="color: ${cat.color};">${cat.name}</div>
                     </div>
@@ -1270,7 +1309,7 @@ ${homeDoctors.slice(0, 8).map(doc => `
             <span>${category.name}</span>
           </div>
           <div class="cat-hero-badge" style="background: ${category.colorLight}; color: ${category.color};">
-            ${category.icon} &nbsp;${category.name}
+            ${catIcon(category, 22)} &nbsp;${category.name}
           </div>
           <h1 class="cat-page-title">${category.name} Treatments</h1>
           <p class="cat-page-desc">${category.description}</p>
@@ -1308,7 +1347,7 @@ ${homeDoctors.slice(0, 8).map(doc => `
             <a href="#/treatment/${t.slug}" class="cat-treatment-card" style="--card-color: ${category.color}; --card-light: ${category.colorLight};">
               <div class="ctc-top">
                 <div class="ctc-icon" style="background: ${category.colorLight}; color: ${category.color};">
-                  ${category.icon}
+                  ${catIcon(category, 28)}
                 </div>
                 <div class="ctc-badge" style="color: ${category.color};">${category.name}</div>
               </div>
@@ -1731,11 +1770,11 @@ ${homeDoctors.slice(0, 8).map(doc => `
               <div class="dpp-book-form">
                 <h3>Confirm Your Details</h3>
                 <div class="dpp-form-row">
-                  <input type="text" class="dpp-input" placeholder="Patient Name" required>
-                  <input type="tel" class="dpp-input" placeholder="Mobile Number" required>
+                  <input type="text" id="dpp-patient-name" class="dpp-input" placeholder="Patient Name" required>
+                  <input type="tel" id="dpp-patient-phone" class="dpp-input" placeholder="Mobile Number" required>
                 </div>
                 <input type="text" class="dpp-input" placeholder="Your City" value="${getCurrentCity()}" readonly style="margin-top:10px;">
-                <button class="dpp-confirm-btn" onclick="alert('Appointment booked! Our team will call you to confirm.')">
+                <button class="dpp-confirm-btn" onclick="submitDoctorBooking('${doc.specialty}')">
                   <i class="fa-solid fa-calendar-check"></i> Confirm Booking
                 </button>
                 <p class="dpp-form-note"><i class="fa-solid fa-lock"></i> 100% Private &amp; Confidential</p>
@@ -1782,6 +1821,11 @@ ${homeDoctors.slice(0, 8).map(doc => `
       <section class="container hpp-hero">
         <div class="hpp-hero-media">
           <img src="${hospital.image}" alt="${hospital.name}">
+          <div class="hpp-hero-logo-slot${hospital.logo ? '' : ' is-empty'}" title="Hospital logo">
+            ${hospital.logo
+              ? `<img src="${hospital.logo}" alt="${hospital.name} logo" onerror="this.closest('.hpp-hero-logo-slot').classList.add('is-empty');this.remove();">`
+              : `<i class="fa-solid fa-hospital"></i>`}
+          </div>
         </div>
         <div class="hpp-hero-content">
           <div class="treatment-eyebrow">
@@ -1827,13 +1871,17 @@ ${homeDoctors.slice(0, 8).map(doc => `
             </div>
           </div>
 
-          <div class="hpp-map-mini">
+          <div class="hpp-map-mini" id="hppMapMini">
             <div class="fh-map-grid"></div>
             <div class="fh-map-road road-one"></div>
             <div class="fh-map-road road-two"></div>
             <span class="fh-map-label label-main">${hospital.city}</span>
             <div class="fh-pin pin-1"><i class="fa-solid fa-location-dot"></i></div>
           </div>
+          ${(hospital.map && hospital.map.lat && hospital.map.lng) ? `
+            <a class="hpp-directions-btn" href="https://www.google.com/maps/dir/?api=1&destination=${hospital.map.lat},${hospital.map.lng}" target="_blank" rel="noopener">
+              <i class="fa-solid fa-diamond-turn-right"></i> Get Directions
+            </a>` : ''}
         </aside>
 
         <main class="hpp-main">
@@ -1881,10 +1929,10 @@ ${homeDoctors.slice(0, 8).map(doc => `
           <section class="hpp-section" id="hpp-booking">
             <h2><i class="fa-solid fa-calendar-check"></i> Book Appointment</h2>
             <div class="hpp-book-card">
-              <input type="text" class="dpp-input" placeholder="Patient Name">
-              <input type="tel" class="dpp-input" placeholder="Mobile Number">
+              <input type="text" id="hpp-patient-name" class="dpp-input" placeholder="Patient Name">
+              <input type="tel" id="hpp-patient-phone" class="dpp-input" placeholder="Mobile Number">
               <input type="text" class="dpp-input" value="${hospital.name}, ${hospital.address}" readonly>
-              <button class="dpp-confirm-btn" onclick="alert('Appointment request sent! Our care team will call you shortly.')">
+              <button class="dpp-confirm-btn" onclick="submitHospitalBooking('${hospital.name}')">
                 <i class="fa-solid fa-calendar-check"></i> Request Appointment
               </button>
               <p class="dpp-form-note"><i class="fa-solid fa-lock"></i> 100% Private &amp; Confidential</p>
@@ -1905,6 +1953,41 @@ ${homeDoctors.slice(0, 8).map(doc => `
     `;
 
     appContainer.innerHTML = html;
+    initHospitalDetailMap(hospital);
+  }
+
+  // Render a real, live OSM/Leaflet map on the hospital detail page when
+  // coordinates exist; otherwise the decorative fallback stays in place.
+  function initHospitalDetailMap(hospital) {
+    const el = document.getElementById('hppMapMini');
+    if (!el) return;
+    const m = hospital.map;
+    if (!m || m.lat == null || m.lng == null) return; // keep decorative fallback
+
+    if (window._hospitalDetailMap) {
+      window._hospitalDetailMap.remove();
+      window._hospitalDetailMap = null;
+    }
+    el.innerHTML = ''; // clear the decorative grid/roads/pin
+
+    const map = L.map(el, {
+      zoomControl: true,
+      scrollWheelZoom: false,
+      attributionControl: true,
+    }).setView([m.lat, m.lng], 15);
+    map.attributionControl.setPrefix('');
+
+    L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors &copy; CARTO',
+    }).addTo(map);
+
+    L.marker([m.lat, m.lng], { icon: createHospitalMarkerIcon(true), title: hospital.name })
+      .addTo(map)
+      .bindPopup(`<div class="fh-map-popup"><strong>${hospital.name}</strong><span>${hospital.address}</span></div>`);
+
+    window._hospitalDetailMap = map;
+    setTimeout(() => map.invalidateSize(), 120);
   }
 
   // =====================================================
@@ -2010,7 +2093,7 @@ ${homeDoctors.slice(0, 8).map(doc => `
               <p>No doctors match your filters. Try adjusting them.</p>
             </div>
           ` : doctors.map(doc => `
-            <div class="dl-card">
+            <div class="dl-card" style="cursor:pointer" onclick="window.location.hash='#/doctor/${doc.slug}'">
               <div class="dl-card-left">
                 <div class="dl-card-avatar">👨‍⚕️</div>
               </div>
@@ -2187,7 +2270,7 @@ ${homeDoctors.slice(0, 8).map(doc => `
               <p>No doctors match your filters. Try adjusting them.</p>
             </div>
           ` : `<div class="doctors-grid tpl-doctors-grid">` + doctors.map(doc => `
-            <div class="doctor-card">
+            <div class="doctor-card" style="cursor:pointer" onclick="window.location.hash='#/doctor/${doc.slug}'">
               <div class="dc-top">
                 <div class="dc-avatar">👨‍⚕️</div>
                 <div class="dc-header-info">
@@ -2370,6 +2453,11 @@ ${homeDoctors.slice(0, 8).map(doc => `
             <article class="hl-card ${index === 0 ? 'is-highlighted' : ''}">
               <div class="hl-image-wrap">
                 <img src="${hospital.image}" alt="${hospital.name}" onerror="this.src='images/about-surgery.png'">
+                <div class="card-logo-slot${hospital.logo ? '' : ' is-empty'}" title="Hospital logo">
+                  ${hospital.logo
+                    ? `<img src="${hospital.logo}" alt="${hospital.name} logo" onerror="this.closest('.card-logo-slot').classList.add('is-empty');this.remove();">`
+                    : `<i class="fa-solid fa-hospital"></i>`}
+                </div>
               </div>
               <div class="hl-content">
                 <div class="hl-title-row">
@@ -2472,7 +2560,10 @@ ${homeDoctors.slice(0, 8).map(doc => `
   // =====================================================
   // LOAD DATA FROM BACKEND (/api/data/all), fall back to data.js
   // =====================================================
-  const API_BASE = window.DOCTAR_API_BASE || 'http://localhost:3001';
+  const API_BASE = window.DOCTAR_API_BASE || 
+                   (window.location.origin && window.location.origin !== 'null' && window.location.origin.startsWith('http') 
+                     ? window.location.origin 
+                     : 'http://localhost:3001');
 
   async function loadRemoteData() {
     try {
@@ -2504,6 +2595,47 @@ ${homeDoctors.slice(0, 8).map(doc => `
     }
   }
 
-  initCitySelector();
-  loadRemoteData().finally(initRouter);
+  window.submitBooking = async function(name, phone, disease, successMessage) {
+    if (!name || !phone) {
+      alert('Please fill in both Patient Name and Mobile Number.');
+      return;
+    }
+    try {
+      const res = await fetch(API_BASE + '/api/bookings/book', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ name, phone, disease })
+      });
+      const json = await res.json();
+      if (json.success) {
+        alert(successMessage || 'Appointment booked successfully! Our team will contact you shortly.');
+      } else {
+        alert('Failed to book: ' + (json.message || 'Server error'));
+      }
+    } catch (err) {
+      console.error('Booking error:', err);
+      // Fallback in case backend is down
+      alert(successMessage || 'Appointment booked! Our team will call you to confirm.');
+    }
+  };
+
+  window.submitDoctorBooking = function(specialty) {
+    const name = document.getElementById('dpp-patient-name')?.value.trim();
+    const phone = document.getElementById('dpp-patient-phone')?.value.trim();
+    window.submitBooking(name, phone, specialty, 'Appointment booked! Our team will call you to confirm.');
+  };
+
+  window.submitHospitalBooking = function(hospitalName) {
+    const name = document.getElementById('hpp-patient-name')?.value.trim();
+    const phone = document.getElementById('hpp-patient-phone')?.value.trim();
+    window.submitBooking(name, phone, 'Consultation at ' + hospitalName, 'Appointment request sent! Our care team will call you shortly.');
+  };
+
+  try {
+    initCitySelector();
+    loadRemoteData().finally(initRouter);
+  } catch (err) {
+    console.error('Initialization error:', err);
+    alert('Initialization error: ' + err.message + '\nStack: ' + err.stack);
+  }
 });

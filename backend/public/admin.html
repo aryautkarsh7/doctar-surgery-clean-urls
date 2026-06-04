@@ -6,104 +6,911 @@
   <title>Doctar — Admin Panel</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
   <style>
-    :root{--primary:#5e4091;--primary-dark:#4a3275;--primary-light:#f5f0ff;--bg:#faf8ff;--border:#e8e4f0;--text:#1e1b26;--muted:#6b6b7b}
-    *{margin:0;padding:0;box-sizing:border-box;font-family:'Plus Jakarta Sans',sans-serif}
-    body{background:var(--bg);color:var(--text);-webkit-font-smoothing:antialiased}
-
-    /* Login */
-    .login-screen{min-height:100vh;display:flex;align-items:center;justify-content:center;padding:20px;
-      background:radial-gradient(circle at 20% 20%,rgba(94,64,145,.12),transparent 40%),radial-gradient(circle at 80% 80%,rgba(94,64,145,.1),transparent 40%),var(--bg)}
-    .login-card{background:#fff;border:1px solid var(--border);border-radius:22px;padding:40px 34px;width:100%;max-width:380px;text-align:center;box-shadow:0 20px 50px -20px rgba(94,64,145,.3)}
-    .login-logo{width:56px;height:56px;border-radius:16px;background:var(--primary);color:#fff;display:flex;align-items:center;justify-content:center;font-size:26px;font-weight:800;margin:0 auto 18px}
-    .login-card h1{font-size:1.3rem;font-weight:800;margin-bottom:6px}
-    .login-card p{color:var(--muted);font-size:.9rem;margin-bottom:24px}
-    .login-card input{width:100%;padding:13px 16px;border:1.5px solid var(--border);border-radius:12px;font-size:.95rem;outline:none;margin-bottom:14px}
-    .login-card input:focus{border-color:var(--primary)}
-    .login-card button{width:100%;padding:13px;background:var(--primary);color:#fff;border:none;border-radius:12px;font-size:.95rem;font-weight:700;cursor:pointer}
-    .login-card button:hover{background:var(--primary-dark)}
-    .login-error{color:#dc2626;font-size:.85rem;margin-top:12px;min-height:18px}
-
-    /* Dashboard */
-    .dashboard{display:none}
-    .topbar{background:var(--primary);color:#fff;padding:16px 0;position:sticky;top:0;z-index:10;box-shadow:0 4px 20px rgba(0,0,0,.12)}
-    .topbar-inner{max-width:1200px;margin:0 auto;padding:0 22px;display:flex;align-items:center;justify-content:space-between;gap:12px}
-    .brand{display:flex;align-items:center;gap:12px}
-    .brand-logo{width:38px;height:38px;border-radius:11px;background:rgba(255,255,255,.18);display:flex;align-items:center;justify-content:center;font-weight:800}
-    .brand h1{font-size:1.05rem;font-weight:800;line-height:1.1}
-    .brand span{font-size:.72rem;opacity:.8}
-    .logout-btn{background:rgba(255,255,255,.14);border:1px solid rgba(255,255,255,.2);color:#fff;padding:8px 16px;border-radius:999px;font-size:.85rem;font-weight:600;cursor:pointer}
-    .logout-btn:hover{background:rgba(255,255,255,.26)}
-
-    /* Tabs */
-    .tabs{max-width:1200px;margin:0 auto;padding:18px 22px 0;display:flex;gap:8px;flex-wrap:wrap}
-    .tab{background:#fff;border:1px solid var(--border);color:var(--muted);padding:9px 18px;border-radius:999px;font-size:.86rem;font-weight:700;cursor:pointer;transition:all .2s}
-    .tab:hover{border-color:var(--primary)}
-    .tab.active{background:var(--primary);color:#fff;border-color:var(--primary)}
-
-    .wrap{max-width:1200px;margin:0 auto;padding:22px 22px 60px}
-    .stats{display:grid;grid-template-columns:repeat(4,1fr);gap:14px;margin-bottom:24px}
-    .stat-card{background:#fff;border:1px solid var(--border);border-radius:16px;padding:18px 20px;box-shadow:0 8px 30px rgba(0,0,0,.04)}
-    .stat-card .num{font-size:1.7rem;font-weight:800;color:var(--primary);line-height:1}
-    .stat-card .label{font-size:.8rem;color:var(--muted);margin-top:6px}
-
-    .section-head{display:flex;align-items:center;justify-content:space-between;margin-bottom:16px;gap:12px;flex-wrap:wrap}
-    .section-head h2{font-size:1.2rem;font-weight:800}
-    .head-actions{display:flex;gap:8px}
-    .btn{border:none;padding:9px 18px;border-radius:999px;font-size:.85rem;font-weight:700;cursor:pointer;transition:all .2s}
-    .btn-outline{background:#fff;border:1.5px solid var(--primary);color:var(--primary)}
-    .btn-outline:hover{background:var(--primary);color:#fff}
-    .btn-primary{background:var(--primary);color:#fff}
-    .btn-primary:hover{background:var(--primary-dark)}
-
-    .table-card{background:#fff;border:1px solid var(--border);border-radius:18px;overflow:auto;box-shadow:0 8px 30px rgba(0,0,0,.04)}
-    table{width:100%;border-collapse:collapse;min-width:560px}
-    thead{background:var(--primary-light)}
-    th{text-align:left;padding:13px 16px;font-size:.72rem;font-weight:800;text-transform:uppercase;letter-spacing:.05em;color:var(--primary);white-space:nowrap}
-    td{padding:13px 16px;font-size:.86rem;border-top:1px solid #f1eef8;vertical-align:middle}
-    tbody tr:hover{background:#fbfaff}
-    .cell-name{font-weight:700}
-    .cell-muted{color:var(--muted)}
-    .badge{display:inline-block;padding:4px 12px;border-radius:999px;font-size:.72rem;font-weight:700;text-transform:capitalize}
-    .badge.pending{background:#fff4e5;color:#d97706}
-    .badge.confirmed{background:#e8f8ef;color:#16a34a}
-    .badge.cancelled{background:#fde8e8;color:#dc2626}
-    .actions{display:flex;gap:6px;flex-wrap:wrap}
-    .act-btn{border:none;padding:6px 12px;border-radius:8px;font-size:.76rem;font-weight:700;cursor:pointer;transition:all .18s}
-    .act-confirm{background:#e8f8ef;color:#16a34a}.act-confirm:hover{background:#16a34a;color:#fff}
-    .act-cancel{background:#fde8e8;color:#dc2626}.act-cancel:hover{background:#dc2626;color:#fff}
-    .act-edit{background:var(--primary-light);color:var(--primary)}.act-edit:hover{background:var(--primary);color:#fff}
-    .act-del{background:#fde8e8;color:#dc2626}.act-del:hover{background:#dc2626;color:#fff}
-    .act-btn:disabled{opacity:.4;cursor:default}
-    .state{text-align:center;padding:50px 20px;color:var(--muted)}
-    .pane{display:none}.pane.active{display:block}
-
-    /* Modal */
-    .modal-overlay{display:none;position:fixed;inset:0;background:rgba(20,12,40,.5);z-index:50;align-items:flex-start;justify-content:center;padding:40px 16px;overflow:auto}
-    .modal-overlay.open{display:flex}
-    .modal{background:#fff;border-radius:18px;width:100%;max-width:560px;box-shadow:0 30px 60px -20px rgba(0,0,0,.4)}
-    .modal-head{padding:20px 24px;border-bottom:1px solid var(--border);display:flex;align-items:center;justify-content:space-between}
-    .modal-head h3{font-size:1.1rem;font-weight:800}
-    .modal-close{background:none;border:none;font-size:1.4rem;color:var(--muted);cursor:pointer;line-height:1}
-    .modal-body{padding:20px 24px;display:grid;grid-template-columns:1fr 1fr;gap:14px;max-height:60vh;overflow:auto}
-    .field{display:flex;flex-direction:column;gap:5px}
-    .field.full{grid-column:1/-1}
-    .field label{font-size:.74rem;font-weight:700;color:var(--muted);text-transform:uppercase;letter-spacing:.03em}
-    .field input,.field textarea{padding:10px 12px;border:1.5px solid var(--border);border-radius:10px;font-size:.88rem;outline:none;width:100%}
-    .field input:focus,.field textarea:focus{border-color:var(--primary)}
-    .field textarea{resize:vertical;min-height:64px}
-    .field .hint{font-size:.68rem;color:#aaa}
-    .modal-foot{padding:16px 24px;border-top:1px solid var(--border);display:flex;justify-content:flex-end;gap:10px}
-
-    @media(max-width:760px){
-      .stats{grid-template-columns:repeat(2,1fr)}
-      .modal-body{grid-template-columns:1fr}
+    :root {
+      --primary: #5e4091;
+      --primary-dark: #4a3275;
+      --primary-darker: #3a265d;
+      --primary-light: #f5f0ff;
+      --bg: #fcfbfd;
+      --border: #e8e4f0;
+      --text: #1a1a2e;
+      --muted: #88889b;
+      --green: #10b981;
+      --green-dark: #059669;
+      --red: #ef4444;
+      --red-light: #fde8e8;
+      --radius-sm: 8px;
+      --radius-md: 12px;
+      --radius-lg: 18px;
+      --shadow-sm: 0 4px 12px rgba(0,0,0,0.03);
+      --shadow-md: 0 8px 30px rgba(94, 64, 145, 0.06);
+      --shadow-lg: 0 16px 40px rgba(94, 64, 145, 0.12);
     }
+
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      font-family: 'Plus Jakarta Sans', sans-serif;
+    }
+
+    body {
+      background: var(--bg);
+      color: var(--text);
+      -webkit-font-smoothing: antialiased;
+      overflow-x: hidden;
+    }
+
+    /* --- LOGIN SCREEN --- */
+    .login-screen {
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 20px;
+      background:
+        radial-gradient(circle at 15% 15%, rgba(94, 64, 145, 0.12), transparent 45%),
+        radial-gradient(circle at 85% 85%, rgba(94, 64, 145, 0.1), transparent 45%),
+        var(--bg);
+    }
+
+    .login-card {
+      background: #fff;
+      border: 1px solid var(--border);
+      border-radius: var(--radius-lg);
+      padding: 44px 36px;
+      width: 100%;
+      max-width: 400px;
+      text-align: center;
+      box-shadow: var(--shadow-lg);
+    }
+
+    .login-logo {
+      width: 60px;
+      height: 60px;
+      border-radius: 16px;
+      background: var(--primary);
+      color: #fff;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 28px;
+      font-weight: 800;
+      margin: 0 auto 20px;
+      box-shadow: 0 8px 20px rgba(94, 64, 145, 0.3);
+    }
+
+    .login-card h1 {
+      font-size: 1.4rem;
+      font-weight: 800;
+      color: var(--text);
+      margin-bottom: 8px;
+    }
+
+    .login-card p {
+      color: var(--muted);
+      font-size: 0.9rem;
+      margin-bottom: 28px;
+    }
+
+    .login-card input {
+      width: 100%;
+      padding: 14px 18px;
+      border: 1.5px solid var(--border);
+      border-radius: var(--radius-md);
+      font-size: 0.95rem;
+      outline: none;
+      margin-bottom: 16px;
+      transition: border-color 0.2s ease;
+    }
+
+    .login-card input:focus {
+      border-color: var(--primary);
+    }
+
+    .login-card button {
+      width: 100%;
+      padding: 14px;
+      background: var(--primary);
+      color: #fff;
+      border: none;
+      border-radius: var(--radius-md);
+      font-size: 0.95rem;
+      font-weight: 700;
+      cursor: pointer;
+      box-shadow: 0 4px 12px rgba(94, 64, 145, 0.2);
+      transition: background 0.2s ease, transform 0.1s ease;
+    }
+
+    .login-card button:hover {
+      background: var(--primary-dark);
+    }
+
+    .login-card button:active {
+      transform: scale(0.98);
+    }
+
+    .login-error {
+      color: var(--red);
+      font-size: 0.85rem;
+      margin-top: 14px;
+      min-height: 18px;
+      font-weight: 600;
+    }
+
+    /* --- LAYOUT STRUCTURE --- */
+    .dashboard {
+      display: none;
+    }
+
+    .admin-layout {
+      display: flex;
+      min-height: 100vh;
+    }
+
+    /* --- LEFT SIDEBAR (Fixed, 240px wide) --- */
+    .sidebar {
+      width: 240px;
+      background: var(--primary);
+      color: #fff;
+      display: flex;
+      flex-direction: column;
+      position: fixed;
+      top: 0;
+      bottom: 0;
+      left: 0;
+      z-index: 100;
+      transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    }
+
+    .sidebar-brand {
+      padding: 24px;
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+    }
+
+    .sidebar-brand .logo-icon {
+      width: 36px;
+      height: 36px;
+      background: rgba(255, 255, 255, 0.16);
+      border-radius: 10px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-weight: 800;
+      font-size: 1.25rem;
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.08);
+    }
+
+    .sidebar-brand .brand-info h1 {
+      font-size: 1.1rem;
+      font-weight: 800;
+      line-height: 1.1;
+      letter-spacing: 0.5px;
+    }
+
+    .sidebar-brand .brand-info span {
+      font-size: 0.72rem;
+      opacity: 0.75;
+      font-weight: 500;
+    }
+
+    .sidebar-nav {
+      flex: 1;
+      padding: 24px 14px;
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+      overflow-y: auto;
+    }
+
+    .nav-item {
+      background: transparent;
+      border: none;
+      color: rgba(255, 255, 255, 0.8);
+      padding: 12px 16px;
+      border-radius: var(--radius-md);
+      font-size: 0.9rem;
+      font-weight: 600;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      text-align: left;
+      transition: all 0.2s ease;
+      width: 100%;
+    }
+
+    .nav-item i {
+      font-size: 1.1rem;
+      width: 20px;
+      text-align: center;
+      opacity: 0.75;
+    }
+
+    .nav-item:hover {
+      background: rgba(255, 255, 255, 0.07);
+      color: #fff;
+    }
+
+    .nav-item.active {
+      background: #fff;
+      color: var(--primary);
+      font-weight: 700;
+      box-shadow: var(--shadow-sm);
+    }
+
+    .nav-item.active i {
+      color: var(--primary);
+      opacity: 1;
+    }
+
+    .sidebar-footer {
+      padding: 18px 20px;
+      border-top: 1px solid rgba(255, 255, 255, 0.08);
+    }
+
+    .sidebar-footer .logout-btn {
+      background: transparent;
+      border: none;
+      color: rgba(255, 255, 255, 0.8);
+      padding: 10px 14px;
+      border-radius: var(--radius-md);
+      font-size: 0.9rem;
+      font-weight: 600;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      width: 100%;
+      text-align: left;
+      transition: background 0.2s ease, color 0.2s ease;
+    }
+
+    .sidebar-footer .logout-btn:hover {
+      background: rgba(255, 255, 255, 0.07);
+      color: #fff;
+    }
+
+    /* --- MOBILE HEADER BAR --- */
+    .mobile-header {
+      display: none;
+      background: var(--primary);
+      color: #fff;
+      padding: 14px 20px;
+      position: fixed;
+      top: 0;
+      left: 0;
+      right: 0;
+      z-index: 90;
+      justify-content: space-between;
+      align-items: center;
+      box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    }
+
+    .menu-toggle, .mobile-logout {
+      background: transparent;
+      border: none;
+      color: #fff;
+      font-size: 1.3rem;
+      cursor: pointer;
+    }
+
+    .mobile-brand {
+      font-weight: 800;
+      font-size: 1.15rem;
+      letter-spacing: 0.5px;
+    }
+
+    /* --- MAIN CONTENT (Right side) --- */
+    .main-content {
+      flex: 1;
+      margin-left: 240px;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      transition: margin-left 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    }
+
+    /* --- TOP BAR (Title + Refresh) --- */
+    .top-bar {
+      background: #fff;
+      border-bottom: 1px solid var(--border);
+      padding: 18px 30px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      position: sticky;
+      top: 0;
+      z-index: 80;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.015);
+    }
+
+    .top-bar h2 {
+      font-size: 1.25rem;
+      font-weight: 800;
+      color: var(--text);
+    }
+
+    .top-bar-actions {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+
+    .btn {
+      border: none;
+      padding: 9px 18px;
+      border-radius: 999px;
+      font-size: 0.84rem;
+      font-weight: 700;
+      cursor: pointer;
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      transition: all 0.2s ease;
+    }
+
+    .btn-outline {
+      background: #fff;
+      border: 1.5px solid var(--primary);
+      color: var(--primary);
+    }
+
+    .btn-outline:hover {
+      background: var(--primary);
+      color: #fff;
+    }
+
+    .btn-primary {
+      background: var(--primary);
+      color: #fff;
+    }
+
+    .btn-primary:hover {
+      background: var(--primary-dark);
+    }
+
+    .btn-add {
+      background: var(--green) !important;
+      color: #fff !important;
+      border: none !important;
+    }
+
+    .btn-add:hover {
+      background: var(--green-dark) !important;
+    }
+
+    .btn-sm {
+      padding: 5px 12px;
+      font-size: 0.78rem;
+    }
+
+    /* --- WRAP CONTAINER --- */
+    .wrap {
+      padding: 30px;
+      flex: 1;
+      overflow-y: auto;
+    }
+
+    /* --- STATS CARDS --- */
+    .stats {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 20px;
+      margin-bottom: 28px;
+    }
+
+    .stat-card {
+      background: #fff;
+      border: 1px solid var(--border);
+      border-radius: var(--radius-md);
+      padding: 22px 24px;
+      box-shadow: var(--shadow-sm);
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+    }
+
+    .stat-card .num {
+      font-size: 1.95rem;
+      font-weight: 800;
+      color: var(--primary);
+      line-height: 1;
+      margin-bottom: 6px;
+    }
+
+    .stat-card .label {
+      font-size: 0.82rem;
+      color: var(--muted);
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.4px;
+    }
+
+    /* --- SECTION HEADERS --- */
+    .section-head {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 18px;
+      gap: 12px;
+      flex-wrap: wrap;
+    }
+
+    .section-head h2 {
+      font-size: 1.15rem;
+      font-weight: 800;
+      color: var(--text);
+    }
+
+    .head-actions {
+      display: flex;
+      gap: 10px;
+    }
+
+    /* Add Resource Button styled green globally */
+    .head-actions .btn-primary {
+      background: var(--green);
+    }
+    .head-actions .btn-primary:hover {
+      background: var(--green-dark);
+    }
+
+    /* --- TABLES AND DATA CARDS --- */
+    .card {
+      background: #fff;
+      border: 1px solid var(--border);
+      border-radius: var(--radius-lg);
+      box-shadow: var(--shadow-sm);
+      margin-bottom: 24px;
+      overflow: hidden;
+    }
+
+    .card-header {
+      padding: 20px 24px;
+      border-bottom: 1px solid var(--border);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .card-header h3 {
+      font-size: 1.1rem;
+      font-weight: 800;
+      color: var(--text);
+    }
+
+    .table-card {
+      background: #fff;
+      border: 1px solid var(--border);
+      border-radius: var(--radius-lg);
+      overflow-x: auto;
+      box-shadow: var(--shadow-sm);
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      min-width: 720px;
+    }
+
+    thead {
+      background: #fbfbfe;
+      border-bottom: 1px solid var(--border);
+    }
+
+    th {
+      text-align: left;
+      padding: 15px 20px;
+      font-size: 0.74rem;
+      font-weight: 800;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      color: var(--primary);
+    }
+
+    td {
+      padding: 15px 20px;
+      font-size: 0.88rem;
+      border-top: 1px solid #f6f5fa;
+      vertical-align: middle;
+      color: #374151;
+    }
+
+    tbody tr:hover {
+      background: #fbfbfe;
+    }
+
+    .cell-name {
+      font-weight: 700;
+      color: var(--text);
+    }
+
+    .cell-muted {
+      color: var(--muted);
+      font-size: 0.84rem;
+    }
+
+    /* --- BADGES --- */
+    .badge {
+      display: inline-block;
+      padding: 5px 12px;
+      border-radius: 999px;
+      font-size: 0.74rem;
+      font-weight: 700;
+      text-transform: capitalize;
+      text-align: center;
+      min-width: 86px;
+    }
+
+    .badge.pending {
+      background: #fff8eb;
+      color: #b45309;
+    }
+
+    .badge.confirmed {
+      background: #ecfdf5;
+      color: #047857;
+    }
+
+    .badge.cancelled {
+      background: #fef2f2;
+      color: #b91c1c;
+    }
+
+    /* --- ACTIONS ROW --- */
+    .actions {
+      display: flex;
+      gap: 6px;
+      flex-wrap: wrap;
+    }
+
+    .act-btn {
+      border: none;
+      padding: 6px 12px;
+      border-radius: 8px;
+      font-size: 0.78rem;
+      font-weight: 700;
+      cursor: pointer;
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
+      transition: all 0.18s ease;
+    }
+
+    .act-confirm {
+      background: #ecfdf5;
+      color: #047857;
+    }
+    .act-confirm:hover {
+      background: #047857;
+      color: #fff;
+    }
+
+    .act-cancel {
+      background: #fef2f2;
+      color: #b91c1c;
+    }
+    .act-cancel:hover {
+      background: #b91c1c;
+      color: #fff;
+    }
+
+    .act-edit {
+      background: var(--primary-light);
+      color: var(--primary);
+    }
+    .act-edit:hover {
+      background: var(--primary);
+      color: #fff;
+    }
+
+    .act-del {
+      background: #fef2f2;
+      color: #b91c1c;
+    }
+    .act-del:hover {
+      background: #b91c1c;
+      color: #fff;
+    }
+
+    .act-btn:disabled {
+      opacity: 0.35;
+      cursor: default;
+    }
+    .act-btn:disabled:hover {
+      background: inherit;
+      color: inherit;
+    }
+
+    .state {
+      text-align: center;
+      padding: 64px 20px;
+      color: var(--muted);
+      font-size: 0.95rem;
+      font-weight: 500;
+    }
+
+    .pane {
+      display: none;
+    }
+    .pane.active {
+      display: block;
+    }
+
+    /* --- MODALS --- */
+    .modal-overlay {
+      display: none;
+      position: fixed;
+      inset: 0;
+      background: rgba(20, 12, 40, 0.4);
+      backdrop-filter: blur(4px);
+      z-index: 500;
+      align-items: flex-start;
+      justify-content: center;
+      padding: 40px 16px;
+      overflow-y: auto;
+    }
+
+    .modal-overlay.open {
+      display: flex;
+    }
+
+    .modal {
+      background: #fff;
+      border-radius: var(--radius-lg);
+      width: 100%;
+      max-width: 600px;
+      box-shadow: var(--shadow-lg);
+      margin-top: 20px;
+      overflow: hidden;
+      animation: modalSlideUp 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+    }
+
+    @keyframes modalSlideUp {
+      from {
+        opacity: 0;
+        transform: translateY(20px);
+      }
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+
+    .modal-head {
+      padding: 22px 28px;
+      border-bottom: 1px solid var(--border);
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    .modal-head h3 {
+      font-size: 1.15rem;
+      font-weight: 800;
+      color: var(--text);
+    }
+
+    .modal-close {
+      background: none;
+      border: none;
+      font-size: 1.5rem;
+      color: var(--muted);
+      cursor: pointer;
+      line-height: 1;
+      transition: color 0.15s;
+    }
+    .modal-close:hover {
+      color: var(--text);
+    }
+
+    .modal-body {
+      padding: 26px 28px;
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 16px;
+      max-height: 60vh;
+      overflow-y: auto;
+    }
+
+    .field {
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+    }
+
+    .field.full {
+      grid-column: 1 / -1;
+    }
+
+    .field label {
+      font-size: 0.74rem;
+      font-weight: 800;
+      color: var(--muted);
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+    }
+
+    .field input, .field textarea {
+      padding: 11px 14px;
+      border: 1.5px solid var(--border);
+      border-radius: var(--radius-md);
+      font-size: 0.9rem;
+      outline: none;
+      width: 100%;
+      color: var(--text);
+      transition: border-color 0.2s ease;
+    }
+
+    .field input:focus, .field textarea:focus {
+      border-color: var(--primary);
+    }
+
+    .field textarea {
+      resize: vertical;
+      min-height: 80px;
+    }
+
+    .field .hint {
+      font-size: 0.7rem;
+      color: var(--muted);
+      font-style: italic;
+    }
+
+    .modal-foot {
+      padding: 18px 28px;
+      border-top: 1px solid var(--border);
+      display: flex;
+      justify-content: flex-end;
+      gap: 12px;
+      background: #fbfbfe;
+    }
+
+    /* --- RESPONSIVE STYLES --- */
+    @media (max-width: 900px) {
+      .sidebar {
+        transform: translateX(-100%);
+      }
+      .sidebar.open {
+        transform: translateX(0);
+      }
+      .main-content {
+        margin-left: 0;
+        padding-top: 60px;
+      }
+      .mobile-header {
+        display: flex;
+      }
+      .top-bar {
+        display: none;
+      }
+      .wrap {
+        padding: 24px 16px;
+      }
+      .stats {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 14px;
+      }
+    }
+
+    @media (max-width: 600px) {
+      .stats {
+        grid-template-columns: 1fr;
+        gap: 12px;
+      }
+      .modal-body {
+        grid-template-columns: 1fr;
+      }
+      .head-actions {
+        width: 100%;
+        justify-content: flex-start;
+      }
+      .btn {
+        flex: 1;
+        justify-content: center;
+      }
+    }
+
+    /* --- IMAGE UPLOADER --- */
+    .img-uploader {
+      display: flex;
+      align-items: center;
+      gap: 14px;
+      border: 1.5px dashed var(--border);
+      border-radius: var(--radius-md);
+      padding: 12px;
+    }
+    .img-preview {
+      width: 72px;
+      height: 72px;
+      flex-shrink: 0;
+      border-radius: 10px;
+      background: var(--primary-light);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      overflow: hidden;
+      color: var(--muted);
+      font-size: 0.68rem;
+      font-weight: 600;
+      text-align: center;
+    }
+    .img-preview img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+    .img-uploader-controls {
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+      min-width: 0;
+      flex: 1;
+    }
+    .img-uploader input[type=file] {
+      font-size: 0.8rem;
+      border: none;
+      padding: 0;
+    }
+    .upload-status {
+      font-size: 0.74rem;
+      font-weight: 600;
+      color: var(--muted);
+      min-height: 16px;
+    }
+    .upload-status.ok { color: var(--green-dark); }
+    .upload-status.err { color: var(--red); }
+    .upload-status.busy { color: var(--primary); }
+
+    /* --- MAP PICKER --- */
+    .map-search-row {
+      display: flex;
+      gap: 8px;
+      margin-bottom: 8px;
+    }
+    .map-search-row input {
+      flex: 1;
+      padding: 10px 12px;
+      border: 1.5px solid var(--border);
+      border-radius: var(--radius-md);
+      font-size: 0.88rem;
+      outline: none;
+    }
+    .map-search-row input:focus { border-color: var(--primary); }
+    .map-search-row button {
+      padding: 8px 16px;
+      white-space: nowrap;
+    }
+    .map-pick {
+      height: 280px;
+      width: 100%;
+      border-radius: var(--radius-md);
+      border: 1.5px solid var(--border);
+      overflow: hidden;
+      z-index: 1;
+    }
+    .map-coords {
+      display: flex;
+      gap: 16px;
+      margin-top: 10px;
+      font-size: 0.78rem;
+      font-weight: 700;
+      color: var(--muted);
+    }
+    .map-coords span { color: var(--text); }
   </style>
 </head>
 <body>
 
-  <!-- LOGIN -->
+  <!-- LOGIN SCREEN -->
   <div class="login-screen" id="loginScreen">
     <div class="login-card">
       <div class="login-logo">D</div>
@@ -115,54 +922,131 @@
     </div>
   </div>
 
-  <!-- DASHBOARD -->
+  <!-- MAIN DASHBOARD LAYOUT -->
   <div class="dashboard" id="dashboard">
-    <div class="topbar">
-      <div class="topbar-inner">
-        <div class="brand">
-          <div class="brand-logo">D</div>
-          <div><h1>Doctar Admin</h1><span>Content & booking management</span></div>
-        </div>
-        <button class="logout-btn" id="logoutBtn">Log out</button>
-      </div>
-    </div>
+    <div class="admin-layout">
 
-    <div class="tabs" id="tabs">
-      <button class="tab active" data-tab="bookings">Bookings</button>
-      <button class="tab" data-tab="categories">Categories</button>
-      <button class="tab" data-tab="doctors">Doctors</button>
-      <button class="tab" data-tab="hospitals">Hospitals</button>
-      <button class="tab" data-tab="treatments">Treatments</button>
-    </div>
-
-    <div class="wrap">
-      <!-- BOOKINGS -->
-      <div class="pane active" id="pane-bookings">
-        <div class="stats" id="bookingStats"></div>
-        <div class="section-head">
-          <h2>All Bookings</h2>
-          <div class="head-actions"><button class="btn btn-outline" onclick="loadBookings()">↻ Refresh</button></div>
+      <!-- LEFT SIDEBAR -->
+      <aside class="sidebar">
+        <div class="sidebar-brand">
+          <div class="logo-icon">D</div>
+          <div class="brand-info">
+            <h1>Doctar Admin</h1>
+            <span>CMS & Bookings</span>
+          </div>
         </div>
-        <div class="table-card">
-          <table>
-            <thead><tr><th>Name</th><th>Phone</th><th>Disease</th><th>Status</th><th>Date</th><th>Source</th><th>Actions</th></tr></thead>
-            <tbody id="bookingBody"><tr><td colspan="7"><div class="state">Loading…</div></td></tr></tbody>
-          </table>
+        <nav class="sidebar-nav">
+          <button class="nav-item tab active" data-tab="dashboard">
+            <i class="fa-solid fa-chart-line"></i> Dashboard
+          </button>
+          <button class="nav-item tab" data-tab="bookings">
+            <i class="fa-solid fa-calendar-check"></i> Bookings
+          </button>
+          <button class="nav-item tab" data-tab="categories">
+            <i class="fa-solid fa-hospital"></i> Categories
+          </button>
+          <button class="nav-item tab" data-tab="doctors">
+            <i class="fa-solid fa-user-doctor"></i> Doctors
+          </button>
+          <button class="nav-item tab" data-tab="hospitals">
+            <i class="fa-solid fa-hotel"></i> Hospitals
+          </button>
+          <button class="nav-item tab" data-tab="treatments">
+            <i class="fa-solid fa-capsules"></i> Treatments
+          </button>
+        </nav>
+        <div class="sidebar-footer">
+          <button class="logout-btn" id="logoutBtn">
+            <i class="fa-solid fa-right-from-bracket"></i> Log out
+          </button>
         </div>
-      </div>
+      </aside>
 
-      <!-- RESOURCE PANES (categories/doctors/hospitals/treatments) -->
-      <div class="pane" id="pane-categories"></div>
-      <div class="pane" id="pane-doctors"></div>
-      <div class="pane" id="pane-hospitals"></div>
-      <div class="pane" id="pane-treatments"></div>
+      <!-- MOBILE TOP HEADER -->
+      <header class="mobile-header">
+        <button class="menu-toggle" id="menuToggle" aria-label="Toggle navigation menu">
+          <i class="fa-solid fa-bars"></i>
+        </button>
+        <span class="mobile-brand">Doctar Admin</span>
+        <button class="mobile-logout" onclick="document.getElementById('logoutBtn').click()" aria-label="Log out">
+          <i class="fa-solid fa-right-from-bracket"></i>
+        </button>
+      </header>
+
+      <!-- MAIN CONTENT WRAPPER -->
+      <main class="main-content">
+        <!-- Top bar with page title + refresh button -->
+        <div class="top-bar">
+          <h2 id="topBarTitle">Dashboard Overview</h2>
+          <div class="top-bar-actions">
+            <button class="btn btn-outline" id="globalRefreshBtn">
+              <i class="fa-solid fa-arrows-rotate"></i> Refresh
+            </button>
+          </div>
+        </div>
+
+        <div class="wrap">
+          <!-- DASHBOARD OVERVIEW PANE -->
+          <div class="pane active" id="pane-dashboard">
+            <div class="stats" id="bookingStatsDashboard"></div>
+            <div class="card">
+              <div class="card-header">
+                <h3>Recent Bookings</h3>
+                <button class="btn btn-outline btn-sm" onclick="document.querySelector('[data-tab=bookings]').click()">View All</button>
+              </div>
+              <div class="table-card">
+                <table>
+                  <thead>
+                    <tr><th>Name</th><th>Phone</th><th>Disease</th><th>Status</th><th>Date</th></tr>
+                  </thead>
+                  <tbody id="recentBookingsBody">
+                    <tr><td colspan="5"><div class="state">Loading…</div></td></tr>
+                  </tbody>
+                </table>
+              </div>
+            </div>
+          </div>
+
+          <!-- BOOKINGS PANE -->
+          <div class="pane" id="pane-bookings">
+            <!-- Stats cards are only displayed here on the Bookings tab (and Dashboard) -->
+            <div class="stats" id="bookingStats"></div>
+            <div class="section-head">
+              <h2>All Bookings</h2>
+              <div class="head-actions">
+                <button class="btn btn-outline" onclick="loadBookings()">↻ Refresh</button>
+              </div>
+            </div>
+            <div class="table-card">
+              <table>
+                <thead>
+                  <tr><th>Name</th><th>Phone</th><th>Disease</th><th>Status</th><th>Date</th><th>Source</th><th>Actions</th></tr>
+                </thead>
+                <tbody id="bookingBody">
+                  <tr><td colspan="7"><div class="state">Loading…</div></td></tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+
+          <!-- RESOURCE PANES -->
+          <div class="pane" id="pane-categories"></div>
+          <div class="pane" id="pane-doctors"></div>
+          <div class="pane" id="pane-hospitals"></div>
+          <div class="pane" id="pane-treatments"></div>
+        </div>
+      </main>
+
     </div>
   </div>
 
-  <!-- MODAL -->
+  <!-- EDIT / ADD MODAL -->
   <div class="modal-overlay" id="modal">
     <div class="modal">
-      <div class="modal-head"><h3 id="modalTitle">Edit</h3><button class="modal-close" id="modalClose">&times;</button></div>
+      <div class="modal-head">
+        <h3 id="modalTitle">Edit</h3>
+        <button class="modal-close" id="modalClose">&times;</button>
+      </div>
       <div class="modal-body" id="modalBody"></div>
       <div class="modal-foot">
         <button class="btn btn-outline" id="modalCancel">Cancel</button>
@@ -177,60 +1061,152 @@
     const loginScreen=document.getElementById('loginScreen');
     const dashboard=document.getElementById('dashboard');
 
-    function unlock(){loginScreen.style.display='none';dashboard.style.display='block';loadBookings();}
-    function tryLogin(){const v=document.getElementById('pwInput').value;
-      if(v===ADMIN_PASSWORD){sessionStorage.setItem('doctarAdmin','1');unlock();}
-      else document.getElementById('loginError').textContent='Incorrect password. Try again.';}
+    function unlock(){
+      loginScreen.style.display='none';
+      dashboard.style.display='block';
+      loadBookings();
+    }
+    function tryLogin(){
+      const v=document.getElementById('pwInput').value;
+      if(v===ADMIN_PASSWORD){
+        sessionStorage.setItem('doctarAdmin','1');
+        unlock();
+      } else {
+        document.getElementById('loginError').textContent='Incorrect password. Try again.';
+      }
+    }
     document.getElementById('loginBtn').onclick=tryLogin;
     document.getElementById('pwInput').addEventListener('keydown',e=>{if(e.key==='Enter')tryLogin();});
-    document.getElementById('logoutBtn').onclick=()=>{sessionStorage.removeItem('doctarAdmin');location.reload();};
+    document.getElementById('logoutBtn').onclick=()=>{
+      sessionStorage.removeItem('doctarAdmin');
+      location.reload();
+    };
     if(sessionStorage.getItem('doctarAdmin')==='1')unlock();
 
-    function esc(s){return String(s==null?'':s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));}
-    function fmtDate(d){return new Date(d).toLocaleString('en-IN',{day:'2-digit',month:'short',year:'numeric',hour:'2-digit',minute:'2-digit'});}
+    function esc(s){
+      return String(s==null?'':s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+    }
+    function fmtDate(d){
+      return new Date(d).toLocaleString('en-IN',{day:'2-digit',month:'short',year:'numeric',hour:'2-digit',minute:'2-digit'});
+    }
 
-    /* ---------- Tabs ---------- */
+    /* ---------- Tabs and Sidebar Navigation ---------- */
     const loadedOnce={};
-    document.querySelectorAll('.tab').forEach(t=>t.onclick=()=>{
-      document.querySelectorAll('.tab').forEach(x=>x.classList.remove('active'));
-      document.querySelectorAll('.pane').forEach(x=>x.classList.remove('active'));
-      t.classList.add('active');
-      const tab=t.dataset.tab;
-      document.getElementById('pane-'+tab).classList.add('active');
-      if(tab!=='bookings' && !loadedOnce[tab]){ RES[tab].render(); loadedOnce[tab]=true; }
+    const titles = {
+      dashboard: 'Dashboard Overview',
+      bookings: 'Booking Management',
+      categories: 'Categories Directory',
+      doctors: 'Doctors Registry',
+      hospitals: 'Partner Hospitals',
+      treatments: 'Surgical Treatments'
+    };
+
+    document.querySelectorAll('.tab').forEach(t=>{
+      t.onclick=()=>{
+        document.querySelectorAll('.tab').forEach(x=>x.classList.remove('active'));
+        document.querySelectorAll('.pane').forEach(x=>x.classList.remove('active'));
+        
+        t.classList.add('active');
+        const tab=t.dataset.tab;
+        document.getElementById('pane-'+tab).classList.add('active');
+        
+        // Update top bar page title
+        const titleEl = document.getElementById('topBarTitle');
+        if (titleEl) titleEl.textContent = titles[tab] || 'Admin Panel';
+
+        // Close sidebar on mobile after clicking
+        const sidebar = document.querySelector('.sidebar');
+        if (sidebar) sidebar.classList.remove('open');
+
+        // Dynamically load content for CMS panes
+        if(tab!=='bookings' && tab!=='dashboard' && !loadedOnce[tab]){
+          RES[tab].render();
+          loadedOnce[tab]=true;
+        }
+      };
     });
 
-    /* ---------- Bookings ---------- */
+    /* Global Refresh button */
+    document.getElementById('globalRefreshBtn').onclick = () => {
+      const activeTab = document.querySelector('.tab.active').dataset.tab;
+      if (activeTab === 'bookings' || activeTab === 'dashboard') {
+        loadBookings();
+      } else {
+        RES[activeTab].render();
+      }
+    };
+
+    /* Mobile hamburger menu toggle */
+    const menuToggle = document.getElementById('menuToggle');
+    const sidebar = document.querySelector('.sidebar');
+    if (menuToggle && sidebar) {
+      menuToggle.onclick = (e) => {
+        e.stopPropagation();
+        sidebar.classList.toggle('open');
+      };
+      document.addEventListener('click', (e) => {
+        if (!sidebar.contains(e.target) && e.target !== menuToggle) {
+          sidebar.classList.remove('open');
+        }
+      });
+    }
+
+    /* ---------- Bookings Data Loader ---------- */
     async function loadBookings(){
       const tb=document.getElementById('bookingBody');
+      const recentTb=document.getElementById('recentBookingsBody');
       tb.innerHTML='<tr><td colspan="7"><div class="state">Loading…</div></td></tr>';
+      recentTb.innerHTML='<tr><td colspan="5"><div class="state">Loading…</div></td></tr>';
       try{
-        const j=await(await fetch(API+'/all')).json();const rows=j.data||[];
+        const j=await(await fetch(API+'/all')).json();
+        const rows=j.data||[];
         const c=(s)=>rows.filter(r=>r.status===s).length;
-        document.getElementById('bookingStats').innerHTML=`
+        
+        const statsHTML = `
           <div class="stat-card"><div class="num">${rows.length}</div><div class="label">Total</div></div>
           <div class="stat-card"><div class="num">${c('pending')}</div><div class="label">Pending</div></div>
           <div class="stat-card"><div class="num">${c('confirmed')}</div><div class="label">Confirmed</div></div>
           <div class="stat-card"><div class="num">${c('cancelled')}</div><div class="label">Cancelled</div></div>`;
-        if(!rows.length){tb.innerHTML='<tr><td colspan="7"><div class="state">No bookings yet.</div></td></tr>';return;}
-        tb.innerHTML=rows.map(b=>`<tr>
-          <td class="cell-name">${esc(b.name)}</td><td>${esc(b.phone)}</td><td>${esc(b.disease)}</td>
-          <td><span class="badge ${esc(b.status)}">${esc(b.status)}</span></td>
-          <td class="cell-muted">${fmtDate(b.createdAt)}</td><td class="cell-muted">${esc(b.source)}</td>
-          <td><div class="actions">
-            <button class="act-btn act-confirm" ${b.status==='confirmed'?'disabled':''} onclick="setStatus('${b._id}','confirmed')">Confirm</button>
-            <button class="act-btn act-cancel" ${b.status==='cancelled'?'disabled':''} onclick="setStatus('${b._id}','cancelled')">Cancel</button>
-          </div></td></tr>`).join('');
-      }catch(e){tb.innerHTML='<tr><td colspan="7"><div class="state">Failed to load.</div></td></tr>';}
+        
+        document.getElementById('bookingStats').innerHTML=statsHTML;
+        document.getElementById('bookingStatsDashboard').innerHTML=statsHTML;
+
+        // Render Bookings List
+        if(!rows.length){
+          tb.innerHTML='<tr><td colspan="7"><div class="state">No bookings yet.</div></td></tr>';
+        } else {
+          tb.innerHTML=rows.map(b=>`<tr>
+            <td class="cell-name">${esc(b.name)}</td><td>${esc(b.phone)}</td><td>${esc(b.disease)}</td>
+            <td><span class="badge ${esc(b.status)}">${esc(b.status)}</span></td>
+            <td class="cell-muted">${fmtDate(b.createdAt)}</td><td class="cell-muted">${esc(b.source)}</td>
+            <td><div class="actions">
+              <button class="act-btn act-confirm" ${b.status==='confirmed'?'disabled':''} onclick="setStatus('${b._id}','confirmed')">Confirm</button>
+              <button class="act-btn act-cancel" ${b.status==='cancelled'?'disabled':''} onclick="setStatus('${b._id}','cancelled')">Cancel</button>
+            </div></td></tr>`).join('');
+        }
+
+        // Render Recent Bookings (limit to 5) for Dashboard
+        if(!rows.length){
+          recentTb.innerHTML='<tr><td colspan="5"><div class="state">No bookings yet.</div></td></tr>';
+        } else {
+          recentTb.innerHTML=rows.slice(0, 5).map(b=>`<tr>
+            <td class="cell-name">${esc(b.name)}</td><td>${esc(b.phone)}</td><td>${esc(b.disease)}</td>
+            <td><span class="badge ${esc(b.status)}">${esc(b.status)}</span></td>
+            <td class="cell-muted">${fmtDate(b.createdAt)}</td></tr>`).join('');
+        }
+      }catch(e){
+        tb.innerHTML='<tr><td colspan="7"><div class="state">Failed to load bookings.</div></td></tr>';
+        recentTb.innerHTML='<tr><td colspan="5"><div class="state">Failed to load.</div></td></tr>';
+      }
     }
+
     async function setStatus(id,status){
       const j=await(await fetch(`${API}/${id}/status`,{method:'PUT',headers:{'Content-Type':'application/json'},body:JSON.stringify({status})})).json();
       if(j.success)loadBookings();else alert(j.message||'Failed');
     }
     window.setStatus=setStatus;
 
-    /* ---------- Generic resource manager ---------- */
-    // field: {key,label,type?('text'|'textarea'|'number'),array?,full?}
+    /* ---------- Generic Resource Manager ---------- */
     const RES={
       categories:{ endpoint:'/api/categories', title:'Categories',
         columns:[['name','Name'],['slug','Slug'],['treatmentCount','Treatments'],['color','Color']],
@@ -238,6 +1214,7 @@
           {key:'name',label:'Name'},{key:'slug',label:'Slug'},
           {key:'icon',label:'Icon (emoji)'},{key:'treatmentCount',label:'Treatment Count',type:'number'},
           {key:'color',label:'Color'},{key:'colorLight',label:'Color Light'},
+          {key:'iconImage',label:'Icon PNG (overrides emoji)',type:'image',full:true},
           {key:'image',label:'Image path',full:true},
           {key:'tags',label:'Tags (comma separated)',array:true,full:true},
           {key:'description',label:'Description',type:'textarea',full:true},
@@ -251,7 +1228,7 @@
           {key:'rating',label:'Rating',type:'number'},{key:'reviews',label:'Reviews',type:'number'},
           {key:'hospital',label:'Hospital'},{key:'location',label:'Location'},
           {key:'language',label:'Language'},{key:'nextSlot',label:'Next Slot'},
-          {key:'image',label:'Image path',full:true},
+          {key:'image',label:'Photo',type:'image',full:true},
           {key:'slots',label:'Slots (comma separated)',array:true,full:true},
           {key:'categories',label:'Categories (comma separated)',array:true,full:true},
           {key:'bio',label:'Bio',type:'textarea',full:true},
@@ -263,7 +1240,10 @@
           {key:'city',label:'City'},{key:'type',label:'Type'},
           {key:'rating',label:'Rating',type:'number'},{key:'reviews',label:'Reviews',type:'number'},
           {key:'phone',label:'Phone'},{key:'hours',label:'Hours'},
-          {key:'address',label:'Address',full:true},{key:'image',label:'Image URL',full:true},
+          {key:'address',label:'Address',full:true},
+          {key:'image',label:'Photo (building/banner)',type:'image',full:true},
+          {key:'logo',label:'Logo',type:'image',full:true},
+          {key:'map',label:'Location (search or click map to set)',type:'map',full:true},
           {key:'specialties',label:'Specialties (comma separated)',array:true,full:true},
           {key:'amenities',label:'Amenities (comma separated)',array:true,full:true},
           {key:'services',label:'Services (comma separated)',array:true,full:true},
@@ -282,39 +1262,60 @@
         ]},
     };
 
-    // attach render + helpers to each resource
     Object.entries(RES).forEach(([key,cfg])=>{
       cfg.cache=[];
       cfg.render=async function(){
         const pane=document.getElementById('pane-'+key);
-        pane.innerHTML=`<div class="section-head"><h2>${cfg.title}</h2>
-          <div class="head-actions">
-            <button class="btn btn-outline" onclick="RES.${key}.render()">↻ Refresh</button>
-            <button class="btn btn-primary" onclick="openForm('${key}')">+ Add ${cfg.title.slice(0,-1)}</button>
-          </div></div>
-          <div class="table-card"><table><thead><tr>
-          ${cfg.columns.map(c=>`<th>${c[1]}</th>`).join('')}<th>Actions</th></tr></thead>
-          <tbody id="body-${key}"><tr><td colspan="${cfg.columns.length+1}"><div class="state">Loading…</div></td></tr></tbody>
-          </table></div>`;
+        pane.innerHTML=`
+          <div class="section-head">
+            <h2>${cfg.title} Management</h2>
+            <div class="head-actions">
+              <button class="btn btn-outline" onclick="RES.${key}.render()">↻ Refresh</button>
+              <button class="btn btn-primary btn-add" onclick="openForm('${key}')">+ Add ${cfg.title.slice(0,-1)}</button>
+            </div>
+          </div>
+          <div class="table-card">
+            <table>
+              <thead>
+                <tr>
+                  ${cfg.columns.map(c=>`<th>${c[1]}</th>`).join('')}
+                  <th>Actions</th>
+                </tr>
+              </thead>
+              <tbody id="body-${key}">
+                <tr><td colspan="${cfg.columns.length+1}"><div class="state">Loading…</div></td></tr>
+              </tbody>
+            </table>
+          </div>`;
         try{
           const j=await(await fetch(cfg.endpoint)).json();
           cfg.cache=j.data||[];
           const body=document.getElementById('body-'+key);
-          if(!cfg.cache.length){body.innerHTML=`<tr><td colspan="${cfg.columns.length+1}"><div class="state">No ${key} yet.</div></td></tr>`;return;}
+          if(!cfg.cache.length){
+            body.innerHTML=`<tr><td colspan="${cfg.columns.length+1}"><div class="state">No ${key} items registered yet.</div></td></tr>`;
+            return;
+          }
           body.innerHTML=cfg.cache.map((row,i)=>`<tr>
             ${cfg.columns.map((c,ci)=>`<td class="${ci===0?'cell-name':'cell-muted'}">${esc(row[c[0]])}</td>`).join('')}
-            <td><div class="actions">
-              <button class="act-btn act-edit" onclick="openForm('${key}',${i})">Edit</button>
-              <button class="act-btn act-del" onclick="delItem('${key}','${row._id}')">Delete</button>
-            </div></td></tr>`).join('');
-        }catch(e){document.getElementById('body-'+key).innerHTML=`<tr><td colspan="${cfg.columns.length+1}"><div class="state">Failed to load.</div></td></tr>`;}
+            <td>
+              <div class="actions">
+                <button class="act-btn act-edit" onclick="openForm('${key}',${i})">Edit</button>
+                <button class="act-btn act-del" onclick="delItem('${key}','${row._id}')">Delete</button>
+              </div>
+            </td>
+          </tr>`).join('');
+        }catch(e){
+          document.getElementById('body-'+key).innerHTML=`<tr><td colspan="${cfg.columns.length+1}"><div class="state">Failed to load data.</div></td></tr>`;
+        }
       };
     });
 
-    /* ---------- Modal form ---------- */
+    /* ---------- Modal form operations ---------- */
     const modal=document.getElementById('modal');
     let modalState={key:null,id:null};
-    function closeModal(){modal.classList.remove('open');}
+    function closeModal(){
+      modal.classList.remove('open');
+    }
     document.getElementById('modalClose').onclick=closeModal;
     document.getElementById('modalCancel').onclick=closeModal;
     modal.addEventListener('click',e=>{if(e.target===modal)closeModal();});
@@ -322,37 +1323,175 @@
     function openForm(key,index){
       const cfg=RES[key];
       const existing=(index!=null)?cfg.cache[index]:{};
-      modalState={key,id:existing._id||null};
+      modalState={key,id:existing._id||null,existing};
       document.getElementById('modalTitle').textContent=(existing._id?'Edit ':'Add ')+cfg.title.slice(0,-1);
       document.getElementById('modalBody').innerHTML=cfg.fields.map(f=>{
+        // Image upload field — file picker + live preview, stores the returned URL.
+        if(f.type==='image'){
+          const url=existing[f.key]||'';
+          return `<div class="field full">
+            <label>${f.label}</label>
+            <div class="img-uploader">
+              <div class="img-preview">${url?`<img src="${esc(url)}" alt="">`:'No image'}</div>
+              <div class="img-uploader-controls">
+                <input type="hidden" data-key="${f.key}" value="${esc(url)}">
+                <input type="file" accept="image/jpeg,image/png" onchange="handleImageUpload(this,'${f.key}')">
+                <span class="upload-status" data-status-for="${f.key}"></span>
+              </div>
+            </div>
+          </div>`;
+        }
+        // Map picker field — search + clickable Leaflet map writing to map.lat/lng.
+        if(f.type==='map'){
+          const m=existing[f.key]||{};
+          const lat=(m.lat!=null)?m.lat:'';
+          const lng=(m.lng!=null)?m.lng:'';
+          return `<div class="field full">
+            <label>${f.label}</label>
+            <div class="map-search-row">
+              <input type="text" id="mapSearchInput" placeholder="Search a place, e.g. Apollo Hospital Kolkata">
+              <button type="button" class="btn btn-outline" onclick="mapSearch()">Search</button>
+            </div>
+            <div class="map-pick" id="mapPick"></div>
+            <div class="map-coords">
+              <div>Lat: <span id="mapLatLabel">${lat===''?'—':lat}</span></div>
+              <div>Lng: <span id="mapLngLabel">${lng===''?'—':lng}</span></div>
+              <input type="hidden" id="mapLat" value="${lat}">
+              <input type="hidden" id="mapLng" value="${lng}">
+            </div>
+          </div>`;
+        }
         let val=existing[f.key];
         if(f.array&&Array.isArray(val))val=val.join(', ');
         if(val==null)val='';
         const input=f.type==='textarea'
           ? `<textarea data-key="${f.key}" ${f.array?'data-array="1"':''}>${esc(val)}</textarea>`
           : `<input type="${f.type==='number'?'number':'text'}" data-key="${f.key}" ${f.array?'data-array="1"':''} value="${esc(val)}">`;
-        return `<div class="field ${f.full?'full':''}"><label>${f.label}</label>${input}${f.array?'<span class="hint">Separate with commas</span>':''}</div>`;
+        return `<div class="field ${f.full?'full':''}"><label>${f.label}</label>${input}${f.array?'<span class="hint">Separate elements with commas</span>':''}</div>`;
       }).join('');
       modal.classList.add('open');
+      // Initialise the Leaflet picker once the modal DOM exists.
+      if(cfg.fields.some(f=>f.type==='map')) initMapPicker();
     }
     window.openForm=openForm;
+
+    /* ---------- Image upload handler ---------- */
+    async function handleImageUpload(input,key){
+      const status=document.querySelector(`[data-status-for="${key}"]`);
+      const file=input.files&&input.files[0];
+      if(!file)return;
+      if(!['image/jpeg','image/png'].includes(file.type)){
+        status.className='upload-status err';
+        status.textContent='Only JPG or PNG allowed.';
+        input.value='';
+        return;
+      }
+      status.className='upload-status busy';
+      status.textContent='Uploading & converting…';
+      const fd=new FormData();
+      fd.append('image',file);
+      try{
+        const j=await(await fetch('/api/upload',{method:'POST',body:fd})).json();
+        if(j.success&&j.url){
+          const wrap=input.closest('.img-uploader');
+          wrap.querySelector('[data-key]').value=j.url;
+          wrap.querySelector('.img-preview').innerHTML=`<img src="${esc(j.url)}" alt="">`;
+          status.className='upload-status ok';
+          status.textContent='Uploaded (WebP'+(j.avif?' + AVIF':'')+') ✓';
+        } else {
+          status.className='upload-status err';
+          status.textContent=j.message||'Upload failed.';
+        }
+      }catch(e){
+        status.className='upload-status err';
+        status.textContent='Upload failed — is the server running?';
+      }
+    }
+    window.handleImageUpload=handleImageUpload;
+
+    /* ---------- Leaflet map picker ---------- */
+    let pickMap=null,pickMarker=null;
+    function setPickedCoords(lat,lng){
+      lat=Number(lat.toFixed(6));lng=Number(lng.toFixed(6));
+      document.getElementById('mapLat').value=lat;
+      document.getElementById('mapLng').value=lng;
+      document.getElementById('mapLatLabel').textContent=lat;
+      document.getElementById('mapLngLabel').textContent=lng;
+      if(pickMarker){pickMarker.setLatLng([lat,lng]);}
+      else{pickMarker=L.marker([lat,lng]).addTo(pickMap);}
+    }
+    function initMapPicker(){
+      const el=document.getElementById('mapPick');
+      if(!el)return;
+      pickMap=null;pickMarker=null;
+      const startLat=parseFloat(document.getElementById('mapLat').value);
+      const startLng=parseFloat(document.getElementById('mapLng').value);
+      const hasStart=!isNaN(startLat)&&!isNaN(startLng);
+      const center=hasStart?[startLat,startLng]:[22.5726,88.3639]; // default: Kolkata
+      pickMap=L.map(el).setView(center,hasStart?14:11);
+      L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png',{
+        attribution:'© OpenStreetMap, © CARTO',maxZoom:19
+      }).addTo(pickMap);
+      if(hasStart){pickMarker=L.marker(center).addTo(pickMap);}
+      pickMap.on('click',e=>setPickedCoords(e.latlng.lat,e.latlng.lng));
+      // Leaflet needs a size recalc after the modal animates in.
+      setTimeout(()=>pickMap.invalidateSize(),250);
+    }
+    async function mapSearch(){
+      const q=document.getElementById('mapSearchInput').value.trim();
+      if(!q)return;
+      try{
+        const r=await fetch('https://nominatim.openstreetmap.org/search?format=json&limit=1&q='+encodeURIComponent(q),
+          {headers:{'Accept':'application/json'}});
+        const list=await r.json();
+        if(list&&list.length){
+          const lat=parseFloat(list[0].lat),lng=parseFloat(list[0].lon);
+          pickMap.setView([lat,lng],15);
+          setPickedCoords(lat,lng);
+        } else {
+          alert('No location found for "'+q+'".');
+        }
+      }catch(e){
+        alert('Location search failed. Check your connection.');
+      }
+    }
+    window.mapSearch=mapSearch;
 
     document.getElementById('modalSave').onclick=async function(){
       const cfg=RES[modalState.key];
       const payload={};
       document.querySelectorAll('#modalBody [data-key]').forEach(el=>{
         const k=el.dataset.key;let v=el.value.trim();
-        if(el.dataset.array){payload[k]=v?v.split(',').map(s=>s.trim()).filter(Boolean):[];}
-        else if(el.type==='number'){payload[k]=v===''?undefined:Number(v);}
-        else payload[k]=v;
+        if(el.dataset.array){
+          payload[k]=v?v.split(',').map(s=>s.trim()).filter(Boolean):[];
+        } else if(el.type==='number'){
+          payload[k]=v===''?undefined:Number(v);
+        } else {
+          payload[k]=v;
+        }
       });
+      // Map picker → nested map object, preserving any existing map props (left/top/label).
+      const latEl=document.getElementById('mapLat');
+      const lngEl=document.getElementById('mapLng');
+      if(latEl&&lngEl){
+        const lat=parseFloat(latEl.value),lng=parseFloat(lngEl.value);
+        if(!isNaN(lat)&&!isNaN(lng)){
+          payload.map=Object.assign({},(modalState.existing&&modalState.existing.map)||{},{lat,lng});
+        }
+      }
       const url=modalState.id?`${cfg.endpoint}/${modalState.id}`:cfg.endpoint;
       const method=modalState.id?'PUT':'POST';
       try{
         const j=await(await fetch(url,{method,headers:{'Content-Type':'application/json'},body:JSON.stringify(payload)})).json();
-        if(j.success){closeModal();cfg.render();}
-        else alert(j.error||j.message||'Save failed');
-      }catch(e){alert('Save failed — is the server running?');}
+        if(j.success){
+          closeModal();
+          cfg.render();
+        } else {
+          alert(j.error||j.message||'Save failed');
+        }
+      }catch(e){
+        alert('Save failed — is the server running?');
+      }
     };
 
     async function delItem(key,id){

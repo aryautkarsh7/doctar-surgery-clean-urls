@@ -1,26 +1,23 @@
 const nodemailer = require('nodemailer');
 
-// Gmail transporter. Uses an App Password (not your normal Gmail password).
-// Create one at: Google Account → Security → 2-Step Verification → App passwords
 const transporter = nodemailer.createTransport({
   service: 'gmail',
   auth: {
-    user: process.env.EMAIL_USER,
-    pass: process.env.EMAIL_PASS,
+    user: (process.env.EMAIL_USER || '').trim(),
+    // Gmail app passwords are often copied with spaces ("xxxx xxxx xxxx xxxx");
+    // strip all whitespace so auth doesn't fail.
+    pass: (process.env.EMAIL_PASS || '').replace(/\s+/g, ''),
   },
 });
 
-// Returns true only when real (non-placeholder) credentials are set.
 function isConfigured() {
   const user = process.env.EMAIL_USER || '';
   const pass = process.env.EMAIL_PASS || '';
   if (!user || !pass) return false;
-  // Treat the .env.example placeholders as "not configured"
   if (user.includes('your-email') || pass.includes('your-')) return false;
   return true;
 }
 
-// Verify config once at startup (logs a warning instead of crashing if unset)
 function verifyMailer() {
   if (!isConfigured()) {
     console.warn('⚠️  Email not configured — set real EMAIL_USER / EMAIL_PASS in .env');
@@ -47,7 +44,9 @@ function patientHtml(booking) {
         coordinator will call you shortly on <strong>${booking.phone}</strong>.
       </p>
       <table style="width:100%;border-collapse:collapse;margin:20px 0;font-size:14px">
-        <tr><td style="padding:8px 0;color:#888">Treatment</td><td style="padding:8px 0;color:#111;font-weight:600">${booking.disease}</td></tr>
+        <tr><td style="padding:8px 0;color:#888">Reason of Visit</td><td style="padding:8px 0;color:#111;font-weight:600">${booking.disease}</td></tr>
+        <tr><td style="padding:8px 0;color:#888">Doctor Requested</td><td style="padding:8px 0;color:#111;font-weight:600">${booking.doctorName || 'Not specified'}</td></tr>
+        <tr><td style="padding:8px 0;color:#888">Location</td><td style="padding:8px 0;color:#111;font-weight:600">${booking.location || 'Not specified'}</td></tr>
         <tr><td style="padding:8px 0;color:#888">Phone</td><td style="padding:8px 0;color:#111;font-weight:600">${booking.phone}</td></tr>
         <tr><td style="padding:8px 0;color:#888">Status</td><td style="padding:8px 0;color:#111;font-weight:600">${booking.status}</td></tr>
       </table>
@@ -67,23 +66,19 @@ function adminHtml(booking) {
     </div>
     <div style="padding:24px 28px">
       <table style="width:100%;border-collapse:collapse;font-size:14px">
-        <tr><td style="padding:8px 0;color:#888">Name</td><td style="padding:8px 0;color:#111;font-weight:600">${booking.name}</td></tr>
+        <tr><td style="padding:8px 0;color:#888">Patient Name</td><td style="padding:8px 0;color:#111;font-weight:600">${booking.name}</td></tr>
         <tr><td style="padding:8px 0;color:#888">Phone</td><td style="padding:8px 0;color:#111;font-weight:600">${booking.phone}</td></tr>
         ${booking.email ? `<tr><td style="padding:8px 0;color:#888">Email</td><td style="padding:8px 0;color:#111;font-weight:600">${booking.email}</td></tr>` : ''}
-        <tr><td style="padding:8px 0;color:#888">Treatment</td><td style="padding:8px 0;color:#111;font-weight:600">${booking.disease}</td></tr>
-        <tr><td style="padding:8px 0;color:#888">Source</td><td style="padding:8px 0;color:#111;font-weight:600">${booking.source}</td></tr>
+        <tr><td style="padding:8px 0;color:#888">Reason of Visit</td><td style="padding:8px 0;color:#111;font-weight:600">${booking.disease}</td></tr>
+        <tr><td style="padding:8px 0;color:#888">Doctor Requested</td><td style="padding:8px 0;color:#111;font-weight:600">${booking.doctorName || 'Not specified'}</td></tr>
+        <tr><td style="padding:8px 0;color:#888">Hospital</td><td style="padding:8px 0;color:#111;font-weight:600">${booking.hospital || 'Not specified'}</td></tr>
+        <tr><td style="padding:8px 0;color:#888">Location</td><td style="padding:8px 0;color:#111;font-weight:600">${booking.location || 'Not specified'}</td></tr>
         <tr><td style="padding:8px 0;color:#888">Received</td><td style="padding:8px 0;color:#111;font-weight:600">${new Date(booking.createdAt).toLocaleString('en-IN')}</td></tr>
       </table>
     </div>
   </div>`;
 }
 
-/**
- * Send booking emails.
- * - Always notifies the admin (ADMIN_EMAIL).
- * - Sends the patient a confirmation only if booking.email is present.
- * Never throws — failures are logged so a booking is never lost due to email.
- */
 async function sendBookingEmail(booking) {
   if (!isConfigured()) {
     console.warn('⚠️  Skipping emails — EMAIL_USER / EMAIL_PASS not configured');
@@ -92,20 +87,17 @@ async function sendBookingEmail(booking) {
 
   const from = `"Doctar" <${process.env.EMAIL_USER}>`;
   const adminEmail = process.env.ADMIN_EMAIL || process.env.EMAIL_USER;
-
   const jobs = [];
 
-  // Admin notification (always)
   jobs.push(
     transporter.sendMail({
       from,
       to: adminEmail,
-      subject: `New booking: ${booking.disease} — ${booking.name}`,
+      subject: `New booking: ${booking.disease} — ${booking.name} (${booking.location || 'Location N/A'})`,
       html: adminHtml(booking),
     })
   );
 
-  // Patient confirmation (only if we captured an email)
   if (booking.email) {
     jobs.push(
       transporter.sendMail({

@@ -4,6 +4,7 @@ const hospitalSchema = new mongoose.Schema({
   slug: { type: String, required: true, unique: true },
   name: { type: String, required: true },
   image: String,
+  logo: String,
   rating: Number,
   reviews: Number,
   address: String,
