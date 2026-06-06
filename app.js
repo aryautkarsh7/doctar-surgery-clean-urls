@@ -2333,6 +2333,26 @@ ${homeDoctors.slice(0, 8).map(doc => `
       { initials: 'NV', name: 'Neha Verma',    ago: '3 weeks ago',  text: 'Best doctor I have visited. Explained everything in simple language and the treatment was very effective.' },
     ];
 
+    // Build the list of hospitals this doctor practices at.
+    // Supports doc.hospitals (array of strings or {name, location, hours, slug});
+    // falls back to the single doc.hospital string.
+    const practiceList = (() => {
+      const raw = (Array.isArray(doc.hospitals) && doc.hospitals.length)
+        ? doc.hospitals
+        : [{ name: doc.hospital, location: doc.location, hours: doc.hours }];
+      return raw.map(item => {
+        const name = (typeof item === 'string') ? item : (item.name || '');
+        const rec = (typeof HOSPITALS !== 'undefined') ? HOSPITALS.find(h => h.name === name) : null;
+        const obj = (typeof item === 'object') ? item : {};
+        return {
+          name,
+          location: obj.location || (rec ? rec.address : (name === doc.hospital ? doc.location : '')),
+          hours: obj.hours || (rec ? rec.hours : ''),
+          slug: obj.slug || (rec ? rec.slug : ''),
+        };
+      }).filter(h => h.name);
+    })();
+
     const html = `
       <div class="container dpp-breadcrumb">
         <a href="#/">Home</a> <span>›</span>
@@ -2399,6 +2419,23 @@ ${homeDoctors.slice(0, 8).map(doc => `
               </div>
             </div>
           </div>
+
+          <!-- PRACTICES AT -->
+          ${practiceList.length ? `
+          <div class="dpp-practices-card">
+            <h4 class="dpp-practices-title"><i class="fa-solid fa-location-dot"></i> Practices At</h4>
+            ${practiceList.map(h => `
+              <div class="dpp-practice-item">
+                <div class="dpp-practice-ic">🏥</div>
+                <div class="dpp-practice-info">
+                  <h5>${h.name}</h5>
+                  ${h.location ? `<p>${h.location}</p>` : ''}
+                  ${h.hours ? `<p class="dpp-practice-hours"><i class="fa-regular fa-clock"></i> ${h.hours}</p>` : ''}
+                  ${h.slug ? `<a href="#/hospital/${h.slug}" class="dpp-practice-link">View Hospital <i class="fa-solid fa-arrow-right"></i></a>` : ''}
+                </div>
+              </div>
+            `).join('')}
+          </div>` : ''}
 
           <!-- CLAIM PROFILE CARD -->
           <div class="dpp-claim-card">
@@ -2654,7 +2691,31 @@ ${homeDoctors.slice(0, 8).map(doc => `
     const hospital = findHospital(slug);
     if (!hospital) { handleRoute(); return; }
 
-    const hospitalDoctors = DOCTORS.filter(doc => doc.hospital === hospital.name);
+    // Doctors at this hospital: match by doc.hospitals[] (slug or name) OR doc.hospital string.
+    const hospitalDoctors = DOCTORS.filter(doc => {
+      if (Array.isArray(doc.hospitals)) {
+        const inList = doc.hospitals.some(h => {
+          const name = (typeof h === 'string') ? h : (h.name || '');
+          const hslug = (typeof h === 'object') ? (h.slug || '') : '';
+          return name === hospital.name || hslug === hospital.slug;
+        });
+        if (inList) return true;
+      }
+      return doc.hospital === hospital.name;
+    });
+
+    // Group doctors by their primary category (categories[0]); ungrouped → "Other Specialists".
+    const doctorsByCategory = (() => {
+      const groups = {};
+      hospitalDoctors.forEach(doc => {
+        const catSlug = (Array.isArray(doc.categories) && doc.categories[0]) ? doc.categories[0] : '_other';
+        (groups[catSlug] = groups[catSlug] || []).push(doc);
+      });
+      return Object.keys(groups).map(catSlug => ({
+        label: catSlug === '_other' ? 'Other Specialists' : ((findCategory(catSlug) || {}).name || catSlug),
+        doctors: groups[catSlug],
+      }));
+    })();
     const visitReasons = Array.from(new Set([
       'General Consultation',
       ...(hospital.specialties || []),
@@ -2763,23 +2824,28 @@ ${homeDoctors.slice(0, 8).map(doc => `
           </section>
 
           <section class="hpp-section">
-            <h2><i class="fa-solid fa-user-doctor"></i> Available Surgeons</h2>
+            <h2><i class="fa-solid fa-user-doctor"></i> Available Doctors</h2>
             ${hospitalDoctors.length === 0 ? `
               <p>Our care team will help match you with the right specialist at this hospital.</p>
-            ` : `
-              <div class="hpp-doctors">
-                ${hospitalDoctors.map(doc => `
-                  <a href="#/doctor/${doc.slug}" class="hpp-doctor-card">
-                    <img src="${doc.image}" alt="${doc.name}">
-                    <div>
-                      <h3>${doc.name}</h3>
-                      <p>${doc.specialty}</p>
-                      <span>${doc.rating} ★ · ${doc.experience}</span>
-                    </div>
-                  </a>
-                `).join('')}
+            ` : doctorsByCategory.map(group => `
+              <div class="hpp-doc-group">
+                <h3 class="hpp-doc-cat">${group.label}</h3>
+                <div class="hpp-doc-row">
+                  ${group.doctors.map(doc => `
+                    <a href="#/doctor/${doc.slug}" class="hpp-doc-card">
+                      <div class="hpp-doc-photo">${doc.image ? `<img src="${doc.image}" alt="${doc.name}" onerror="this.parentNode.textContent='${(doc.name||'').replace(/^Dr\.?\s*/i,'').split(/\s+/).map(w=>w[0]).join('').slice(0,2).toUpperCase()}'">` : (doc.name||'').replace(/^Dr\.?\s*/i,'').split(/\s+/).map(w=>w[0]).join('').slice(0,2).toUpperCase()}</div>
+                      <div class="hpp-doc-info">
+                        <h4 class="hpp-doc-name">${doc.name}</h4>
+                        <p class="hpp-doc-spec">${doc.specialty || ''}</p>
+                        <p class="hpp-doc-meta">${doc.rating ? '⭐ ' + doc.rating : ''}${doc.rating && doc.experience ? ' | ' : ''}${doc.experience || ''}</p>
+                        ${doc.hours || doc.nextSlot ? `<p class="hpp-doc-hours"><i class="fa-regular fa-clock"></i> ${doc.hours || ('Next: ' + doc.nextSlot)}</p>` : ''}
+                        <span class="hpp-doc-book">Book <i class="fa-solid fa-arrow-right"></i></span>
+                      </div>
+                    </a>
+                  `).join('')}
+                </div>
               </div>
-            `}
+            `).join('')}
           </section>
 
           <section class="hpp-section" id="hpp-booking">
