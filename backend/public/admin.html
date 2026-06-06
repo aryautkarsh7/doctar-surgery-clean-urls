@@ -565,6 +565,16 @@
       color: #b91c1c;
     }
 
+    .badge.approved {
+      background: #ecfdf5;
+      color: #047857;
+    }
+
+    .badge.rejected {
+      background: #fef2f2;
+      color: #b91c1c;
+    }
+
     /* --- ACTIONS ROW --- */
     .actions {
       display: flex;
@@ -1267,6 +1277,9 @@
           <button class="nav-item tab" data-tab="faqs">
             <i class="fa-solid fa-circle-question"></i> FAQ
           </button>
+          <button class="nav-item tab" data-tab="claims">
+            <i class="fa-solid fa-user-check"></i> Doctor Claims
+          </button>
         </nav>
         <div class="sidebar-footer">
           <div class="sidebar-profile">
@@ -1398,6 +1411,26 @@
           <div class="pane" id="pane-videos"></div>
           <div class="pane" id="pane-reviews"></div>
           <div class="pane" id="pane-faqs"></div>
+
+          <!-- DOCTOR CLAIMS PANE -->
+          <div class="pane" id="pane-claims">
+            <div class="section-head">
+              <h2>Doctor Profile Claims</h2>
+              <div class="head-actions">
+                <button class="btn btn-outline" onclick="loadClaims()">↻ Refresh</button>
+              </div>
+            </div>
+            <div class="table-card">
+              <table>
+                <thead>
+                  <tr><th>Doctor</th><th>Claimant</th><th>Email</th><th>Phone</th><th>Reg No</th><th>Status</th><th>Date</th><th>Actions</th></tr>
+                </thead>
+                <tbody id="claimsBody">
+                  <tr><td colspan="8"><div class="state">Loading…</div></td></tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
         </div>
       </main>
 
@@ -1495,7 +1528,8 @@
       blogs: 'Blog Posts',
       videos: 'Videos',
       reviews: 'Reviews Management',
-      faqs: 'FAQ Management'
+      faqs: 'FAQ Management',
+      claims: 'Doctor Claims'
     };
 
     document.querySelectorAll('.tab').forEach(t=>{
@@ -1520,6 +1554,8 @@
         // Dynamically load content for CMS panes
         if(tab === 'videos'){
           if(!loadedOnce[tab]){ renderVideosPane(); loadedOnce[tab]=true; }
+        } else if(tab === 'claims'){
+          if(!loadedOnce[tab]){ loadClaims(); loadedOnce[tab]=true; }
         } else if(tab!=='bookings' && tab!=='dashboard' && !loadedOnce[tab]){
           RES[tab].render();
           loadedOnce[tab]=true;
@@ -1536,6 +1572,8 @@
         loadBookings();
       } else if (activeTab === 'videos') {
         loadVideos();
+      } else if (activeTab === 'claims') {
+        loadClaims();
       } else {
         RES[activeTab].render();
       }
@@ -1701,6 +1739,48 @@
       if(j.success)loadBookings();else alert(j.message||'Failed');
     }
     window.setStatus=setStatus;
+
+    /* ---------- Doctor Claims ---------- */
+    const CLAIMS_API='/api/doctor-claims';
+    async function loadClaims(){
+      const tb=document.getElementById('claimsBody');
+      if(!tb)return;
+      tb.innerHTML='<tr><td colspan="8"><div class="state">Loading…</div></td></tr>';
+      try{
+        const j=await(await fetch(CLAIMS_API)).json();
+        const rows=j.data||[];
+        if(!rows.length){
+          tb.innerHTML='<tr><td colspan="8"><div class="state">No doctor claims yet.</div></td></tr>';
+          return;
+        }
+        tb.innerHTML=rows.map(c=>{
+          const st=c.status||'pending';
+          return `<tr>
+            <td class="cell-name">${esc(c.doctorName)}</td>
+            <td>${esc(c.claimantName)}</td>
+            <td class="cell-muted">${esc(c.email)}</td>
+            <td class="cell-muted">${esc(c.phone)}</td>
+            <td class="cell-muted">${esc(c.regNumber)}</td>
+            <td><span class="badge ${st}">${st}</span></td>
+            <td class="cell-muted">${fmtDate(c.createdAt)}</td>
+            <td><div class="actions">
+              <button class="act-btn act-confirm" ${st==='approved'?'disabled':''} onclick="setClaimStatus('${c._id}','approved')">Approve</button>
+              <button class="act-btn act-cancel" ${st==='rejected'?'disabled':''} onclick="setClaimStatus('${c._id}','rejected')">Reject</button>
+            </div></td>
+          </tr>`;
+        }).join('');
+      }catch(e){
+        tb.innerHTML='<tr><td colspan="8"><div class="state">Failed to load claims.</div></td></tr>';
+      }
+    }
+    async function setClaimStatus(id,status){
+      try{
+        const j=await(await fetch(`${CLAIMS_API}/${id}`,{method:'PUT',headers:{'Content-Type':'application/json'},body:JSON.stringify({status})})).json();
+        if(j.success||j.data)loadClaims();else alert(j.message||j.error||'Failed');
+      }catch(e){ alert('Failed — is the server running?'); }
+    }
+    window.loadClaims=loadClaims;
+    window.setClaimStatus=setClaimStatus;
 
     /* ---------- Generic Resource Manager ---------- */
     const RES={

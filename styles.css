@@ -10707,3 +10707,174 @@ a.dpp2-contact-val:hover { color: #6F30E5; }
 /* Embed iframe styling */
 .reel-media, .lv-media { overflow: hidden; }
 .reel-media iframe, .lv-media iframe { width: 100%; height: 100%; border: none; pointer-events: auto; }
+
+/* =============================================
+   DOCTOR CLAIM — sidebar card
+   ============================================= */
+.dpp-claim-card {
+  margin-top: 16px;
+  background: linear-gradient(135deg, #f5f0ff, #fff);
+  border: 1.5px solid #e8ddfb;
+  border-radius: 16px;
+  padding: 20px;
+  text-align: center;
+}
+.dpp-claim-icon { font-size: 2rem; line-height: 1; margin-bottom: 8px; }
+.dpp-claim-title { font-size: 1.05rem; font-weight: 800; color: #1a1a2e; margin-bottom: 4px; }
+.dpp-claim-sub { font-size: 0.82rem; color: #6b6b80; line-height: 1.5; margin-bottom: 14px; }
+.dpp-claim-btn {
+  width: 100%; border: none; cursor: pointer;
+  background: #5e4091; color: #fff;
+  font-size: 0.88rem; font-weight: 700;
+  padding: 11px 14px; border-radius: 10px;
+  display: inline-flex; align-items: center; justify-content: center; gap: 8px;
+  transition: background 0.2s ease, transform 0.1s ease;
+}
+.dpp-claim-btn:hover { background: #4a3275; }
+.dpp-claim-btn:active { transform: scale(0.98); }
+
+/* =============================================
+   DOCTOR CLAIM — modal
+   ============================================= */
+.claim-overlay {
+  position: fixed; inset: 0; z-index: 6000;
+  background: rgba(20, 12, 40, 0.5); backdrop-filter: blur(4px);
+  display: flex; align-items: flex-start; justify-content: center;
+  padding: 40px 16px; overflow-y: auto;
+}
+.claim-modal {
+  background: #fff; border-radius: 18px; width: 100%; max-width: 560px;
+  box-shadow: 0 24px 70px rgba(0,0,0,0.3); position: relative;
+  margin-top: 20px; animation: claimUp 0.28s cubic-bezier(0.16, 1, 0.3, 1);
+}
+@keyframes claimUp { from { opacity: 0; transform: translateY(18px); } to { opacity: 1; transform: translateY(0); } }
+.claim-close {
+  position: absolute; top: 14px; right: 16px; background: none; border: none;
+  font-size: 1.7rem; line-height: 1; color: #999; cursor: pointer; z-index: 2;
+}
+.claim-close:hover { color: #333; }
+.claim-head { padding: 28px 28px 18px; text-align: center; border-bottom: 1px solid #f0ecf8; }
+.claim-head-icon { font-size: 2.4rem; line-height: 1; margin-bottom: 8px; }
+.claim-head h2 { font-size: 1.3rem; font-weight: 800; color: #1a1a2e; margin-bottom: 6px; }
+.claim-head p { font-size: 0.88rem; color: #6b6b80; line-height: 1.5; }
+.claim-body { padding: 22px 28px; display: flex; flex-direction: column; gap: 14px; }
+.claim-row { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; }
+.claim-field { display: flex; flex-direction: column; gap: 6px; }
+.claim-field label { font-size: 0.76rem; font-weight: 700; color: #44445a; text-transform: uppercase; letter-spacing: 0.03em; }
+.claim-field input, .claim-field textarea {
+  padding: 11px 13px; border: 1.5px solid #e3def0; border-radius: 10px;
+  font-size: 0.9rem; outline: none; font-family: inherit; color: #1a1a2e;
+  transition: border-color 0.2s ease;
+}
+.claim-field input:focus, .claim-field textarea:focus { border-color: #5e4091; }
+.claim-field input[readonly] { background: #f7f5fc; color: #6b6b80; cursor: not-allowed; }
+.claim-field textarea { min-height: 70px; resize: vertical; }
+.claim-msg { font-size: 0.84rem; font-weight: 600; min-height: 4px; }
+.claim-msg.err { color: #c0322e; background: #fde8e8; border: 1px solid #f5b5b3; padding: 10px 12px; border-radius: 8px; }
+.claim-foot {
+  display: flex; justify-content: flex-end; gap: 12px;
+  padding: 16px 28px 24px; border-top: 1px solid #f0ecf8;
+}
+.claim-cancel {
+  background: #fff; border: 1.5px solid #e3def0; color: #1a1a2e;
+  font-size: 0.88rem; font-weight: 700; padding: 11px 22px; border-radius: 10px; cursor: pointer;
+}
+.claim-cancel:hover { background: #f7f5fc; }
+.claim-submit {
+  background: #5e4091; border: none; color: #fff;
+  font-size: 0.88rem; font-weight: 700; padding: 11px 24px; border-radius: 10px; cursor: pointer;
+}
+.claim-submit:hover { background: #4a3275; }
+.claim-submit:disabled { opacity: 0.6; cursor: not-allowed; }
+.claim-success { padding: 40px 28px; text-align: center; }
+.claim-success-icon { font-size: 3rem; margin-bottom: 12px; }
+.claim-success h2 { font-size: 1.4rem; font-weight: 800; color: #0a7b43; margin-bottom: 8px; }
+.claim-success p { font-size: 0.92rem; color: #44445a; line-height: 1.6; margin-bottom: 22px; }
+@media (max-width: 560px) { .claim-row { grid-template-columns: 1fr; } }
+
+/* =============================================
+   HEADER SEARCH — results dropdown
+   ============================================= */
+.hs-dropdown {
+  position: absolute;
+  top: calc(100% + 8px);
+  left: 0;
+  right: 0;
+  background: #fff;
+  border: 1px solid #ece6ff;
+  border-radius: 12px;
+  box-shadow: 0 16px 44px rgba(54, 36, 91, 0.18);
+  z-index: 3000;
+  max-height: 70vh;
+  overflow-y: auto;
+  padding: 6px;
+}
+.hs-head {
+  font-size: 0.82rem;
+  font-weight: 700;
+  color: #6b6b80;
+  padding: 10px 12px 8px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+.hs-head i { color: #5e4091; }
+.hs-empty {
+  padding: 22px 14px;
+  text-align: center;
+  font-size: 0.9rem;
+  color: #6b6b80;
+}
+.hs-group { padding: 4px 0; border-top: 1px solid #f3f0fb; }
+.hs-group:first-of-type { border-top: none; }
+.hs-group-title {
+  font-size: 0.7rem;
+  font-weight: 800;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: #5e4091;
+  padding: 8px 12px 4px;
+}
+.hs-result {
+  display: flex;
+  align-items: center;
+  gap: 11px;
+  padding: 9px 12px;
+  border-radius: 9px;
+  text-decoration: none;
+  color: #1a1a2e;
+  transition: background 0.15s ease;
+}
+.hs-result:hover { background: #f5f0ff; }
+.hs-result-ic {
+  width: 30px;
+  height: 30px;
+  flex-shrink: 0;
+  border-radius: 8px;
+  background: #f0ebff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.95rem;
+}
+.hs-result-text { display: flex; flex-direction: column; min-width: 0; flex: 1; }
+.hs-result-label {
+  font-size: 0.9rem;
+  font-weight: 600;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.hs-result-sub {
+  font-size: 0.76rem;
+  color: #88889b;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.hs-result-arrow {
+  font-size: 0.72rem;
+  color: #c4bbe0;
+  flex-shrink: 0;
+}
+.hs-result:hover .hs-result-arrow { color: #5e4091; }

@@ -2293,6 +2293,27 @@ ${homeDoctors.slice(0, 8).map(doc => `
     // All 12 time slots
     const ALL_SLOTS = ['10:00 AM','10:30 AM','11:00 AM','11:30 AM','12:00 PM','12:30 PM','1:00 PM','1:30 PM','2:00 PM','2:30 PM','3:00 PM','3:30 PM'];
 
+    // Calculate end time given a start time string and duration in minutes
+    const slotDuration = doc.slotDuration || 30;
+    function calcEndTime(startStr, durationMin) {
+      const match = startStr.match(/(\d{1,2}):(\d{2})\s*(AM|PM)/i);
+      if (!match) return startStr;
+      let hours = parseInt(match[1], 10);
+      const minutes = parseInt(match[2], 10);
+      const period = match[3].toUpperCase();
+      // Convert to 24-hour
+      if (period === 'PM' && hours !== 12) hours += 12;
+      if (period === 'AM' && hours === 12) hours = 0;
+      // Add duration
+      let totalMin = hours * 60 + minutes + durationMin;
+      let endH = Math.floor(totalMin / 60) % 24;
+      let endM = totalMin % 60;
+      // Convert back to 12-hour
+      const endPeriod = endH >= 12 ? 'PM' : 'AM';
+      endH = endH % 12 || 12;
+      return endH + ':' + String(endM).padStart(2, '0') + ' ' + endPeriod;
+    }
+
     const faqs = [
       { q: `What are ${doc.name}'s qualifications?`, a: `${doc.name} holds ${doc.degree} with ${doc.experience} of clinical experience.` },
       { q: `Where does ${doc.name} practice?`, a: `${doc.name} practices at ${doc.hospital}, ${doc.location}.` },
@@ -2374,6 +2395,16 @@ ${homeDoctors.slice(0, 8).map(doc => `
                 <span class="dpp-fee-label">Consultation Fee</span>
               </div>
             </div>
+          </div>
+
+          <!-- CLAIM PROFILE CARD -->
+          <div class="dpp-claim-card">
+            <div class="dpp-claim-icon">👨‍⚕️</div>
+            <h4 class="dpp-claim-title">Is this you?</h4>
+            <p class="dpp-claim-sub">Claim this profile to manage your details and appointments.</p>
+            <button class="dpp-claim-btn" onclick="openClaimModal('${doc.slug}')">
+              Claim Your Profile <i class="fa-solid fa-arrow-right"></i>
+            </button>
           </div>
         </aside>
 
@@ -2479,13 +2510,18 @@ ${homeDoctors.slice(0, 8).map(doc => `
                     </button>
                     <div class="dpp2-slots-panel" id="dpp2-slots-${idx}" style="display:none">
                       <div class="dpp2-slots-grid">
-                        ${ALL_SLOTS.map((s, si) => `
-                          <button class="dpp2-slot-pill ${si < 2 ? 'dpp2-slot-unavail' : ''}"
-                            ${si < 2 ? 'disabled title="Already booked"' : `onclick="dpp2BookSlot('${doc.name}','${doc.hospital}','${row.iso}','${s}','${row.label} ${row.dateStr}','${doc.slug}')"`}>
-                            <span class="dpp2-slot-time">${s}</span>
-                            <span class="dpp2-slot-fee ${si < 2 ? '' : 'dpp2-slot-fee-green'}">₹${si < 2 ? 'Booked' : doc.fee.toLocaleString('en-IN')}</span>
-                          </button>
-                        `).join('')}
+                        ${ALL_SLOTS.map((s, si) => {
+                          const endTime = calcEndTime(s, slotDuration);
+                          const isBooked = si < 2;
+                          const timeDisplay = isBooked ? 'Booked' : s + ' - ' + endTime;
+                          const feeDisplay = isBooked ? '' : '₹' + doc.fee.toLocaleString('en-IN');
+                          return `
+                          <button class="dpp2-slot-pill ${isBooked ? 'dpp2-slot-unavail' : ''}"
+                            ${isBooked ? 'disabled title="Already booked"' : `onclick="dpp2BookSlot('${doc.name}','${doc.hospital}','${row.iso}','${s}','${row.label} ${row.dateStr}','${doc.slug}')"`}>
+                            <span class="dpp2-slot-time">${timeDisplay}</span>
+                            ${feeDisplay ? '<span class="dpp2-slot-fee dpp2-slot-fee-green">' + feeDisplay + '</span>' : ''}
+                          </button>`;
+                        }).join('')}
                       </div>
                     </div>
                   </div>
@@ -2662,6 +2698,13 @@ ${homeDoctors.slice(0, 8).map(doc => `
             <a href="tel:${hospital.phone.replace(/-/g, '')}" class="hpp-secondary-btn">
               <i class="fa-solid fa-phone"></i> Call Hospital
             </a>
+            <a href="https://www.google.com/maps/dir/?api=1&destination=${(hospital.map && hospital.map.lat && hospital.map.lng) ? `${hospital.map.lat},${hospital.map.lng}` : encodeURIComponent((hospital.address || '') + ', ' + (hospital.city || ''))}"
+               target="_blank"
+               rel="noopener noreferrer"
+               class="hpp-secondary-btn"
+               style="display:inline-flex; align-items:center; gap:8px;">
+              <i class="fa-solid fa-location-arrow"></i> Get Directions
+            </a>
           </div>
         </div>
       </section>
@@ -2688,17 +2731,10 @@ ${homeDoctors.slice(0, 8).map(doc => `
             </div>
           </div>
 
-          <div class="hpp-map-mini" id="hppMapMini">
-            <div class="fh-map-grid"></div>
-            <div class="fh-map-road road-one"></div>
-            <div class="fh-map-road road-two"></div>
-            <span class="fh-map-label label-main">${hospital.city}</span>
-            <div class="fh-pin pin-1"><i class="fa-solid fa-location-dot"></i></div>
-          </div>
-          ${(hospital.map && hospital.map.lat && hospital.map.lng) ? `
-            <a class="hpp-directions-btn" href="https://www.google.com/maps/dir/?api=1&destination=${hospital.map.lat},${hospital.map.lng}" target="_blank" rel="noopener">
-              <i class="fa-solid fa-diamond-turn-right"></i> Get Directions
-            </a>` : ''}
+          <div id="hpp-real-map" style="width:100%; height:350px; border-radius:12px; z-index:1;"></div>
+          <a class="hpp-directions-btn" href="https://www.google.com/maps/dir/?api=1&destination=${(hospital.map && hospital.map.lat && hospital.map.lng) ? `${hospital.map.lat},${hospital.map.lng}` : encodeURIComponent((hospital.address || '') + ', ' + (hospital.city || ''))}" target="_blank" rel="noopener noreferrer">
+            <i class="fa-solid fa-location-arrow"></i> Get Directions
+          </a>
         </aside>
 
         <main class="hpp-main">
@@ -2874,35 +2910,37 @@ ${homeDoctors.slice(0, 8).map(doc => `
   // Render a real, live OSM/Leaflet map on the hospital detail page when
   // coordinates exist; otherwise the decorative fallback stays in place.
   function initHospitalDetailMap(hospital) {
-    const el = document.getElementById('hppMapMini');
-    if (!el) return;
-    const m = hospital.map;
-    if (!m || m.lat == null || m.lng == null) return; // keep decorative fallback
+    const mapEl = document.getElementById('hpp-real-map');
+    if (!mapEl || typeof L === 'undefined') return;
 
+    const lat = (hospital.map && hospital.map.lat != null) ? hospital.map.lat : 22.5726;
+    const lng = (hospital.map && hospital.map.lng != null) ? hospital.map.lng : 88.3639;
+
+    // Tear down any previous instance (re-navigating between hospitals).
     if (window._hospitalDetailMap) {
       window._hospitalDetailMap.remove();
       window._hospitalDetailMap = null;
     }
-    el.innerHTML = ''; // clear the decorative grid/roads/pin
+    mapEl.innerHTML = '';
 
-    const map = L.map(el, {
+    const map = L.map('hpp-real-map', {
       zoomControl: true,
       scrollWheelZoom: false,
-      attributionControl: true,
-    }).setView([m.lat, m.lng], 15);
-    map.attributionControl.setPrefix('');
+    }).setView([lat, lng], 15);
 
     L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
       maxZoom: 19,
-      attribution: '&copy; OpenStreetMap contributors &copy; CARTO',
+      attribution: '© OpenStreetMap © CARTO',
     }).addTo(map);
 
-    L.marker([m.lat, m.lng], { icon: createHospitalMarkerIcon(true), title: hospital.name })
-      .addTo(map)
-      .bindPopup(`<div class="fh-map-popup"><strong>${hospital.name}</strong><span>${hospital.address}</span></div>`);
+    const marker = L.marker([lat, lng]).addTo(map);
+    marker.bindPopup(`
+      <b>${hospital.name}</b><br>
+      ${hospital.address}
+    `).openPopup();
 
     window._hospitalDetailMap = map;
-    setTimeout(() => map.invalidateSize(), 120);
+    setTimeout(() => map.invalidateSize(), 100);
   }
 
   // =====================================================
@@ -3692,6 +3730,113 @@ ${homeDoctors.slice(0, 8).map(doc => `
     }
   }
 
+  // =====================================================
+  // DOCTOR CLAIM MODAL
+  // =====================================================
+  window.openClaimModal = function(slug) {
+    const doc = (typeof DOCTORS !== 'undefined') ? DOCTORS.find(d => d.slug === slug) : null;
+    const docName = doc ? doc.name : '';
+    let overlay = document.getElementById('claim-overlay');
+    if (overlay) overlay.remove();
+    overlay = document.createElement('div');
+    overlay.id = 'claim-overlay';
+    overlay.className = 'claim-overlay';
+    overlay.innerHTML = `
+      <div class="claim-modal" role="dialog" aria-modal="true">
+        <button class="claim-close" onclick="closeClaimModal()" aria-label="Close">&times;</button>
+        <div class="claim-head">
+          <div class="claim-head-icon">👨‍⚕️</div>
+          <h2>Claim Your Profile</h2>
+          <p>Verify your identity and our team will get you set up within 24 hours.</p>
+        </div>
+        <div class="claim-body">
+          <div class="claim-field">
+            <label>Doctor Profile</label>
+            <input type="text" id="claim-doctor" value="${docName.replace(/"/g, '&quot;')}" readonly>
+            <input type="hidden" id="claim-slug" value="${slug}">
+          </div>
+          <div class="claim-row">
+            <div class="claim-field"><label>Your Full Name *</label>
+              <input type="text" id="claim-name" placeholder="Dr. ..."></div>
+            <div class="claim-field"><label>Phone *</label>
+              <input type="tel" id="claim-phone" placeholder="+91 ..."></div>
+          </div>
+          <div class="claim-row">
+            <div class="claim-field"><label>Email *</label>
+              <input type="email" id="claim-email" placeholder="you@example.com"></div>
+            <div class="claim-field"><label>Medical Registration No. *</label>
+              <input type="text" id="claim-reg" placeholder="e.g. MCI-123456"></div>
+          </div>
+          <div class="claim-field"><label>Message (optional)</label>
+            <textarea id="claim-message" placeholder="Anything you'd like us to know…"></textarea></div>
+          <div class="claim-msg" id="claim-msg"></div>
+        </div>
+        <div class="claim-foot">
+          <button class="claim-cancel" onclick="closeClaimModal()">Cancel</button>
+          <button class="claim-submit" id="claim-submit" onclick="submitClaim()">Submit Claim</button>
+        </div>
+      </div>`;
+    overlay.addEventListener('click', e => { if (e.target === overlay) closeClaimModal(); });
+    document.body.appendChild(overlay);
+    document.body.style.overflow = 'hidden';
+  };
+
+  window.closeClaimModal = function() {
+    const overlay = document.getElementById('claim-overlay');
+    if (overlay) overlay.remove();
+    document.body.style.overflow = '';
+  };
+
+  window.submitClaim = async function() {
+    const val = id => (document.getElementById(id)?.value || '').trim();
+    const payload = {
+      doctorName: val('claim-doctor'),
+      doctorSlug: val('claim-slug'),
+      claimantName: val('claim-name'),
+      email: val('claim-email'),
+      phone: val('claim-phone'),
+      regNumber: val('claim-reg'),
+      message: val('claim-message'),
+    };
+    const msgEl = document.getElementById('claim-msg');
+    if (!payload.claimantName || !payload.email || !payload.phone || !payload.regNumber) {
+      msgEl.className = 'claim-msg err';
+      msgEl.textContent = 'Please fill in your name, email, phone and registration number.';
+      return;
+    }
+    const btn = document.getElementById('claim-submit');
+    btn.disabled = true; btn.textContent = 'Submitting…';
+    try {
+      const res = await fetch(API_BASE + '/api/doctor-claims', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(payload),
+      });
+      const json = await res.json();
+      if (json.success || json.data) {
+        const modal = document.querySelector('.claim-modal');
+        if (modal) {
+          modal.innerHTML = `
+            <button class="claim-close" onclick="closeClaimModal()" aria-label="Close">&times;</button>
+            <div class="claim-success">
+              <div class="claim-success-icon">✅</div>
+              <h2>Claim Submitted!</h2>
+              <p>Our team will contact you within <strong>24 hours</strong> to verify and activate your profile.</p>
+              <button class="claim-submit" onclick="closeClaimModal()">Done</button>
+            </div>`;
+        }
+      } else {
+        msgEl.className = 'claim-msg err';
+        msgEl.textContent = json.error || json.message || 'Could not submit. Please try again.';
+        btn.disabled = false; btn.textContent = 'Submit Claim';
+      }
+    } catch (e) {
+      msgEl.className = 'claim-msg err';
+      msgEl.textContent = 'Network error. Please call +91-8877772277.';
+      btn.disabled = false; btn.textContent = 'Submit Claim';
+    }
+  };
+
   window.submitBooking = async function(name, phone, disease, successMessage, email) {
     if (!name || !phone) {
       alert('Please fill in both Patient Name and Mobile Number.');
@@ -4064,8 +4209,116 @@ ${homeDoctors.slice(0, 8).map(doc => `
     }
   };
 
+  // =====================================================
+  // HEADER SEARCH
+  // =====================================================
+  function initHeaderSearch() {
+    const wrap = document.querySelector('.header-search');
+    if (!wrap) return;
+    const input = wrap.querySelector('input');
+    const goBtn = wrap.querySelector('.search-go');
+    if (!input) return;
+
+    wrap.style.position = 'relative';
+    let dropdown = document.getElementById('hsDropdown');
+    if (!dropdown) {
+      dropdown = document.createElement('div');
+      dropdown.id = 'hsDropdown';
+      dropdown.className = 'hs-dropdown';
+      dropdown.style.display = 'none';
+      wrap.appendChild(dropdown);
+    }
+
+    const esc = s => String(s == null ? '' : s)
+      .replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+
+    function matches(hay, q) { return String(hay || '').toLowerCase().includes(q); }
+
+    function search(qRaw) {
+      const q = qRaw.trim().toLowerCase();
+      if (!q) { closeDropdown(); return; }
+
+      const allTreatments = (typeof TREATMENTS !== 'undefined') ? Object.values(TREATMENTS).flat() : [];
+      const treatments = allTreatments.filter(t =>
+        matches(t.name, q) || matches(t.brief, q) || matches(t.categorySlug, q)
+      ).slice(0, 3);
+
+      const doctors = (typeof DOCTORS !== 'undefined' ? DOCTORS : []).filter(d =>
+        matches(d.name, q) || matches(d.specialty, q) || matches(d.hospital, q) || matches(d.location, q)
+      ).slice(0, 3);
+
+      const categories = (typeof CATEGORIES !== 'undefined' ? CATEGORIES : []).filter(c =>
+        matches(c.name, q) || matches(c.description, q) || (Array.isArray(c.tags) && c.tags.some(tag => matches(tag, q)))
+      ).slice(0, 3);
+
+      const hospitals = (typeof HOSPITALS !== 'undefined' ? HOSPITALS : []).filter(h =>
+        matches(h.name, q) || matches(h.address, q) || matches(h.city, q) || matches(h.type, q)
+      ).slice(0, 3);
+
+      renderResults(qRaw.trim(), { treatments, doctors, categories, hospitals });
+    }
+
+    function group(title, items, mapper) {
+      if (!items.length) return '';
+      return `
+        <div class="hs-group">
+          <div class="hs-group-title">${title}</div>
+          ${items.map(mapper).join('')}
+        </div>`;
+    }
+
+    function row(href, icon, label, sub) {
+      return `<a href="${href}" class="hs-result" data-hs-link>
+        <span class="hs-result-ic">${icon}</span>
+        <span class="hs-result-text"><span class="hs-result-label">${esc(label)}</span>${sub ? `<span class="hs-result-sub">${esc(sub)}</span>` : ''}</span>
+        <i class="fa-solid fa-arrow-right hs-result-arrow"></i>
+      </a>`;
+    }
+
+    function renderResults(q, r) {
+      const total = r.treatments.length + r.doctors.length + r.categories.length + r.hospitals.length;
+      let html = `<div class="hs-head"><i class="fa-solid fa-magnifying-glass"></i> "${esc(q)}"</div>`;
+      if (!total) {
+        html += `<div class="hs-empty">No results found for "<strong>${esc(q)}</strong>"</div>`;
+      } else {
+        html += group('Treatments', r.treatments, t =>
+          row(`#/treatment/${t.slug}`, '🏥', t.name, (findCategory(t.categorySlug) || {}).name || ''));
+        html += group('Doctors', r.doctors, d =>
+          row(`#/doctor/${d.slug}`, '👨‍⚕️', d.name, d.specialty || ''));
+        html += group('Categories', r.categories, c =>
+          row(`#/category/${c.slug}`, '🩺', c.name, ''));
+        html += group('Hospitals', r.hospitals, h =>
+          row(`#/hospital/${h.slug}`, '🏨', h.name, h.city || ''));
+      }
+      dropdown.innerHTML = html;
+      dropdown.style.display = 'block';
+      dropdown.querySelectorAll('[data-hs-link]').forEach(a => {
+        a.addEventListener('click', () => closeDropdown());
+      });
+    }
+
+    function closeDropdown() { dropdown.style.display = 'none'; }
+
+    let debounceTimer = null;
+    input.addEventListener('input', () => {
+      clearTimeout(debounceTimer);
+      debounceTimer = setTimeout(() => search(input.value), 300);
+    });
+    input.addEventListener('keydown', e => {
+      if (e.key === 'Enter') { clearTimeout(debounceTimer); search(input.value); }
+      else if (e.key === 'Escape') { closeDropdown(); input.blur(); }
+    });
+    input.addEventListener('focus', () => { if (input.value.trim()) search(input.value); });
+    if (goBtn) goBtn.addEventListener('click', () => search(input.value));
+
+    document.addEventListener('click', e => {
+      if (!wrap.contains(e.target)) closeDropdown();
+    });
+  }
+
   try {
     initCitySelector();
+    initHeaderSearch();
     loadRemoteData().finally(initRouter);
   } catch (err) {
     console.error('Initialization error:', err);
