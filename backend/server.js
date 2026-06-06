@@ -9,6 +9,9 @@ const connectDB = require('./config/db');
 const bookingRoutes = require('./routes/booking');
 const dataRoutes = require('./routes/data');
 const resourceRouter = require('./routes/resource');
+const doctorsRouter = require('./routes/doctors');
+const videoRoutes = require('./routes/videos');
+const blogRoutes = require('./routes/blogs');
 const uploadRoutes = require('./routes/upload');
 const { verifyMailer } = require('./utils/mailer');
 
@@ -16,6 +19,9 @@ const Category = require('./models/Category');
 const Treatment = require('./models/Treatment');
 const Doctor = require('./models/Doctor');
 const Hospital = require('./models/Hospital');
+const Review = require('./models/Review');
+const FAQ = require('./models/FAQ');
+const SubCategory = require('./models/SubCategory');
 
 // Connect to the database
 connectDB();
@@ -44,8 +50,13 @@ app.use((req, res, next) => {
 app.use('/api/bookings', bookingRoutes);
 app.use('/api/categories', resourceRouter(Category, 'Category'));
 app.use('/api/treatments', resourceRouter(Treatment, 'Treatment'));
-app.use('/api/doctors', resourceRouter(Doctor, 'Doctor'));
+app.use('/api/doctors', doctorsRouter);
 app.use('/api/hospitals', resourceRouter(Hospital, 'Hospital'));
+app.use('/api/blogs', blogRoutes);
+app.use('/api/videos', videoRoutes);
+app.use('/api/reviews', resourceRouter(Review, 'Review'));
+app.use('/api/faqs', resourceRouter(FAQ, 'FAQ'));
+app.use('/api/subcategories', resourceRouter(SubCategory, 'SubCategory'));
 app.use('/api/data', dataRoutes);
 app.use('/api/upload', uploadRoutes);
 
@@ -55,6 +66,11 @@ app.use('/uploads', express.static(path.join(__dirname, 'public', 'uploads')));
 // Admin panel (static HTML)
 app.get('/admin', (req, res) => {
   res.sendFile(path.join(__dirname, 'public', 'admin.html'));
+});
+
+// Dedicated fullscreen video manager
+app.get('/video-manager', (req, res) => {
+  res.sendFile(path.join(__dirname, 'public', 'video-manager.html'));
 });
 
 // Block access to sensitive server-side folders/files

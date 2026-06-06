@@ -4,7 +4,15 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Doctar - Expert Surgical Care</title>
-  <link rel="stylesheet" href="styles.css?v=20260603-cardclick">
+  <meta name="description" content="Book surgery appointments with expert surgeons across India. Piles, Kidney Stone, Cataract, Knee Replacement & 50+ treatments. Free consultation, No Cost EMI, Free Cab.">
+  <meta name="keywords" content="surgery booking India, expert surgeons, piles treatment, knee replacement, cataract surgery, kidney stone, hernia repair, Doctar">
+  <meta property="og:title" content="Doctar — Expert Surgical Care in India">
+  <meta property="og:description" content="Book surgery with expert surgeons. 50+ treatments, free consultation, No Cost EMI.">
+  <meta property="og:url" content="https://surgery.doctar.in">
+  <meta property="og:type" content="website">
+  <meta name="robots" content="index, follow">
+  <link rel="canonical" href="https://surgery.doctar.in">
+  <link rel="stylesheet" href="styles.css?v=20260604-yt-fix">
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
   
   <!-- Add Font Awesome for icons (if needed later) -->
@@ -17,14 +25,10 @@
     <div class="container header-top">
       <div class="logo-area" style="position: relative;">
         <a href="#/" class="logo">DOCTAR</a>
-        <div class="city-selector" id="citySelectorBtn">
-          <span id="currentCityText">📍 Kolkata</span> <span>▼</span>
-        </div>
-        <div class="city-dropdown" id="cityDropdownMenu" style="display: none;">
-          <div class="city-dropdown-item active" data-city="Kolkata">Kolkata</div>
-          <div class="city-dropdown-item" data-city="Delhi NCR">Delhi NCR</div>
-          <div class="city-dropdown-item" data-city="Bangalore">Bangalore</div>
-          <div class="city-dropdown-item" data-city="Mumbai">Mumbai</div>
+        <div class="city-selector" id="citySelectorBtn" onclick="window.openLocationModal && window.openLocationModal()">
+          <i class="fa-solid fa-location-dot" style="font-size:0.8rem"></i>
+          <span id="currentCityText">Kolkata</span>
+          <i class="fa-solid fa-chevron-down" style="font-size:0.65rem; margin-left:2px"></i>
         </div>
       </div>
       
@@ -124,6 +128,6 @@
   <!-- Scripts -->
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
   <script src="data.js?v=20260603-api-data"></script>
-  <script src="app.js?v=20260603-cardclick"></script>
+  <script src="app.js?v=20260604-hybrid"></script>
 </body>
 </html>

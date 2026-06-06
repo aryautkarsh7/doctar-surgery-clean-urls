@@ -612,6 +612,16 @@
       color: #fff;
     }
 
+    .act-add-treatment {
+      background: #fff;
+      color: #16a34a;
+      border: 1.5px solid #16a34a;
+    }
+    .act-add-treatment:hover {
+      background: #16a34a;
+      color: #fff;
+    }
+
     .act-del {
       background: #fef2f2;
       color: #b91c1c;
@@ -655,7 +665,7 @@
       z-index: 500;
       align-items: flex-start;
       justify-content: center;
-      padding: 40px 16px;
+      padding: 0;
       overflow-y: auto;
     }
 
@@ -664,13 +674,18 @@
     }
 
     .modal {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100vw;
+      height: 100vh;
+      max-width: 100vw;
+      max-height: 100vh;
+      border-radius: 0;
+      overflow-y: auto;
+      margin: 0;
       background: #fff;
-      border-radius: var(--radius-lg);
-      width: 100%;
-      max-width: 600px;
       box-shadow: var(--shadow-lg);
-      margin-top: 20px;
-      overflow: hidden;
       animation: modalSlideUp 0.3s cubic-bezier(0.16, 1, 0.3, 1);
     }
 
@@ -716,9 +731,7 @@
       padding: 26px 28px;
       display: grid;
       grid-template-columns: 1fr 1fr;
-      gap: 16px;
-      max-height: 60vh;
-      overflow-y: auto;
+      gap: 18px;
     }
 
     .field {
@@ -734,9 +747,10 @@
     .field label {
       font-size: 0.74rem;
       font-weight: 800;
-      color: var(--muted);
+      color: var(--text);
       text-transform: uppercase;
       letter-spacing: 0.05em;
+      opacity: 0.75;
     }
 
     .field input, .field textarea {
@@ -760,9 +774,10 @@
     }
 
     .field .hint {
-      font-size: 0.7rem;
-      color: var(--muted);
-      font-style: italic;
+      font-size: 12px;
+      color: #888;
+      margin-top: 4px;
+      font-style: normal;
     }
 
     .modal-foot {
@@ -843,10 +858,25 @@
       font-weight: 600;
       text-align: center;
     }
+    .img-preview-square80 {
+      width: 80px;
+      height: 80px;
+      border-radius: 8px;
+    }
+    .img-preview-circle80 {
+      width: 80px;
+      height: 80px;
+      border-radius: 50%;
+    }
     .img-preview img {
       width: 100%;
       height: 100%;
       object-fit: cover;
+    }
+    /* 16:9 cover-image preview (homepage card) */
+    .img-preview-wide {
+      width: 160px;
+      height: 90px;
     }
     .img-uploader-controls {
       display: flex;
@@ -906,6 +936,277 @@
       color: var(--muted);
     }
     .map-coords span { color: var(--text); }
+    /* ── Show-On picker (rebuilt) ───────────────────────────────────── */
+    .show-on-picker { display: flex; flex-direction: column; gap: 12px; margin-top: 4px; }
+    .show-on-picker .vso-title {
+      font-size: 0.72rem; font-weight: 800; color: var(--muted);
+      text-transform: uppercase; letter-spacing: 0.08em; margin-bottom: 2px;
+    }
+
+    /* Each parent section is a white card */
+    .vso-section {
+      background: #fff; border: 1.5px solid var(--border); border-radius: 12px;
+      padding: 14px 16px; box-shadow: var(--shadow-sm);
+      border-left: 3px solid var(--border);
+      transition: border-color 0.2s ease, box-shadow 0.2s ease;
+    }
+    .vso-section.active {
+      border-left-color: var(--primary);
+      box-shadow: var(--shadow-md);
+    }
+
+    /* Parent header: checkbox LEFT (40px) + section title RIGHT (full width) */
+    .vso-section-head {
+      display: flex; flex-direction: row; align-items: center; cursor: pointer;
+      margin: 0; text-transform: none; letter-spacing: 0; width: 100%;
+    }
+    /* Fixed-width checkbox cell on the left */
+    .vso-cb-cell {
+      flex: 0 0 40px; display: flex; align-items: center; justify-content: flex-start;
+    }
+    /* Section title text on the right */
+    .vso-sec-label {
+      flex: 1 1 auto;
+      font-size: 13px; font-weight: 700; color: #5e4091;
+      text-transform: uppercase; letter-spacing: 0.04em;
+    }
+
+    /* Collapsible sub-list */
+    .vso-sublist {
+      max-height: 0; overflow: hidden; opacity: 0;
+      padding-left: 20px;
+      transition: max-height 0.25s ease, opacity 0.2s ease, margin 0.2s ease, padding 0.2s ease;
+    }
+    .vso-sublist.open {
+      max-height: 220px; overflow-y: auto; opacity: 1;
+      margin-top: 12px; padding-top: 12px; border-top: 1px solid var(--border);
+    }
+
+    /* Child rows: checkbox + label side by side, label fully visible */
+    .vso-child {
+      display: flex; flex-direction: row; align-items: center; gap: 10px;
+      min-height: 32px; padding: 4px 6px;
+      font-size: 14px; font-weight: 500; color: #333; cursor: pointer;
+      border-radius: 8px; transition: background 0.12s; margin: 0;
+      text-transform: none; letter-spacing: 0; white-space: normal;
+    }
+    .vso-child:hover { background: var(--primary-light); }
+    .vso-child > span { flex: 1 1 auto; overflow: visible; }
+    .vso-child small { color: var(--muted); font-size: 0.78rem; font-weight: 400; flex-shrink: 0; }
+    .vso-child .vso-cat-ic { width: 20px; text-align: center; flex-shrink: 0; }
+    .vso-empty { font-size: 0.8rem; color: var(--muted); font-style: italic; padding: 6px; }
+
+    /* Purple checkboxes everywhere in the picker */
+    .vso-cb {
+      accent-color: var(--primary); width: 18px; height: 18px;
+      flex-shrink: 0; cursor: pointer;
+    }
+
+    /* ---- Blog type selector (big cards) ---- */
+    .blog-type-cards {
+      display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin-top: 8px;
+    }
+    .btype-card {
+      border: 2px solid var(--border); background: #fff; border-radius: 14px;
+      padding: 22px 18px; text-align: center; cursor: pointer;
+      transition: border-color 0.2s ease, background 0.2s ease, box-shadow 0.2s ease, transform 0.12s ease;
+      user-select: none;
+    }
+    .btype-card:hover { border-color: #cbbef0; transform: translateY(-2px); }
+    .btype-card.active {
+      border-color: var(--primary); background: var(--primary-light);
+      box-shadow: 0 6px 20px rgba(94,64,145,0.16);
+    }
+    .btype-icon {
+      font-size: 1.8rem; font-weight: 800; line-height: 1; margin-bottom: 10px;
+      font-family: ui-monospace, Menlo, monospace; color: var(--primary);
+    }
+    .btype-name { font-size: 1rem; font-weight: 800; color: var(--text); }
+    .btype-sub { font-size: 0.78rem; color: var(--muted); margin-top: 4px; }
+
+    /* Dark code-editor look for the HTML textarea */
+    textarea.code-editor {
+      background: #1e1e1e; color: #00ff00; font-family: ui-monospace, Menlo, Consolas, monospace;
+      font-size: 0.86rem; line-height: 1.6; border-color: #333; caret-color: #00ff00;
+    }
+    textarea.code-editor::placeholder { color: #6a9955; opacity: 0.8; }
+
+    .bct-warning {
+      display: flex; align-items: center; gap: 8px; margin-top: 10px;
+      background: #fff8e1; border: 1px solid #ffe08a;
+      color: #8a6d00; font-size: 0.82rem; font-weight: 600;
+      padding: 9px 14px; border-radius: 10px;
+    }
+
+    /* Star rating selector */
+    .rating-selector { display: flex; gap: 4px; align-items: center; }
+    .rate-star { font-size: 1.7rem; color: #ddd; cursor: pointer; transition: color 0.12s, transform 0.12s; line-height: 1; }
+    .rate-star:hover { transform: scale(1.15); }
+    .rate-star.on { color: #fbbf24; }
+
+    /* ===== ADMIN PANEL ENHANCEMENTS ===== */
+    /* Breadcrumb + last-updated in top bar */
+    .top-bar-left { display: flex; flex-direction: column; gap: 3px; }
+    .breadcrumb-bar {
+      display: flex; align-items: center; gap: 6px;
+      font-size: 0.72rem; font-weight: 600; color: var(--muted);
+    }
+    .breadcrumb-bar i { font-size: 0.55rem; opacity: 0.6; }
+    .breadcrumb-bar .crumb-current { color: var(--primary); }
+    .last-updated { font-size: 0.72rem; color: var(--muted); font-weight: 600; white-space: nowrap; }
+
+    /* Header search */
+    .topbar-search {
+      display: flex; align-items: center; gap: 8px;
+      background: var(--bg); border: 1.5px solid var(--border);
+      border-radius: 999px; padding: 7px 14px; min-width: 200px;
+      transition: border-color 0.2s;
+    }
+    .topbar-search:focus-within { border-color: var(--primary); }
+    .topbar-search i { color: var(--muted); font-size: 0.8rem; }
+    .topbar-search input { border: none; outline: none; background: transparent; font-size: 0.84rem; width: 100%; color: var(--text); }
+
+    /* Dashboard overview stat cards with icon */
+    .stats-overview { display: grid; grid-template-columns: repeat(6, 1fr); gap: 16px; margin-bottom: 28px; }
+    .ov-card {
+      background: #fff; border: 1px solid var(--border); border-radius: var(--radius-md);
+      padding: 18px; box-shadow: var(--shadow-sm); display: flex; align-items: center; gap: 14px;
+      transition: transform 0.18s ease, box-shadow 0.18s ease;
+    }
+    .ov-card:hover { transform: translateY(-3px); box-shadow: 0 10px 26px rgba(94,64,145,0.12); }
+    .ov-icon {
+      width: 44px; height: 44px; flex-shrink: 0; border-radius: 12px;
+      display: flex; align-items: center; justify-content: center;
+      font-size: 1.15rem; color: var(--primary); background: var(--primary-light);
+    }
+    .ov-info { min-width: 0; }
+    .ov-num { font-size: 1.5rem; font-weight: 800; color: var(--text); line-height: 1; }
+    .ov-label { font-size: 0.72rem; color: var(--muted); font-weight: 700; text-transform: uppercase; letter-spacing: 0.4px; margin-top: 4px; }
+
+    /* Zebra striping + stronger row hover */
+    tbody tr:nth-child(even) { background: #fcfbfe; }
+    tbody tr:hover { background: var(--primary-light) !important; }
+
+    /* Bookings filter toolbar */
+    .filter-bar {
+      display: flex; flex-wrap: wrap; align-items: center; gap: 10px;
+      background: #fff; border: 1px solid var(--border); border-radius: var(--radius-md);
+      padding: 14px 16px; margin-bottom: 18px; box-shadow: var(--shadow-sm);
+    }
+    .filter-bar .fb-search {
+      display: flex; align-items: center; gap: 8px; flex: 1; min-width: 180px;
+      background: var(--bg); border: 1.5px solid var(--border); border-radius: 10px; padding: 8px 12px;
+    }
+    .filter-bar .fb-search input { border: none; outline: none; background: transparent; width: 100%; font-size: 0.85rem; }
+    .filter-bar select, .filter-bar input[type=date] {
+      border: 1.5px solid var(--border); border-radius: 10px; padding: 8px 12px;
+      font-size: 0.83rem; font-family: inherit; color: var(--text); outline: none; background: #fff; cursor: pointer;
+    }
+    .filter-bar select:focus, .filter-bar input[type=date]:focus { border-color: var(--primary); }
+    .filter-bar .fb-label { font-size: 0.72rem; font-weight: 700; color: var(--muted); text-transform: uppercase; }
+
+    /* Pagination */
+    .pagination { display: flex; align-items: center; justify-content: space-between; gap: 12px; margin-top: 16px; flex-wrap: wrap; }
+    .pagination .pg-info { font-size: 0.8rem; color: var(--muted); font-weight: 600; }
+    .pagination .pg-controls { display: flex; gap: 6px; align-items: center; }
+    .pg-btn {
+      border: 1.5px solid var(--border); background: #fff; color: var(--text);
+      min-width: 34px; height: 34px; padding: 0 10px; border-radius: 9px;
+      font-size: 0.82rem; font-weight: 700; cursor: pointer; transition: all 0.15s;
+    }
+    .pg-btn:hover:not(:disabled) { border-color: var(--primary); color: var(--primary); }
+    .pg-btn.active { background: var(--primary); color: #fff; border-color: var(--primary); }
+    .pg-btn:disabled { opacity: 0.4; cursor: not-allowed; }
+
+    /* Sidebar admin profile */
+    .sidebar-profile {
+      display: flex; align-items: center; gap: 10px; padding: 12px 14px;
+      margin: 0 0 10px; border-radius: 12px; background: rgba(255,255,255,0.08);
+    }
+    .sidebar-profile .sp-avatar {
+      width: 38px; height: 38px; border-radius: 50%; flex-shrink: 0;
+      background: rgba(255,255,255,0.2); display: flex; align-items: center; justify-content: center;
+      font-weight: 800; font-size: 0.95rem; color: #fff;
+    }
+    .sidebar-profile .sp-info { min-width: 0; }
+    .sidebar-profile .sp-name { font-size: 0.85rem; font-weight: 700; color: #fff; }
+    .sidebar-profile .sp-role { font-size: 0.7rem; color: rgba(255,255,255,0.7); }
+
+    @media (max-width: 1100px) { .stats-overview { grid-template-columns: repeat(3, 1fr); } }
+    @media (max-width: 768px) {
+      .stats-overview { grid-template-columns: repeat(2, 1fr); }
+      .topbar-search { display: none; }
+    }
+
+    /* ===== DOCTOR MULTI-STEP FORM ===== */
+    .doc-progress {
+      height: 6px; background: #ece6f7; border-radius: 999px;
+      overflow: hidden; margin: 4px 0 20px;
+    }
+    .doc-progress-bar {
+      height: 100%; width: 0; background: var(--primary);
+      border-radius: 999px; transition: width 0.35s ease;
+    }
+    .doc-steps {
+      display: flex; justify-content: space-between; gap: 8px;
+      margin-bottom: 28px; position: relative;
+    }
+    .doc-step-ind {
+      flex: 1; display: flex; flex-direction: column; align-items: center;
+      gap: 7px; cursor: pointer; text-align: center;
+    }
+    .doc-step-dot {
+      width: 38px; height: 38px; border-radius: 50%;
+      display: flex; align-items: center; justify-content: center;
+      font-weight: 800; font-size: 0.95rem;
+      background: #ece6f7; color: #9b8ec2;
+      border: 2px solid transparent; transition: all 0.25s ease;
+    }
+    .doc-step-ind.active .doc-step-dot {
+      background: var(--primary); color: #fff;
+      box-shadow: 0 4px 14px rgba(94,64,145,0.35);
+    }
+    .doc-step-ind.done .doc-step-dot {
+      background: #fff; color: var(--primary); border-color: var(--primary);
+    }
+    .doc-step-label {
+      font-size: 0.76rem; font-weight: 700; color: var(--muted);
+    }
+    .doc-step-ind.active .doc-step-label,
+    .doc-step-ind.done .doc-step-label { color: var(--primary); }
+
+    /* Step panels animate in */
+    .dstep {
+      display: grid; grid-template-columns: 1fr 1fr; gap: 18px;
+      animation: dstepIn 0.3s ease;
+    }
+    @keyframes dstepIn {
+      from { opacity: 0; transform: translateX(14px); }
+      to { opacity: 1; transform: translateX(0); }
+    }
+
+    .doc-nav {
+      display: flex; justify-content: space-between; align-items: center;
+      margin-top: 24px; padding-top: 18px; border-top: 1px solid var(--border);
+    }
+
+    .doc-review { display: flex; flex-direction: column; gap: 2px; }
+    .doc-review-row {
+      display: flex; gap: 14px; padding: 11px 14px; border-radius: 10px;
+      font-size: 0.9rem;
+    }
+    .doc-review-row:nth-child(odd) { background: #faf9fd; }
+    .doc-review-row .drk {
+      flex: 0 0 150px; color: var(--muted); font-weight: 700;
+      text-transform: uppercase; font-size: 0.72rem; letter-spacing: 0.04em;
+      align-self: center;
+    }
+    .doc-review-row .drv { color: var(--text); font-weight: 600; }
+
+    @media (max-width: 640px) {
+      .dstep { grid-template-columns: 1fr; }
+      .doc-step-label { display: none; }
+    }
   </style>
 </head>
 <body>
@@ -954,8 +1255,27 @@
           <button class="nav-item tab" data-tab="treatments">
             <i class="fa-solid fa-capsules"></i> Treatments
           </button>
+          <button class="nav-item tab" data-tab="blogs">
+            <i class="fa-solid fa-newspaper"></i> Blogs
+          </button>
+          <button class="nav-item tab" data-tab="videos">
+            <i class="fa-solid fa-film"></i> Videos
+          </button>
+          <button class="nav-item tab" data-tab="reviews">
+            <i class="fa-solid fa-star"></i> Reviews
+          </button>
+          <button class="nav-item tab" data-tab="faqs">
+            <i class="fa-solid fa-circle-question"></i> FAQ
+          </button>
         </nav>
         <div class="sidebar-footer">
+          <div class="sidebar-profile">
+            <div class="sp-avatar">A</div>
+            <div class="sp-info">
+              <div class="sp-name">Admin</div>
+              <div class="sp-role">Super Administrator</div>
+            </div>
+          </div>
           <button class="logout-btn" id="logoutBtn">
             <i class="fa-solid fa-right-from-bracket"></i> Log out
           </button>
@@ -977,8 +1297,20 @@
       <main class="main-content">
         <!-- Top bar with page title + refresh button -->
         <div class="top-bar">
-          <h2 id="topBarTitle">Dashboard Overview</h2>
+          <div class="top-bar-left">
+            <nav class="breadcrumb-bar" id="breadcrumbBar">
+              <span>Doctar Admin</span>
+              <i class="fa-solid fa-chevron-right"></i>
+              <span class="crumb-current" id="crumbCurrent">Dashboard</span>
+            </nav>
+            <h2 id="topBarTitle">Dashboard Overview</h2>
+          </div>
           <div class="top-bar-actions">
+            <div class="topbar-search">
+              <i class="fa-solid fa-magnifying-glass"></i>
+              <input type="text" id="globalSearch" placeholder="Search bookings, doctors…">
+            </div>
+            <span class="last-updated" id="lastUpdated"></span>
             <button class="btn btn-outline" id="globalRefreshBtn">
               <i class="fa-solid fa-arrows-rotate"></i> Refresh
             </button>
@@ -988,6 +1320,14 @@
         <div class="wrap">
           <!-- DASHBOARD OVERVIEW PANE -->
           <div class="pane active" id="pane-dashboard">
+            <div class="stats-overview" id="overviewStats">
+              <div class="ov-card"><div class="ov-icon"><i class="fa-solid fa-calendar-check"></i></div><div class="ov-info"><div class="ov-num" id="ov-bookings">—</div><div class="ov-label">Bookings</div></div></div>
+              <div class="ov-card"><div class="ov-icon"><i class="fa-solid fa-user-doctor"></i></div><div class="ov-info"><div class="ov-num" id="ov-doctors">—</div><div class="ov-label">Doctors</div></div></div>
+              <div class="ov-card"><div class="ov-icon"><i class="fa-solid fa-hotel"></i></div><div class="ov-info"><div class="ov-num" id="ov-hospitals">—</div><div class="ov-label">Hospitals</div></div></div>
+              <div class="ov-card"><div class="ov-icon"><i class="fa-solid fa-hospital"></i></div><div class="ov-info"><div class="ov-num" id="ov-categories">—</div><div class="ov-label">Categories</div></div></div>
+              <div class="ov-card"><div class="ov-icon"><i class="fa-solid fa-film"></i></div><div class="ov-info"><div class="ov-num" id="ov-videos">—</div><div class="ov-label">Videos</div></div></div>
+              <div class="ov-card"><div class="ov-icon"><i class="fa-solid fa-newspaper"></i></div><div class="ov-info"><div class="ov-num" id="ov-blogs">—</div><div class="ov-label">Blogs</div></div></div>
+            </div>
             <div class="stats" id="bookingStatsDashboard"></div>
             <div class="card">
               <div class="card-header">
@@ -1014,19 +1354,39 @@
             <div class="section-head">
               <h2>All Bookings</h2>
               <div class="head-actions">
+                <button class="btn btn-outline" onclick="exportBookingsCSV()"><i class="fa-solid fa-download"></i> Export CSV</button>
                 <button class="btn btn-outline" onclick="loadBookings()">↻ Refresh</button>
               </div>
+            </div>
+            <!-- Filter toolbar -->
+            <div class="filter-bar">
+              <div class="fb-search">
+                <i class="fa-solid fa-magnifying-glass" style="color:var(--muted);font-size:0.8rem;"></i>
+                <input type="text" id="bkSearch" placeholder="Search by patient name…" oninput="applyBookingFilters()">
+              </div>
+              <select id="bkStatus" onchange="applyBookingFilters()">
+                <option value="all">All Status</option>
+                <option value="pending">Pending</option>
+                <option value="confirmed">Confirmed</option>
+                <option value="cancelled">Cancelled</option>
+              </select>
+              <span class="fb-label">From</span>
+              <input type="date" id="bkFrom" onchange="applyBookingFilters()">
+              <span class="fb-label">To</span>
+              <input type="date" id="bkTo" onchange="applyBookingFilters()">
+              <button class="btn btn-outline btn-sm" onclick="resetBookingFilters()">Reset</button>
             </div>
             <div class="table-card">
               <table>
                 <thead>
-                  <tr><th>Name</th><th>Phone</th><th>Disease</th><th>Status</th><th>Date</th><th>Source</th><th>Actions</th></tr>
+                  <tr><th>Name</th><th>Phone</th><th>Disease</th><th>Appt. Date</th><th>Appt. Time</th><th>Status</th><th>Date</th><th>Source</th><th>Actions</th></tr>
                 </thead>
                 <tbody id="bookingBody">
-                  <tr><td colspan="7"><div class="state">Loading…</div></td></tr>
+                  <tr><td colspan="9"><div class="state">Loading…</div></td></tr>
                 </tbody>
               </table>
             </div>
+            <div class="pagination" id="bookingPagination"></div>
           </div>
 
           <!-- RESOURCE PANES -->
@@ -1034,6 +1394,10 @@
           <div class="pane" id="pane-doctors"></div>
           <div class="pane" id="pane-hospitals"></div>
           <div class="pane" id="pane-treatments"></div>
+          <div class="pane" id="pane-blogs"></div>
+          <div class="pane" id="pane-videos"></div>
+          <div class="pane" id="pane-reviews"></div>
+          <div class="pane" id="pane-faqs"></div>
         </div>
       </main>
 
@@ -1065,6 +1429,35 @@
       loginScreen.style.display='none';
       dashboard.style.display='block';
       loadBookings();
+      loadDashboardStats();
+    }
+
+    /* ---------- Dashboard overview counts ---------- */
+    async function countFrom(url){
+      try{
+        const j=await(await fetch(url)).json();
+        if(typeof j.total==='number') return j.total;
+        if(Array.isArray(j.data)) return j.data.length;
+        return 0;
+      }catch(e){ return '–'; }
+    }
+    async function loadDashboardStats(){
+      const set=(id,v)=>{const el=document.getElementById(id); if(el) el.textContent=v;};
+      const [bk,dc,hp,ct,vd,bl]=await Promise.all([
+        countFrom('/api/bookings/all'),
+        countFrom('/api/doctors'),
+        countFrom('/api/hospitals'),
+        countFrom('/api/categories'),
+        countFrom('/api/videos'),
+        countFrom('/api/blogs'),
+      ]);
+      set('ov-bookings',bk); set('ov-doctors',dc); set('ov-hospitals',hp);
+      set('ov-categories',ct); set('ov-videos',vd); set('ov-blogs',bl);
+      stampUpdated();
+    }
+    function stampUpdated(){
+      const el=document.getElementById('lastUpdated');
+      if(el) el.textContent='Updated '+new Date().toLocaleTimeString('en-IN',{hour:'2-digit',minute:'2-digit'});
     }
     function tryLogin(){
       const v=document.getElementById('pwInput').value;
@@ -1098,28 +1491,36 @@
       categories: 'Categories Directory',
       doctors: 'Doctors Registry',
       hospitals: 'Partner Hospitals',
-      treatments: 'Surgical Treatments'
+      treatments: 'Surgical Treatments',
+      blogs: 'Blog Posts',
+      videos: 'Videos',
+      reviews: 'Reviews Management',
+      faqs: 'FAQ Management'
     };
 
     document.querySelectorAll('.tab').forEach(t=>{
       t.onclick=()=>{
         document.querySelectorAll('.tab').forEach(x=>x.classList.remove('active'));
         document.querySelectorAll('.pane').forEach(x=>x.classList.remove('active'));
-        
+
         t.classList.add('active');
         const tab=t.dataset.tab;
         document.getElementById('pane-'+tab).classList.add('active');
-        
-        // Update top bar page title
+
+        // Update top bar page title + breadcrumb
         const titleEl = document.getElementById('topBarTitle');
         if (titleEl) titleEl.textContent = titles[tab] || 'Admin Panel';
+        const crumb = document.getElementById('crumbCurrent');
+        if (crumb) crumb.textContent = (t.textContent || '').trim() || titles[tab];
 
         // Close sidebar on mobile after clicking
         const sidebar = document.querySelector('.sidebar');
         if (sidebar) sidebar.classList.remove('open');
 
         // Dynamically load content for CMS panes
-        if(tab!=='bookings' && tab!=='dashboard' && !loadedOnce[tab]){
+        if(tab === 'videos'){
+          if(!loadedOnce[tab]){ renderVideosPane(); loadedOnce[tab]=true; }
+        } else if(tab!=='bookings' && tab!=='dashboard' && !loadedOnce[tab]){
           RES[tab].render();
           loadedOnce[tab]=true;
         }
@@ -1129,12 +1530,29 @@
     /* Global Refresh button */
     document.getElementById('globalRefreshBtn').onclick = () => {
       const activeTab = document.querySelector('.tab.active').dataset.tab;
-      if (activeTab === 'bookings' || activeTab === 'dashboard') {
+      if (activeTab === 'dashboard') {
+        loadBookings(); loadDashboardStats();
+      } else if (activeTab === 'bookings') {
         loadBookings();
+      } else if (activeTab === 'videos') {
+        loadVideos();
       } else {
         RES[activeTab].render();
       }
+      stampUpdated();
     };
+
+    /* Header global search — routes to the Bookings tab and filters by name */
+    const globalSearchEl = document.getElementById('globalSearch');
+    if (globalSearchEl) {
+      globalSearchEl.addEventListener('input', () => {
+        const q = globalSearchEl.value.trim();
+        if (!q) return;
+        document.querySelector('[data-tab=bookings]').click();
+        const bk = document.getElementById('bkSearch');
+        if (bk) { bk.value = q; applyBookingFilters(); }
+      });
+    }
 
     /* Mobile hamburger menu toggle */
     const menuToggle = document.getElementById('menuToggle');
@@ -1151,54 +1569,132 @@
       });
     }
 
-    /* ---------- Bookings Data Loader ---------- */
+    /* ---------- Bookings Data Loader (with filters + pagination) ---------- */
+    let allBookings=[];          // full dataset from API
+    let bookingPage=1;
+    const BOOKINGS_PER_PAGE=10;
+
     async function loadBookings(){
       const tb=document.getElementById('bookingBody');
       const recentTb=document.getElementById('recentBookingsBody');
-      tb.innerHTML='<tr><td colspan="7"><div class="state">Loading…</div></td></tr>';
+      tb.innerHTML='<tr><td colspan="9"><div class="state">Loading…</div></td></tr>';
       recentTb.innerHTML='<tr><td colspan="5"><div class="state">Loading…</div></td></tr>';
       try{
         const j=await(await fetch(API+'/all')).json();
-        const rows=j.data||[];
-        const c=(s)=>rows.filter(r=>r.status===s).length;
-        
+        allBookings=j.data||[];
+        const c=(s)=>allBookings.filter(r=>r.status===s).length;
+
         const statsHTML = `
-          <div class="stat-card"><div class="num">${rows.length}</div><div class="label">Total</div></div>
+          <div class="stat-card"><div class="num">${allBookings.length}</div><div class="label">Total</div></div>
           <div class="stat-card"><div class="num">${c('pending')}</div><div class="label">Pending</div></div>
           <div class="stat-card"><div class="num">${c('confirmed')}</div><div class="label">Confirmed</div></div>
           <div class="stat-card"><div class="num">${c('cancelled')}</div><div class="label">Cancelled</div></div>`;
-        
         document.getElementById('bookingStats').innerHTML=statsHTML;
         document.getElementById('bookingStatsDashboard').innerHTML=statsHTML;
 
-        // Render Bookings List
-        if(!rows.length){
-          tb.innerHTML='<tr><td colspan="7"><div class="state">No bookings yet.</div></td></tr>';
-        } else {
-          tb.innerHTML=rows.map(b=>`<tr>
-            <td class="cell-name">${esc(b.name)}</td><td>${esc(b.phone)}</td><td>${esc(b.disease)}</td>
-            <td><span class="badge ${esc(b.status)}">${esc(b.status)}</span></td>
-            <td class="cell-muted">${fmtDate(b.createdAt)}</td><td class="cell-muted">${esc(b.source)}</td>
-            <td><div class="actions">
-              <button class="act-btn act-confirm" ${b.status==='confirmed'?'disabled':''} onclick="setStatus('${b._id}','confirmed')">Confirm</button>
-              <button class="act-btn act-cancel" ${b.status==='cancelled'?'disabled':''} onclick="setStatus('${b._id}','cancelled')">Cancel</button>
-            </div></td></tr>`).join('');
-        }
-
-        // Render Recent Bookings (limit to 5) for Dashboard
-        if(!rows.length){
+        // Recent Bookings (Dashboard, latest 5)
+        if(!allBookings.length){
           recentTb.innerHTML='<tr><td colspan="5"><div class="state">No bookings yet.</div></td></tr>';
         } else {
-          recentTb.innerHTML=rows.slice(0, 5).map(b=>`<tr>
+          recentTb.innerHTML=allBookings.slice(0,5).map(b=>`<tr>
             <td class="cell-name">${esc(b.name)}</td><td>${esc(b.phone)}</td><td>${esc(b.disease)}</td>
             <td><span class="badge ${esc(b.status)}">${esc(b.status)}</span></td>
             <td class="cell-muted">${fmtDate(b.createdAt)}</td></tr>`).join('');
         }
+
+        bookingPage=1;
+        renderBookingsTable();
+        stampUpdated();
       }catch(e){
-        tb.innerHTML='<tr><td colspan="7"><div class="state">Failed to load bookings.</div></td></tr>';
+        tb.innerHTML='<tr><td colspan="9"><div class="state">Failed to load bookings.</div></td></tr>';
         recentTb.innerHTML='<tr><td colspan="5"><div class="state">Failed to load.</div></td></tr>';
       }
     }
+
+    function getFilteredBookings(){
+      const q=(document.getElementById('bkSearch')?.value||'').trim().toLowerCase();
+      const status=document.getElementById('bkStatus')?.value||'all';
+      const from=document.getElementById('bkFrom')?.value||'';
+      const to=document.getElementById('bkTo')?.value||'';
+      const fromT=from?new Date(from+'T00:00:00').getTime():null;
+      const toT=to?new Date(to+'T23:59:59').getTime():null;
+      return allBookings.filter(b=>{
+        if(status!=='all' && b.status!==status) return false;
+        if(q && !String(b.name||'').toLowerCase().includes(q)) return false;
+        if(fromT||toT){
+          const t=new Date(b.createdAt).getTime();
+          if(fromT && t<fromT) return false;
+          if(toT && t>toT) return false;
+        }
+        return true;
+      });
+    }
+
+    function renderBookingsTable(){
+      const tb=document.getElementById('bookingBody');
+      const rows=getFilteredBookings();
+      const totalPages=Math.max(1,Math.ceil(rows.length/BOOKINGS_PER_PAGE));
+      if(bookingPage>totalPages) bookingPage=totalPages;
+      const start=(bookingPage-1)*BOOKINGS_PER_PAGE;
+      const pageRows=rows.slice(start,start+BOOKINGS_PER_PAGE);
+
+      if(!rows.length){
+        tb.innerHTML='<tr><td colspan="9"><div class="state">No bookings match your filters.</div></td></tr>';
+      } else {
+        tb.innerHTML=pageRows.map(b=>`<tr>
+          <td class="cell-name">${esc(b.name)}</td><td>${esc(b.phone)}</td><td>${esc(b.disease)}</td>
+          <td class="cell-muted">${esc(b.appointmentDate)||'—'}</td><td class="cell-muted">${esc(b.appointmentTime)||'—'}</td>
+          <td><span class="badge ${esc(b.status)}">${esc(b.status)}</span></td>
+          <td class="cell-muted">${fmtDate(b.createdAt)}</td><td class="cell-muted">${esc(b.source)}</td>
+          <td><div class="actions">
+            <button class="act-btn act-confirm" ${b.status==='confirmed'?'disabled':''} onclick="setStatus('${b._id}','confirmed')">Confirm</button>
+            <button class="act-btn act-cancel" ${b.status==='cancelled'?'disabled':''} onclick="setStatus('${b._id}','cancelled')">Cancel</button>
+          </div></td></tr>`).join('');
+      }
+      renderPagination(rows.length,totalPages,start,pageRows.length);
+    }
+
+    function renderPagination(total,totalPages,start,shown){
+      const el=document.getElementById('bookingPagination');
+      if(!el) return;
+      if(total<=BOOKINGS_PER_PAGE){ el.innerHTML=total?`<div class="pg-info">Showing all ${total} booking${total!==1?'s':''}</div>`:''; return; }
+      let btns='';
+      btns+=`<button class="pg-btn" ${bookingPage===1?'disabled':''} onclick="gotoBookingPage(${bookingPage-1})">‹</button>`;
+      for(let p=1;p<=totalPages;p++){
+        if(p===1||p===totalPages||Math.abs(p-bookingPage)<=1){
+          btns+=`<button class="pg-btn ${p===bookingPage?'active':''}" onclick="gotoBookingPage(${p})">${p}</button>`;
+        } else if(Math.abs(p-bookingPage)===2){
+          btns+=`<span class="pg-info">…</span>`;
+        }
+      }
+      btns+=`<button class="pg-btn" ${bookingPage===totalPages?'disabled':''} onclick="gotoBookingPage(${bookingPage+1})">›</button>`;
+      el.innerHTML=`<div class="pg-info">Showing ${start+1}–${start+shown} of ${total}</div><div class="pg-controls">${btns}</div>`;
+    }
+
+    window.gotoBookingPage=function(p){ bookingPage=p; renderBookingsTable(); };
+    window.applyBookingFilters=function(){ bookingPage=1; renderBookingsTable(); };
+    window.resetBookingFilters=function(){
+      ['bkSearch','bkFrom','bkTo'].forEach(id=>{const el=document.getElementById(id); if(el) el.value='';});
+      const st=document.getElementById('bkStatus'); if(st) st.value='all';
+      bookingPage=1; renderBookingsTable();
+    };
+
+    /* CSV export of currently-filtered bookings */
+    window.exportBookingsCSV=function(){
+      const rows=getFilteredBookings();
+      if(!rows.length){ alert('No bookings to export.'); return; }
+      const headers=['Name','Phone','Email','Disease','Appointment Date','Appointment Time','Doctor','Status','Booked At','Source'];
+      const csvEsc=v=>`"${String(v==null?'':v).replace(/"/g,'""')}"`;
+      const lines=[headers.join(',')];
+      rows.forEach(b=>{
+        lines.push([b.name,b.phone,b.patientEmail||b.email,b.disease,b.appointmentDate,b.appointmentTime,b.doctorName,b.status,fmtDate(b.createdAt),b.source].map(csvEsc).join(','));
+      });
+      const blob=new Blob(['﻿'+lines.join('\n')],{type:'text/csv;charset=utf-8;'});
+      const a=document.createElement('a');
+      a.href=URL.createObjectURL(blob);
+      a.download='bookings-'+new Date().toISOString().slice(0,10)+'.csv';
+      document.body.appendChild(a); a.click(); document.body.removeChild(a);
+    };
 
     async function setStatus(id,status){
       const j=await(await fetch(`${API}/${id}/status`,{method:'PUT',headers:{'Content-Type':'application/json'},body:JSON.stringify({status})})).json();
@@ -1212,10 +1708,11 @@
         columns:[['name','Name'],['slug','Slug'],['treatmentCount','Treatments'],['color','Color']],
         fields:[
           {key:'name',label:'Name'},{key:'slug',label:'Slug'},
-          {key:'icon',label:'Icon (emoji)'},{key:'treatmentCount',label:'Treatment Count',type:'number'},
-          {key:'color',label:'Color'},{key:'colorLight',label:'Color Light'},
-          {key:'iconImage',label:'Icon PNG (overrides emoji)',type:'image',full:true},
-          {key:'image',label:'Image path',full:true},
+          {key:'icon',label:'Icon (emoji)'},
+          {key:'image',label:'Homepage Card Image',type:'image',previewRatio:'16:9',hint:'Recommended: 800x450px surgery photo',full:true},
+          {key:'iconImage',label:'Category Icon (optional)',type:'image',hint:'Replaces emoji icon if uploaded',full:true},
+          {key:'treatmentCount',label:'Treatment Count',type:'number'},
+          {key:'color',label:'Color',type:'color'},{key:'colorLight',label:'Color Light',type:'color'},
           {key:'tags',label:'Tags (comma separated)',array:true,full:true},
           {key:'description',label:'Description',type:'textarea',full:true},
         ]},
@@ -1251,14 +1748,53 @@
           {key:'overview',label:'Overview',type:'textarea',full:true},
         ]},
       treatments:{ endpoint:'/api/treatments', title:'Treatments',
-        columns:[['name','Name'],['categorySlug','Category'],['recovery','Recovery'],['costRange','Cost']],
+        columns:[['name','Name'],['categorySlug','Category'],['subCategorySlug','Sub-Category'],['recovery','Recovery'],['costRange','Cost']],
         fields:[
-          {key:'name',label:'Name'},{key:'slug',label:'Slug'},
-          {key:'categorySlug',label:'Category Slug'},{key:'recovery',label:'Recovery'},
-          {key:'costRange',label:'Cost Range',full:true},
-          {key:'brief',label:'Brief',type:'textarea',full:true},
-          {key:'procedure',label:'Procedure',type:'textarea',full:true},
-          {key:'benefits',label:'Benefits (comma separated)',array:true,full:true},
+          {key:'name',label:'Name',placeholder:'Piles / Hemorrhoids Treatment'},
+          {key:'slug',label:'Slug',autoFrom:'name',hint:"Auto-generated, don't change"},
+          {key:'categorySlug',label:'Category',type:'select',optionsSource:'categories'},
+          {key:'brief',label:'Brief',type:'textarea',rows:3,placeholder:'Laser & stapler treatment\nfor hemorrhoids with same-day discharge.',hint:'Short 1-2 line shown on treatment card',full:true},
+          {key:'recovery',label:'Recovery Time',placeholder:'2-3 days',hint:'e.g. 2-3 days, 1-2 weeks, 4-6 weeks'},
+          {key:'costRange',label:'Cost Range',placeholder:'₹35,000 - ₹90,000',hint:'e.g. ₹35,000 - ₹90,000'},
+          {key:'procedure',label:'Procedure',type:'textarea',rows:5,placeholder:'Detailed procedure description...',hint:'Full procedure details for treatment page',full:true},
+          {key:'benefits',label:'Benefits',array:true,placeholder:'Painless laser, Same-day discharge,\nNo cuts or stitches, Quick return to work',hint:'Comma separated benefits',full:true},
+          {key:'iconImage',label:'Icon Image',type:'image',previewSize:'square80',hint:'Treatment icon shown on card',full:true},
+          {key:'subCategorySlug',label:'Sub-Category (optional)',type:'subcatSelect',full:true},
+        ]},
+      blogs:{ endpoint:'/api/blogs', title:'Blogs',
+        columns:[['title','Title'],['category','Category'],['author','Author'],['published','Published']],
+        fields:[
+          {key:'title',label:'Title',full:true},
+          {key:'slug',label:'Slug (auto-generated if blank)',full:true},
+          {key:'excerpt',label:'Excerpt / Short Description',type:'textarea',full:true},
+          {key:'author',label:'Author'},
+          {key:'category',label:'Category',type:'select',options:['Orthopedics','Ophthalmology','Proctology','Cardiology','General Surgery','Gynaecology','Urology','ENT','Aesthetics','Fertility']},
+          {key:'thumbnail',label:'Cover Image',type:'image',full:true},
+          {key:'tags',label:'Tags (comma separated)',array:true,full:true},
+          {key:'published',label:'Published',type:'toggle'},
+          {key:'content',label:'Full Blog Content',type:'blogContent',full:true},
+          {key:'showOn',label:'Show On',type:'showOn',full:true},
+        ]},
+      reviews:{ endpoint:'/api/reviews', title:'Reviews',
+        columns:[['name','Patient'],['rating','Rating'],['consultation','Consultation'],['city','City'],['verified','Verified']],
+        fields:[
+          {key:'name',label:'Patient Name'},
+          {key:'city',label:'City'},
+          {key:'rating',label:'Rating',type:'rating'},
+          {key:'consultation',label:'Consultation (e.g. Orthopedics Consultation)'},
+          {key:'hospital',label:'Hospital'},
+          {key:'review',label:'Review Text',type:'textarea',full:true},
+          {key:'verified',label:'Verified',type:'toggle'},
+          {key:'showOn',label:'Show On',type:'showOn',full:true},
+        ]},
+      faqs:{ endpoint:'/api/faqs', title:'FAQs',
+        columns:[['question','Question'],['category','Category'],['order','Order']],
+        fields:[
+          {key:'question',label:'Question',full:true},
+          {key:'answer',label:'Answer',type:'textarea',full:true},
+          {key:'category',label:'Category / Specialty',type:'select',optionsSource:'categories'},
+          {key:'order',label:'Order',type:'number'},
+          {key:'showOn',label:'Show On',type:'showOn',full:true},
         ]},
     };
 
@@ -1300,6 +1836,7 @@
             <td>
               <div class="actions">
                 <button class="act-btn act-edit" onclick="openForm('${key}',${i})">Edit</button>
+                ${key==='categories'?`<button class="act-btn act-add-treatment" onclick="addTreatmentForCategory('${esc(row.slug)}')">+ Add Treatment</button>`:''}
                 <button class="act-btn act-del" onclick="delItem('${key}','${row._id}')">Delete</button>
               </div>
             </td>
@@ -1309,6 +1846,323 @@
         }
       };
     });
+
+    /* ---------- Videos pane ---------- */
+    const VIDEO_API = '/api/videos';
+    let videosCache = [];
+    let currentVideoType = 'reel';
+
+    function platformBadge(p) {
+      if (p === 'instagram') return `<span style="background:#e1306c;color:#fff;font-size:0.7rem;font-weight:700;padding:2px 8px;border-radius:10px;"><i class="fa-brands fa-instagram"></i> Instagram</span>`;
+      return `<span style="background:#ff0000;color:#fff;font-size:0.7rem;font-weight:700;padding:2px 8px;border-radius:10px;"><i class="fa-brands fa-youtube"></i> YouTube</span>`;
+    }
+
+    function videoTableHTML(type) {
+      const label = type === 'reel' ? 'Short Videos (Reels 9:16)' : 'Long Videos (16:9)';
+      const addLabel = type === 'reel' ? '+ Add Short Video' : '+ Add Long Video';
+      return `
+        <div class="video-subtab" id="vsection-${type}">
+          <div class="section-head" style="margin-top:${type==='landscape'?'36px':'0'};">
+            <h3 style="font-size:1rem;font-weight:700;color:var(--text);">${type === 'reel' ? '🎬' : '📺'} ${label}</h3>
+            <div class="head-actions">
+              <button class="btn btn-outline btn-sm" onclick="loadVideos()">↻ Refresh</button>
+              <button class="btn btn-primary btn-sm" onclick="openVideoForm(null,'${type}')">${addLabel}</button>
+            </div>
+          </div>
+          <div class="table-card">
+            <table>
+              <thead><tr><th>Title</th><th>Doctor</th><th>Specialty</th><th>Platform</th><th>Order</th><th>Actions</th></tr></thead>
+              <tbody id="videos-body-${type}"><tr><td colspan="6"><div class="state">Loading…</div></td></tr></tbody>
+            </table>
+          </div>
+        </div>`;
+    }
+
+    function renderVideosPane() {
+      const pane = document.getElementById('pane-videos');
+      pane.innerHTML = `
+        <div class="section-head">
+          <h2>Videos Management</h2>
+          <div class="head-actions">
+            <a class="btn btn-primary" href="/video-manager" target="_blank" rel="noopener" style="text-decoration:none;">Open Video Manager →</a>
+            <button class="btn btn-outline" onclick="loadVideos()">↻ Refresh All</button>
+          </div>
+        </div>
+        ${videoTableHTML('reel')}
+        ${videoTableHTML('landscape')}`;
+      loadVideos();
+    }
+
+    async function loadVideos() {
+      try {
+        const j = await (await fetch(VIDEO_API)).json();
+        videosCache = j.data || [];
+        renderVideoTable('reel');
+        renderVideoTable('landscape');
+      } catch(e) {
+        ['reel','landscape'].forEach(t => {
+          const b = document.getElementById('videos-body-' + t);
+          if (b) b.innerHTML = '<tr><td colspan="6"><div class="state">Failed to load videos.</div></td></tr>';
+        });
+      }
+    }
+
+    function renderVideoTable(type) {
+      const body = document.getElementById('videos-body-' + type);
+      if (!body) return;
+      const rows = videosCache.filter(v => v.type === type);
+      if (!rows.length) {
+        const label = type === 'reel' ? 'short reels' : 'landscape videos';
+        body.innerHTML = `<tr><td colspan="6"><div class="state">No ${label} yet — click Add to create one.</div></td></tr>`;
+        return;
+      }
+      body.innerHTML = rows.map(v => `<tr>
+        <td class="cell-name">${esc(v.title)}</td>
+        <td class="cell-muted">${esc(v.doctor_name)}</td>
+        <td class="cell-muted">${esc(v.specialty)}</td>
+        <td>${platformBadge(v.platform)}</td>
+        <td class="cell-muted">${v.order || 0}</td>
+        <td><div class="actions">
+          <button class="act-btn act-edit" onclick="openVideoForm('${v._id}','${v.type}')">Edit</button>
+          <button class="act-btn act-del" onclick="deleteVideo('${v._id}')">Delete</button>
+        </div></td>
+      </tr>`).join('');
+    }
+
+    function switchVideoTab(type) { currentVideoType = type; }
+
+    // ── Show-On picker data cache ──────────────────────────────────────
+    let _vDoctors = [], _vCategories = [], _vTreatments = [];
+    let _catCache = [], _subcatCache = []; // for dynamic select dropdowns in forms
+    async function loadShowOnData() {
+      try {
+        const [dj, cj, tj] = await Promise.all([
+          fetch('/api/doctors').then(r => r.json()),
+          fetch('/api/categories').then(r => r.json()),
+          fetch('/api/treatments').then(r => r.json()),
+        ]);
+        const normalizeList = payload => Array.isArray(payload) ? payload : (Array.isArray(payload?.data) ? payload.data : []);
+
+        _vDoctors     = normalizeList(dj);
+        _vCategories  = normalizeList(cj);
+        _vTreatments  = normalizeList(tj);
+
+        console.log('categories:', _vCategories);
+        console.log('doctors:', _vDoctors);
+        console.log('treatments:', _vTreatments);
+      } catch(e) {
+        console.error('Failed to load Show On data:', e);
+        _vDoctors = [];
+        _vCategories = [];
+        _vTreatments = [];
+      }
+    }
+
+    // Slugify a name the same way the frontend builds page keys.
+    function vsoSlug(s) { return (s || '').toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, ''); }
+
+    // ── Build the Show-On picker HTML ─────────────────────────────────
+    // Four parent checkbox cards: Homepage, Category Pages, Doctor Pages,
+    // Treatment Pages. Each (except Homepage) reveals a checkbox sub-list.
+    function buildShowOnPickerHTML(currentShowOn) {
+      const showOn = Array.isArray(currentShowOn) ? currentShowOn : [];
+
+      // 'all' (legacy/default "everywhere") is treated as nothing checked here.
+      const homeChecked = showOn.includes('home');
+      const catVals = showOn.filter(s => s.startsWith('category-'));
+      const docVals = showOn.filter(s => s.startsWith('doctor-'));
+      const txVals  = showOn.filter(s => s.startsWith('treatment-'));
+
+      // A parent starts open/active if it (or its children) is selected.
+      const catActive = catVals.length > 0;
+      const docActive = docVals.length > 0;
+      const txActive  = txVals.length > 0;
+
+      function section(kind, label, active, hasChildren) {
+        return `
+          <div class="vso-section ${active ? 'active' : ''}" id="vso-sec-${kind}">
+            <label class="vso-section-head">
+              <span class="vso-cb-cell">
+                <input type="checkbox" class="vso-cb vso-parent" id="vso-p-${kind}" data-kind="${kind}"
+                  ${active ? 'checked' : ''} onchange="vsoParentChange(this)">
+              </span>
+              <span class="vso-sec-label">${label}</span>
+            </label>
+            ${hasChildren ? `
+              <div class="vso-sublist ${active ? 'open' : ''}" id="vso-sub-${kind}">
+              </div>` : ''}
+          </div>`;
+      }
+
+      return `
+        <div class="show-on-picker" id="show-on-picker">
+          <div class="vso-title">📍 Show on <small style="font-weight:400;text-transform:none;letter-spacing:0;">(leave all unchecked = everywhere)</small></div>
+          ${section('home',      'Homepage',        homeChecked, false)}
+          ${section('category',  'Category Pages',  catActive,   true)}
+          ${section('doctor',    'Doctor Pages',    docActive,   true)}
+          ${section('treatment', 'Treatment Pages', txActive,    true)}
+        </div>`;
+    }
+
+    function appendShowOnCheckbox(container, value, textValue, checked) {
+      const label = document.createElement('label');
+      label.className = 'vso-child';
+      label.style.cssText = 'display:flex; align-items:center; gap:10px; padding:10px; cursor:pointer; font-size:14px;';
+
+      const cb = document.createElement('input');
+      cb.type = 'checkbox';
+      cb.className = 'vso-cb vso-child-cb';
+      cb.value = value;
+      cb.checked = checked;
+      cb.style.cssText = 'width:18px; height:18px; accent-color:#5e4091;';
+
+      const text = document.createElement('span');
+      text.textContent = textValue;
+
+      label.appendChild(cb);
+      label.appendChild(text);
+      container.appendChild(label);
+    }
+
+    function populateShowOnCheckboxes(currentShowOn) {
+      const showOn = Array.isArray(currentShowOn) ? currentShowOn : [];
+      const catVals = showOn.filter(s => s.startsWith('category-'));
+      const docVals = showOn.filter(s => s.startsWith('doctor-'));
+      const txVals  = showOn.filter(s => s.startsWith('treatment-'));
+
+      const categoryContainer = document.getElementById('vso-sub-category');
+      const doctorContainer = document.getElementById('vso-sub-doctor');
+      const treatmentContainer = document.getElementById('vso-sub-treatment');
+
+      if (categoryContainer) {
+        categoryContainer.innerHTML = '';
+        if (!_vCategories.length) categoryContainer.innerHTML = '<div class="vso-empty">None found.</div>';
+        _vCategories.forEach(cat => {
+          const name = cat.name || cat.title || cat.slug || 'Unnamed Category';
+          const value = 'category-' + (cat.slug || vsoSlug(name));
+          appendShowOnCheckbox(categoryContainer, value, (cat.icon || '') + ' ' + name, catVals.includes(value));
+        });
+      }
+
+      if (doctorContainer) {
+        doctorContainer.innerHTML = '';
+        if (!_vDoctors.length) doctorContainer.innerHTML = '<div class="vso-empty">None found.</div>';
+        _vDoctors.forEach(doc => {
+          const name = doc.name || doc.fullName || doc.slug || 'Unnamed Doctor';
+          const specialty = doc.specialty || doc.speciality || '';
+          const value = 'doctor-' + (doc.slug || vsoSlug(name));
+          appendShowOnCheckbox(doctorContainer, value, name + (specialty ? ' — ' + specialty : ''), docVals.includes(value));
+        });
+      }
+
+      if (treatmentContainer) {
+        treatmentContainer.innerHTML = '';
+        if (!_vTreatments.length) treatmentContainer.innerHTML = '<div class="vso-empty">None found.</div>';
+        _vTreatments.forEach(t => {
+          const name = t.name || t.title || t.slug || 'Unnamed Treatment';
+          const categorySlug = t.categorySlug || t.category || 'uncategorized';
+          const value = 'treatment-' + (t.slug || vsoSlug(name));
+          appendShowOnCheckbox(treatmentContainer, value, name + ' (' + categorySlug + ')', txVals.includes(value));
+        });
+      }
+    }
+
+    // Parent checkbox toggled → slide its sub-list in/out.
+    // Unchecking a parent clears all of its children.
+    window.vsoParentChange = function(parentCb) {
+      const kind    = parentCb.dataset.kind;
+      const section = document.getElementById('vso-sec-' + kind);
+      const sublist = document.getElementById('vso-sub-' + kind);
+      if (section) section.classList.toggle('active', parentCb.checked);
+      if (sublist) {
+        sublist.classList.toggle('open', parentCb.checked);
+        if (!parentCb.checked) {
+          sublist.querySelectorAll('.vso-child-cb').forEach(cb => { cb.checked = false; });
+        }
+      }
+    };
+
+    // ── Read value from the picker → showOn array ─────────────────────
+    function readShowOnValue() {
+      const picker = document.getElementById('show-on-picker');
+      if (!picker) return ['all'];
+      const vals = [];
+
+      // Homepage (no children — the parent itself is the value)
+      const homeParent = document.getElementById('vso-p-home');
+      if (homeParent && homeParent.checked) vals.push('home');
+
+      // Category / Doctor / Treatment children (only when parent is checked)
+      ['category', 'doctor', 'treatment'].forEach(kind => {
+        const parent = document.getElementById('vso-p-' + kind);
+        const sublist = document.getElementById('vso-sub-' + kind);
+        if (parent && parent.checked && sublist) {
+          sublist.querySelectorAll('.vso-child-cb:checked').forEach(cb => vals.push(cb.value));
+        }
+      });
+
+      // Nothing selected → 'all' (everywhere) keeps backend filter working.
+      return vals.length ? [...new Set(vals)] : ['all'];
+    }
+
+    async function openVideoForm(id, forceType) {
+      await loadShowOnData();
+      const existing = id ? videosCache.find(v => v._id === id) : null;
+      const isEdit = !!(existing && existing._id);
+      const v = existing || {};
+      const type = forceType || v.type || 'reel';
+      const typeLabel = type === 'reel' ? 'Short Video (Reel 9:16)' : 'Long Video (16:9)';
+      document.getElementById('modalTitle').textContent = (isEdit ? 'Edit' : 'Add') + ' — ' + typeLabel;
+      document.getElementById('modalBody').innerHTML = `
+        <div class="form-grid">
+          <div class="field full"><label>Title</label><input data-vkey="title" value="${esc(v.title||'')}"></div>
+          <div class="field full"><label>YouTube Link (URL)</label><input data-vkey="video_url" value="${esc(v.video_url||'')}" placeholder="e.g., https://youtube.com/watch?v=..."></div>
+          <div class="field full"><label>Instagram Embed Code</label><textarea data-vkey="embed_code" placeholder="Paste Instagram iframe embed code here">${esc(v.embed_code||'')}</textarea></div>
+          <div class="field"><label>Doctor Name</label><input data-vkey="doctor_name" value="${esc(v.doctor_name||'')}"></div>
+          <div class="field"><label>Specialty</label><input data-vkey="specialty" value="${esc(v.specialty||'')}"></div>
+          <div class="field full"><label>Thumbnail URL (optional)</label><input data-vkey="thumbnail_url" value="${esc(v.thumbnail_url||'')}"></div>
+          <div class="field"><label>Platform</label>
+            <select data-vkey="platform">
+              <option value="youtube" ${(v.platform||'youtube')==='youtube'?'selected':''}>YouTube</option>
+              <option value="instagram" ${v.platform==='instagram'?'selected':''}>Instagram</option>
+            </select>
+          </div>
+          <input type="hidden" data-vkey="type" value="${type}">
+          ${type === 'landscape' ? `<div class="field"><label>Duration (e.g. 5:32)</label><input data-vkey="duration" value="${esc(v.duration||'')}"></div>` : ''}
+          <div class="field"><label>Order</label><input type="number" data-vkey="order" value="${v.order||0}"></div>
+          <div class="field full">${buildShowOnPickerHTML(v.showOn)}</div>
+        </div>
+        <p style="margin-top:12px;font-size:0.78rem;color:var(--muted);">Type: <strong>${typeLabel}</strong> (set automatically)</p>`;
+      populateShowOnCheckboxes(v.showOn);
+      document.getElementById('modalSave').onclick = async function() {
+        const payload = {};
+        document.querySelectorAll('#modalBody [data-vkey]').forEach(el => {
+          payload[el.dataset.vkey] = el.type === 'number' ? Number(el.value) : el.value.trim();
+        });
+        payload.showOn = readShowOnValue();
+        const url = isEdit ? `${VIDEO_API}/${id}` : VIDEO_API;
+        const method = isEdit ? 'PUT' : 'POST';
+        try {
+          const j = await (await fetch(url, { method, headers: {'Content-Type':'application/json'}, body: JSON.stringify(payload) })).json();
+          if (j.success || j.data) { closeModal(); loadVideos(); }
+          else alert(j.message || 'Save failed.');
+        } catch(e) { alert('Save failed — is the server running?'); }
+      };
+      modal.classList.add('open');
+    }
+
+    async function deleteVideo(id) {
+      if (!confirm('Delete this video?')) return;
+      try {
+        await fetch(`${VIDEO_API}/${id}`, { method: 'DELETE' });
+        loadVideos();
+      } catch(e) { alert('Delete failed.'); }
+    }
+
+    window.openVideoForm = openVideoForm;
+    window.deleteVideo = deleteVideo;
+    window.switchVideoTab = switchVideoTab;
+    window.loadVideos = loadVideos;
 
     /* ---------- Modal form operations ---------- */
     const modal=document.getElementById('modal');
@@ -1320,23 +2174,72 @@
     document.getElementById('modalCancel').onclick=closeModal;
     modal.addEventListener('click',e=>{if(e.target===modal)closeModal();});
 
-    function openForm(key,index){
+    async function openForm(key,index,prefill){
       const cfg=RES[key];
-      const existing=(index!=null)?cfg.cache[index]:{};
+      if(!cfg){ console.error('openForm: unknown resource key:', key); return; }
+      const existing=(index!=null)?cfg.cache[index]:(prefill||{});
       modalState={key,id:existing._id||null,existing};
       document.getElementById('modalTitle').textContent=(existing._id?'Edit ':'Add ')+cfg.title.slice(0,-1);
-      document.getElementById('modalBody').innerHTML=cfg.fields.map(f=>{
+      // Default: footer Save visible (multi-step doctor form hides it until the last step).
+      document.getElementById('modalSave').style.display='';
+      // Default: modal body uses the generic 2-col grid (doctor form switches to block).
+      document.getElementById('modalBody').style.display='';
+      // ── Doctors: custom 4-step onboarding form ──
+      if(key==='doctors'){
+        const mp = modal.querySelector('.modal');
+        if (mp) { mp.style.width=''; mp.style.maxWidth=''; mp.style.left=''; }
+        try { _catCache = (await (await fetch('/api/categories')).json()).data || []; } catch(e){ _catCache = []; }
+        renderDoctorMultiStepForm(existing);
+        modal.classList.add('open');
+        return;
+      }
+      const needsShowOn = cfg.fields.some(f=>f.type==='showOn');
+      if (needsShowOn) await loadShowOnData();
+      // Load categories for any dynamic category dropdowns; subcategories for treatment forms.
+      if (cfg.fields.some(f=>f.optionsSource==='categories')) {
+        try { _catCache = (await (await fetch('/api/categories')).json()).data || []; } catch(e){ _catCache = []; }
+      }
+      if (cfg.fields.some(f=>f.type==='subcatSelect')) {
+        try { _subcatCache = (await (await fetch('/api/subcategories')).json()).data || []; } catch(e){ _subcatCache = []; }
+      }
+      const modalPanel = modal.querySelector('.modal');
+      if (modalPanel) {
+        modalPanel.style.width = key === 'blogs' ? '80vw' : '';
+        modalPanel.style.maxWidth = key === 'blogs' ? '80vw' : '';
+        modalPanel.style.left = key === 'blogs' ? '10vw' : '';
+      }
+      const fieldsHTML=cfg.fields.map(f=>{
+        if(f.type==='showOn'){
+          return `<div class="field full">${buildShowOnPickerHTML(existing[f.key])}</div>`;
+        }
+        // Blog content field — textarea controlled by the top "Choose Blog Type" toggle.
+        if(f.type==='blogContent'){
+          const mode = existing.contentType === 'html' ? 'html' : 'standard';
+          const content = existing[f.key] || '';
+          const htmlPlaceholder = 'Paste your custom HTML here...\nExample: <h1>Title</h1><p>Content</p>';
+          const textPlaceholder = 'Write your blog content here...';
+          return `<div class="field full">
+            <input type="hidden" data-key="contentType" id="blogContentType" value="${mode}">
+            <label id="blogContentLabel">${mode==='html'?'HTML Code':'Blog Content'}</label>
+            <textarea data-key="${f.key}" id="blogContentArea" class="${mode==='html'?'code-editor':''}" placeholder="${(mode==='html'?htmlPlaceholder:textPlaceholder).replace(/"/g,'&quot;')}" style="min-height:280px;">${esc(content)}</textarea>
+            <div id="blogHtmlWarning" class="bct-warning" style="display:${mode==='html'?'flex':'none'};">⚠️ HTML renders directly on page</div>
+          </div>`;
+        }
         // Image upload field — file picker + live preview, stores the returned URL.
         if(f.type==='image'){
           const url=existing[f.key]||'';
+          const previewCls = f.previewRatio==='16:9'
+            ? 'img-preview img-preview-wide'
+            : 'img-preview' + (f.previewSize==='square80' ? ' img-preview-square80' : '');
           return `<div class="field full">
             <label>${f.label}</label>
             <div class="img-uploader">
-              <div class="img-preview">${url?`<img src="${esc(url)}" alt="">`:'No image'}</div>
+              <div class="${previewCls}">${url?`<img src="${esc(url)}" alt="">`:'No image'}</div>
               <div class="img-uploader-controls">
                 <input type="hidden" data-key="${f.key}" value="${esc(url)}">
                 <input type="file" accept="image/jpeg,image/png" onchange="handleImageUpload(this,'${f.key}')">
                 <span class="upload-status" data-status-for="${f.key}"></span>
+                ${f.hint?`<span class="hint">${f.hint}</span>`:''}
               </div>
             </div>
           </div>`;
@@ -1361,28 +2264,357 @@
             </div>
           </div>`;
         }
+        if(f.type==='select'){
+          const val=existing[f.key]||'';
+          let optsHTML;
+          if(f.optionsSource==='categories'){
+            optsHTML=_catCache.map(c=>`<option value="${esc(c.slug)}" ${val===c.slug?'selected':''}>${esc(c.name)}</option>`).join('');
+          } else {
+            optsHTML=(f.options||[]).map(opt=>`<option value="${esc(opt)}" ${val===opt?'selected':''}>${esc(opt)}</option>`).join('');
+          }
+          return `<div class="field ${f.full?'full':''}"><label>${f.label}</label>
+            <select data-key="${f.key}">
+              <option value="">Select ${f.label}</option>
+              ${optsHTML}
+            </select>
+            ${f.hint?`<span class="hint">${f.hint}</span>`:''}
+          </div>`;
+        }
+        // Sub-category dropdown (treatments) — built from loaded subcategories, labelled "category → subcat".
+        if(f.type==='subcatSelect'){
+          const val=existing[f.key]||'';
+          const opts=_subcatCache.map(sc=>`<option value="${esc(sc.slug)}" ${val===sc.slug?'selected':''}>${esc((sc.categorySlug||'')+' → '+sc.name)}</option>`).join('');
+          return `<div class="field ${f.full?'full':''}"><label>${f.label}</label>
+            <select data-key="${f.key}">
+              <option value="">— None (General) —</option>
+              ${opts}
+            </select>
+            ${f.hint?`<span class="hint">${f.hint}</span>`:''}
+          </div>`;
+        }
+        // Star rating selector (1–5)
+        if(f.type==='rating'){
+          const val=Number(existing[f.key])||5;
+          let stars='';
+          for(let i=1;i<=5;i++) stars+=`<span class="rate-star ${i<=val?'on':''}" data-val="${i}" onclick="setRating(this)">★</span>`;
+          return `<div class="field ${f.full?'full':''}"><label>${f.label}</label>
+            <div class="rating-selector">
+              <input type="hidden" data-key="${f.key}" value="${val}">
+              ${stars}
+            </div>
+          </div>`;
+        }
+        // Color picker: native swatch synced with a hex text input.
+        // data-key sits on the TEXT input (that's the saved value); the swatch
+        // syncs into it on input. Both are pre-filled with the saved colour on edit.
+        if(f.type==='color'){
+          const raw=(existing[f.key]||'').trim();
+          const val=/^#[0-9a-fA-F]{6}$/.test(raw)?raw:'#5e4091';
+          return `<div class="field ${f.full?'full':''}"><label>${f.label}</label>
+            <div style="display:flex; align-items:center; gap:10px; padding:10px; border:1px solid #e0e0e0; border-radius:8px;">
+              <input type="color" value="${esc(val)}"
+                style="width:44px; height:36px; border:none; cursor:pointer; padding:0; border-radius:6px;"
+                oninput="this.nextElementSibling.value=this.value">
+              <input type="text" data-key="${f.key}" value="${esc(raw||val)}" placeholder="#5e4091"
+                style="flex:1; border:none; font-size:14px; outline:none;"
+                oninput="if(/^#[0-9a-fA-F]{6}$/.test(this.value)) this.previousElementSibling.value=this.value;">
+            </div>
+          </div>`;
+        }
+        if(f.type==='toggle'){
+          const checked = existing[f.key] === true || existing[f.key] === 'true' ? 'checked' : '';
+          return `<div class="field ${f.full?'full':''}">
+            <label>${f.label}</label>
+            <label style="display:flex;align-items:center;gap:10px;text-transform:none;letter-spacing:0;font-size:14px;font-weight:700;color:var(--text);">
+              <input type="checkbox" data-key="${f.key}" ${checked} style="width:18px;height:18px;accent-color:#5e4091;">
+              ${esc(f.label)}
+            </label>
+          </div>`;
+        }
         let val=existing[f.key];
         if(f.array&&Array.isArray(val))val=val.join(', ');
         if(val==null)val='';
+        const placeholder=f.placeholder?` placeholder="${esc(f.placeholder)}"`:'';
+        const rows=f.rows?` rows="${Number(f.rows)}"`:'';
+        const autoFrom=f.autoFrom?` data-auto-from="${esc(f.autoFrom)}"`:'';
         const input=f.type==='textarea'
-          ? `<textarea data-key="${f.key}" ${f.array?'data-array="1"':''}>${esc(val)}</textarea>`
-          : `<input type="${f.type==='number'?'number':'text'}" data-key="${f.key}" ${f.array?'data-array="1"':''} value="${esc(val)}">`;
-        return `<div class="field ${f.full?'full':''}"><label>${f.label}</label>${input}${f.array?'<span class="hint">Separate elements with commas</span>':''}</div>`;
+          ? `<textarea data-key="${f.key}"${rows}${placeholder} ${f.array?'data-array="1"':''}>${esc(val)}</textarea>`
+          : `<input type="${f.type==='number'?'number':'text'}" data-key="${f.key}"${placeholder}${autoFrom} ${f.array?'data-array="1"':''} value="${esc(val)}">`;
+        const hint = f.hint || (f.array ? 'Separate elements with commas' : '');
+        return `<div class="field ${f.full?'full':''}"><label>${f.label}</label>${input}${hint?`<span class="hint">${hint}</span>`:''}</div>`;
       }).join('');
+      // Blogs: big "Choose Blog Type" card toggle pinned to the very top of the form.
+      const topToggle = key==='blogs'
+        ? blogTypeToggleHTML(existing.contentType==='html'?'html':'standard')
+        : '';
+      document.getElementById('modalBody').innerHTML = topToggle + fieldsHTML;
+      if (needsShowOn) populateShowOnCheckboxes(existing.showOn);
+      initAutoSlugFields();
       modal.classList.add('open');
       // Initialise the Leaflet picker once the modal DOM exists.
       if(cfg.fields.some(f=>f.type==='map')) initMapPicker();
     }
+
+    function slugifyValue(value){
+      return String(value || '')
+        .toLowerCase()
+        .replace(/[^a-z0-9]+/g,'-')
+        .replace(/^-+|-+$/g,'');
+    }
+
+    function initAutoSlugFields(){
+      document.querySelectorAll('#modalBody [data-auto-from]').forEach(slugEl=>{
+        const sourceKey = slugEl.dataset.autoFrom;
+        const sourceEl = document.querySelector(`#modalBody [data-key="${sourceKey}"]`);
+        if(!sourceEl) return;
+
+        let manual = Boolean(slugEl.value);
+        slugEl.addEventListener('input',()=>{ manual = true; });
+        sourceEl.addEventListener('input',()=>{
+          if(manual) return;
+          slugEl.value = slugifyValue(sourceEl.value);
+        });
+        if(!slugEl.value && sourceEl.value){
+          slugEl.value = slugifyValue(sourceEl.value);
+        }
+      });
+    }
     window.openForm=openForm;
+
+    /* ==========================================================
+       DOCTORS — 4-step onboarding form
+       All fields carry data-key attributes, so the existing
+       modalSave handler collects & saves them unchanged.
+       ========================================================== */
+    const DOC_STEPS = ['Basic Info', 'Professional', 'Hospital', 'Review'];
+    let _docStep = 1;
+
+    function renderDoctorMultiStepForm(d){
+      d = d || {};
+      const v = k => esc(d[k] != null ? d[k] : '');
+      const arr = k => Array.isArray(d[k]) ? esc(d[k].join(', ')) : esc(d[k] || '');
+      const catOpts = _catCache.map(c => `<option value="${esc(c.name)}" ${d.specialty===c.name?'selected':''}>${esc(c.name)}</option>`).join('');
+      const cities = ['Kolkata','Delhi NCR','Bangalore','Mumbai'];
+      const cityOpts = cities.map(c => `<option value="${esc(c)}" ${d.city===c?'selected':''}>${esc(c)}</option>`).join('');
+
+      const indicator = `
+        <div class="doc-progress"><div class="doc-progress-bar" id="docProgressBar"></div></div>
+        <div class="doc-steps">
+          ${DOC_STEPS.map((s,i)=>`
+            <div class="doc-step-ind" data-step="${i+1}" id="docInd-${i+1}" onclick="doctorGoStep(${i+1})">
+              <div class="doc-step-dot">${i+1}</div>
+              <span class="doc-step-label">${s}</span>
+            </div>`).join('')}
+        </div>`;
+
+      const body = `
+        <input type="hidden" data-key="slug" value="${v('slug')}">
+
+        <div class="dstep" data-step="1">
+          <div class="field full"><label>Full Name (First + Last) *</label>
+            <input data-key="name" value="${v('name')}" placeholder="e.g. Dr. Rajesh Sharma"></div>
+          <div class="field"><label>Email</label>
+            <input data-key="email" value="${v('email')}" placeholder="doctor@example.com"></div>
+          <div class="field"><label>Phone</label>
+            <input data-key="phone" value="${v('phone')}" placeholder="+91 ..."></div>
+          <div class="field full"><label>Doctor Photo</label>
+            <div class="img-uploader">
+              <div class="img-preview img-preview-circle80">${d.iconImage?`<img src="${esc(d.iconImage)}" alt="">`:'No image'}</div>
+              <div class="img-uploader-controls">
+                <input type="hidden" data-key="iconImage" value="${v('iconImage')}">
+                <input type="file" accept="image/*" onchange="handleImageUpload(this,'iconImage')">
+                <span class="upload-status" data-status-for="iconImage"></span>
+              </div>
+            </div>
+          </div>
+          <div class="field full"><label>Bio</label>
+            <textarea data-key="bio" placeholder="Short professional bio…">${v('bio')}</textarea></div>
+        </div>
+
+        <div class="dstep" data-step="2" style="display:none;">
+          <div class="field"><label>Specialty *</label>
+            <select data-key="specialty"><option value="">Select Specialty</option>${catOpts}</select></div>
+          <div class="field"><label>Degree / Qualification</label>
+            <input data-key="degree" value="${v('degree')}" placeholder="e.g. MBBS, MS (Ortho)"></div>
+          <div class="field"><label>Experience</label>
+            <input data-key="experience" value="${v('experience')}" placeholder="e.g. 15+ Years"></div>
+          <div class="field"><label>Rating (0–5)</label>
+            <input type="number" step="0.1" min="0" max="5" data-key="rating" value="${v('rating')}"></div>
+          <div class="field"><label>Reviews count</label>
+            <input type="number" data-key="reviews" value="${v('reviews')}"></div>
+          <div class="field"><label>Language</label>
+            <input data-key="language" value="${v('language')}" placeholder="e.g. English, Hindi"></div>
+          <div class="field"><label>Consultation Fee (₹)</label>
+            <input type="number" data-key="fee" value="${v('fee')}"></div>
+        </div>
+
+        <div class="dstep" data-step="3" style="display:none;">
+          <div class="field"><label>Hospital Name *</label>
+            <input data-key="hospital" value="${v('hospital')}" placeholder="e.g. Apollo Hospitals"></div>
+          <div class="field"><label>City</label>
+            <select data-key="city"><option value="">Select City</option>${cityOpts}</select></div>
+          <div class="field full"><label>Location (clinic address)</label>
+            <input data-key="location" value="${v('location')}" placeholder="Full clinic address"></div>
+          <div class="field"><label>Next Slot</label>
+            <input data-key="nextSlot" value="${v('nextSlot')}" placeholder="e.g. 10:00 AM"></div>
+          <div class="field"><label>Slots (comma separated)</label>
+            <input data-key="slots" data-array="1" value="${arr('slots')}" placeholder="10:00 AM, 11:30 AM, 4:00 PM"></div>
+          <div class="field full"><label>Categories (comma separated slugs)</label>
+            <input data-key="categories" data-array="1" value="${arr('categories')}" placeholder="orthopedics, sports-injury"></div>
+        </div>
+
+        <div class="dstep" data-step="4" style="display:none;">
+          <h3 style="font-size:1rem;font-weight:800;margin-bottom:14px;color:var(--text);">Review &amp; Save</h3>
+          <div id="docReview" class="doc-review"></div>
+        </div>
+
+        <div class="doc-nav">
+          <button type="button" class="btn btn-outline" id="docPrevBtn" onclick="doctorStep(-1)" style="visibility:hidden;">← Previous</button>
+          <button type="button" class="btn btn-primary" id="docNextBtn" onclick="doctorStep(1)">Next →</button>
+        </div>`;
+
+      const mb = document.getElementById('modalBody');
+      mb.style.display = 'block'; // single-column layout for the stepper
+      mb.innerHTML = indicator + body;
+      _docStep = 1;
+      updateDoctorStep();
+    }
+
+    function updateDoctorStep(){
+      // show only the active step
+      document.querySelectorAll('#modalBody .dstep').forEach(el=>{
+        el.style.display = Number(el.dataset.step)===_docStep ? '' : 'none';
+      });
+      // indicators + progress
+      DOC_STEPS.forEach((_,i)=>{
+        const ind=document.getElementById('docInd-'+(i+1));
+        if(!ind)return;
+        ind.classList.toggle('active', (i+1)===_docStep);
+        ind.classList.toggle('done', (i+1)<_docStep);
+      });
+      const bar=document.getElementById('docProgressBar');
+      if(bar) bar.style.width = ((_docStep-1)/(DOC_STEPS.length-1)*100)+'%';
+      // nav buttons
+      const prev=document.getElementById('docPrevBtn');
+      const next=document.getElementById('docNextBtn');
+      const save=document.getElementById('modalSave');
+      if(prev) prev.style.visibility = _docStep===1 ? 'hidden' : 'visible';
+      if(_docStep===DOC_STEPS.length){
+        if(next) next.style.display='none';
+        if(save) save.style.display='';
+        buildDoctorReview();
+      } else {
+        if(next) next.style.display='';
+        if(save) save.style.display='none';
+      }
+    }
+
+    function validateDoctorStep(step){
+      const req = step===1 ? [['name','Full Name']]
+                : step===2 ? [['specialty','Specialty']]
+                : step===3 ? [['hospital','Hospital Name']]
+                : [];
+      for(const [key,label] of req){
+        const el=document.querySelector(`#modalBody [data-key="${key}"]`);
+        if(el && !String(el.value).trim()){
+          alert(label+' is required.');
+          el.focus();
+          return false;
+        }
+      }
+      return true;
+    }
+
+    window.doctorStep=function(dir){
+      if(dir>0 && !validateDoctorStep(_docStep)) return;
+      _docStep = Math.min(DOC_STEPS.length, Math.max(1, _docStep+dir));
+      updateDoctorStep();
+    };
+    window.doctorGoStep=function(n){
+      // only allow jumping backward freely; forward requires validation of current step
+      if(n>_docStep && !validateDoctorStep(_docStep)) return;
+      _docStep=n; updateDoctorStep();
+    };
+
+    function buildDoctorReview(){
+      const get=k=>{const el=document.querySelector(`#modalBody [data-key="${k}"]`);return el?el.value.trim():'';};
+      const rows=[
+        ['Name',get('name')],['Email',get('email')],['Phone',get('phone')],
+        ['Specialty',get('specialty')],['Degree',get('degree')],['Experience',get('experience')],
+        ['Rating',get('rating')],['Reviews',get('reviews')],['Language',get('language')],['Fee',get('fee')?'₹'+get('fee'):''],
+        ['Hospital',get('hospital')],['City',get('city')],['Location',get('location')],
+        ['Next Slot',get('nextSlot')],['Slots',get('slots')],['Categories',get('categories')],
+      ];
+      document.getElementById('docReview').innerHTML = rows.map(([k,val])=>`
+        <div class="doc-review-row"><span class="drk">${k}</span><span class="drv">${esc(val)||'<span style="color:#bbb">—</span>'}</span></div>
+      `).join('');
+    }
+
+    /* From the Categories table → open a blank Treatment form with this category preselected. */
+    window.addTreatmentForCategory=function(slug){
+      // Open a fresh Treatment form (index=null) with the category pre-selected via prefill.
+      openForm('treatments', null, { categorySlug: slug });
+    };
+
+    /* ---------- Star rating selector ---------- */
+    window.setRating=function(star){
+      const wrap=star.parentNode;
+      const v=Number(star.dataset.val);
+      wrap.querySelector('input[type=hidden]').value=v;
+      wrap.querySelectorAll('.rate-star').forEach(s=>s.classList.toggle('on', Number(s.dataset.val)<=v));
+    };
+
+    /* ---------- Blog type toggle (Standard / HTML) ---------- */
+    function blogTypeToggleHTML(mode){
+      return `<div class="field full">
+        <label>Choose Blog Type</label>
+        <div class="blog-type-cards">
+          <div class="btype-card ${mode==='standard'?'active':''}" id="btype-standard" onclick="setBlogContentMode('standard')">
+            <div class="btype-icon">✏️</div>
+            <div class="btype-name">Standard Blog</div>
+            <div class="btype-sub">Write plain text content (default)</div>
+          </div>
+          <div class="btype-card ${mode==='html'?'active':''}" id="btype-html" onclick="setBlogContentMode('html')">
+            <div class="btype-icon">&lt;/&gt;</div>
+            <div class="btype-name">HTML Blog</div>
+            <div class="btype-sub">Paste your own custom HTML</div>
+          </div>
+        </div>
+      </div>`;
+    }
+
+    window.setBlogContentMode=function(mode){
+      const typeInput=document.getElementById('blogContentType');
+      const area=document.getElementById('blogContentArea');
+      const label=document.getElementById('blogContentLabel');
+      const warn=document.getElementById('blogHtmlWarning');
+      const cardStd=document.getElementById('btype-standard');
+      const cardHtml=document.getElementById('btype-html');
+      if(cardStd)cardStd.classList.toggle('active',mode==='standard');
+      if(cardHtml)cardHtml.classList.toggle('active',mode==='html');
+      if(!typeInput||!area)return;
+      typeInput.value=mode;
+      if(mode==='html'){
+        label.textContent='HTML Code';
+        area.placeholder='Paste your custom HTML here...\nExample: <h1>Title</h1><p>Content</p>';
+        area.classList.add('code-editor');
+        if(warn)warn.style.display='flex';
+      } else {
+        label.textContent='Blog Content';
+        area.placeholder='Write your blog content here...';
+        area.classList.remove('code-editor');
+        if(warn)warn.style.display='none';
+      }
+    };
 
     /* ---------- Image upload handler ---------- */
     async function handleImageUpload(input,key){
       const status=document.querySelector(`[data-status-for="${key}"]`);
       const file=input.files&&input.files[0];
       if(!file)return;
-      if(!['image/jpeg','image/png'].includes(file.type)){
+      if(!file.type.startsWith('image/')){
         status.className='upload-status err';
-        status.textContent='Only JPG or PNG allowed.';
+        status.textContent='Only image files allowed.';
         input.value='';
         return;
       }
@@ -1461,9 +2693,11 @@
       const cfg=RES[modalState.key];
       const payload={};
       document.querySelectorAll('#modalBody [data-key]').forEach(el=>{
-        const k=el.dataset.key;let v=el.value.trim();
+        const k=el.dataset.key;let v=el.type === 'checkbox' ? el.checked : el.value.trim();
         if(el.dataset.array){
           payload[k]=v?v.split(',').map(s=>s.trim()).filter(Boolean):[];
+        } else if(el.type==='checkbox'){
+          payload[k]=el.checked;
         } else if(el.type==='number'){
           payload[k]=v===''?undefined:Number(v);
         } else {
@@ -1478,6 +2712,17 @@
         if(!isNaN(lat)&&!isNaN(lng)){
           payload.map=Object.assign({},(modalState.existing&&modalState.existing.map)||{},{lat,lng});
         }
+      }
+      // Auto-generate slug if blank (blogs use title; others use name)
+      if(!payload.slug && (payload.title || payload.name)){
+        const base = payload.title || payload.name;
+        if(cfg.fields.some(f=>f.key==='slug')){
+          payload.slug = base.toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/^-+|-+$/g,'');
+        }
+      }
+      // Collect Show-On selection for any resource that uses the picker.
+      if(cfg.fields.some(f=>f.type==='showOn')){
+        payload.showOn = readShowOnValue();
       }
       const url=modalState.id?`${cfg.endpoint}/${modalState.id}`:cfg.endpoint;
       const method=modalState.id?'PUT':'POST';

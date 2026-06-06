@@ -5,7 +5,8 @@
 document.addEventListener('DOMContentLoaded', () => {
   const appContainer = document.getElementById('app');
 
-  function initRouter() {
+  async function initRouter() {
+    await loadBlogPosts();
     window.addEventListener('hashchange', handleRoute);
     handleRoute();
   }
@@ -25,6 +26,8 @@ document.addEventListener('DOMContentLoaded', () => {
         renderAllCategoriesPage();
       } else if (hash === '#/procedures') {
         renderAllProceduresPage();
+      } else if (hash === '#/blogs') {
+        renderBlogsPage();
       } else if (hash.startsWith('#/category/')) {
         const slug = hash.replace('#/category/', '');
         renderCategoryPage(slug);
@@ -40,6 +43,9 @@ document.addEventListener('DOMContentLoaded', () => {
       } else if (hash.startsWith('#/doctors/')) {
         const catSlug = hash.replace('#/doctors/', '');
         renderDoctorsListingPage(catSlug);
+      } else if (hash.startsWith('#/blog/')) {
+        const blogSlug = hash.replace('#/blog/', '');
+        renderBlogPage(blogSlug);
       } else {
         renderHomePage();
       }
@@ -58,12 +64,37 @@ document.addEventListener('DOMContentLoaded', () => {
     return cat ? (cat.icon || '') : '';
   }
 
+  function doctorAvatarHTML(doc, className) {
+    const name = (doc && doc.name ? doc.name : 'Doctor').replace(/"/g, '');
+    if (doc && doc.iconImage) {
+      return `<img src="${doctorImageUrl(doc.iconImage)}" alt="${name}" class="${className} doctor-avatar-img" onerror="this.style.display='none';this.nextElementSibling.style.display='flex'"><div class="${className} doctor-avatar-fallback" style="display:none">👨‍⚕️</div>`;
+    }
+    return `<div class="${className} doctor-avatar-fallback">👨‍⚕️</div>`;
+  }
+
+  function doctorImageUrl(rawUrl) {
+    const url = String(rawUrl || '').trim();
+    if (!url) return '';
+    if (/^(https?:|data:|blob:)/i.test(url)) return url;
+    if (url.startsWith('/uploads/')) return API_BASE.replace(/\/$/, '') + url;
+    if (url.startsWith('uploads/')) return API_BASE.replace(/\/$/, '') + '/' + url;
+    return url;
+  }
+
   function getDoctorCity(doctor) {
     return (doctor.location || '').split(',').pop().trim();
   }
 
   function getAvailableDoctorCities() {
     return [...new Set(DOCTORS.map(getDoctorCity).filter(Boolean))];
+  }
+
+  function getDoctarProfileUrl(doc) {
+    const city = (doc.location || '').split(',').pop().trim().toLowerCase().replace(/\s+/g, '-') || 'india';
+    const namePart = doc.name.replace(/^Dr\.?\s*/i, '').toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/-+$/, '');
+    const specPart = doc.specialty.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/-+$/, '');
+    const slug = `${namePart}-${specPart}-${city}`;
+    return `https://doctar.in/doctors/${city}/${slug}`;
   }
 
   function getCurrentCity() {
@@ -118,9 +149,595 @@ document.addEventListener('DOMContentLoaded', () => {
   }
 
   // =====================================================
+  // BLOG POSTS DATA (fetched from API, fallback to defaults)
+  // =====================================================
+  const BLOG_POSTS_FALLBACK = [
+    {
+      title: 'Thyroglossal Duct Cyst Excision Surgery in Deoghar',
+      slug: 'thyroglossal-duct-cyst-excision-surgery-in-deoghar',
+      category: 'Surgery',
+      createdAt: '2026-06-03',
+      thumbnail: 'images/service-general.png',
+      excerpt: 'Learn about thyroglossal duct cyst excision surgery, a common procedure to remove cysts at the base of the tongue.',
+      author: 'Doctar Editorial',
+    },
+    {
+      title: 'Excision of Branchial Cyst Surgery & Treatment in Deoghar',
+      slug: 'excision-of-branchial-cyst-surgery-treatment-in-deoghar',
+      category: 'Cyst Surgery',
+      createdAt: '2026-06-04',
+      thumbnail: 'images/service-cardiac.png',
+      excerpt: 'Comprehensive guide to branchial cyst excision — what to expect before, during, and after surgery.',
+      author: 'Doctar Editorial',
+    },
+    {
+      title: 'Best Mental Health Doctor Near Me in Kolkata for Expert Care',
+      slug: 'best-mental-health-doctor-near-me-in-kolkata',
+      category: 'Doctors & Specialists',
+      createdAt: '2026-05-29',
+      thumbnail: 'images/about-surgery.png',
+      excerpt: 'Find the best mental health specialists in Kolkata. Expert guidance on choosing the right psychiatrist or psychologist.',
+      author: 'Doctar Editorial',
+    },
+    {
+      title: 'Understanding Knee Replacement Surgery: A Complete Guide',
+      slug: 'understanding-knee-replacement-surgery',
+      category: 'Orthopedics',
+      createdAt: '2026-05-25',
+      thumbnail: 'images/service-neuro.png',
+      excerpt: 'Everything you need to know about knee replacement — indications, procedure, recovery timeline, and costs in India.',
+      author: 'Doctar Editorial',
+    },
+    {
+      title: 'Laparoscopic Gallbladder Surgery: Benefits & Recovery',
+      slug: 'laparoscopic-gallbladder-surgery-benefits',
+      category: 'General Surgery',
+      createdAt: '2026-05-22',
+      thumbnail: 'images/service-general.png',
+      excerpt: 'Laparoscopic cholecystectomy is the gold standard for gallstone treatment. Here is what the recovery looks like.',
+      author: 'Doctar Editorial',
+    },
+    {
+      title: 'Cataract Surgery Cost & Recovery Time in India',
+      slug: 'cataract-surgery-cost-recovery-india',
+      category: 'Ophthalmology',
+      createdAt: '2026-05-18',
+      thumbnail: 'images/service-cardiac.png',
+      excerpt: 'A detailed breakdown of cataract surgery costs, lens options, and what the recovery period looks like in India.',
+      author: 'Doctar Editorial',
+    },
+    {
+      title: 'Piles Treatment Without Surgery: Modern Laser Options',
+      slug: 'piles-treatment-without-surgery-laser',
+      category: 'Proctology',
+      createdAt: '2026-05-15',
+      thumbnail: 'images/about-surgery.png',
+      excerpt: 'Modern laser treatment for piles (haemorrhoids) offers a painless, day-care alternative to traditional surgery.',
+      author: 'Doctar Editorial',
+    },
+    {
+      title: 'Heart Bypass Surgery: When Is It Necessary?',
+      slug: 'heart-bypass-surgery-when-necessary',
+      category: 'Cardiology',
+      createdAt: '2026-05-10',
+      thumbnail: 'images/service-neuro.png',
+      excerpt: 'Understand what coronary artery bypass grafting (CABG) is, when it is recommended, and what recovery involves.',
+      author: 'Doctar Editorial',
+    }
+  ];
+
+  let BLOG_POSTS = [...BLOG_POSTS_FALLBACK];
+  let VIDEOS = [];
+  let SUBCATEGORIES = [];
+
+  function formatBlogDate(raw) {
+    if (!raw) return '';
+    const d = new Date(raw);
+    if (isNaN(d)) return raw;
+    return d.toLocaleDateString('en-IN', { year: 'numeric', month: 'long', day: 'numeric' });
+  }
+
+  // Fetch blog posts from the API; updates BLOG_POSTS in-place
+  async function loadBlogPosts() {
+    try {
+      const res = await fetch('/api/blogs?page=home');
+      const json = await res.json();
+      if (json.data && json.data.length > 0) {
+        const published = json.data.filter(b => b.published !== false);
+        if (published.length > 0) BLOG_POSTS = published;
+      }
+    } catch (e) {
+      console.log('Blog API unavailable, using fallback data');
+    }
+  }
+
+  async function fetchBlogsForPage(pageKey) {
+    try {
+      const res = await fetch('/api/blogs?page=' + encodeURIComponent(pageKey));
+      const json = await res.json();
+      const blogs = (json.data || []).filter(b => b.published !== false);
+      return blogs.length ? blogs : BLOG_POSTS;
+    } catch (e) {
+      return BLOG_POSTS;
+    }
+  }
+
+  // Fetch videos for a specific page context.
+  // pageKey: 'home' | 'doctor-[slug]' | 'category-[slug]'
+  async function fetchVideosForPage(pageKey) {
+    try {
+      const res = await fetch('/api/videos?page=' + encodeURIComponent(pageKey));
+      const json = await res.json();
+      return json.data || [];
+    } catch (e) {
+      return [];
+    }
+  }
+
+  // Derive YouTube embed URL from a watch/shorts URL
+  function getYouTubeEmbedUrl(url) {
+    let id = '';
+    try {
+      const u = new URL(url);
+      if (u.hostname.includes('youtu.be')) {
+        id = u.pathname.slice(1);
+      } else {
+        id = u.searchParams.get('v') || u.pathname.split('/').pop();
+      }
+    } catch (e) { id = ''; }
+    return id ? `https://www.youtube-nocookie.com/embed/${id}?autoplay=0&modestbranding=1&rel=0&showinfo=0&playsinline=1&controls=1` : '';
+  }
+
+
+  // =============================================
+  // PATIENT STORIES (Reels) section
+  // =============================================
+  function generateReelsSectionHTML(uniqueId, videos, opts) {
+    opts = opts || {};
+    const reels = (videos || VIDEOS).filter(v => v.type === 'reel');
+    if (!reels.length) return '';
+    const id = uniqueId || 'home';
+    const eyebrow = opts.eyebrow || 'PATIENT STORIES';
+    const heading = opts.title || 'Real Stories, Real Results';
+    const cards = reels.map(v => {
+      let mediaContent = v.embed_code || '';
+      if (v.platform === 'youtube' && v.video_url) {
+        const embedUrl = getYouTubeEmbedUrl(v.video_url);
+        if (embedUrl) {
+          mediaContent = `<iframe src="${embedUrl}" frameborder="0" allowfullscreen allow="autoplay; encrypted-media" style="display:block;width:100%;height:100%;border-radius:18px 18px 0 0;border:none;"></iframe>`;
+        }
+      }
+      return `
+        <div class="reel-card">
+          <div class="reel-media">
+            ${mediaContent}
+          </div>
+          <div class="reel-footer">
+            <span class="reel-doctor">${v.doctor_name}</span>
+            <span class="reel-specialty">${v.specialty}</span>
+          </div>
+        </div>
+      `;
+    }).join('');
+    return `
+      <section class="reels-section" id="reels-section-${id}">
+        <div class="container">
+          <div class="section-eyebrow"><span class="eyebrow-dot"></span> ${eyebrow}</div>
+          <h2 class="section-heading">${heading}</h2>
+          ${opts.subtitle ? `<p class="section-subheading">${opts.subtitle}</p>` : ''}
+          <div class="reels-scroll-row">${cards}</div>
+        </div>
+      </section>
+    `;
+  }
+
+
+
+  // =============================================
+  // EXPERT HEALTH TIPS (Landscape Videos) section
+  // =============================================
+  function generateLandscapeSectionHTML(uniqueId, videos, opts) {
+    opts = opts || {};
+    const vids = (videos || VIDEOS).filter(v => v.type === 'landscape');
+    if (!vids.length) return '';
+    const eyebrow = opts.eyebrow || 'EXPERT HEALTH TIPS';
+    const heading = opts.title || 'Learn from Our Specialists';
+    const cards = vids.slice(0, 3).map(v => {
+      let mediaContent = v.embed_code || '';
+      if (v.platform === 'youtube' && v.video_url) {
+        const embedUrl = getYouTubeEmbedUrl(v.video_url);
+        if (embedUrl) {
+          mediaContent = `<iframe src="${embedUrl}" frameborder="0" allowfullscreen allow="autoplay; encrypted-media" style="display:block;width:100%;height:100%;border-radius:16px 16px 0 0;border:none;"></iframe>`;
+        }
+      }
+      return `
+        <div class="lv-card">
+          <div class="lv-media">
+            ${mediaContent}
+          </div>
+          <div class="lv-body">
+            <h3 class="lv-title">${v.title}</h3>
+            <div class="lv-meta">
+              <span class="lv-doctor"><i class="fa-solid fa-user-doctor"></i> ${v.doctor_name}</span>
+              <span class="lv-spec">${v.specialty}</span>
+            </div>
+          </div>
+        </div>
+      `;
+    }).join('');
+    return `
+      <section class="landscape-section" id="lv-section-${uniqueId || 'home'}">
+        <div class="container">
+          <div class="section-eyebrow"><span class="eyebrow-dot"></span> ${eyebrow}</div>
+          <h2 class="section-heading">${heading}</h2>
+          ${opts.subtitle ? `<p class="section-subheading">${opts.subtitle}</p>` : ''}
+          <div class="lv-grid">${cards}</div>
+        </div>
+      </section>
+    `;
+  }
+
+  // =============================================
+  // Reusable PATIENT REVIEWS section (3 cards) — same design as homepage
+  // =============================================
+  const PATIENT_REVIEWS_DATA = [
+    {
+      name: 'Riya Sharma', city: 'Kolkata',
+      consultation: 'Orthopedics Consultation', hospital: 'Apollo Hospitals',
+      review: 'Booking through Doctar was incredibly smooth. The hospital information was transparent and the doctor consultation was scheduled within minutes.'
+    },
+    {
+      name: 'Arjun Banerjee', city: 'Kolkata',
+      consultation: 'Cardiology Consultation', hospital: 'Fortis Hospital',
+      review: 'The entire process from finding a specialist to treatment was seamless. Highly recommended.'
+    },
+    {
+      name: 'Priya Das', city: 'Kolkata',
+      consultation: 'Gynecology Consultation', hospital: 'AMRI Hospital',
+      review: 'Very easy appointment booking and excellent follow-up support after treatment.'
+    },
+  ];
+
+  function generatePatientReviewsHTML() {
+    const reviews = PATIENT_REVIEWS_DATA;
+    return `
+      <section class="pr-section" id="patient-reviews">
+        <div class="container pr-inner">
+          <div class="pr-header pr-fade-in">
+            <div class="pr-eyebrow"><i class="fa-solid fa-users"></i> Patient Reviews</div>
+            <h2 class="pr-title">Trusted by Thousands of Patients</h2>
+            <p class="pr-subtitle">Real experiences from patients who booked consultations, treatments, diagnostics, and healthcare services through <strong>Doctar.</strong></p>
+          </div>
+
+          <div class="pr-reviews-wrap">
+            <button class="pr-nav-btn pr-nav-prev" id="pr-prev" aria-label="Previous review">
+              <i class="fa-solid fa-chevron-left"></i>
+            </button>
+            <div class="pr-reviews-viewport" id="pr-reviews-viewport">
+              <div class="pr-reviews-track" id="pr-reviews-track">
+                ${reviews.map(r => `
+                <div class="pr-review-card" style="background:#fff; border:1.5px solid #ECE6FF; border-radius:22px; padding:26px 24px; display:flex; flex-direction:column; gap:14px; box-shadow:0 2px 18px rgba(94, 64, 145,0.07); transition:transform 0.25s, box-shadow 0.25s;" onmouseenter="this.style.transform='translateY(-5px)';this.style.boxShadow='0 14px 40px rgba(94, 64, 145,0.14)'" onmouseleave="this.style.transform='';this.style.boxShadow='0 2px 18px rgba(94, 64, 145,0.07)'">
+                  <div style="display:flex; justify-content:space-between; align-items:center;">
+                    <span style="display:inline-flex; align-items:center; gap:6px; background:#f0ebff; color:#5e4091; border-radius:999px; padding:5px 13px; font-size:0.73rem; font-weight:700;">
+                      <i class="fa-solid fa-circle-check"></i> Verified Patient
+                    </span>
+                    <i class="fa-solid fa-quote-left" style="color:#d8d0f7; font-size:1.4rem;"></i>
+                  </div>
+                  <div style="display:flex; align-items:center; gap:14px;">
+                    <div style="width:50px; height:50px; min-width:50px; border-radius:50%; background:linear-gradient(135deg,#5e4091,#5e4091); display:flex; align-items:center; justify-content:center; color:#fff; font-size:1rem; font-weight:700; box-shadow:0 2px 10px rgba(94, 64, 145,0.25);">
+                      ${r.name.split(' ').map(w=>w[0]).join('').slice(0,2)}
+                    </div>
+                    <div>
+                      <div style="font-size:1rem; font-weight:700; color:#111827; margin-bottom:3px;">${r.name}</div>
+                      <div style="color:#fbbf24; font-size:0.9rem; letter-spacing:2px;">★★★★★</div>
+                    </div>
+                  </div>
+                  <p style="font-size:0.9rem; color:#374151; line-height:1.75; margin:0; flex:1;">${r.review}</p>
+                  <div style="border-top:1px solid #f3f0fb; padding-top:14px; display:flex; flex-direction:column; gap:6px;">
+                    <div style="display:flex; flex-wrap:wrap; gap:12px;">
+                      <span style="display:inline-flex; align-items:center; gap:5px; font-size:0.77rem; color:#6b7280; font-weight:500;"><i class="fa-solid fa-stethoscope" style="color:#5e4091;"></i> ${r.consultation}</span>
+                      <span style="display:inline-flex; align-items:center; gap:5px; font-size:0.77rem; color:#6b7280; font-weight:500;"><i class="fa-solid fa-hospital" style="color:#5e4091;"></i> ${r.hospital}</span>
+                    </div>
+                    <span style="display:inline-flex; align-items:center; gap:5px; font-size:0.77rem; color:#6b7280; font-weight:500;"><i class="fa-solid fa-location-dot" style="color:#5e4091;"></i> ${r.city}</span>
+                  </div>
+                </div>`).join('')}
+              </div>
+            </div>
+            <button class="pr-nav-btn pr-nav-next" id="pr-next" aria-label="Next review">
+              <i class="fa-solid fa-chevron-right"></i>
+            </button>
+          </div>
+
+          <div class="pr-dots">
+            ${reviews.map((_, i) => `<button class="pr-dot${i === 0 ? ' active' : ''}" data-slide="${i}"></button>`).join('')}
+          </div>
+        </div>
+      </section>
+    `;
+  }
+
+  // FAQ questions for a doctor specialty/category listing page
+  function doctorListingFAQs(specialty) {
+    const s = specialty || 'specialist';
+    return [
+      { q: `How do I find the best ${s} doctor near me?`, a: `Browse our list of verified ${s} doctors above. You can filter by rating, consultation fee, experience and availability to find the best match in your city, then book a free consultation in a few clicks.` },
+      { q: `What is the consultation fee for a ${s} doctor?`, a: `Consultation fees vary by doctor and are clearly shown on each doctor's card above. Many of our ${s} specialists offer your first consultation free of charge.` },
+      { q: `Is the first consultation free?`, a: `Yes. Your first consultation with our ${s} specialists is completely free. You can discuss your condition, explore treatment options, and get a personalised care plan at no cost.` },
+      { q: `How do I book an appointment?`, a: `Click the "Book Appointment" button on any doctor's card, fill in your details, and our care coordinator will call you within 2 hours to confirm. You can also call our 24/7 helpline at +91-8877772277.` },
+      { q: `Is insurance covered?`, a: `Yes. We accept all major health insurance providers and our dedicated insurance team handles the paperwork and claims processing for a cashless, hassle-free experience.` },
+    ];
+  }
+
+
+
+  // Generate Blog Section HTML
+  function generateBlogSectionHTML(uniqueId, posts) {
+    const id = uniqueId || 'home';
+    const blogPosts = Array.isArray(posts) && posts.length ? posts : BLOG_POSTS;
+    return `
+      <section class="blog-section" id="blog-section-${id}">
+        <div class="container blog-inner">
+          <div class="blog-header">
+            <div class="blog-header-left">
+              <div class="blog-eyebrow"><span class="blog-eyebrow-dot"></span> KNOWLEDGE BASE</div>
+              <h2 class="blog-title">Latest Medical Blogs</h2>
+            </div>
+            <div class="blog-header-right">
+              <a href="#/blogs" class="blog-explore-link">
+                EXPLORE ALL POSTS <i class="fa-solid fa-arrow-right"></i>
+              </a>
+              <div class="blog-nav-arrows">
+                <button class="blog-nav-btn" id="blog-prev-${id}" aria-label="Previous blog">
+                  <i class="fa-solid fa-chevron-left"></i>
+                </button>
+                <button class="blog-nav-btn" id="blog-next-${id}" aria-label="Next blog">
+                  <i class="fa-solid fa-chevron-right"></i>
+                </button>
+              </div>
+            </div>
+          </div>
+          <div class="blog-carousel-wrap">
+            <div class="blog-track" id="blog-track-${id}">
+              ${blogPosts.map(post => `
+                <a href="#/blog/${post.slug}" class="blog-card">
+                  <div class="blog-card-media">
+                    <img src="${post.thumbnail || post.image || 'images/service-general.png'}" alt="${post.title}" onerror="this.src='images/service-general.png'">
+                    <span class="blog-card-category">${post.category}</span>
+                  </div>
+                  <div class="blog-card-body">
+                    <span class="blog-card-date">${formatBlogDate(post.createdAt || post.date)}</span>
+                    <h3 class="blog-card-title">${post.title}</h3>
+                    <span class="blog-card-readmore">READ MORE <i class="fa-solid fa-chevron-right"></i></span>
+                  </div>
+                </a>
+              `).join('')}
+            </div>
+          </div>
+        </div>
+      </section>
+    `;
+  }
+
+  // Generate FAQ Section HTML (reusable)
+  function generateFAQSectionHTML(faqs, title, subtitle) {
+    title = title || 'Frequently Asked Questions';
+    subtitle = subtitle || 'Everything you need to know about booking surgery and consultations through Doctar.';
+    return `
+      <section class="faq-section" id="faq">
+        <div class="container faq-inner">
+          <div class="faq-header">
+            <div class="faq-eyebrow"><i class="fa-solid fa-circle-question"></i> FAQs</div>
+            <h2 class="faq-title">${title}</h2>
+            <p class="faq-subtitle">${subtitle}</p>
+          </div>
+          <div class="faq-list">
+            ${faqs.map((faq, i) => `
+              <div class="faq-item${i === 0 ? ' open' : ''}" onclick="this.classList.toggle('open')">
+                <div class="faq-q">
+                  <span>${faq.q}</span>
+                  <i class="fa-solid fa-chevron-down faq-chevron"></i>
+                </div>
+                <div class="faq-a"><p>${faq.a}</p></div>
+              </div>
+            `).join('')}
+          </div>
+        </div>
+      </section>
+    `;
+  }
+
+  // =============================================
+  // BLOG POST PAGE
+  // =============================================
+  async function renderBlogPage(slug) {
+    // Try to find in already-loaded data first; otherwise fetch
+    let post = BLOG_POSTS.find(b => b.slug === slug);
+    if (!post) {
+      try {
+        const res = await fetch('/api/blogs');
+        const json = await res.json();
+        post = (json.data || []).find(b => b.slug === slug);
+      } catch (e) { /* ignore */ }
+    }
+    if (!post) {
+      appContainer.innerHTML = `
+        <div class="container" style="padding:80px 20px;text-align:center;">
+          <h2>Blog post not found.</h2>
+          <a href="#/" style="color:#5e4091;font-weight:700;">← Back to Home</a>
+        </div>`;
+      return;
+    }
+
+    const thumb = post.thumbnail || post.image || 'images/service-general.png';
+    const date = formatBlogDate(post.createdAt || post.date);
+    const author = post.author || 'Doctar Editorial';
+    const tags = Array.isArray(post.tags) ? post.tags : (post.tags ? post.tags.split(',').map(t => t.trim()) : []);
+    const rawContent = post.content || '';
+    // Explicit contentType wins; fall back to legacy "<"-detection for old posts.
+    const isHTML = post.contentType
+      ? post.contentType === 'html'
+      : rawContent.includes('<');
+    const contentHTML = isHTML
+      ? rawContent
+      : rawContent
+        .split('\n\n')
+        .filter(p => p.trim())
+        .map(p => `<p>${p.trim().replace(/\n/g, '<br>')}</p>`)
+        .join('') || `<p>${post.excerpt || 'No content available yet.'}</p>`;
+    const relatedBlogs = BLOG_POSTS
+      .filter(item => item.slug !== post.slug && item.published !== false)
+      .slice(0, 3);
+
+    // HTML mode → render the raw HTML full-width between header & footer,
+    // with NO blog chrome (no cover, title, meta, breadcrumb, related, etc).
+    if (isHTML) {
+      appContainer.innerHTML = `<div class="blog-html-full">${rawContent}</div>`;
+      window.scrollTo(0, 0);
+      return;
+    }
+
+    appContainer.innerHTML = `
+      <div class="blog-page">
+        <div class="container blog-page-inner">
+          <!-- Breadcrumb -->
+          <nav class="blog-breadcrumb">
+            <a href="#/">Home</a>
+            <i class="fa-solid fa-chevron-right"></i>
+            <a href="#/blogs">Blog</a>
+            <i class="fa-solid fa-chevron-right"></i>
+            <span>${post.title}</span>
+          </nav>
+
+          <article class="blog-article">
+            <!-- Header -->
+            <header class="blog-article-header">
+              <span class="blog-article-cat">${post.category}</span>
+              <h1 class="blog-article-title">${post.title}</h1>
+              <div class="blog-article-meta">
+                <span><i class="fa-solid fa-user-pen"></i> ${author}</span>
+                <span><i class="fa-solid fa-calendar"></i> ${date}</span>
+                ${tags.length ? `<span><i class="fa-solid fa-tags"></i> ${tags.join(', ')}</span>` : ''}
+              </div>
+            </header>
+
+            <!-- Thumbnail -->
+            <div class="blog-article-cover">
+              <img src="${thumb}" alt="${post.title}" onerror="this.src='images/service-general.png'">
+            </div>
+
+            <!-- Excerpt lead -->
+            ${post.excerpt ? `<p class="blog-article-lead">${post.excerpt}</p>` : ''}
+
+            <!-- Body content -->
+            <div class="blog-article-body">${contentHTML}</div>
+
+            <!-- Tags -->
+            ${tags.length ? `
+              <div class="blog-article-tags">
+                ${tags.map(t => `<span class="blog-tag">${t}</span>`).join('')}
+              </div>` : ''}
+          </article>
+
+          ${relatedBlogs.length ? `
+            <section class="blog-related-section">
+              <div class="blog-header" style="margin-bottom:20px;">
+                <div class="blog-header-left">
+                  <div class="blog-eyebrow"><span class="blog-eyebrow-dot"></span> RELATED READS</div>
+                  <h2 class="blog-title">Related Blogs</h2>
+                </div>
+              </div>
+              <div class="blog-related-grid">
+                ${relatedBlogs.map(item => `
+                  <a href="#/blog/${item.slug}" class="blog-card">
+                    <div class="blog-card-media">
+                      <img src="${item.thumbnail || item.image || 'images/service-general.png'}" alt="${item.title}" onerror="this.src='images/service-general.png'">
+                      <span class="blog-card-category">${item.category}</span>
+                    </div>
+                    <div class="blog-card-body">
+                      <span class="blog-card-date">${formatBlogDate(item.createdAt || item.date)}</span>
+                      <h3 class="blog-card-title">${item.title}</h3>
+                      <span class="blog-card-readmore">READ MORE <i class="fa-solid fa-chevron-right"></i></span>
+                    </div>
+                  </a>
+                `).join('')}
+              </div>
+            </section>
+          ` : ''}
+
+          <!-- Back link -->
+          <div style="margin-top:40px;">
+            <a href="#/" class="btn-back-blog"><i class="fa-solid fa-arrow-left"></i> Back to Home</a>
+          </div>
+        </div>
+      </div>
+    `;
+  }
+
+  function renderBlogsPage() {
+    const posts = BLOG_POSTS.filter(post => post.published !== false);
+    appContainer.innerHTML = `
+      <section class="all-cat-hero">
+        <div class="container all-cat-hero-inner">
+          <div class="breadcrumb" style="margin-bottom: 20px;">
+            <a href="#/">Home</a> <span>›</span>
+            <span>Blogs</span>
+          </div>
+          <div class="all-cat-eyebrow"><i class="fa-solid fa-newspaper"></i> Medical Blogs</div>
+          <h1 class="all-cat-title">Latest <span>Medical Blogs</span></h1>
+          <p class="all-cat-sub">Helpful guides written by surgeons and care experts to help you prepare for treatment and recovery.</p>
+        </div>
+      </section>
+      <section class="blog-section">
+        <div class="container blog-inner">
+          <div class="blog-related-grid">
+            ${posts.map(post => `
+              <a href="#/blog/${post.slug}" class="blog-card">
+                <div class="blog-card-media">
+                  <img src="${post.thumbnail || post.image || 'images/service-general.png'}" alt="${post.title}" onerror="this.src='images/service-general.png'">
+                  <span class="blog-card-category">${post.category}</span>
+                </div>
+                <div class="blog-card-body">
+                  <span class="blog-card-date">${formatBlogDate(post.createdAt || post.date)}</span>
+                  <h3 class="blog-card-title">${post.title}</h3>
+                  <span class="blog-card-readmore">READ MORE <i class="fa-solid fa-chevron-right"></i></span>
+                </div>
+              </a>
+            `).join('')}
+          </div>
+        </div>
+      </section>
+    `;
+  }
+
+  // Initialize blog carousel by ID
+  function initBlogCarousel(uniqueId) {
+    const id = uniqueId || 'home';
+    const track = document.getElementById('blog-track-' + id);
+    const prevBtn = document.getElementById('blog-prev-' + id);
+    const nextBtn = document.getElementById('blog-next-' + id);
+    if (!track || !prevBtn || !nextBtn) return;
+
+    let scrollPos = 0;
+    const cardWidth = track.querySelector('.blog-card')?.offsetWidth || 280;
+    const gap = 24;
+    const step = cardWidth + gap;
+    const maxScroll = Math.max(0, track.scrollWidth - track.parentElement.offsetWidth);
+
+    prevBtn.addEventListener('click', () => {
+      scrollPos = Math.max(0, scrollPos - step);
+      track.style.transform = 'translateX(-' + scrollPos + 'px)';
+    });
+
+    nextBtn.addEventListener('click', () => {
+      scrollPos = Math.min(maxScroll, scrollPos + step);
+      track.style.transform = 'translateX(-' + scrollPos + 'px)';
+    });
+  }
+
+  // =====================================================
   // RENDER HOMEPAGE
   // =====================================================
-  function renderHomePage() {
+  async function renderHomePage() {
     const treatmentShowcase = [
       { title: 'Orthopedics', slug: 'orthopedics', image: 'images/service-general.png', icon: 'fa-solid fa-bone', tags: ['Knee', 'Hip', 'Spine'], treatmentCount: 18, color: '#7c3aed' },
       { title: 'Cardiology', slug: 'cardiology', image: 'images/service-cardiac.png', icon: 'fa-solid fa-heart-pulse', tags: ['Angioplasty', 'Bypass', 'Valve'], treatmentCount: 14, color: '#e85d8f' },
@@ -154,6 +771,8 @@ document.addEventListener('DOMContentLoaded', () => {
     ];
 
     window.popularProcedures = popularProcedures;
+    const pageVideos = await fetchVideosForPage('home');
+    const pageBlogs = await fetchBlogsForPage('home');
     const currentCity = getCurrentCity();
     const homeDoctors = getDoctorsForCity(currentCity);
     const isCitySpecific = homeDoctors.some(doc =>
@@ -277,10 +896,18 @@ ${treatmentTrust.map(item => `
           <!-- Carousel track -->
           <div class="tb-carousel-wrap">
             <div class="tb-track" id="tb-track">
-${treatmentShowcase.map(item => `
+${treatmentShowcase.map(item => {
+              // Prefer the admin-uploaded category cover image; fall back to the bundled
+              // placeholder, then to a colored gradient + emoji/icon if neither exists.
+              const liveCat = (typeof findCategory === 'function') ? findCategory(item.slug) : null;
+              const coverImg = (liveCat && liveCat.image) ? liveCat.image : item.image;
+              const visual = coverImg
+                ? `<img src="${coverImg}" alt="${item.title}" onerror="this.onerror=null;this.src='${item.image}'">`
+                : `<div class="treatment-visual-fallback" style="background:linear-gradient(135deg, ${item.color}, ${item.color}cc);"><i class="${item.icon}"></i></div>`;
+              return `
               <a href="#/category/${item.slug}" class="treatment-showcase-card tb-card" style="--card-accent: ${item.color};">
                 <div class="treatment-visual">
-                  <img src="${item.image}" alt="${item.title}">
+                  ${visual}
                 </div>
                 <div class="treatment-content">
                   <h3>${item.title}</h3>
@@ -288,8 +915,8 @@ ${treatmentShowcase.map(item => `
                   <div class="treatment-pill">${item.treatmentCount} Treatments</div>
                   <div class="treatment-explore">Explore <span>→</span></div>
                 </div>
-              </a>
-`).join('')}
+              </a>`;
+            }).join('')}
             </div>
           </div>
 
@@ -330,13 +957,12 @@ ${treatmentShowcase.map(item => `
             <div class="tb-track" id="ds-track">
 ${homeDoctors.slice(0, 8).map(doc => `
               <div class="ds-doc-card tb-card" onclick="window.location.hash='#/doctor/${doc.slug}'">
-                <!-- TOP: photo + name + specialty + rating -->
-                <div class="ds-card-top">
-                  <div class="ds-photo-wrap">
-                    <img src="${doc.image}" alt="${doc.name}" class="ds-photo" onerror="this.style.display='none'; this.nextElementSibling.style.display='flex'">
-                    <div class="ds-photo-fallback" style="display:none">👨‍⚕️</div>
-                    <img src="home screen section/verified.png" class="ds-verified" alt="verified">
-                  </div>
+	                <!-- TOP: photo + name + specialty + rating -->
+	                <div class="ds-card-top">
+	                  <div class="ds-photo-wrap">
+	                    ${doctorAvatarHTML(doc, 'ds-photo')}
+	                    <img src="home screen section/verified.png" class="ds-verified" alt="verified">
+	                  </div>
                   <div class="ds-top-info">
                     <h3 class="ds-doc-name">${doc.name}</h3>
                     <p class="ds-specialty">${doc.specialty}</p>
@@ -380,7 +1006,7 @@ ${homeDoctors.slice(0, 8).map(doc => `
                 <!-- BOTTOM: buttons -->
                 <div class="ds-card-actions">
                   <button class="ds-btn-profile" onclick="window.location.hash='#/doctor/${doc.slug}'">View Profile</button>
-                  <button class="ds-btn-book" onclick="window.location.hash='#/doctor/${doc.slug}'">
+                  <button class="ds-btn-book" onclick="window.openBookingModal('${doc.name}','${doc.hospital}','${doc.slug}')">
                     <img src="home screen section/Icon.png" alt="" class="ds-btn-icon"> Book Appointment
                   </button>
                 </div>
@@ -728,34 +1354,24 @@ ${homeDoctors.slice(0, 8).map(doc => `
         </div>
       </section>
 
+      <!-- LATEST MEDICAL BLOGS -->
+      ${generateBlogSectionHTML('home', pageBlogs)}
+
+      <!-- PATIENT STORIES (Reels) -->
+      ${generateReelsSectionHTML('home', pageVideos)}
+
+      <!-- EXPERT HEALTH TIPS (Landscape) -->
+      ${generateLandscapeSectionHTML('home', pageVideos)}
+
       <!-- FAQ SECTION -->
-      <section class="faq-section" id="faq">
-        <div class="container faq-inner">
-          <div class="faq-header">
-            <div class="faq-eyebrow"><i class="fa-solid fa-circle-question"></i> FAQs</div>
-            <h2 class="faq-title">Frequently Asked Questions</h2>
-            <p class="faq-subtitle">Everything you need to know about booking surgery and consultations through Doctar.</p>
-          </div>
-          <div class="faq-list">
-            ${[
-              { q: 'How do I book a surgery or consultation through Doctar?', a: 'Simply search for your condition or speciality, choose a verified surgeon, and click "Book Appointment". You can also call our 24/7 helpline at +91-8877772277 and our care coordinator will guide you through the entire process.' },
-              { q: 'Is the first consultation really free?', a: 'Yes. Your first consultation with our expert surgeons is completely free. You can discuss your condition, explore treatment options, and get a personalised care plan at no cost.' },
-              { q: 'Do you accept health insurance?', a: 'We accept all major health insurance providers. Our dedicated insurance team handles all the paperwork and claims processing, making it a cashless and hassle-free experience.' },
-              { q: 'What is the No Cost EMI option?', a: 'We offer No Cost EMI plans starting from ₹0 down payment. You can spread your surgery cost over 3 to 24 months at zero interest through our banking partners.' },
-              { q: 'Do you provide free cab service?', a: 'Yes. We provide free cab pick-up and drop service from your home to the hospital and back on the day of your surgery.' },
-              { q: 'How experienced are the surgeons on Doctar?', a: 'All our surgeons are board-certified with a minimum of 10 years of experience and are trained in the latest minimally invasive and laser techniques.' },
-            ].map((faq, i) => `
-              <div class="faq-item${i === 0 ? ' open' : ''}" onclick="this.classList.toggle('open')">
-                <div class="faq-q">
-                  <span>${faq.q}</span>
-                  <i class="fa-solid fa-chevron-down faq-chevron"></i>
-                </div>
-                <div class="faq-a"><p>${faq.a}</p></div>
-              </div>
-            `).join('')}
-          </div>
-        </div>
-      </section>
+      ${generateFAQSectionHTML([
+        { q: 'How do I book a surgery or consultation through Doctar?', a: 'Simply search for your condition or speciality, choose a verified surgeon, and click "Book Appointment". You can also call our 24/7 helpline at +91-8877772277 and our care coordinator will guide you through the entire process.' },
+        { q: 'Is the first consultation really free?', a: 'Yes. Your first consultation with our expert surgeons is completely free. You can discuss your condition, explore treatment options, and get a personalised care plan at no cost.' },
+        { q: 'Do you accept health insurance?', a: 'We accept all major health insurance providers. Our dedicated insurance team handles all the paperwork and claims processing, making it a cashless and hassle-free experience.' },
+        { q: 'What is the No Cost EMI option?', a: 'We offer No Cost EMI plans starting from ₹0 down payment. You can spread your surgery cost over 3 to 24 months at zero interest through our banking partners.' },
+        { q: 'Do you provide free cab service?', a: 'Yes. We provide free cab pick-up and drop service from your home to the hospital and back on the day of your surgery.' },
+        { q: 'How experienced are the surgeons on Doctar?', a: 'All our surgeons are board-certified with a minimum of 10 years of experience and are trained in the latest minimally invasive and laser techniques.' },
+      ])}
     `;
 
     appContainer.innerHTML = html;
@@ -765,6 +1381,7 @@ ${homeDoctors.slice(0, 8).map(doc => `
     initHospitalMapHover();
     initFeaturedHospitalMap(featuredHospitals, currentCity);
     initPatientReviews();
+    initBlogCarousel('home');
   }
 
   function initPatientReviews() {
@@ -1041,10 +1658,12 @@ ${homeDoctors.slice(0, 8).map(doc => `
         </div>
         <div class="all-cat-main-grid">
           ${CATEGORIES.map(cat => `
-            <a href="#/category/${cat.slug}" class="all-cat-card" style="--acc: ${cat.color}; --acc-light: ${cat.colorLight};">
-              <div class="acc-icon-wrap" style="background: ${cat.colorLight}; color: ${cat.color};">
+            <a href="#/category/${cat.slug}" class="all-cat-card${cat.image ? ' has-cover' : ''}" style="--acc: ${cat.color}; --acc-light: ${cat.colorLight};">
+              ${cat.image
+                ? `<div class="acc-cover"><img src="${cat.image}" alt="${cat.name}" onerror="this.closest('.acc-cover').style.display='none'"></div>`
+                : `<div class="acc-icon-wrap" style="background: ${cat.colorLight}; color: ${cat.color};">
                 <span class="acc-emoji">${catIcon(cat, 32)}</span>
-              </div>
+              </div>`}
               <div class="acc-body">
                 <h3 class="acc-name">${cat.name}</h3>
                 <p class="acc-desc">${cat.description}</p>
@@ -1294,11 +1913,63 @@ ${homeDoctors.slice(0, 8).map(doc => `
   // =====================================================
   // RENDER CATEGORY PAGE
   // =====================================================
-  function renderCategoryPage(slug) {
+  async function renderCategoryPage(slug) {
     const category = findCategory(slug);
     if (!category) { handleRoute(); return; }
     const treatments = TREATMENTS[slug] || [];
     const relatedDoctors = getDoctorsForCategory(slug).slice(0, 3);
+    const pageVideos = await fetchVideosForPage('category-' + slug);
+    const pageBlogs = await fetchBlogsForPage('category-' + slug);
+
+    // Single treatment card renderer (reused for grouped + flat layouts)
+    const treatmentCardHTML = (t) => `
+      <a href="#/treatment/${t.slug}" class="cat-treatment-card" style="--card-color: ${category.color}; --card-light: ${category.colorLight};">
+        <div class="ctc-top">
+          <div class="ctc-icon" style="background: ${category.colorLight}; color: ${category.color};">
+            ${catIcon(category, 28)}
+          </div>
+          <div class="ctc-badge" style="color: ${category.color};">${category.name}</div>
+        </div>
+        <h3 class="ctc-name">${t.name}</h3>
+        <p class="ctc-brief">${t.brief || ''}</p>
+        <div class="ctc-meta">
+          <span><i class="fa-regular fa-clock"></i> ${t.recovery || '—'}</span>
+          <span><i class="fa-solid fa-indian-rupee-sign"></i> ${t.costRange || '—'}</span>
+        </div>
+        <div class="ctc-cta" style="background: ${category.color};">View Details &nbsp;→</div>
+      </a>`;
+
+    // Group treatments under their sub-categories; ungrouped → "General".
+    const catSubcats = SUBCATEGORIES
+      .filter(sc => sc.categorySlug === slug)
+      .sort((a, b) => (a.order || 0) - (b.order || 0));
+
+    let groupedTreatmentsHTML;
+    if (catSubcats.length) {
+      const usedSlugs = new Set();
+      const groups = [];
+      catSubcats.forEach(sc => {
+        const items = treatments.filter(t => t.subCategorySlug === sc.slug);
+        items.forEach(t => usedSlugs.add(t.slug));
+        if (items.length) groups.push({ name: sc.name, icon: sc.icon || '', items });
+      });
+      const leftovers = treatments.filter(t => !usedSlugs.has(t.slug));
+      if (leftovers.length) groups.push({ name: 'General', icon: '', items: leftovers });
+
+      groupedTreatmentsHTML = groups.map(g => `
+        <div class="cat-subgroup">
+          <h3 class="cat-subgroup-title">${g.icon ? g.icon + ' ' : ''}${g.name}
+            <span class="cat-count-badge">${g.items.length}</span>
+          </h3>
+          <div class="cat-treatments-grid">
+            ${g.items.map(treatmentCardHTML).join('')}
+          </div>
+        </div>
+      `).join('');
+    } else {
+      // No sub-categories defined → original flat grid
+      groupedTreatmentsHTML = `<div class="cat-treatments-grid">${treatments.map(treatmentCardHTML).join('')}</div>`;
+    }
 
     let html = `
       <!-- CATEGORY HERO BANNER -->
@@ -1342,41 +2013,42 @@ ${homeDoctors.slice(0, 8).map(doc => `
           <p>Click any treatment to see full details, cost, and book a free consultation.</p>
         </div>
 
-        <div class="cat-treatments-grid">
-          ${treatments.map((t, i) => `
-            <a href="#/treatment/${t.slug}" class="cat-treatment-card" style="--card-color: ${category.color}; --card-light: ${category.colorLight};">
-              <div class="ctc-top">
-                <div class="ctc-icon" style="background: ${category.colorLight}; color: ${category.color};">
-                  ${catIcon(category, 28)}
-                </div>
-                <div class="ctc-badge" style="color: ${category.color};">${category.name}</div>
-              </div>
-              <h3 class="ctc-name">${t.name}</h3>
-              <p class="ctc-brief">${t.brief}</p>
-              <div class="ctc-meta">
-                <span><i class="fa-regular fa-clock"></i> ${t.recovery}</span>
-                <span><i class="fa-solid fa-indian-rupee-sign"></i> ${t.costRange}</span>
-              </div>
-              <div class="ctc-cta" style="background: ${category.color};">
-                View Details &nbsp;→
-              </div>
-            </a>
-          `).join('')}
-        </div>
+        ${groupedTreatmentsHTML}
       </div>
+
+      <!-- LATEST MEDICAL BLOGS -->
+      ${generateBlogSectionHTML('cat-' + slug, pageBlogs)}
+
+      <!-- PATIENT STORIES (Reels) -->
+      ${generateReelsSectionHTML('cat-' + slug, pageVideos)}
+
+      <!-- EXPERT HEALTH TIPS (Landscape) -->
+      ${generateLandscapeSectionHTML('cat-' + slug, pageVideos)}
+
+      <!-- FAQ SECTION -->
+      ${generateFAQSectionHTML([
+        { q: "What " + category.name + " treatments are available on Doctar?", a: "Doctar offers " + treatments.length + "+ " + category.name.toLowerCase() + " treatments performed by board-certified specialists. Browse the treatment cards above to see details, costs, and recovery times for each procedure." },
+        { q: "How do I find the best " + category.name + " surgeon near me?", a: "Click on any treatment above to see a list of verified " + category.name.toLowerCase() + " surgeons in your city. You can filter by experience, rating, consultation fee, and availability." },
+        { q: "Is the first " + category.name + " consultation free?", a: "Yes. Your first consultation with our " + category.name.toLowerCase() + " specialists is completely free. Discuss your condition, explore treatment options, and get a personalised care plan at no cost." },
+        { q: "Are " + category.name + " procedures covered by insurance?", a: "Most " + category.name.toLowerCase() + " procedures listed on Doctar are covered by major health insurance providers. Our dedicated insurance team handles all paperwork and claims processing for a cashless experience." },
+        { q: "What is the recovery time for " + category.name + " surgeries?", a: "Recovery time varies by procedure. Each treatment card above shows the estimated recovery period. Your surgeon will provide a detailed recovery plan during your consultation." },
+        { q: "Do you provide post-surgery support?", a: "Yes. Doctar provides end-to-end support including free cab service, post-operative care guidance, follow-up appointments, and 24/7 helpline access at +91-8877772277." },
+      ], category.name + " — Frequently Asked Questions", "Everything you need to know about " + category.name.toLowerCase() + " treatments, procedures, and consultations through Doctar.")}
     `;
     appContainer.innerHTML = html;
+    initBlogCarousel('cat-' + slug);
   }
 
 
   // =====================================================
   // RENDER TREATMENT PAGE (doctar.in listing style)
   // =====================================================
-  function renderTreatmentPage(slug, filters) {
+  async function renderTreatmentPage(slug, filters) {
     const treatment = findTreatment(slug);
     if (!treatment) { handleRoute(); return; }
     const category = findCategory(treatment.categorySlug);
     const currentCity = getCurrentCity();
+    const pageVideos = await fetchVideosForPage('treatment-' + slug);
 
     filters = filters || { availability: 'all', rating: 0, fee: 'all', experience: 'all', gender: 'all' };
 
@@ -1490,11 +2162,11 @@ ${homeDoctors.slice(0, 8).map(doc => `
               <i class="fa-solid fa-user-doctor"></i>
               <p>No doctors match your filters. Try adjusting them.</p>
             </div>
-          ` : `<div class="doctors-grid tpl-doctors-grid">` + doctors.map(doc => `
-            <div class="doctor-card">
-              <div class="dc-top">
-                <div class="dc-avatar">👨‍⚕️</div>
-                <div class="dc-header-info">
+	          ` : `<div class="doctors-grid tpl-doctors-grid">` + doctors.map(doc => `
+	            <div class="doctor-card dc-clickable" onclick="window.location.hash='#/doctor/${doc.slug}'">
+	              <div class="dc-top">
+	                ${doctorAvatarHTML(doc, 'dc-avatar')}
+	                <div class="dc-header-info">
                   <h3 class="dc-name">${doc.name}</h3>
                   <span class="dc-specialty-badge">🩺 ${doc.specialty}</span>
                   <p class="dc-degree">${doc.degree}</p>
@@ -1532,8 +2204,8 @@ ${homeDoctors.slice(0, 8).map(doc => `
                 </div>
               </div>
               <div class="dc-actions">
-                <button class="dc-btn-book" onclick="window.location.hash='#/doctor/${doc.slug}'">📅 Book Appointment</button>
-                <button class="dc-btn-call" onclick="window.location.hash='#/doctor/${doc.slug}'">📞 Call</button>
+                <button class="dc-btn-book" onclick="event.stopPropagation(); window.openBookingModal('${doc.name}','${doc.hospital}','${doc.slug}')">📅 Book Appointment</button>
+                <button class="dc-btn-call" onclick="event.stopPropagation(); window.location.hash='#/doctor/${doc.slug}'">📞 Call</button>
               </div>
             </div>
           `).join('') + `</div>`}
@@ -1561,6 +2233,12 @@ ${homeDoctors.slice(0, 8).map(doc => `
 
         </div>
       </div>
+
+      <!-- PATIENT STORIES (Reels) -->
+      ${generateReelsSectionHTML('tpl-' + slug, pageVideos)}
+
+      <!-- EXPERT HEALTH TIPS (Landscape) -->
+      ${generateLandscapeSectionHTML('tpl-' + slug, pageVideos)}
     `;
 
     appContainer.innerHTML = html;
@@ -1582,9 +2260,38 @@ ${homeDoctors.slice(0, 8).map(doc => `
   // =====================================================
   // RENDER DOCTOR PROFILE PAGE
   // =====================================================
-  function renderDoctorProfilePage(slug) {
+  async function renderDoctorProfilePage(slug) {
     const doc = DOCTORS.find(d => d.slug === slug);
     if (!doc) { handleRoute(); return; }
+    const pageVideos = await fetchVideosForPage('doctor-' + slug);
+    const pageBlogs = await fetchBlogsForPage('doctor-' + slug);
+
+    // Find hospital record for image
+    const hospRecord = (typeof HOSPITALS !== 'undefined')
+      ? HOSPITALS.find(h => h.name === doc.hospital) : null;
+    const hospImg = hospRecord && hospRecord.image ? hospRecord.image : '';
+    const hospAddress = hospRecord ? hospRecord.address : doc.location;
+
+    // Generate next 7 days
+    const dayLabels = ['Sun','Mon','Tue','Wed','Thu','Fri','Sat'];
+    const monthNames = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+    function buildDateRows() {
+      const rows = [];
+      const today = new Date();
+      for (let i = 0; i < 7; i++) {
+        const d = new Date(today);
+        d.setDate(today.getDate() + i);
+        const label = i === 0 ? 'Today' : i === 1 ? 'Tomorrow' : dayLabels[d.getDay()];
+        const dateStr = d.getDate() + ' ' + monthNames[d.getMonth()];
+        const iso = d.toISOString().split('T')[0];
+        rows.push({ label, dateStr, iso });
+      }
+      return rows;
+    }
+    const dateRows = buildDateRows();
+
+    // All 12 time slots
+    const ALL_SLOTS = ['10:00 AM','10:30 AM','11:00 AM','11:30 AM','12:00 PM','12:30 PM','1:00 PM','1:30 PM','2:00 PM','2:30 PM','3:00 PM','3:30 PM'];
 
     const faqs = [
       { q: `What are ${doc.name}'s qualifications?`, a: `${doc.name} holds ${doc.degree} with ${doc.experience} of clinical experience.` },
@@ -1595,31 +2302,36 @@ ${homeDoctors.slice(0, 8).map(doc => `
       { q: `Is the first consultation free?`, a: `Yes, the first consultation is completely free. Our care coordinator will reach out to confirm your appointment.` },
     ];
 
-    const weekDays = ['Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'];
+    const reviewsData = [
+      { initials: 'RK', name: 'Rahul Kumar',   ago: '2 days ago',   text: `Dr. ${doc.name.split(' ')[1]} was incredibly thorough and made me feel comfortable throughout the procedure. Highly recommended!` },
+      { initials: 'SM', name: 'Sunita Mehta',  ago: '1 week ago',   text: 'Very knowledgeable and caring. The staff was also very helpful. Would definitely visit again.' },
+      { initials: 'AP', name: 'Arun Patel',    ago: '2 weeks ago',  text: 'Excellent experience overall. The appointment was on time and the consultation was very detailed.' },
+      { initials: 'NV', name: 'Neha Verma',    ago: '3 weeks ago',  text: 'Best doctor I have visited. Explained everything in simple language and the treatment was very effective.' },
+    ];
 
     const html = `
-      <!-- BREADCRUMB -->
       <div class="container dpp-breadcrumb">
         <a href="#/">Home</a> <span>›</span>
         <a href="#/doctors/${doc.categories[0]}">Doctors</a> <span>›</span>
         <span>${doc.name}</span>
       </div>
 
-      <!-- MAIN LAYOUT -->
       <div class="container dpp-layout">
 
         <!-- LEFT: PROFILE CARD (purple) -->
         <aside class="dpp-sidebar">
-          <div class="dpp-profile-card">
-            <div class="dpp-photo-wrap">
-              <img src="${doc.image}" alt="${doc.name}" class="dpp-photo" onerror="this.src=''; this.style.fontSize='4rem'; this.style.display='flex'; this.textContent='👨‍⚕️'">
-              <img src="home screen section/verified.png" class="dpp-verified" alt="verified">
+	          <div class="dpp-profile-card">
+	            <div class="dpp-photo-wrap">
+	              ${doctorAvatarHTML(doc, 'dpp-photo')}
+	              <img src="home screen section/verified.png" class="dpp-verified" alt="verified"
+                   onerror="this.style.display='none'">
             </div>
             <h1 class="dpp-name">${doc.name}</h1>
             <p class="dpp-specialty">${doc.specialty}</p>
             <p class="dpp-exp">${doc.experience} experience</p>
             <div class="dpp-rating-row">
-              ${'★'.repeat(5)} <span class="dpp-rating-val">${doc.rating}</span>
+              ${'★'.repeat(Math.floor(doc.rating))}${'☆'.repeat(5-Math.floor(doc.rating))}
+              <span class="dpp-rating-val">${doc.rating}</span>
               <span class="dpp-rating-count">(${doc.reviews} reviews)</span>
             </div>
             <div class="dpp-divider"></div>
@@ -1643,7 +2355,7 @@ ${homeDoctors.slice(0, 8).map(doc => `
             </div>
             <div class="dpp-divider"></div>
             <div class="dpp-sidebar-actions">
-              <button class="dpp-btn-book" onclick="document.getElementById('dpp-booking-tab').click()">
+              <button class="dpp-btn-book" onclick="window.openBookingModal('${doc.name}','${doc.hospital}','${doc.slug}')">
                 <i class="fa-solid fa-calendar-check"></i> Book Appointment
               </button>
               <a href="tel:+918877772277" class="dpp-btn-call">
@@ -1652,7 +2364,6 @@ ${homeDoctors.slice(0, 8).map(doc => `
             </div>
           </div>
 
-          <!-- Hospital card -->
           <div class="dpp-hospital-card">
             <div class="dpp-hosp-icon"><i class="fa-solid fa-hospital"></i></div>
             <div class="dpp-hosp-info">
@@ -1668,21 +2379,18 @@ ${homeDoctors.slice(0, 8).map(doc => `
 
         <!-- RIGHT: TABS + CONTENT -->
         <div class="dpp-main">
-
-          <!-- TABS -->
           <div class="dpp-tabs">
-            <button class="dpp-tab active" data-tab="about" onclick="switchDppTab('about', this)">About</button>
-            <button class="dpp-tab" data-tab="reviews" onclick="switchDppTab('reviews', this)">Reviews</button>
-            <button class="dpp-tab" id="dpp-booking-tab" data-tab="booking" onclick="switchDppTab('booking', this)">Booking</button>
+            <button class="dpp-tab active" data-tab="about" onclick="dpp2SwitchTab('about',this)">About</button>
+            <button class="dpp-tab" data-tab="reviews" onclick="dpp2SwitchTab('reviews',this)">Reviews</button>
+            <button class="dpp-tab" id="dpp2-booking-tab" data-tab="booking" onclick="dpp2SwitchTab('booking',this)">Booking</button>
           </div>
 
-          <!-- ABOUT TAB -->
-          <div class="dpp-tab-content" id="dpp-tab-about">
+          <!-- ABOUT TAB (default) -->
+          <div class="dpp-tab-content" id="dpp2-pane-about">
             <div class="dpp-section">
               <h2 class="dpp-section-title"><i class="fa-solid fa-user-doctor"></i> About ${doc.name}</h2>
               <p>${doc.bio}</p>
             </div>
-
             <div class="dpp-section">
               <h2 class="dpp-section-title"><i class="fa-solid fa-graduation-cap"></i> Education &amp; Qualification</h2>
               <div class="dpp-edu-card">
@@ -1693,19 +2401,6 @@ ${homeDoctors.slice(0, 8).map(doc => `
                 </div>
               </div>
             </div>
-
-            <div class="dpp-section">
-              <h2 class="dpp-section-title"><i class="fa-solid fa-house-medical"></i> Home Visit Service</h2>
-              <div class="dpp-home-visit-card">
-                <i class="fa-solid fa-ban" style="color:#e53e3e; font-size:1.5rem;"></i>
-                <div>
-                  <p class="dpp-hv-title">Home Visits Not Available</p>
-                  <p class="dpp-hv-sub">This doctor is available for in-clinic consultations only at ${doc.hospital}.</p>
-                </div>
-              </div>
-            </div>
-
-            <!-- FAQ -->
             <div class="dpp-section">
               <h2 class="dpp-section-title"><i class="fa-solid fa-circle-question"></i> Frequently Asked Questions</h2>
               ${faqs.map(f => `
@@ -1718,77 +2413,194 @@ ${homeDoctors.slice(0, 8).map(doc => `
           </div>
 
           <!-- REVIEWS TAB -->
-          <div class="dpp-tab-content" id="dpp-tab-reviews" style="display:none;">
+          <div class="dpp-tab-content" id="dpp2-pane-reviews" style="display:none">
             <div class="dpp-section">
               <h2 class="dpp-section-title"><i class="fa-solid fa-star"></i> Patient Reviews</h2>
               <div class="dpp-rating-summary">
                 <div class="dpp-big-rating">${doc.rating}</div>
                 <div>
-                  <div class="dpp-stars-big">${'★'.repeat(Math.floor(doc.rating))}${'☆'.repeat(5 - Math.floor(doc.rating))}</div>
-                  <p>${doc.reviews} reviews</p>
+                  <div class="dpp-stars-big">${'★'.repeat(Math.floor(doc.rating))}${'☆'.repeat(5-Math.floor(doc.rating))}</div>
+                  <p>${doc.reviews} verified reviews</p>
                 </div>
               </div>
-              ${['Excellent experience with Dr.!', 'Very knowledgeable and caring.', 'Highly recommend for anyone needing treatment.'].map((text, i) => `
+              ${reviewsData.map(r => `
                 <div class="dpp-review-card">
                   <div class="dpp-review-top">
-                    <div class="dpp-reviewer-avatar">${['RK','SM','AP'][i]}</div>
+                    <div class="dpp-reviewer-avatar">${r.initials}</div>
                     <div>
-                      <p class="dpp-reviewer-name">${['Rahul Kumar','Sunita Mehta','Arun Patel'][i]}</p>
+                      <p class="dpp-reviewer-name">${r.name}</p>
                       <div class="dpp-review-stars">★★★★★</div>
                     </div>
-                    <span class="dpp-review-date">${['2 days ago','1 week ago','2 weeks ago'][i]}</span>
+                    <span class="dpp-review-date">${r.ago}</span>
                   </div>
-                  <p class="dpp-review-text">${text}</p>
+                  <p class="dpp-review-text">${r.text}</p>
                 </div>
               `).join('')}
             </div>
           </div>
 
           <!-- BOOKING TAB -->
-          <div class="dpp-tab-content" id="dpp-tab-booking" style="display:none;">
+          <div class="dpp-tab-content" id="dpp2-pane-booking" style="display:none">
             <div class="dpp-section">
-              <h2 class="dpp-section-title"><i class="fa-solid fa-calendar-check"></i> Book Appointment</h2>
-              <p style="color:#666; margin-bottom:20px;">Select a day and time slot to book your consultation with ${doc.name}.</p>
+              <h2 class="dpp-section-title"><i class="fa-solid fa-location-dot"></i> Practice Locations &amp; Availability</h2>
 
-              <!-- Day selector -->
-              <div class="dpp-day-selector">
-                ${weekDays.map((d, i) => `
-                  <button class="dpp-day-btn ${i===0?'active':''}" onclick="document.querySelectorAll('.dpp-day-btn').forEach(b=>b.classList.remove('active')); this.classList.add('active')">${d}</button>
-                `).join('')}
-              </div>
-
-              <!-- Slots -->
-              <div class="dpp-slots-grid">
-                ${doc.slots.map(s => `
-                  <button class="dpp-slot-btn" onclick="document.querySelectorAll('.dpp-slot-btn').forEach(b=>b.classList.remove('active')); this.classList.add('active')">
-                    <i class="fa-regular fa-clock"></i> ${s}
-                  </button>
-                `).join('')}
-              </div>
-
-              <!-- Booking form -->
-              <div class="dpp-book-form">
-                <h3>Confirm Your Details</h3>
-                <div class="dpp-form-row">
-                  <input type="text" id="dpp-patient-name" class="dpp-input" placeholder="Patient Name" required>
-                  <input type="tel" id="dpp-patient-phone" class="dpp-input" placeholder="Mobile Number" required>
+              <div class="dpp2-hosp-card">
+                ${hospImg ? `<img src="${hospImg}" alt="${doc.hospital}" class="dpp2-hosp-img" onerror="this.style.display='none'">` : `<div class="dpp2-hosp-img-fallback"><i class="fa-solid fa-hospital"></i></div>`}
+                <div class="dpp2-hosp-body">
+                  <div class="dpp2-hosp-top">
+                    <div>
+                      <h3 class="dpp2-hosp-name">${doc.hospital}</h3>
+                      <p class="dpp2-hosp-addr"><i class="fa-solid fa-location-dot"></i> ${hospAddress}</p>
+                    </div>
+                    <div class="dpp2-hosp-fee-wrap">
+                      <span class="dpp2-hosp-fee">₹${doc.fee.toLocaleString('en-IN')}</span>
+                      <span class="dpp2-hosp-fee-label">Consultation fee</span>
+                    </div>
+                  </div>
+                  <div class="dpp2-hosp-bottom">
+                    <span class="dpp2-hosp-badge"><i class="fa-solid fa-shield-halved"></i> Verified</span>
+                    <a href="https://maps.google.com/?q=${encodeURIComponent(doc.hospital + ' ' + hospAddress)}" target="_blank" rel="noopener" class="dpp2-directions-link">
+                      <i class="fa-solid fa-diamond-turn-right"></i> Get Directions
+                    </a>
+                  </div>
                 </div>
-                <input type="text" class="dpp-input" placeholder="Your City" value="${getCurrentCity()}" readonly style="margin-top:10px;">
-                <button class="dpp-confirm-btn" onclick="submitDoctorBooking('${doc.specialty}')">
-                  <i class="fa-solid fa-calendar-check"></i> Confirm Booking
-                </button>
-                <p class="dpp-form-note"><i class="fa-solid fa-lock"></i> 100% Private &amp; Confidential</p>
+              </div>
+
+              <div class="dpp2-date-rows" style="margin-top:16px">
+                ${dateRows.map((row, idx) => `
+                  <div class="dpp2-date-row" id="dpp2-row-${idx}">
+                    <div class="dpp2-date-info">
+                      <span class="dpp2-date-label">${row.label}</span>
+                      <span class="dpp2-date-val">${row.dateStr}</span>
+                    </div>
+                    <span class="dpp2-time-range">10:00 AM – 04:00 PM</span>
+                    <button class="dpp2-view-slots-btn" onclick="dpp2ToggleSlots(${idx},'${row.iso}','${row.label} ${row.dateStr}')">
+                      View Slots <i class="fa-solid fa-chevron-down dpp2-chevron" id="dpp2-chev-${idx}"></i>
+                    </button>
+                    <div class="dpp2-slots-panel" id="dpp2-slots-${idx}" style="display:none">
+                      <div class="dpp2-slots-grid">
+                        ${ALL_SLOTS.map((s, si) => `
+                          <button class="dpp2-slot-pill ${si < 2 ? 'dpp2-slot-unavail' : ''}"
+                            ${si < 2 ? 'disabled title="Already booked"' : `onclick="dpp2BookSlot('${doc.name}','${doc.hospital}','${row.iso}','${s}','${row.label} ${row.dateStr}','${doc.slug}')"`}>
+                            <span class="dpp2-slot-time">${s}</span>
+                            <span class="dpp2-slot-fee ${si < 2 ? '' : 'dpp2-slot-fee-green'}">₹${si < 2 ? 'Booked' : doc.fee.toLocaleString('en-IN')}</span>
+                          </button>
+                        `).join('')}
+                      </div>
+                    </div>
+                  </div>
+                `).join('')}
+              </div>
+            </div>
+
+            <div class="dpp-section">
+              <h2 class="dpp-section-title"><i class="fa-solid fa-address-card"></i> Contact Information</h2>
+              <div class="dpp2-contact-grid">
+                <div class="dpp2-contact-item">
+                  <div class="dpp2-contact-icon"><i class="fa-solid fa-phone"></i></div>
+                  <div><p class="dpp2-contact-label">Helpline</p><a href="tel:+918877772277" class="dpp2-contact-val">+91-8877772277</a></div>
+                </div>
+                <div class="dpp2-contact-item">
+                  <div class="dpp2-contact-icon"><i class="fa-solid fa-envelope"></i></div>
+                  <div><p class="dpp2-contact-label">Email</p><a href="mailto:care@doctar.in" class="dpp2-contact-val">care@doctar.in</a></div>
+                </div>
+                <div class="dpp2-contact-item">
+                  <div class="dpp2-contact-icon"><i class="fa-solid fa-hospital"></i></div>
+                  <div><p class="dpp2-contact-label">Hospital</p><span class="dpp2-contact-val">${doc.hospital}</span></div>
+                </div>
+                <div class="dpp2-contact-item">
+                  <div class="dpp2-contact-icon"><i class="fa-solid fa-clock"></i></div>
+                  <div><p class="dpp2-contact-label">OPD Hours</p><span class="dpp2-contact-val">10:00 AM – 4:00 PM</span></div>
+                </div>
               </div>
             </div>
           </div>
 
-        </div>
-      </div>
+        </div><!-- /dpp-main -->
+      </div><!-- /dpp-layout -->
+
+      <!-- LATEST MEDICAL BLOGS -->
+      ${generateBlogSectionHTML('doc-' + slug, pageBlogs)}
+
+      <!-- PATIENT STORIES (Reels) -->
+      ${generateReelsSectionHTML('doc-' + slug, pageVideos)}
+
+      <!-- EXPERT HEALTH TIPS (Landscape) -->
+      ${generateLandscapeSectionHTML('doc-' + slug, pageVideos)}
+
+      <!-- FAQ SECTION -->
+      ${generateFAQSectionHTML([
+        { q: "What are " + doc.name + "'s qualifications?", a: doc.name + " holds " + doc.degree + " with " + doc.experience + " of clinical experience in " + doc.specialty + "." },
+        { q: "Where does " + doc.name + " practice?", a: doc.name + " practices at " + doc.hospital + ", " + doc.location + "." },
+        { q: "What is the consultation fee?", a: "The consultation fee is ₹" + doc.fee.toLocaleString("en-IN") + " per visit (in-clinic)." },
+        { q: "What languages does " + doc.name + " speak?", a: doc.name + " speaks " + doc.language + "." },
+        { q: "How do I book an appointment with " + doc.name + "?", a: 'Click the "Book Appointment" button above or call our 24/7 helpline at +91-8877772277.' },
+        { q: "Is the first consultation free?", a: "Yes, the first consultation is completely free. Our care coordinator will reach out to confirm your appointment." },
+      ], "Frequently Asked Questions — " + doc.name, "Everything you need to know about consulting " + doc.name + " through Doctar.")}
     `;
 
     appContainer.innerHTML = html;
+    initBlogCarousel('doc-' + slug);
+    window.scrollTo(0, 0);
   }
 
+  window.dpp2SwitchTab = function(tab, btn) {
+    // Works for both dpp-tab/dpp-tab-content (profile page) and dpp2-tab/dpp2-tab-pane
+    document.querySelectorAll('.dpp-tab, .dpp2-tab').forEach(t => t.classList.remove('active'));
+    document.querySelectorAll('.dpp-tab-content, .dpp2-tab-pane').forEach(p => p.style.display = 'none');
+    btn.classList.add('active');
+    document.getElementById('dpp2-pane-' + tab).style.display = 'block';
+  };
+
+  window.dpp2ToggleSlots = function(idx, iso, dateLabel) {
+    const panel = document.getElementById('dpp2-slots-' + idx);
+    const chev  = document.getElementById('dpp2-chev-' + idx);
+    const btn   = panel.previousElementSibling;
+    const open  = panel.style.display === 'none';
+
+    // Close all others
+    document.querySelectorAll('.dpp2-slots-panel').forEach(p => { p.style.display = 'none'; });
+    document.querySelectorAll('.dpp2-chevron').forEach(c => c.classList.remove('rotated'));
+    document.querySelectorAll('.dpp2-view-slots-btn').forEach(b => b.classList.remove('active'));
+
+    if (open) {
+      panel.style.display = 'block';
+      chev.classList.add('rotated');
+      btn.classList.add('active');
+    }
+  };
+
+  window.dpp2BookSlot = function(docName, hospital, iso, slot, dateLabel, docSlug) {
+    // Pre-fill booking modal state before opening
+    window._bmState = window._bmState || {};
+    window._bmState.date = iso;
+    window._bmState.slot = slot;
+    window.openBookingModal(docName, hospital, docSlug);
+    // Highlight the right date pill after modal opens
+    setTimeout(() => {
+      const today = new Date().toISOString().split('T')[0];
+      const tomorrow = new Date(Date.now() + 86400000).toISOString().split('T')[0];
+      if (iso === today) {
+        document.getElementById('bm-date-today')?.click();
+      } else if (iso === tomorrow) {
+        document.getElementById('bm-date-tomorrow')?.click();
+      } else {
+        const otherBtn = document.getElementById('bm-date-other');
+        const picker   = document.getElementById('bm-date-picker');
+        if (otherBtn && picker) {
+          otherBtn.click();
+          picker.value = iso;
+          window._bmState.date = iso;
+        }
+      }
+      // Highlight the slot
+      document.querySelectorAll('.bm-slot').forEach(b => {
+        b.classList.toggle('active', b.dataset.slot === slot);
+      });
+    }, 60);
+  };
+
+  // Keep legacy switchDppTab for any other pages that reference it
   window.switchDppTab = function(tab, btn) {
     document.querySelectorAll('.dpp-tab').forEach(t => t.classList.remove('active'));
     document.querySelectorAll('.dpp-tab-content').forEach(c => c.style.display = 'none');
@@ -1804,6 +2616,11 @@ ${homeDoctors.slice(0, 8).map(doc => `
     if (!hospital) { handleRoute(); return; }
 
     const hospitalDoctors = DOCTORS.filter(doc => doc.hospital === hospital.name);
+    const visitReasons = Array.from(new Set([
+      'General Consultation',
+      ...(hospital.specialties || []),
+      ...(hospital.services || [])
+    ].filter(Boolean)));
     const faqs = [
       { q: `Where is ${hospital.name} located?`, a: `${hospital.name} is located at ${hospital.address}.` },
       { q: `What type of facility is ${hospital.name}?`, a: `${hospital.name} is a ${hospital.type.toLowerCase()} with support for planned surgical care.` },
@@ -1839,7 +2656,7 @@ ${homeDoctors.slice(0, 8).map(doc => `
             <span><i class="fa-solid fa-clock"></i> ${hospital.hours}</span>
           </div>
           <div class="hpp-hero-actions">
-            <button class="hpp-primary-btn" onclick="document.getElementById('hpp-booking').scrollIntoView({behavior:'smooth'})">
+            <button class="hpp-primary-btn" onclick="window.openBookingModal('','${hospital.name}')">
               <i class="fa-solid fa-calendar-check"></i> Book FREE Appointment
             </button>
             <a href="tel:${hospital.phone.replace(/-/g, '')}" class="hpp-secondary-btn">
@@ -1928,15 +2745,35 @@ ${homeDoctors.slice(0, 8).map(doc => `
 
           <section class="hpp-section" id="hpp-booking">
             <h2><i class="fa-solid fa-calendar-check"></i> Book Appointment</h2>
-            <div class="hpp-book-card">
-              <input type="text" id="hpp-patient-name" class="dpp-input" placeholder="Patient Name">
-              <input type="tel" id="hpp-patient-phone" class="dpp-input" placeholder="Mobile Number">
-              <input type="text" class="dpp-input" value="${hospital.name}, ${hospital.address}" readonly>
-              <button class="dpp-confirm-btn" onclick="submitHospitalBooking('${hospital.name}')">
+            <form class="hpp-book-card" id="hpp-booking-form">
+              <input type="text" id="hpp-patient-name" class="dpp-input" placeholder="Patient Name" required>
+              <div class="phone-prefix-wrap">
+                <span class="phone-prefix-badge">+91</span>
+                <input type="tel" id="hpp-patient-phone" class="dpp-input phone-prefix-input" placeholder="XXXXX XXXXX" maxlength="10" inputmode="numeric" required>
+              </div>
+              <p id="hpp-phone-error" class="phone-error-msg" style="display:none">Please enter a valid 10-digit mobile number</p>
+              <input type="email" id="hpp-patient-email" class="dpp-input" placeholder="Email (optional)">
+              <select id="hpp-visit-reason" class="dpp-input" required>
+                <option value="">Reason of Visit / Select Disease</option>
+                ${visitReasons.map(reason => `<option value="${reason}">${reason}</option>`).join('')}
+              </select>
+              <input type="date" id="hpp-preferred-date" class="dpp-input" aria-label="Preferred Date">
+              <select id="hpp-preferred-time" class="dpp-input" aria-label="Preferred Time">
+                <option value="">Preferred Time</option>
+                <option value="10:00 AM">10:00 AM</option>
+                <option value="11:00 AM">11:00 AM</option>
+                <option value="12:00 PM">12:00 PM</option>
+                <option value="2:00 PM">2:00 PM</option>
+                <option value="3:00 PM">3:00 PM</option>
+                <option value="4:00 PM">4:00 PM</option>
+                <option value="5:00 PM">5:00 PM</option>
+              </select>
+              <button type="submit" class="dpp-confirm-btn" id="hpp-submit-btn">
                 <i class="fa-solid fa-calendar-check"></i> Request Appointment
               </button>
+              <p id="hpp-booking-message" class="hpp-booking-message" aria-live="polite"></p>
               <p class="dpp-form-note"><i class="fa-solid fa-lock"></i> 100% Private &amp; Confidential</p>
-            </div>
+            </form>
           </section>
 
           <section class="hpp-section">
@@ -1954,6 +2791,84 @@ ${homeDoctors.slice(0, 8).map(doc => `
 
     appContainer.innerHTML = html;
     initHospitalDetailMap(hospital);
+    setupHospitalBookingForm(hospital);
+  }
+
+  function setupHospitalBookingForm(hospital) {
+    const form = document.getElementById('hpp-booking-form');
+    if (!form) return;
+
+    const phoneInput = document.getElementById('hpp-patient-phone');
+    const msgEl = document.getElementById('hpp-booking-message');
+    const errEl = document.getElementById('hpp-phone-error');
+    const btn = document.getElementById('hpp-submit-btn');
+    const defaultBtnHTML = btn ? btn.innerHTML : '';
+
+    if (phoneInput) {
+      phoneInput.addEventListener('input', () => {
+        phoneInput.value = phoneInput.value.replace(/\D/g, '').slice(0, 10);
+        if (errEl) errEl.style.display = 'none';
+      });
+    }
+
+    form.addEventListener('submit', async (event) => {
+      event.preventDefault();
+      if (!msgEl || !btn) return;
+
+      const name = document.getElementById('hpp-patient-name')?.value.trim() || '';
+      const rawPhone = phoneInput?.value.replace(/\D/g, '') || '';
+      const email = document.getElementById('hpp-patient-email')?.value.trim() || '';
+      const disease = document.getElementById('hpp-visit-reason')?.value || '';
+      const appointmentDate = document.getElementById('hpp-preferred-date')?.value || '';
+      const appointmentTime = document.getElementById('hpp-preferred-time')?.value || '';
+
+      msgEl.className = 'hpp-booking-message';
+      msgEl.textContent = '';
+
+      if (!name || rawPhone.length !== 10 || !disease) {
+        if (rawPhone.length !== 10 && errEl) errEl.style.display = 'block';
+        msgEl.classList.add('error');
+        msgEl.textContent = 'Please fill Patient Name, Phone Number and Reason of Visit.';
+        return;
+      }
+      if (errEl) errEl.style.display = 'none';
+
+      btn.disabled = true;
+      btn.innerHTML = '<i class="fa-solid fa-spinner fa-spin"></i> Sending...';
+
+      try {
+        const payload = {
+          name,
+          phone: '+91' + rawPhone,
+          disease,
+          email,
+          hospital: hospital.name,
+          location: hospital.city || hospital.address || 'Not specified',
+          source: 'surgery.doctar.in',
+          appointmentDate,
+          appointmentTime
+        };
+
+        const res = await fetch('http://localhost:3001/api/bookings/book', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify(payload)
+        });
+        const json = await res.json().catch(() => ({}));
+        if (!res.ok || json.success === false) throw new Error(json.message || 'Booking failed');
+
+        msgEl.classList.add('success');
+        msgEl.textContent = 'Appointment request sent! Our team will call you shortly.';
+        form.reset();
+      } catch (err) {
+        console.error('Hospital booking error:', err);
+        msgEl.classList.add('error');
+        msgEl.textContent = 'Something went wrong. Please call +91-8877772277';
+      } finally {
+        btn.disabled = false;
+        btn.innerHTML = defaultBtnHTML;
+      }
+    });
   }
 
   // Render a real, live OSM/Leaflet map on the hospital detail page when
@@ -1993,7 +2908,7 @@ ${homeDoctors.slice(0, 8).map(doc => `
   // =====================================================
   // RENDER DOCTORS LISTING PAGE
   // =====================================================
-  function renderDoctorsListingPage(catSlug, filters) {
+  async function renderDoctorsListingPage(catSlug, filters) {
     const category = findCategory(catSlug);
     if (!category) { handleRoute(); return; }
 
@@ -2092,11 +3007,11 @@ ${homeDoctors.slice(0, 8).map(doc => `
               <i class="fa-solid fa-user-doctor" style="font-size:3rem; color:#ccc;"></i>
               <p>No doctors match your filters. Try adjusting them.</p>
             </div>
-          ` : doctors.map(doc => `
-            <div class="dl-card" style="cursor:pointer" onclick="window.location.hash='#/doctor/${doc.slug}'">
-              <div class="dl-card-left">
-                <div class="dl-card-avatar">👨‍⚕️</div>
-              </div>
+	          ` : doctors.map(doc => `
+	            <div class="dl-card dl-card-clickable" onclick="window.location.hash='#/doctor/${doc.slug}'">
+	              <div class="dl-card-left">
+	                ${doctorAvatarHTML(doc, 'dl-card-avatar')}
+	              </div>
               <div class="dl-card-body">
                 <div class="dl-card-top">
                   <div>
@@ -2136,10 +3051,10 @@ ${homeDoctors.slice(0, 8).map(doc => `
                 </div>
 
                 <div class="dl-card-actions">
-                  <button class="dl-btn-book" style="background:${category.color};" onclick="window.location.hash='#/doctor/${doc.slug}'">
+                  <button class="dl-btn-book" style="background:${category.color};" onclick="event.stopPropagation(); window.openBookingModal('${doc.name}','${doc.hospital}','${doc.slug}')">
                     <i class="fa-solid fa-calendar-check"></i> Book Appointment
                   </button>
-                  <button class="dl-btn-call" style="color:${category.color}; border-color:${category.color};" onclick="window.location.hash='#/doctor/${doc.slug}'">
+                  <button class="dl-btn-call" style="color:${category.color}; border-color:${category.color};" onclick="event.stopPropagation(); window.location.hash='#/doctor/${doc.slug}'">
                     <i class="fa-solid fa-phone"></i> Call
                   </button>
                 </div>
@@ -2151,7 +3066,27 @@ ${homeDoctors.slice(0, 8).map(doc => `
       </div>
     `;
 
-    appContainer.innerHTML = html;
+    // Fetch category-specific videos for the bottom sections.
+    const pageVideos = await fetchVideosForPage('category-' + catSlug);
+
+    const bottomSections = `
+      ${generatePatientReviewsHTML()}
+      ${generateLandscapeSectionHTML('dl-' + catSlug, pageVideos, {
+        eyebrow: 'EXPERT HEALTH TIPS',
+        title: `Videos by ${category.name} Specialists`,
+        subtitle: 'Expert health tips from our doctors',
+      })}
+      ${generateReelsSectionHTML('dl-' + catSlug, pageVideos, {
+        eyebrow: 'PATIENT STORIES',
+        title: `Patient Stories — ${category.name}`,
+      })}
+      ${generateFAQSectionHTML(doctorListingFAQs(category.name),
+        `${category.name} — Frequently Asked Questions`,
+        `Everything you need to know about consulting ${category.name} specialists through Doctar.`)}
+    `;
+
+    appContainer.innerHTML = html + bottomSections;
+    initPatientReviews();
 
     // Store current filters on window for filter changes
     window._dlFilters = filters;
@@ -2168,11 +3103,12 @@ ${homeDoctors.slice(0, 8).map(doc => `
   // =====================================================
   // RENDER ALL DOCTORS PAGE
   // =====================================================
-  function renderAllDoctorsPage(filters) {
+  async function renderAllDoctorsPage(filters) {
     const currentCity = getCurrentCity();
     filters = filters || { availability: 'all', rating: 0, fee: 'all', experience: 'all', gender: 'all' };
 
     let doctors = getDoctorsForCity(currentCity);
+    console.log('renderAllDoctorsPage first doctor:', doctors[0] || null);
 
     // Apply filters
     if (filters.rating > 0) doctors = doctors.filter(d => d.rating >= filters.rating);
@@ -2269,11 +3205,11 @@ ${homeDoctors.slice(0, 8).map(doc => `
               <i class="fa-solid fa-user-doctor"></i>
               <p>No doctors match your filters. Try adjusting them.</p>
             </div>
-          ` : `<div class="doctors-grid tpl-doctors-grid">` + doctors.map(doc => `
-            <div class="doctor-card" style="cursor:pointer" onclick="window.location.hash='#/doctor/${doc.slug}'">
-              <div class="dc-top">
-                <div class="dc-avatar">👨‍⚕️</div>
-                <div class="dc-header-info">
+	          ` : `<div class="doctors-grid tpl-doctors-grid">` + doctors.map(doc => `
+	            <div class="doctor-card dc-clickable" onclick="window.location.hash='#/doctor/${doc.slug}'">
+	              <div class="dc-top">
+	                ${doctorAvatarHTML(doc, 'dc-avatar')}
+	                <div class="dc-header-info">
                   <h3 class="dc-name">${doc.name}</h3>
                   <span class="dc-specialty-badge">🩺 ${doc.specialty}</span>
                   <p class="dc-degree">${doc.degree}</p>
@@ -2311,8 +3247,8 @@ ${homeDoctors.slice(0, 8).map(doc => `
                 </div>
               </div>
               <div class="dc-actions">
-                <button class="dc-btn-book" onclick="window.location.hash='#/doctor/${doc.slug}'">📅 Book Appointment</button>
-                <button class="dc-btn-call" onclick="window.location.hash='#/doctor/${doc.slug}'">📞 Call</button>
+                <button class="dc-btn-book" onclick="event.stopPropagation(); window.openBookingModal('${doc.name}','${doc.hospital}','${doc.slug}')">📅 Book Appointment</button>
+                <button class="dc-btn-call" onclick="event.stopPropagation(); window.location.hash='#/doctor/${doc.slug}'">📞 Call</button>
               </div>
             </div>
           `).join('') + `</div>`}
@@ -2320,7 +3256,27 @@ ${homeDoctors.slice(0, 8).map(doc => `
       </div>
     `;
 
-    appContainer.innerHTML = html;
+    // All-doctors page has no single category — pull all videos via the home page key.
+    const pageVideos = await fetchVideosForPage('home');
+
+    const bottomSections = `
+      ${generatePatientReviewsHTML()}
+      ${generateLandscapeSectionHTML('all-docs', pageVideos, {
+        eyebrow: 'EXPERT HEALTH TIPS',
+        title: 'Videos by Our Specialists',
+        subtitle: 'Expert health tips from our doctors',
+      })}
+      ${generateReelsSectionHTML('all-docs', pageVideos, {
+        eyebrow: 'PATIENT STORIES',
+        title: 'Patient Stories — Our Doctors',
+      })}
+      ${generateFAQSectionHTML(doctorListingFAQs('specialist'),
+        'Frequently Asked Questions',
+        'Everything you need to know about booking verified doctors through Doctar.')}
+    `;
+
+    appContainer.innerHTML = html + bottomSections;
+    initPatientReviews();
     window._allDoctorsFilters = filters;
   }
 
@@ -2504,66 +3460,203 @@ ${homeDoctors.slice(0, 8).map(doc => `
   };
 
 
+  // =====================================================
+  // LOCATION MODAL
+  // =====================================================
+
+  const CITY_DATA = [
+    { name: 'Delhi NCR',  lat: 28.6139, lng: 77.2090, available: true  },
+    { name: 'Mumbai',     lat: 19.0760, lng: 72.8777, available: true  },
+    { name: 'Kolkata',    lat: 22.5726, lng: 88.3639, available: true  },
+    { name: 'Bangalore',  lat: 12.9716, lng: 77.5946, available: true  },
+    { name: 'Chennai',    lat: 13.0827, lng: 80.2707, available: false },
+    { name: 'Hyderabad',  lat: 17.3850, lng: 78.4867, available: false },
+    { name: 'Ahmedabad',  lat: 23.0225, lng: 72.5714, available: false },
+    { name: 'Pune',       lat: 18.5204, lng: 73.8567, available: false },
+    { name: 'Surat',      lat: 21.1702, lng: 72.8311, available: false },
+    { name: 'Jaipur',     lat: 26.9124, lng: 75.7873, available: false },
+    { name: 'Lucknow',    lat: 26.8467, lng: 80.9462, available: false },
+    { name: 'Chandigarh', lat: 30.7333, lng: 76.7794, available: false },
+  ];
+
+  function injectLocationModal() {
+    if (document.getElementById('loc-overlay')) return;
+    const citiesHTML = CITY_DATA.map(c => `
+      <div class="loc-city-item${c.available ? '' : ' loc-city-soon'}"
+           data-city="${c.name}" data-available="${c.available}"
+           onclick="window.locSelectCity('${c.name}',${c.available})">
+        <i class="fa-solid fa-location-dot loc-city-icon"></i>
+        <span class="loc-city-name">${c.name}</span>
+        ${!c.available ? '<span class="loc-city-badge">Soon</span>' : ''}
+      </div>`).join('');
+
+    document.body.insertAdjacentHTML('beforeend', `
+      <div id="loc-overlay" class="loc-overlay" onclick="if(event.target===this)window.closeLocationModal()">
+        <div class="loc-modal">
+          <div class="loc-header">
+            <div>
+              <h2 class="loc-title">Select Location</h2>
+              <p class="loc-sub">Find healthcare experts near you</p>
+            </div>
+            <button class="loc-close" onclick="window.closeLocationModal()">×</button>
+          </div>
+          <div class="loc-body">
+            <div class="loc-left">
+              <div class="loc-search-wrap">
+                <i class="fa-solid fa-magnifying-glass loc-search-icon"></i>
+                <input type="text" id="loc-search-input" class="loc-search-input"
+                  placeholder="Search city, area, or zip code..."
+                  oninput="window.locFilterCities(this.value)">
+              </div>
+              <button class="loc-current-btn" onclick="window.locUseCurrentLocation()">
+                <i class="fa-solid fa-location-crosshairs"></i> Use Current Location
+              </button>
+              <button class="loc-global-btn" onclick="this.classList.toggle('open')">
+                <span><i class="fa-solid fa-globe"></i> Browse Global Locations</span>
+                <i class="fa-solid fa-chevron-down loc-global-chev"></i>
+              </button>
+              <div class="loc-cities-label">POPULAR CITIES</div>
+              <div class="loc-cities-list" id="loc-cities-list">${citiesHTML}</div>
+            </div>
+            <div class="loc-map-wrap"><div id="loc-map"></div></div>
+          </div>
+          <div class="loc-footer">
+            <div class="loc-footer-hint">
+              <i class="fa-solid fa-magnifying-glass"></i>
+              <span id="loc-selected-hint">Select a location from the list or map</span>
+            </div>
+            <div class="loc-footer-btns">
+              <button class="loc-cancel-btn" onclick="window.closeLocationModal()">Cancel</button>
+              <button class="loc-confirm-btn" id="loc-confirm-btn" onclick="window.locConfirm()" disabled>Confirm</button>
+            </div>
+          </div>
+        </div>
+      </div>`);
+  }
+
+  window._locPending = null;
+  window._locMap = null;
+
+  window.openLocationModal = function() {
+    injectLocationModal();
+    window._locPending = null;
+    document.getElementById('loc-confirm-btn').disabled = true;
+    document.getElementById('loc-selected-hint').textContent = 'Select a location from the list or map';
+    document.getElementById('loc-search-input').value = '';
+    window.locFilterCities('');
+    const current = getCurrentCity();
+    document.querySelectorAll('.loc-city-item').forEach(el => {
+      el.classList.toggle('loc-city-active', el.dataset.city === current);
+    });
+    document.getElementById('loc-overlay').classList.add('open');
+    document.body.style.overflow = 'hidden';
+    setTimeout(window.locInitMap, 100);
+  };
+
+  window.closeLocationModal = function() {
+    const el = document.getElementById('loc-overlay');
+    if (el) { el.classList.remove('open'); document.body.style.overflow = ''; }
+  };
+
+  window.locInitMap = function() {
+    if (!document.getElementById('loc-map') || typeof L === 'undefined') return;
+    if (window._locMap) { window._locMap.invalidateSize(); return; }
+    const map = L.map('loc-map', { zoomControl: true, scrollWheelZoom: true, attributionControl: true })
+      .setView([22.5, 80.0], 4);
+    map.attributionControl.setPrefix('');
+    L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
+      maxZoom: 18, attribution: '© OpenStreetMap contributors © CARTO',
+    }).addTo(map);
+    CITY_DATA.forEach(city => {
+      const icon = L.divIcon({
+        className: '',
+        html: `<div class="loc-map-pin${city.available ? ' loc-map-pin-avail' : ''}">${city.name}</div>`,
+        iconAnchor: [0, 20],
+      });
+      L.marker([city.lat, city.lng], { icon }).addTo(map)
+        .on('click', () => {
+          window.locSelectCity(city.name, city.available);
+          map.flyTo([city.lat, city.lng], 7, { animate: true, duration: 0.8 });
+        });
+    });
+    window._locMap = map;
+  };
+
+  window.locSelectCity = function(cityName, available) {
+    window._locPending = cityName;
+    document.querySelectorAll('.loc-city-item').forEach(el => {
+      el.classList.toggle('loc-city-active', el.dataset.city === cityName);
+    });
+    const confirmBtn = document.getElementById('loc-confirm-btn');
+    const hint = document.getElementById('loc-selected-hint');
+    if (available === true || available === 'true') {
+      hint.textContent = `📍 ${cityName} selected`;
+      confirmBtn.disabled = false;
+    } else {
+      hint.textContent = `${cityName} — coming soon! Please choose an available city.`;
+      confirmBtn.disabled = true;
+    }
+    const item = document.querySelector(`.loc-city-item[data-city="${cityName}"]`);
+    if (item) item.scrollIntoView({ block: 'nearest', behavior: 'smooth' });
+    const cd = CITY_DATA.find(c => c.name === cityName);
+    if (cd && window._locMap) window._locMap.flyTo([cd.lat, cd.lng], 7, { animate: true, duration: 0.8 });
+  };
+
+  window.locFilterCities = function(query) {
+    const q = (query || '').toLowerCase();
+    document.querySelectorAll('.loc-city-item').forEach(el => {
+      el.style.display = el.dataset.city.toLowerCase().includes(q) ? '' : 'none';
+    });
+    const label = document.querySelector('.loc-cities-label');
+    if (label) label.style.display = q ? 'none' : '';
+  };
+
+  window.locUseCurrentLocation = function() {
+    if (!navigator.geolocation) { alert('Geolocation not supported.'); return; }
+    const btn = document.querySelector('.loc-current-btn');
+    btn.innerHTML = '<i class="fa-solid fa-spinner fa-spin"></i> Detecting...';
+    btn.disabled = true;
+    navigator.geolocation.getCurrentPosition(pos => {
+      btn.innerHTML = '<i class="fa-solid fa-location-crosshairs"></i> Use Current Location';
+      btn.disabled = false;
+      const { latitude: lat, longitude: lng } = pos.coords;
+      let closest = CITY_DATA[0], minDist = Infinity;
+      CITY_DATA.forEach(c => {
+        const d = Math.hypot(c.lat - lat, c.lng - lng);
+        if (d < minDist) { minDist = d; closest = c; }
+      });
+      window.locSelectCity(closest.name, closest.available);
+    }, () => {
+      btn.innerHTML = '<i class="fa-solid fa-location-crosshairs"></i> Use Current Location';
+      btn.disabled = false;
+      alert('Could not detect location. Please select manually.');
+    });
+  };
+
+  window.locConfirm = function() {
+    if (!window._locPending) return;
+    localStorage.setItem('selectedCity', window._locPending);
+    const textSpan = document.getElementById('currentCityText');
+    if (textSpan) textSpan.textContent = window._locPending;
+    window.closeLocationModal();
+    handleRoute();
+  };
+
   function initCitySelector() {
     const btn = document.getElementById('citySelectorBtn');
-    const menu = document.getElementById('cityDropdownMenu');
     const textSpan = document.getElementById('currentCityText');
-    const currentCity = getCurrentCity();
-
-    if (textSpan) {
-      textSpan.textContent = `📍 ${currentCity}`;
-    }
-
-    if (menu) {
-      const items = menu.querySelectorAll('.city-dropdown-item');
-      items.forEach(item => {
-        if (item.getAttribute('data-city').toLowerCase() === currentCity.toLowerCase()) {
-          item.classList.add('active');
-        } else {
-          item.classList.remove('active');
-        }
-      });
-    }
-
-    if (!btn || !menu) return;
-
-    btn.addEventListener('click', (e) => {
-      e.stopPropagation();
-      const isVisible = menu.style.display === 'flex';
-      menu.style.display = isVisible ? 'none' : 'flex';
-    });
-
-    document.addEventListener('click', () => {
-      menu.style.display = 'none';
-    });
-
-    menu.addEventListener('click', (e) => {
-      const item = e.target.closest('.city-dropdown-item');
-      if (!item) return;
-
-      const selectedCity = item.getAttribute('data-city');
-      localStorage.setItem('selectedCity', selectedCity);
-
-      if (textSpan) {
-        textSpan.textContent = `📍 ${selectedCity}`;
-      }
-
-      menu.querySelectorAll('.city-dropdown-item').forEach(el => {
-        el.classList.toggle('active', el === item);
-      });
-
-      menu.style.display = 'none';
-      handleRoute();
-    });
+    if (textSpan) textSpan.textContent = getCurrentCity();
+    if (btn) btn.addEventListener('click', e => { e.stopPropagation(); window.openLocationModal(); });
   }
 
   // =====================================================
   // LOAD DATA FROM BACKEND (/api/data/all), fall back to data.js
   // =====================================================
-  const API_BASE = window.DOCTAR_API_BASE || 
-                   (window.location.origin && window.location.origin !== 'null' && window.location.origin.startsWith('http') 
-                     ? window.location.origin 
-                     : 'http://localhost:3001');
+  const API_BASE = window.DOCTAR_API_BASE ||
+    (window.location.protocol === 'file:' ||
+      ((window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1') && window.location.port !== '3001')
+      ? 'http://localhost:3001'
+      : window.location.origin);
 
   async function loadRemoteData() {
     try {
@@ -2584,10 +3677,14 @@ ${homeDoctors.slice(0, 8).map(doc => `
       if (Array.isArray(d.doctors) && d.doctors.length) {
         DOCTORS.length = 0;
         DOCTORS.push(...d.doctors);
+        console.log('/api/data/all first doctor from API:', d.doctors[0]);
       }
       if (Array.isArray(d.hospitals) && d.hospitals.length) {
         HOSPITALS.length = 0;
         HOSPITALS.push(...d.hospitals);
+      }
+      if (Array.isArray(d.subcategories)) {
+        SUBCATEGORIES = d.subcategories;
       }
       console.log('✅ Loaded live data from backend');
     } catch (err) {
@@ -2595,16 +3692,18 @@ ${homeDoctors.slice(0, 8).map(doc => `
     }
   }
 
-  window.submitBooking = async function(name, phone, disease, successMessage) {
+  window.submitBooking = async function(name, phone, disease, successMessage, email) {
     if (!name || !phone) {
       alert('Please fill in both Patient Name and Mobile Number.');
       return;
     }
     try {
+      const body = { name, phone, disease };
+      if (email) body.email = email;
       const res = await fetch(API_BASE + '/api/bookings/book', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ name, phone, disease })
+        body: JSON.stringify(body)
       });
       const json = await res.json();
       if (json.success) {
@@ -2622,13 +3721,347 @@ ${homeDoctors.slice(0, 8).map(doc => `
   window.submitDoctorBooking = function(specialty) {
     const name = document.getElementById('dpp-patient-name')?.value.trim();
     const phone = document.getElementById('dpp-patient-phone')?.value.trim();
-    window.submitBooking(name, phone, specialty, 'Appointment booked! Our team will call you to confirm.');
+    const email = document.getElementById('dpp-patient-email')?.value.trim();
+    window.submitBooking(name, phone, specialty, 'Appointment booked! Our team will call you to confirm.', email);
   };
 
   window.submitHospitalBooking = function(hospitalName) {
-    const name = document.getElementById('hpp-patient-name')?.value.trim();
-    const phone = document.getElementById('hpp-patient-phone')?.value.trim();
-    window.submitBooking(name, phone, 'Consultation at ' + hospitalName, 'Appointment request sent! Our care team will call you shortly.');
+    const form = document.getElementById('hpp-booking-form');
+    if (form) form.requestSubmit();
+  };
+
+  // =====================================================
+  // BOOKING MODAL
+  // =====================================================
+
+  function injectBookingModal() {
+    if (document.getElementById('bm-overlay')) return;
+
+    const TIME_SLOTS = ['10:00 AM','10:30 AM','11:00 AM','11:30 AM','12:00 PM','12:30 PM','1:00 PM','1:30 PM','2:00 PM','2:30 PM','3:00 PM','3:30 PM'];
+
+    const html = `
+      <div id="bm-overlay" class="bm-overlay" onclick="if(event.target===this)window.closeBookingModal()">
+        <div class="bm-modal" role="dialog" aria-modal="true" aria-labelledby="bm-header-title">
+          <!-- HEADER -->
+          <div class="bm-header">
+            <div>
+              <div id="bm-header-title" class="bm-doctor-name"></div>
+              <div id="bm-header-hospital" class="bm-hospital-name"></div>
+            </div>
+            <button class="bm-close" onclick="window.closeBookingModal()" aria-label="Close">×</button>
+          </div>
+
+          <!-- BODY -->
+          <div class="bm-body">
+            <!-- LEFT COLUMN -->
+            <div class="bm-left">
+              <!-- Booking For -->
+              <div class="bm-section">
+                <div class="bm-section-label">Booking For</div>
+                <div class="bm-toggle-group">
+                  <button class="bm-toggle active" id="bm-for-myself" onclick="window.bmSetFor('myself')">Myself</button>
+                  <button class="bm-toggle" id="bm-for-someone" onclick="window.bmSetFor('someone')">Someone else</button>
+                </div>
+              </div>
+
+              <!-- Appointment Mode -->
+              <div class="bm-section">
+                <div class="bm-section-label">Appointment Mode</div>
+                <button class="bm-mode-btn active">
+                  <i class="fa-solid fa-hospital"></i> Walk-in / Clinic
+                </button>
+              </div>
+
+              <!-- Date Selector -->
+              <div class="bm-section">
+                <div class="bm-section-label">Select Date</div>
+                <div class="bm-date-pills">
+                  <button class="bm-date-pill active" id="bm-date-today" onclick="window.bmSetDate('today',this)">Today</button>
+                  <button class="bm-date-pill" id="bm-date-tomorrow" onclick="window.bmSetDate('tomorrow',this)">Tomorrow</button>
+                  <button class="bm-date-pill" id="bm-date-other" onclick="window.bmSetDate('other',this)">Other Days</button>
+                </div>
+                <input type="date" id="bm-date-picker" class="bm-date-input" style="display:none" onchange="window.bmSetDate('pick',null,this.value)">
+              </div>
+
+              <!-- Time Slots -->
+              <div class="bm-section">
+                <div class="bm-section-label">Available Slots</div>
+                <div class="bm-slots-grid">
+                  ${TIME_SLOTS.map((s,i) => `<button class="bm-slot${i===0?' active':''}" data-slot="${s}" onclick="window.bmSelectSlot(this)">${s}</button>`).join('')}
+                </div>
+              </div>
+            </div>
+
+            <!-- RIGHT COLUMN: FORM -->
+            <div class="bm-right">
+              <div class="bm-section-label" style="margin-bottom:14px">Patient Details</div>
+              <div class="bm-form">
+                <div class="bm-form-row">
+                  <div class="bm-field">
+                    <label class="bm-label">Full Name <span class="bm-req">*</span></label>
+                    <input type="text" id="bm-name" class="bm-input" placeholder="Enter full name">
+                  </div>
+                  <div class="bm-field">
+                    <label class="bm-label">Email <span class="bm-req">*</span></label>
+                    <input type="email" id="bm-email" class="bm-input" placeholder="Enter email">
+                  </div>
+                </div>
+                <div class="bm-form-row">
+                  <div class="bm-field">
+                    <label class="bm-label">Phone <span class="bm-req">*</span></label>
+                    <div class="phone-prefix-wrap phone-prefix-wrap--bm">
+                      <span class="phone-prefix-badge phone-prefix-badge--bm">+91</span>
+                      <input type="tel" id="bm-phone" class="bm-input phone-prefix-input--bm" placeholder="XXXXX XXXXX" maxlength="10">
+                    </div>
+                    <p id="bm-phone-error" class="phone-error-msg" style="display:none">Please enter a valid 10-digit mobile number</p>
+                  </div>
+                  <div class="bm-field">
+                    <label class="bm-label">Sex</label>
+                    <div class="bm-sex-toggle">
+                      <button class="bm-sex-btn active" id="bm-sex-male" onclick="window.bmSetSex('Male',this)">Male</button>
+                      <button class="bm-sex-btn" id="bm-sex-female" onclick="window.bmSetSex('Female',this)">Female</button>
+                    </div>
+                  </div>
+                </div>
+                <div class="bm-form-row">
+                  <div class="bm-field">
+                    <label class="bm-label">Date of Birth</label>
+                    <input type="date" id="bm-dob" class="bm-input">
+                  </div>
+                  <div class="bm-field">
+                    <label class="bm-label">Postal Code</label>
+                    <input type="text" id="bm-postal" class="bm-input" placeholder="e.g. 700001">
+                  </div>
+                </div>
+                <div class="bm-form-row bm-city-row">
+                  <div class="bm-field bm-field-grow">
+                    <label class="bm-label">City</label>
+                    <div class="bm-city-wrap">
+                      <input type="text" id="bm-city" class="bm-input" placeholder="City">
+                      <button class="bm-use-city" onclick="window.bmUseCurrentCity()">Use current</button>
+                    </div>
+                  </div>
+                </div>
+                <div class="bm-field" style="margin-top:4px">
+                  <label class="bm-label">Address</label>
+                  <input type="text" id="bm-address" class="bm-input" placeholder="Full address">
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- FOOTER -->
+          <div class="bm-footer">
+            <div id="bm-success-msg" class="bm-success" style="display:none"></div>
+            <div class="bm-footer-btns">
+              <button class="bm-btn-cancel" onclick="window.closeBookingModal()">Cancel</button>
+              <button class="bm-btn-submit" onclick="window.bmSubmit()">
+                <i class="fa-solid fa-calendar-check"></i> Send Request
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+    `;
+
+    document.body.insertAdjacentHTML('beforeend', html);
+  }
+
+  window._bmState = { forSelf: true, date: 'today', slot: '10:00 AM', sex: 'Male', doctorName: '', hospitalName: '', doctorSlug: '' };
+
+  window.openBookingModal = function(doctorName, hospitalName, doctorSlug) {
+    injectBookingModal();
+    window._bmState.doctorName = doctorName || 'Consultation';
+    window._bmState.hospitalName = hospitalName || '';
+    window._bmState.doctorSlug = doctorSlug || '';
+    document.getElementById('bm-header-title').textContent = doctorName || 'Book Appointment';
+    document.getElementById('bm-header-hospital').textContent = hospitalName || '';
+
+    // Reset state
+    window.bmSetFor('myself');
+    window.bmSetDate('today', document.getElementById('bm-date-today'));
+
+    document.getElementById('bm-overlay').classList.add('open');
+    document.body.style.overflow = 'hidden';
+  };
+
+  window.closeBookingModal = function() {
+    const overlay = document.getElementById('bm-overlay');
+    if (overlay) {
+      overlay.classList.remove('open');
+      document.body.style.overflow = '';
+    }
+  };
+
+  window.bmSetFor = function(who) {
+    window._bmState.forSelf = (who === 'myself');
+    document.getElementById('bm-for-myself').classList.toggle('active', who === 'myself');
+    document.getElementById('bm-for-someone').classList.toggle('active', who === 'someone');
+
+    if (who === 'myself') {
+      try {
+        const user = JSON.parse(localStorage.getItem('doctar_user') || 'null');
+        if (user) {
+          if (user.name) document.getElementById('bm-name').value = user.name;
+          if (user.email) document.getElementById('bm-email').value = user.email;
+          if (user.phone) document.getElementById('bm-phone').value = user.phone;
+          if (user.sex) window.bmSetSex(user.sex, document.getElementById('bm-sex-' + user.sex.toLowerCase()));
+          if (user.dob) document.getElementById('bm-dob').value = user.dob;
+          if (user.postal) document.getElementById('bm-postal').value = user.postal;
+          if (user.city) document.getElementById('bm-city').value = user.city;
+          if (user.address) document.getElementById('bm-address').value = user.address;
+        } else {
+          bmClearForm();
+        }
+      } catch(e) { bmClearForm(); }
+    } else {
+      bmClearForm();
+    }
+  };
+
+  function bmClearForm() {
+    ['bm-name','bm-email','bm-phone','bm-dob','bm-postal','bm-city','bm-address'].forEach(id => {
+      const el = document.getElementById(id);
+      if (el) el.value = '';
+    });
+    window.bmSetSex('Male', document.getElementById('bm-sex-male'));
+  }
+
+  window.bmSetDate = function(type, btn, val) {
+    document.querySelectorAll('.bm-date-pill').forEach(b => b.classList.remove('active'));
+    const picker = document.getElementById('bm-date-picker');
+
+    if (type === 'today') {
+      window._bmState.date = new Date().toISOString().split('T')[0];
+      picker.style.display = 'none';
+      if (btn) btn.classList.add('active');
+    } else if (type === 'tomorrow') {
+      const d = new Date(); d.setDate(d.getDate()+1);
+      window._bmState.date = d.toISOString().split('T')[0];
+      picker.style.display = 'none';
+      if (btn) btn.classList.add('active');
+    } else if (type === 'other') {
+      picker.style.display = 'block';
+      if (btn) btn.classList.add('active');
+      picker.min = new Date().toISOString().split('T')[0];
+    } else if (type === 'pick' && val) {
+      window._bmState.date = val;
+      document.getElementById('bm-date-other').classList.add('active');
+    }
+  };
+
+  window.bmSelectSlot = function(btn) {
+    document.querySelectorAll('.bm-slot').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    window._bmState.slot = btn.dataset.slot;
+  };
+
+  window.bmSetSex = function(sex, btn) {
+    window._bmState.sex = sex;
+    document.querySelectorAll('.bm-sex-btn').forEach(b => b.classList.remove('active'));
+    if (btn) btn.classList.add('active');
+  };
+
+  window.bmUseCurrentCity = function() {
+    const city = getCurrentCity ? getCurrentCity() : '';
+    if (city) document.getElementById('bm-city').value = city;
+  };
+
+  window.bmSubmit = async function() {
+    const name = document.getElementById('bm-name').value.trim();
+    const email = document.getElementById('bm-email').value.trim();
+    const rawPhone = document.getElementById('bm-phone').value.replace(/\D/g, '') || '';
+    const bmPhoneErr = document.getElementById('bm-phone-error');
+
+    if (!name || !email) {
+      alert('Please fill in Name and Email (required fields).');
+      return;
+    }
+    if (rawPhone.length !== 10) {
+      if (bmPhoneErr) bmPhoneErr.style.display = 'block';
+      document.getElementById('bm-phone')?.focus();
+      return;
+    }
+    if (bmPhoneErr) bmPhoneErr.style.display = 'none';
+    const phone = '+91' + rawPhone;
+
+    // Date pills use class `.bm-date-pill`; slots use `.bm-slot`.
+    const activeDateEl = document.querySelector('.bm-date-pill.active');
+    const picker = document.getElementById('bm-date-picker');
+    // When "Other Days" is chosen the pill text isn't a real date — use the picker value.
+    let selectedDate = activeDateEl?.textContent?.trim() || '';
+    if (picker && picker.value && (selectedDate === 'Other Days' || activeDateEl?.id === 'bm-date-other')) {
+      selectedDate = picker.value;
+    }
+
+    const selectedSlot = document.querySelector('.bm-slot.active')?.dataset?.slot
+      || document.querySelector('.bm-slot.active')?.textContent?.trim()
+      || '';
+
+    console.log('Selected date el:', document.querySelector('.bm-date-pill.active'));
+    console.log('Selected slot el:', document.querySelector('.bm-slot.active'));
+    console.log('Date text:', selectedDate);
+    console.log('Time text:', selectedSlot);
+
+    const payload = {
+      name,
+      email,
+      patientEmail: email,
+      phone,
+      sex: window._bmState.sex,
+      dob: document.getElementById('bm-dob').value,
+      postal: document.getElementById('bm-postal').value.trim(),
+      city: document.getElementById('bm-city').value.trim(),
+      address: document.getElementById('bm-address').value.trim(),
+      doctorName: window._bmState.doctorName,
+      doctorSlug: window._bmState.doctorSlug,
+      hospital: window._bmState.hospitalName,
+      date: window._bmState.date,
+      slot: window._bmState.slot,
+      appointmentDate: selectedDate,
+      appointmentTime: selectedSlot,
+      disease: 'Consultation',
+      location: document.getElementById('bm-city').value.trim(),
+    };
+
+    const submitBtn = document.querySelector('.bm-btn-submit');
+    submitBtn.disabled = true;
+    submitBtn.textContent = 'Sending...';
+
+    const resetBtn = () => {
+      submitBtn.disabled = false;
+      submitBtn.innerHTML = '<i class="fa-solid fa-calendar-check"></i> Send Request';
+    };
+
+    try {
+      console.log('Posting to:', API_BASE + '/api/bookings/book');
+      const res = await fetch(API_BASE + '/api/bookings/book', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(payload),
+      });
+
+      const json = await res.json();
+      const msgEl = document.getElementById('bm-success-msg');
+      if (json.success) {
+        msgEl.style.cssText = 'display:block;background:#e7f7ee;color:#0a7b43;border:1px solid #9fe3bf;padding:14px 16px;border-radius:10px;font-weight:600;line-height:1.5;white-space:pre-line;';
+        msgEl.textContent = '✅ Booking Confirmed!\nOur team will call you within 2 hours.\n+91-8877772277';
+        setTimeout(() => window.closeBookingModal(), 4000);
+      } else {
+        msgEl.style.cssText = 'display:block;background:#fde8e8;color:#c0322e;border:1px solid #f5b5b3;padding:14px 16px;border-radius:10px;font-weight:600;line-height:1.5;';
+        msgEl.textContent = '❌ ' + (json.message || 'Booking failed. Please call +91-8877772277.');
+        resetBtn();
+      }
+    } catch (err) {
+      console.error('Booking error:', err);
+      const msgEl = document.getElementById('bm-success-msg');
+      msgEl.style.cssText = 'display:block;background:#fde8e8;color:#c0322e;border:1px solid #f5b5b3;padding:14px 16px;border-radius:10px;font-weight:600;line-height:1.5;';
+      msgEl.textContent = err.name === 'AbortError'
+        ? '❌ Request timed out. Please try again or call +91-8877772277.'
+        : '❌ Network error. Please try again or call +91-8877772277.';
+      // Always reset the button so it never gets stuck on "Sending...".
+      resetBtn();
+    }
   };
 
   try {

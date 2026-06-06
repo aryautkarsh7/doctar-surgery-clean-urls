@@ -1,19 +1,51 @@
 const Booking = require('../models/Booking');
+const Doctor = require('../models/Doctor');
 const { sendBookingEmail } = require('../utils/mailer');
+const { sendBookingSMS } = require('../utils/sms');
 
 // POST /api/bookings/book — create a new booking
 async function createBooking(req, res) {
   try {
-    const { name, phone, disease, email, doctorName, hospital, location } = req.body; if (!name || !phone || !disease) {
+    const {
+      name, phone, disease, email, patientEmail,
+      doctorSlug, doctorName, hospital, location,
+      appointmentDate, appointmentTime,
+    } = req.body;
+
+    if (!name || !phone || !disease) {
       return res.status(400).json({ success: false, message: 'All fields are required' });
     }
 
-    const booking = await Booking.create({ name, phone, disease, email, doctorName, hospital, location });
+    const booking = await Booking.create({
+      name, phone, disease,
+      email,
+      patientEmail: patientEmail || email,
+      doctorSlug,
+      doctorName,
+      appointmentDate,
+      appointmentTime,
+      hospital,
+      location,
+    });
     console.log('✅ Booking saved:', booking.name);
 
+    // Look up the doctor (by slug) to get their email for notification.
+    let doctorEmail = null;
+    if (doctorSlug) {
+      try {
+        const doctor = await Doctor.findOne({ slug: doctorSlug }).lean();
+        if (doctor && doctor.email) doctorEmail = doctor.email;
+      } catch (e) {
+        console.error('⚠️  Doctor lookup failed:', e.message);
+      }
+    }
+
     console.log('📨 Calling sendBookingEmail...');
-    await sendBookingEmail(booking);
+    await sendBookingEmail(booking, doctorEmail);
     console.log('📨 sendBookingEmail done');
+
+    // Non-blocking SMS — fire and forget, never delays the response
+    sendBookingSMS(booking);
 
     return res.status(201).json({ success: true, message: 'Booking received!', data: booking });
   } catch (err) {

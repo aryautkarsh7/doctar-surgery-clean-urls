@@ -6,6 +6,7 @@ const treatmentSchema = new mongoose.Schema({
   name: { type: String, required: true },
   slug: { type: String, required: true, unique: true },
   categorySlug: { type: String, required: true, index: true },
+  subCategorySlug: { type: String, index: true }, // optional grouping under a sub-category
   brief: String,
   recovery: String,
   costRange: String,
