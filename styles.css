@@ -596,16 +596,22 @@ header {
 }
 
 .treatment-trust-bar {
-  display: grid;
-  grid-template-columns: repeat(5, 1fr);
-  gap: 0;
+  display: flex;
+  flex-wrap: nowrap;
+  overflow-x: auto;
+  gap: 12px;
+  padding: 16px 0;
+  scrollbar-width: none;
   background: rgba(255, 255, 255, 0.88);
   border: 1px solid rgba(124, 58, 237, 0.08);
   border-radius: 24px;
   box-shadow: 0 24px 70px rgba(72, 46, 126, 0.1);
-  overflow: hidden;
   backdrop-filter: blur(18px);
   margin-bottom: 18px;
+}
+
+.treatment-trust-bar::-webkit-scrollbar {
+  display: none;
 }
 
 .treatment-trust-item {
@@ -1938,11 +1944,13 @@ footer::before {
   }
 
   .treatment-trust-bar {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
+    display: grid !important;
+    grid-template-columns: repeat(2, 1fr) !important;
     gap: 10px;
-    overflow: visible;
-    overflow-x: hidden;
+    padding: 16px;
+    overflow: hidden !important;
+    overflow-x: hidden !important;
+    flex-wrap: wrap !important;
     background: transparent;
     border: 0;
     border-radius: 0;
@@ -1951,7 +1959,9 @@ footer::before {
   }
 
   .treatment-trust-item {
-    min-width: 0;
+    width: 100% !important;
+    min-width: unset !important;
+    flex-shrink: unset !important;
     background: white;
     border-radius: 12px;
     padding: 12px;
@@ -1992,6 +2002,11 @@ footer::before {
     color: white;
     font-weight: 700;
     border: none;
+  }
+
+  .tb-inner,
+  .treatment-browser .container {
+    overflow-x: hidden !important;
   }
 
   .treatment-showcase-grid {
