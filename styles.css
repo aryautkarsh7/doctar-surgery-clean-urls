@@ -7562,8 +7562,8 @@ footer::before {
   .dpp-tabs-wrapper {
     display: block;
     position: sticky;
-    top: 60px;          /* header height */
-    z-index: 99;        /* below header z-index */
+    top: 64px;          /* matches mobile header height */
+    z-index: 99;        /* below header z-index (100) */
     background: #fff;
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
     border-radius: 16px;
@@ -9350,6 +9350,23 @@ footer::before {
 .bm-field-grow { flex: 1; }
 .bm-label { font-size: 0.78rem; font-weight: 600; color: #5e4091; }
 .bm-req { color: #e74c3c; }
+.bm-optional { color: #9b8ec2; font-weight: 500; font-size: 0.72rem; }
+
+/* Mobile: minimal, fast booking — hide non-essential fields (desktop unchanged) */
+@media (max-width: 768px) {
+  .bm-row-extra,        /* Date of Birth + Postal Code */
+  .bm-address-field {   /* Address */
+    display: none !important;
+  }
+  /* Hide "Booking For" and "Appointment Mode" sections on mobile */
+  .bm-section:has(#bm-for-myself),
+  .bm-section:has(.bm-mode-btn) {
+    display: none !important;
+  }
+  /* Larger, finger-friendly inputs (16px also prevents iOS auto-zoom) */
+  .bm-input { padding: 12px 14px; font-size: 16px; }
+  .bm-name-row .bm-input { font-size: 16px; }
+}
 .bm-input {
   padding: 9px 12px;
   border: 1.5px solid #e2d9f5;
