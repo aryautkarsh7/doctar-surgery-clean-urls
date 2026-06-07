@@ -2,16 +2,13 @@ const nodemailer = require('nodemailer');
 
 const transporter = nodemailer.createTransport({
   host: 'smtp.gmail.com',
-  port: 587,
-  secure: false,
+  port: 465,
+  secure: true,
   auth: {
     user: (process.env.EMAIL_USER || '').trim(),
     // Gmail app passwords are often copied with spaces ("xxxx xxxx xxxx xxxx");
     // strip all whitespace so auth doesn't fail.
     pass: (process.env.EMAIL_PASS || '').replace(/\s+/g, ''),
-  },
-  tls: {
-    rejectUnauthorized: false,
   },
 });
 
