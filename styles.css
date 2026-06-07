@@ -7545,6 +7545,55 @@ footer::before {
   .dpp-sidebar { position: static; }
 }
 
+/* Mobile: sticky tab bar at the top of the screen */
+@media (max-width: 768px) {
+  /* Stack layout to a single column */
+  .dpp-layout {
+    display: flex;
+    flex-direction: column;
+    grid-template-columns: 1fr;
+  }
+
+  .dpp-sidebar {
+    width: 100%;
+    position: static;
+  }
+
+  .dpp-main {
+    width: 100%;
+  }
+
+  .dpp-tabs {
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    background: white;
+    padding: 12px 16px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+    display: flex;
+    gap: 8px;
+    width: 100%;
+  }
+
+  .dpp-tab {
+    flex: 1;
+    text-align: center;
+    padding: 10px 8px;
+    border-radius: 8px;
+    font-size: 0.9rem;
+    font-weight: 600;
+    border: none;
+    background: #f0ebff;
+    color: #5e4091;
+    cursor: pointer;
+  }
+
+  .dpp-tab.active {
+    background: #5e4091;
+    color: #fff;
+  }
+}
+
 /* =====================================================
    HEALTHCARE JOURNEY SECTION
 ===================================================== */

@@ -3996,7 +3996,7 @@ ${homeDoctors.slice(0, 8).map(doc => `
               </div>
 
               <!-- Time Slots -->
-              <div class="bm-section">
+              <div class="bm-section bm-slots-section">
                 <div class="bm-section-label">Available Slots</div>
                 <div class="bm-slots-grid">
                   ${TIME_SLOTS.map((s,i) => `<button class="bm-slot${i===0?' active':''}" data-slot="${s}" onclick="window.bmSelectSlot(this)">${s}</button>`).join('')}
@@ -4005,7 +4005,7 @@ ${homeDoctors.slice(0, 8).map(doc => `
             </div>
 
             <!-- RIGHT COLUMN: FORM -->
-            <div class="bm-right">
+            <div class="bm-right bm-patient-details">
               <div class="bm-section-label" style="margin-bottom:14px">Patient Details</div>
               <div class="bm-form">
                 <div class="bm-form-row">
@@ -4083,6 +4083,7 @@ ${homeDoctors.slice(0, 8).map(doc => `
 
   window.openBookingModal = function(doctorName, hospitalName, doctorSlug) {
     injectBookingModal();
+    window._bmSlotsBackup = null; // fresh slots markup each time the modal opens
     window._bmState.doctorName = doctorName || 'Consultation';
     window._bmState.hospitalName = hospitalName || '';
     window._bmState.doctorSlug = doctorSlug || '';
@@ -4166,6 +4167,44 @@ ${homeDoctors.slice(0, 8).map(doc => `
     document.querySelectorAll('.bm-slot').forEach(b => b.classList.remove('active'));
     btn.classList.add('active');
     window._bmState.slot = btn.dataset.slot;
+
+    // On mobile, collapse the slots section into a compact summary and
+    // jump the user to the Patient Details form.
+    if (window.innerWidth <= 768) {
+      const slotsSection = document.querySelector('.bm-slots-section');
+      const selectedTime = btn.textContent.trim();
+      const selectedDate = document.querySelector('.bm-date-pill.active')?.textContent.trim() || '';
+
+      if (slotsSection) {
+        // Preserve the full slots markup so "Change" can restore it.
+        if (window._bmSlotsBackup == null) window._bmSlotsBackup = slotsSection.innerHTML;
+        slotsSection.innerHTML = `
+          <div style="display:flex; align-items:center; justify-content:space-between; padding:12px 0;">
+            <span style="color:#16a34a; font-weight:600; font-size:0.95rem;">
+              ✓ ${selectedTime}${selectedDate ? ' · ' + selectedDate : ''}
+            </span>
+            <button type="button" onclick="expandSlots()" style="color:#5e4091; font-size:0.85rem; background:none; border:none; font-weight:600; cursor:pointer;">
+              Change
+            </button>
+          </div>`;
+      }
+
+      setTimeout(() => {
+        document.querySelector('.bm-patient-details')?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      }, 300);
+    }
+  };
+
+  // Re-expand the collapsed slots section (mobile "Change" button).
+  window.expandSlots = function() {
+    const slotsSection = document.querySelector('.bm-slots-section');
+    if (!slotsSection || window._bmSlotsBackup == null) return;
+    slotsSection.innerHTML = window._bmSlotsBackup;
+    window._bmSlotsBackup = null;
+    // Re-mark the previously selected slot as active.
+    slotsSection.querySelectorAll('.bm-slot').forEach(b => {
+      b.classList.toggle('active', b.dataset.slot === window._bmState.slot);
+    });
   };
 
   window.bmSetSex = function(sex, btn) {
