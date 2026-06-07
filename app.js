@@ -2360,6 +2360,25 @@ ${homeDoctors.slice(0, 8).map(doc => `
 
       <div class="container dpp-layout">
 
+        <!-- MOBILE-ONLY STICKY TABS (hidden on desktop via CSS) -->
+        <div class="dpp-tabs-wrapper">
+          <div class="dpp-tabs">
+            <button class="dpp-tab active" data-tab="about" onclick="dpp2SwitchTab('about',this)">About</button>
+            <button class="dpp-tab" data-tab="reviews" onclick="dpp2SwitchTab('reviews',this)">Reviews</button>
+            <button class="dpp-tab" data-tab="booking" onclick="dpp2SwitchTab('booking',this)">Booking</button>
+          </div>
+        </div>
+
+        <!-- MOBILE-ONLY MINI DOCTOR BAR (shown on Reviews/Booking) -->
+        <div class="dpp-mini-bar" id="dpp-mini-bar">
+          <img class="dpp-mini-photo" src="${doc.image || ''}" alt="${doc.name}" onerror="this.style.display='none'">
+          <div>
+            <div class="dpp-mini-name">${doc.name}</div>
+            <div class="dpp-mini-info">${doc.specialty} | ₹${doc.fee.toLocaleString('en-IN')}</div>
+          </div>
+          <div class="dpp-mini-rating">${doc.rating}⭐</div>
+        </div>
+
         <!-- LEFT: PROFILE CARD (purple) -->
         <aside class="dpp-sidebar">
 	          <div class="dpp-profile-card">
@@ -2622,8 +2641,17 @@ ${homeDoctors.slice(0, 8).map(doc => `
     // Works for both dpp-tab/dpp-tab-content (profile page) and dpp2-tab/dpp2-tab-pane
     document.querySelectorAll('.dpp-tab, .dpp2-tab').forEach(t => t.classList.remove('active'));
     document.querySelectorAll('.dpp-tab-content, .dpp2-tab-pane').forEach(p => p.style.display = 'none');
-    btn.classList.add('active');
-    document.getElementById('dpp2-pane-' + tab).style.display = 'block';
+    // Sync active state across BOTH tab sets (mobile top bar + in-main bar).
+    document.querySelectorAll('.dpp-tab[data-tab="' + tab + '"], .dpp2-tab[data-tab="' + tab + '"]')
+      .forEach(t => t.classList.add('active'));
+    if (btn) btn.classList.add('active');
+    const pane = document.getElementById('dpp2-pane-' + tab);
+    if (pane) pane.style.display = 'block';
+
+    // Mobile only (CSS-gated): collapse the full doctor card into a mini bar
+    // on Reviews/Booking; restore it on About. Class toggle = no effect on desktop.
+    const layout = (btn && btn.closest('.dpp-layout')) || document.querySelector('.dpp-layout');
+    if (layout) layout.classList.toggle('dpp-collapsed', tab !== 'about');
   };
 
   window.dpp2ToggleSlots = function(idx, iso, dateLabel) {
