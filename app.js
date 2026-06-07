@@ -1661,23 +1661,21 @@ ${homeDoctors.slice(0, 8).map(doc => `
         </div>
         <div class="all-cat-main-grid">
           ${CATEGORIES.map(cat => `
-            <a href="#/category/${cat.slug}" class="all-cat-card${cat.image ? ' has-cover' : ''}" style="--acc: ${cat.color}; --acc-light: ${cat.colorLight};">
-              ${cat.image
-                ? `<div class="acc-cover"><img src="${cat.image}" alt="${cat.name}" onerror="this.closest('.acc-cover').style.display='none'"></div>`
-                : `<div class="acc-icon-wrap" style="background: ${cat.colorLight}; color: ${cat.color};">
+            <a href="#/category/${cat.slug}" class="all-cat-card" style="--acc: ${cat.color}; --acc-light: ${cat.colorLight};">
+              <div class="acc-icon-wrap">
                 <span class="acc-emoji">${catIcon(cat, 32)}</span>
-              </div>`}
+              </div>
               <div class="acc-body">
                 <h3 class="acc-name">${cat.name}</h3>
                 <p class="acc-desc">${cat.description}</p>
                 <div class="acc-tags">
-                  ${cat.tags.map(t => `<span class="acc-tag" style="border-color:${cat.color}; color:${cat.color};">${t}</span>`).join('')}
+                  ${cat.tags.map(t => `<span class="acc-tag">${t}</span>`).join('')}
                 </div>
                 <div class="acc-footer">
-                  <span class="acc-count" style="background:${cat.colorLight}; color:${cat.color};">
+                  <span class="acc-count">
                     <i class="fa-solid fa-list-check"></i> ${cat.treatmentCount} Treatments
                   </span>
-                  <span class="acc-explore" style="color:${cat.color};">Explore →</span>
+                  <span class="acc-explore">Explore →</span>
                 </div>
               </div>
             </a>
