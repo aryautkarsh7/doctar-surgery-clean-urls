@@ -2170,6 +2170,8 @@ ${homeDoctors.slice(0, 8).map(doc => `
             <h4 style="color:${category.color};">About ${treatment.name}</h4>
             <p>${treatment.brief}</p>
           </div>
+
+          <button type="button" class="tpl-filter-apply-btn" onclick="toggleTPLFilter(false)">Apply Filter</button>
         </aside>
 
         <!-- RIGHT: DOCTOR CARDS -->

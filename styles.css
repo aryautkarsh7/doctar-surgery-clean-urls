@@ -4497,12 +4497,12 @@ footer::before {
 .tpl-filter-group:last-of-type { border-bottom: none; }
 
 .tpl-filter-group h4 {
-  font-size: 0.82rem;
+  font-size: 11px;
   font-weight: 700;
-  color: #555;
+  color: #888;
   margin: 0 0 10px;
   text-transform: uppercase;
-  letter-spacing: 0.4px;
+  letter-spacing: 1px;
 }
 
 .tpl-radio {
@@ -4513,6 +4513,10 @@ footer::before {
   color: #555;
   margin-bottom: 7px;
   cursor: pointer;
+}
+
+.tpl-radio input[type="radio"] {
+  accent-color: #6F30E5;
 }
 
 .tpl-radio input { accent-color: var(--primary); cursor: pointer; }
@@ -4857,7 +4861,9 @@ footer::before {
   .tpl-avail-row { flex-direction: column; align-items: flex-start; }
 }
 
-@media (max-width: 768px) {
+.tpl-filter-apply-btn { display: none; }
+
+@media (max-width: 1024px) {
   .tpl-hero {
     padding: 20px 0 15px;
   }
@@ -4908,8 +4914,33 @@ footer::before {
     background: #fff;
     border-radius: 20px 20px 0 0;
     box-shadow: 0 -4px 20px rgba(0,0,0,0.15);
-    padding: 22px 20px 24px;
+    padding: 20px;
     transform: translateY(100%);
+  }
+
+  .tpl-treatment-layout .tpl-sidebar::before {
+    content: '';
+    display: block;
+    width: 40px;
+    height: 4px;
+    background: #e0e0e0;
+    border-radius: 2px;
+    margin: 0 auto 16px auto;
+  }
+
+  .tpl-filter-apply-btn {
+    display: block;
+    width: 100%;
+    padding: 14px;
+    margin-top: 16px;
+    background: #6F30E5;
+    color: #fff;
+    border: none;
+    border-radius: 12px;
+    font-weight: 700;
+    font-size: 1rem;
+    cursor: pointer;
+    text-align: center;
   }
 
   .tpl-treatment-layout .tpl-sidebar.is-open {
@@ -4921,7 +4952,7 @@ footer::before {
   .tpl-filter-bar {
     position: fixed;
     left: 50%;
-    bottom: 14px;
+    bottom: 24px;
     z-index: 100;
     display: flex !important;
     width: auto;
@@ -4935,30 +4966,30 @@ footer::before {
     display: flex;
     align-items: center;
     justify-content: center;
-    gap: 10px;
-    min-width: 170px;
-    min-height: 58px;
-    padding: 0 26px;
+    gap: 8px;
+    min-width: auto;
+    min-height: auto;
+    padding: 12px 24px;
     border: 0;
-    border-radius: 18px 18px 0 0;
-    background: var(--primary);
+    border-radius: 100px;
+    background: #6F30E5;
     color: #fff;
-    font-size: 0.86rem;
-    font-weight: 800;
-    letter-spacing: 0.4px;
-    text-transform: uppercase;
-    box-shadow: 0 -8px 24px rgba(94, 64, 145, 0.28);
+    font-size: 14px;
+    font-weight: 700;
+    letter-spacing: normal;
+    text-transform: none;
+    box-shadow: 0 4px 20px rgba(111, 48, 229, 0.4);
   }
 
   .tpl-filter-count {
     display: inline-flex;
     align-items: center;
     justify-content: center;
-    width: 22px;
-    height: 22px;
+    width: 20px;
+    height: 20px;
     border-radius: 50%;
     background: #fff;
-    color: var(--primary);
+    color: #6F30E5;
     font-size: 0.78rem;
     font-weight: 800;
   }
