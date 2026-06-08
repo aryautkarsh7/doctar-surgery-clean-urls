@@ -240,11 +240,20 @@ document.addEventListener('DOMContentLoaded', () => {
     return d.toLocaleDateString('en-IN', { year: 'numeric', month: 'long', day: 'numeric' });
   }
 
+  // Simple in‑memory cache for API GET requests
+  const apiCache = new Map();
+  async function cachedFetch(url) {
+    if (apiCache.has(url)) return apiCache.get(url);
+    const res = await fetch(url);
+    const json = await res.json();
+    apiCache.set(url, json);
+    return json;
+  }
+
   // Fetch blog posts from the API; updates BLOG_POSTS in-place
   async function loadBlogPosts() {
     try {
-      const res = await fetch('/api/blogs?page=home');
-      const json = await res.json();
+      const json = await cachedFetch('/api/blogs?page=home');
       if (json.data && json.data.length > 0) {
         const published = json.data.filter(b => b.published !== false);
         if (published.length > 0) BLOG_POSTS = published;
@@ -256,8 +265,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
   async function fetchBlogsForPage(pageKey) {
     try {
-      const res = await fetch('/api/blogs?page=' + encodeURIComponent(pageKey));
-      const json = await res.json();
+      const json = await cachedFetch('/api/blogs?page=' + encodeURIComponent(pageKey));
       const blogs = (json.data || []).filter(b => b.published !== false);
       return blogs.length ? blogs : BLOG_POSTS;
     } catch (e) {
@@ -307,7 +315,7 @@ document.addEventListener('DOMContentLoaded', () => {
       if (v.platform === 'youtube' && v.video_url) {
         const embedUrl = getYouTubeEmbedUrl(v.video_url);
         if (embedUrl) {
-          mediaContent = `<iframe src="${embedUrl}" frameborder="0" allowfullscreen allow="autoplay; encrypted-media" style="display:block;width:100%;height:100%;border-radius:18px 18px 0 0;border:none;"></iframe>`;
+          mediaContent = `<iframe loading="lazy" src="${embedUrl}" frameborder="0" allowfullscreen allow="autoplay; encrypted-media" style="display:block;width:100%;height:100%;border-radius:18px 18px 0 0;border:none;"></iframe>`;
         }
       }
       return `
@@ -504,7 +512,7 @@ document.addEventListener('DOMContentLoaded', () => {
               ${blogPosts.map(post => `
                 <a href="#/blog/${post.slug}" class="blog-card">
                   <div class="blog-card-media">
-                    <img src="${post.thumbnail || post.image || 'images/service-general.png'}" alt="${post.title}" onerror="this.src='images/service-general.png'">
+                    <img loading="lazy" src="${post.thumbnail || post.image || 'images/service-general.png'}" alt="${post.title}" onerror="this.src='images/service-general.png'">
                     <span class="blog-card-category">${post.category}</span>
                   </div>
                   <div class="blog-card-body">

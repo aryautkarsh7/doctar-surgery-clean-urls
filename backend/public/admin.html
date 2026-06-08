@@ -1217,6 +1217,183 @@
       .dstep { grid-template-columns: 1fr; }
       .doc-step-label { display: none; }
     }
+
+    /* --- PHONE PREFIX BLOCK --- */
+    .phone-prefix-wrap {
+      display: flex; align-items: stretch; border: 1.5px solid var(--border);
+      border-radius: var(--radius-md); overflow: hidden; transition: border-color 0.2s ease;
+    }
+    .phone-prefix-wrap:focus-within { border-color: var(--primary); }
+    .phone-prefix-block {
+      background: #f3f0f8; color: var(--text); font-weight: 700; font-size: 0.9rem;
+      padding: 11px 14px; display: flex; align-items: center; border-right: 1.5px solid var(--border);
+      user-select: none; white-space: nowrap;
+    }
+    .phone-prefix-wrap input {
+      border: none !important; border-radius: 0 !important; flex: 1; padding: 11px 14px;
+      font-size: 0.9rem; outline: none; min-width: 0;
+    }
+
+    /* --- LANGUAGE TAG PICKER --- */
+    .lang-picker { display: flex; flex-direction: column; gap: 10px; }
+    .lang-pills { display: flex; flex-wrap: wrap; gap: 6px; }
+    .lang-pill {
+      padding: 6px 14px; border-radius: 999px; font-size: 0.8rem; font-weight: 600;
+      cursor: pointer; border: 1.5px solid var(--border); background: #fff;
+      color: var(--text); transition: all 0.18s ease; user-select: none;
+    }
+    .lang-pill:hover { border-color: var(--primary); background: var(--primary-light); }
+    .lang-pill.selected {
+      background: var(--primary); color: #fff; border-color: var(--primary);
+    }
+    .lang-selected-tags { display: flex; flex-wrap: wrap; gap: 6px; min-height: 28px; }
+    .lang-tag {
+      display: inline-flex; align-items: center; gap: 5px; padding: 4px 12px;
+      border-radius: 999px; font-size: 0.78rem; font-weight: 700;
+      background: var(--primary-light); color: var(--primary); border: 1px solid #ddd5f0;
+    }
+    .lang-tag .lang-tag-x {
+      cursor: pointer; font-size: 1rem; line-height: 1; opacity: 0.7;
+      transition: opacity 0.15s;
+    }
+    .lang-tag .lang-tag-x:hover { opacity: 1; }
+    .lang-custom-row { display: flex; gap: 6px; }
+    .lang-custom-row input {
+      flex: 1; padding: 8px 12px; border: 1.5px solid var(--border);
+      border-radius: var(--radius-md); font-size: 0.85rem; outline: none;
+    }
+    .lang-custom-row input:focus { border-color: var(--primary); }
+    .lang-custom-row button {
+      padding: 8px 14px; border: none; border-radius: var(--radius-md);
+      background: var(--primary); color: #fff; font-weight: 700; font-size: 0.8rem;
+      cursor: pointer; white-space: nowrap;
+    }
+    .lang-custom-row button:hover { background: var(--primary-dark); }
+
+    /* --- EXPERIENCE SPLIT FIELDS --- */
+    .exp-split { display: flex; gap: 12px; align-items: flex-end; }
+    .exp-split .exp-part { flex: 1; display: flex; flex-direction: column; gap: 4px; }
+    .exp-split .exp-part label {
+      font-size: 0.7rem; font-weight: 700; color: var(--muted); text-transform: uppercase;
+    }
+    .exp-split .exp-part input {
+      padding: 11px 14px; border: 1.5px solid var(--border); border-radius: var(--radius-md);
+      font-size: 0.9rem; outline: none; width: 100%; transition: border-color 0.2s ease;
+    }
+    .exp-split .exp-part input:focus { border-color: var(--primary); }
+
+    /* --- TREATMENT MULTI-SELECT --- */
+    .treatment-picker { display: flex; flex-direction: column; gap: 8px; }
+    .treatment-picker .treatment-loading { color: var(--muted); font-size: 0.85rem; font-style: italic; }
+    .treatment-checkboxes {
+      display: grid; grid-template-columns: 1fr 1fr; gap: 6px;
+      max-height: 200px; overflow-y: auto; padding: 10px;
+      border: 1.5px solid var(--border); border-radius: var(--radius-md); background: #fcfbfe;
+    }
+    .treatment-checkboxes label {
+      display: flex; align-items: center; gap: 8px; font-size: 0.85rem;
+      font-weight: 600; color: var(--text); cursor: pointer; padding: 4px 6px;
+      border-radius: 8px; transition: background 0.15s; text-transform: none;
+      letter-spacing: 0; opacity: 1;
+    }
+    .treatment-checkboxes label:hover { background: var(--primary-light); }
+    .treatment-checkboxes input[type=checkbox] {
+      width: 16px; height: 16px; accent-color: var(--primary); cursor: pointer;
+    }
+    .treatment-selected-tags { display: flex; flex-wrap: wrap; gap: 6px; }
+    .treatment-tag {
+      display: inline-flex; align-items: center; gap: 5px; padding: 4px 12px;
+      border-radius: 999px; font-size: 0.78rem; font-weight: 700;
+      background: #ecfdf5; color: #047857; border: 1px solid #bbf7d0;
+    }
+
+    /* --- IMAGE CROP PREVIEW --- */
+    .crop-preview-area {
+      display: flex; flex-direction: column; align-items: center; gap: 10px; margin-top: 8px;
+    }
+    .crop-preview-circle {
+      width: 100px; height: 100px; border-radius: 50%; overflow: hidden;
+      border: 3px solid var(--primary); box-shadow: 0 4px 14px rgba(94,64,145,0.2);
+    }
+    .crop-preview-circle img {
+      width: 100%; height: 100%; object-fit: cover;
+    }
+    .crop-actions { display: flex; gap: 8px; }
+    .crop-actions button {
+      padding: 6px 14px; border-radius: 8px; font-size: 0.8rem; font-weight: 700;
+      cursor: pointer; border: none; transition: all 0.18s;
+    }
+    .crop-btn-upload { background: var(--primary); color: #fff; }
+    .crop-btn-upload:hover { background: var(--primary-dark); }
+    .crop-btn-change { background: var(--primary-light); color: var(--primary); }
+    .crop-btn-change:hover { background: #e8dff5; }
+
+    /* --- PRACTICE LOCATION & HOSPITAL SEARCH --- */
+    .practice-location-card {
+      background: #fff; border: 1.5px solid var(--border); border-radius: 12px;
+      padding: 16px; margin-bottom: 20px;
+    }
+    .pl-header { display: flex; align-items: center; gap: 8px; margin-bottom: 16px; }
+    .pl-icon { font-size: 1.2rem; }
+    .pl-header h3 { font-size: 1rem; font-weight: 700; color: var(--text); margin: 0; }
+    
+    .pl-search-field, .pl-loc-field { position: relative; display: flex; align-items: center; }
+    .pl-search-icon, .pl-loc-icon { position: absolute; left: 14px; font-size: 1.1rem; color: var(--muted); z-index: 2; }
+    .pl-search-input, .pl-loc-input {
+      padding: 14px 14px 14px 40px !important; border-radius: 12px !important;
+      font-size: 0.95rem; border: 1.5px solid var(--border) !important;
+      transition: all 0.2s ease; width: 100%; box-sizing: border-box; background: #fff;
+    }
+    .pl-search-input:focus, .pl-loc-input:focus {
+      border-color: #6F30E5 !important; background: #F3EBFF !important; outline: none;
+    }
+    
+    .hospital-dropdown.blinkit-dropdown {
+      position: absolute; top: 100%; left: 0; right: 0; background: #fff;
+      border-radius: 12px; border: 1px solid #e2dcf2; box-shadow: 0 8px 30px rgba(111,48,229,0.12);
+      padding: 8px 0; margin-top: 4px; max-height: 280px; overflow-y: auto; z-index: 100;
+    }
+    .hosp-item.blinkit-item {
+      display: flex; align-items: center; gap: 12px; padding: 12px 16px; border-bottom: 1px solid #f0f0f0;
+      cursor: pointer; transition: background 0.15s;
+    }
+    .hosp-item.blinkit-item:last-child { border-bottom: none; }
+    .hosp-item.blinkit-item:hover { background: #faf8ff; }
+    .bi-icon {
+      width: 40px; height: 40px; border-radius: 50%; background: #f3f0f8;
+      display: flex; align-items: center; justify-content: center; font-size: 1.2rem; flex-shrink: 0;
+    }
+    .bi-content { display: flex; flex-direction: column; }
+    .bi-name { font-weight: 700; font-size: 0.9rem; color: var(--text); }
+    .bi-meta { font-size: 0.75rem; color: var(--muted); margin-top: 2px; }
+    .bi-manual { font-size: 0.8rem; color: #6F30E5; font-weight: 600; text-align: center; padding: 10px; cursor: pointer; border-top: 1px solid #f0f0f0; }
+    .bi-manual:hover { background: #f3ebff; }
+    
+    /* --- SLOT PICKER --- */
+    .slot-picker { display: flex; flex-direction: column; gap: 10px; }
+    .slot-controls { display: flex; align-items: center; gap: 8px; }
+    .slot-controls select {
+      padding: 8px; border: 1.5px solid var(--border); border-radius: 6px;
+      font-size: 0.85rem; outline: none; background: #fff;
+    }
+    .slot-controls button {
+      padding: 8px 16px; border: none; border-radius: 6px;
+      background: var(--primary); color: #fff; font-weight: 700; font-size: 0.8rem; cursor: pointer;
+    }
+    .slot-controls button:hover { background: var(--primary-dark); }
+    .slot-tags { display: flex; flex-wrap: wrap; gap: 6px; min-height: 28px; }
+    
+    /* --- CATEGORY PILLS --- */
+    .category-picker { display: flex; flex-wrap: wrap; gap: 8px; }
+    .cat-pill {
+      padding: 6px 14px; border-radius: 999px; font-size: 0.8rem; font-weight: 600;
+      cursor: pointer; border: 1.5px solid var(--border); background: #fff;
+      color: var(--text); transition: all 0.18s ease; user-select: none;
+    }
+    .cat-pill:hover { border-color: var(--primary); }
+    .cat-pill.selected {
+      background: var(--primary); color: #fff; border-color: var(--primary);
+    }
   </style>
 </head>
 <body>
@@ -2496,14 +2673,38 @@
           <div class="field"><label>Email</label>
             <input data-key="email" value="${v('email')}" placeholder="doctor@example.com"></div>
           <div class="field"><label>Phone</label>
-            <input data-key="phone" value="${v('phone')}" placeholder="+91 ..."></div>
+            <div class="phone-prefix-wrap">
+              <div class="phone-prefix-block">+91</div>
+              <input type="hidden" data-key="phone" id="docFinalPhone" value="${v('phone')}">
+              <input type="text" id="docPhoneBase" value="${v('phone').replace(/^\+91\s*/, '').trim()}" placeholder="9876543210" oninput="document.getElementById('docFinalPhone').value = this.value ? '+91 ' + this.value : ''">
+            </div>
+          </div>
           <div class="field full"><label>Doctor Photo</label>
-            <div class="img-uploader">
-              <div class="img-preview img-preview-circle80">${d.iconImage?`<img src="${esc(d.iconImage)}" alt="">`:'No image'}</div>
+            <div class="img-uploader" id="docImgUploader">
+              <div class="img-preview img-preview-circle80" id="docImgPreviewWrapper">${d.iconImage?`<img src="${esc(d.iconImage)}" alt="">`:'No image'}</div>
               <div class="img-uploader-controls">
-                <input type="hidden" data-key="iconImage" value="${v('iconImage')}">
-                <input type="file" accept="image/*" onchange="handleImageUpload(this,'iconImage')">
-                <span class="upload-status" data-status-for="iconImage"></span>
+                <input type="hidden" data-key="iconImage" id="docIconImageHidden" value="${v('iconImage')}">
+                <input type="file" accept="image/*" id="docImageFile" onchange="handleDoctorImageSelect(this)">
+                <span class="upload-status" id="docImgStatus" data-status-for="iconImage"></span>
+              </div>
+            </div>
+            <!-- Cropping UI -->
+            <div id="docCropUi" style="display:none; padding:15px; border:1px solid var(--border); border-radius:var(--radius-md); margin-top:10px; background:#fcfbfe;">
+              <p style="font-size:0.85rem; font-weight:700; margin-bottom:10px; color:var(--text);">Adjust Photo</p>
+              <div style="display:flex; gap:15px; align-items:flex-start;">
+                <div style="flex:1; max-width:300px; max-height:300px; overflow:hidden; border:1px dashed var(--primary); border-radius:var(--radius-sm); display:flex; align-items:center; justify-content:center;">
+                  <canvas id="docCropCanvas" style="max-width:100%; max-height:100%; cursor:crosshair;"></canvas>
+                </div>
+                <div class="crop-preview-area">
+                  <span style="font-size:0.75rem; font-weight:700; color:var(--muted); text-transform:uppercase;">Preview</span>
+                  <div class="crop-preview-circle">
+                    <img id="docCropPreviewImg" src="" alt="Preview">
+                  </div>
+                  <div class="crop-actions">
+                    <button type="button" class="crop-btn-change" onclick="document.getElementById('docImageFile').click()">Change</button>
+                    <button type="button" class="crop-btn-upload" onclick="uploadDoctorCroppedImage()">Upload</button>
+                  </div>
+                </div>
               </div>
             </div>
           </div>
@@ -2513,34 +2714,115 @@
 
         <div class="dstep" data-step="2" style="display:none;">
           <div class="field"><label>Specialty *</label>
-            <select data-key="specialty"><option value="">Select Specialty</option>${catOpts}</select></div>
+            <select data-key="specialty" id="docSpecialtySelect" onchange="loadDoctorTreatments()"><option value="">Select Specialty</option>${catOpts}</select></div>
+          
+          <div class="field full" id="docTreatmentField" style="display:none;"><label>Treatments</label>
+            <input type="hidden" data-key="treatments" data-array="1" id="docFinalTreatments" value="${arr('treatments')}">
+            <div class="treatment-picker">
+              <div class="treatment-selected-tags" id="docTreatmentTags"></div>
+              <div class="treatment-checkboxes" id="docTreatmentCheckboxes">
+                <div class="treatment-loading">Select a specialty to view treatments...</div>
+              </div>
+            </div>
+          </div>
+
           <div class="field"><label>Degree / Qualification</label>
             <input data-key="degree" value="${v('degree')}" placeholder="e.g. MBBS, MS (Ortho)"></div>
+          
           <div class="field"><label>Experience</label>
-            <input data-key="experience" value="${v('experience')}" placeholder="e.g. 15+ Years"></div>
+            <input type="hidden" data-key="experience" id="docFinalExperience" value="${v('experience')}">
+            <div class="exp-split">
+              <div class="exp-part">
+                <label>Years</label>
+                <input type="number" id="docExpYears" min="0" placeholder="0" oninput="updateDoctorFinalExp()">
+              </div>
+              <div class="exp-part">
+                <label>Months</label>
+                <input type="number" id="docExpMonths" min="0" max="11" placeholder="0" oninput="updateDoctorFinalExp()">
+              </div>
+            </div>
+          </div>
+          
           <div class="field"><label>Rating (0–5)</label>
             <input type="number" step="0.1" min="0" max="5" data-key="rating" value="${v('rating')}"></div>
           <div class="field"><label>Reviews count</label>
             <input type="number" data-key="reviews" value="${v('reviews')}"></div>
-          <div class="field"><label>Language</label>
-            <input data-key="language" value="${v('language')}" placeholder="e.g. English, Hindi"></div>
+          
+          <div class="field full"><label>Languages</label>
+            <input type="hidden" data-key="language" id="docFinalLanguage" value="${v('language')}">
+            <div class="lang-picker">
+              <div class="lang-selected-tags" id="docLangTags"></div>
+              <div class="lang-pills">
+                ${['Hindi','Bengali','English','Tamil','Telugu','Kannada','Marathi','Gujarati','Punjabi','Malayalam'].map(l => 
+                  `<div class="lang-pill" onclick="toggleDoctorLang('${l}')" id="lang-pill-${l}">${l}</div>`
+                ).join('')}
+              </div>
+              <div class="lang-custom-row">
+                <input type="text" id="docLangCustomInput" placeholder="Add custom language (e.g. Odia)" onkeypress="if(event.key==='Enter'){event.preventDefault();addCustomDoctorLang();}">
+                <button type="button" onclick="addCustomDoctorLang()">Add</button>
+              </div>
+            </div>
+          </div>
           <div class="field"><label>Consultation Fee (₹)</label>
             <input type="number" data-key="fee" value="${v('fee')}"></div>
         </div>
 
         <div class="dstep" data-step="3" style="display:none;">
-          <div class="field"><label>Hospital Name *</label>
-            <input data-key="hospital" value="${v('hospital')}" placeholder="e.g. Apollo Hospitals"></div>
-          <div class="field"><label>City</label>
-            <select data-key="city"><option value="">Select City</option>${cityOpts}</select></div>
-          <div class="field full"><label>Location (clinic address)</label>
-            <input data-key="location" value="${v('location')}" placeholder="Full clinic address"></div>
+          <div class="practice-location-card">
+            <div class="pl-header">
+              <span class="pl-icon">🏥</span>
+              <h3>Practice Location</h3>
+            </div>
+            
+            <div class="field full pl-search-field" style="position:relative; margin-bottom: 12px;">
+              <input type="hidden" data-key="hospital" id="docFinalHospital" value="${v('hospital')}">
+              <span class="pl-search-icon">🔍</span>
+              <input type="text" id="docHospitalSearch" value="${v('hospital')}" class="pl-search-input" placeholder="Search hospital name..." oninput="handleHospitalSearch(this.value)" onfocus="handleHospitalSearch(this.value)" autocomplete="off">
+              <div id="docHospitalDropdown" class="hospital-dropdown blinkit-dropdown" style="display:none;"></div>
+            </div>
+            
+            <div class="field" style="margin-bottom: 12px;"><label>City</label>
+              <select data-key="city" id="docCitySelect"><option value="">Select City</option>${cityOpts}</select></div>
+            
+            <div class="field full pl-loc-field">
+              <span class="pl-loc-icon">📍</span>
+              <input data-key="location" id="docLocationInput" class="pl-loc-input" value="${v('location')}" placeholder="e.g. 4th Floor, Salt Lake Sector V">
+            </div>
+          </div>
+          
+          <div class="field full"><label>Slots Builder</label>
+            <input type="hidden" data-key="slots" data-array="1" id="docFinalSlots" value="${arr('slots')}">
+            <div class="slot-picker">
+              <div class="slot-controls">
+                <select id="docSlotHour">
+                  ${[6,7,8,9,10,11,12,1,2,3,4,5,6,7,8,9,10].map(h=>`<option value="${h}">${h}</option>`).join('')}
+                </select>
+                <span>:</span>
+                <select id="docSlotMin">
+                  <option value="00">00</option><option value="15">15</option>
+                  <option value="30">30</option><option value="45">45</option>
+                </select>
+                <select id="docSlotAmPm">
+                  <option value="AM">AM</option><option value="PM">PM</option>
+                </select>
+                <button type="button" onclick="addDoctorSlot()">Add</button>
+              </div>
+              <div class="slot-tags" id="docSlotTags"></div>
+            </div>
+          </div>
+          
           <div class="field"><label>Next Slot</label>
-            <input data-key="nextSlot" value="${v('nextSlot')}" placeholder="e.g. 10:00 AM"></div>
-          <div class="field"><label>Slots (comma separated)</label>
-            <input data-key="slots" data-array="1" value="${arr('slots')}" placeholder="10:00 AM, 11:30 AM, 4:00 PM"></div>
-          <div class="field full"><label>Categories (comma separated slugs)</label>
-            <input data-key="categories" data-array="1" value="${arr('categories')}" placeholder="orthopedics, sports-injury"></div>
+            <select data-key="nextSlot" id="docNextSlotSelect">
+              <option value="">Select Next Slot</option>
+            </select>
+          </div>
+
+          <div class="field full"><label>Categories</label>
+            <input type="hidden" data-key="categories" data-array="1" id="docFinalCategories" value="${arr('categories')}">
+            <div class="category-picker" id="docCategoryPills">
+              <div class="treatment-loading">Loading categories...</div>
+            </div>
+          </div>
         </div>
 
         <div class="dstep" data-step="4" style="display:none;">
@@ -2557,6 +2839,36 @@
       mb.style.display = 'block'; // single-column layout for the stepper
       mb.innerHTML = indicator + body;
       _docStep = 1;
+      
+      // Initialize Experience
+      const expStr = d.experience || '';
+      let y = 0, m = 0;
+      const yMatch = expStr.match(/(\d+)\+?\s*Year/i);
+      const mMatch = expStr.match(/(\d+)\s*Month/i);
+      if(yMatch) y = parseInt(yMatch[1], 10);
+      else if(/^\d+$/.test(expStr)) y = parseInt(expStr, 10);
+      if(mMatch) m = parseInt(mMatch[1], 10);
+      document.getElementById('docExpYears').value = y || '';
+      document.getElementById('docExpMonths').value = m || '';
+
+      // Initialize Languages
+      window._docLangs = new Set((d.language || '').split(',').map(l=>l.trim()).filter(Boolean));
+      renderDoctorLangs();
+
+      // Initialize Treatments
+      window._docTreatments = new Set(d.treatments || []);
+      if(d.specialty) loadDoctorTreatments(d.specialty);
+
+      // Initialize Slots
+      const slotsArr = Array.isArray(d.slots) ? d.slots : (d.slots || '').split(',');
+      window._docSlots = new Set(slotsArr.map(s=>s.trim()).filter(Boolean));
+      renderDoctorSlots(d.nextSlot);
+
+      // Initialize Categories
+      const catArr = Array.isArray(d.categories) ? d.categories : (d.categories || '').split(',');
+      window._docCategories = new Set(catArr.map(c=>c.trim()).filter(Boolean));
+      loadDoctorCategories();
+
       updateDoctorStep();
     }
 
@@ -2620,7 +2932,7 @@
       const get=k=>{const el=document.querySelector(`#modalBody [data-key="${k}"]`);return el?el.value.trim():'';};
       const rows=[
         ['Name',get('name')],['Email',get('email')],['Phone',get('phone')],
-        ['Specialty',get('specialty')],['Degree',get('degree')],['Experience',get('experience')],
+        ['Specialty',get('specialty')],['Treatments',get('treatments')],['Degree',get('degree')],['Experience',get('experience')],
         ['Rating',get('rating')],['Reviews',get('reviews')],['Language',get('language')],['Fee',get('fee')?'₹'+get('fee'):''],
         ['Hospital',get('hospital')],['City',get('city')],['Location',get('location')],
         ['Next Slot',get('nextSlot')],['Slots',get('slots')],['Categories',get('categories')],
@@ -2629,6 +2941,318 @@
         <div class="doc-review-row"><span class="drk">${k}</span><span class="drv">${esc(val)||'<span style="color:#bbb">—</span>'}</span></div>
       `).join('');
     }
+
+    /* --- DOCTOR NEW FIELDS LOGIC --- */
+    window.updateDoctorFinalExp = function() {
+      const y = parseInt(document.getElementById('docExpYears').value, 10) || 0;
+      const m = parseInt(document.getElementById('docExpMonths').value, 10) || 0;
+      let exp = '';
+      if(y > 0 && m > 0) exp = `${y} Years ${m} Months`;
+      else if(y > 0) exp = `${y}+ Years`;
+      else if(m > 0) exp = `${m} Months`;
+      document.getElementById('docFinalExperience').value = exp;
+    };
+
+    window.toggleDoctorLang = function(lang) {
+      if(window._docLangs.has(lang)) window._docLangs.delete(lang);
+      else window._docLangs.add(lang);
+      renderDoctorLangs();
+    };
+    window.addCustomDoctorLang = function() {
+      const input = document.getElementById('docLangCustomInput');
+      const val = input.value.trim();
+      if(val) {
+        window._docLangs.add(val);
+        input.value = '';
+        renderDoctorLangs();
+      }
+    };
+    window.renderDoctorLangs = function() {
+      const tagsContainer = document.getElementById('docLangTags');
+      if(!tagsContainer) return;
+      tagsContainer.innerHTML = Array.from(window._docLangs).map(l => 
+        `<div class="lang-tag">${esc(l)} <span class="lang-tag-x" onclick="toggleDoctorLang('${esc(l)}')">×</span></div>`
+      ).join('');
+      
+      document.querySelectorAll('.lang-pill').forEach(pill => {
+        pill.classList.toggle('selected', window._docLangs.has(pill.textContent.trim()));
+      });
+      document.getElementById('docFinalLanguage').value = Array.from(window._docLangs).join(', ');
+    };
+
+    window.loadDoctorTreatments = async function(presetSpecialty) {
+      const select = document.getElementById('docSpecialtySelect');
+      const specialty = presetSpecialty || (select ? select.value : '');
+      const wrapper = document.getElementById('docTreatmentField');
+      const container = document.getElementById('docTreatmentCheckboxes');
+      if(!wrapper || !container) return;
+      
+      if(!specialty) {
+        wrapper.style.display = 'none';
+        return;
+      }
+      
+      wrapper.style.display = 'block';
+      container.innerHTML = '<div class="treatment-loading">Loading treatments...</div>';
+      
+      try {
+        const res = await fetch('/api/treatments?categorySlug=' + encodeURIComponent(specialty));
+        const json = await res.json();
+        const treatments = (json.data || []).map(t => typeof t === 'string' ? t : t.name).filter(Boolean);
+        
+        if(treatments.length === 0) {
+          container.innerHTML = '<div class="treatment-loading">No treatments found for this specialty.</div>';
+          return;
+        }
+        
+        container.innerHTML = treatments.map(t => {
+          const checked = window._docTreatments && window._docTreatments.has(t) ? 'checked' : '';
+          return `<label><input type="checkbox" value="${esc(t)}" onchange="toggleDoctorTreatment(this)" ${checked}> ${esc(t)}</label>`;
+        }).join('');
+        renderDoctorTreatmentTags();
+      } catch(e) {
+        container.innerHTML = '<div class="treatment-loading" style="color:red">Error loading treatments.</div>';
+      }
+    };
+    window.toggleDoctorTreatment = function(cb) {
+      if(!window._docTreatments) window._docTreatments = new Set();
+      if(cb.checked) window._docTreatments.add(cb.value);
+      else window._docTreatments.delete(cb.value);
+      renderDoctorTreatmentTags();
+    };
+    window.renderDoctorTreatmentTags = function() {
+      const container = document.getElementById('docTreatmentTags');
+      if(!container || !window._docTreatments) return;
+      container.innerHTML = Array.from(window._docTreatments).map(t => 
+        `<div class="treatment-tag">${esc(t)}</div>`
+      ).join('');
+      document.getElementById('docFinalTreatments').value = Array.from(window._docTreatments).join(', ');
+    };
+
+    /* --- DOCTOR IMAGE CROP LOGIC --- */
+    let _docCropCanvas = null;
+    let _docCropCtx = null;
+    let _docCropImg = null;
+    let _docCroppedBlob = null;
+    
+    window.handleDoctorImageSelect = function(input) {
+      const file = input.files && input.files[0];
+      if(!file) return;
+      if(!file.type.startsWith('image/')) {
+        alert('Only image files allowed.');
+        input.value = '';
+        return;
+      }
+      
+      const reader = new FileReader();
+      reader.onload = function(e) {
+        _docCropImg = new Image();
+        _docCropImg.onload = function() {
+          setupDoctorCropCanvas();
+        };
+        _docCropImg.src = e.target.result;
+      };
+      reader.readAsDataURL(file);
+      
+      document.getElementById('docImgUploader').style.display = 'none';
+      document.getElementById('docCropUi').style.display = 'block';
+    };
+    
+    function setupDoctorCropCanvas() {
+      const canvas = document.getElementById('docCropCanvas');
+      _docCropCanvas = canvas;
+      _docCropCtx = canvas.getContext('2d');
+      
+      // Basic center crop logic (make it square)
+      const size = Math.min(_docCropImg.width, _docCropImg.height);
+      const sx = (_docCropImg.width - size) / 2;
+      const sy = (_docCropImg.height - size) / 2;
+      
+      canvas.width = 400; // fixed display/output size for simplicity
+      canvas.height = 400;
+      
+      _docCropCtx.drawImage(_docCropImg, sx, sy, size, size, 0, 0, 400, 400);
+      
+      const preview = document.getElementById('docCropPreviewImg');
+      const dataUrl = canvas.toDataURL('image/jpeg', 0.9);
+      preview.src = dataUrl;
+      
+      canvas.toBlob(blob => { _docCroppedBlob = blob; }, 'image/jpeg', 0.9);
+    }
+    
+    window.uploadDoctorCroppedImage = async function() {
+      if(!_docCroppedBlob) return;
+      
+      const status = document.getElementById('docImgStatus');
+      const btn = document.querySelector('.crop-btn-upload');
+      
+      btn.textContent = 'Uploading...';
+      btn.disabled = true;
+      
+      const fd = new FormData();
+      fd.append('image', _docCroppedBlob, 'doctor-profile.jpg');
+      
+      try {
+        const res = await fetch('/api/upload', { method: 'POST', body: fd });
+        const j = await res.json();
+        
+        if(j.success && j.url) {
+          document.getElementById('docIconImageHidden').value = j.url;
+          document.getElementById('docImgPreviewWrapper').innerHTML = `<img src="${esc(j.url)}" alt="">`;
+          
+          document.getElementById('docCropUi').style.display = 'none';
+          document.getElementById('docImgUploader').style.display = 'flex';
+          status.className = 'upload-status ok';
+          status.textContent = 'Cropped image uploaded ✓';
+        } else {
+          alert(j.message || 'Upload failed.');
+        }
+      } catch(e) {
+        alert('Upload failed — is the server running?');
+      } finally {
+        btn.textContent = 'Upload';
+        btn.disabled = false;
+      }
+    };
+
+    /* --- DOCTOR HOSPITAL SEARCH LOGIC --- */
+    let _hospSearchTimer = null;
+    window.handleHospitalSearch = function(query) {
+      clearTimeout(_hospSearchTimer);
+      const dropdown = document.getElementById('docHospitalDropdown');
+      document.getElementById('docFinalHospital').value = query; // keep in sync
+      
+      if(!query || query.trim().length < 2) {
+        dropdown.style.display = 'none';
+        return;
+      }
+      
+      _hospSearchTimer = setTimeout(async () => {
+        try {
+          const res = await fetch('/api/hospitals?search=' + encodeURIComponent(query.trim()));
+          const json = await res.json();
+          const items = json.data || [];
+          
+          if(items.length === 0) {
+            dropdown.innerHTML = `<div class="hosp-item blinkit-item"><div class="bi-content"><span class="bi-name" style="color:var(--muted);">No results found</span></div></div><div class="bi-manual" onclick="document.getElementById('docHospitalDropdown').style.display='none'">Not found? Add manually</div>`;
+          } else {
+            dropdown.innerHTML = items.slice(0, 5).map(h => `
+              <div class="hosp-item blinkit-item" onclick="selectDoctorHospital('${esc(h.name)}', '${esc(h.city||'')}', '${esc(h.location||'')}')">
+                <div class="bi-icon">🏥</div>
+                <div class="bi-content">
+                  <span class="bi-name">${esc(h.name)}</span>
+                  <span class="bi-meta">${esc(h.city||'')} • ${esc(h.location||'')}</span>
+                </div>
+              </div>
+            `).join('') + `<div class="bi-manual" onclick="document.getElementById('docHospitalDropdown').style.display='none'">Not found? Add manually</div>`;
+          }
+          dropdown.style.display = 'block';
+        } catch(e) {
+          dropdown.innerHTML = `<div class="hosp-item"><span class="hosp-meta">Error searching</span></div>`;
+          dropdown.style.display = 'block';
+        }
+      }, 300);
+    };
+
+    window.selectDoctorHospital = function(name, city, location) {
+      document.getElementById('docHospitalSearch').value = name;
+      document.getElementById('docFinalHospital').value = name;
+      
+      const citySelect = document.getElementById('docCitySelect');
+      if(citySelect && city) {
+        const opts = Array.from(citySelect.options);
+        const match = opts.find(o => o.value.toLowerCase() === city.toLowerCase());
+        if(match) citySelect.value = match.value;
+      }
+      
+      if(location) {
+        document.getElementById('docLocationInput').value = location;
+      }
+      
+      document.getElementById('docHospitalDropdown').style.display = 'none';
+    };
+    
+    // Hide dropdown when clicking outside
+    document.addEventListener('click', (e) => {
+      const drop = document.getElementById('docHospitalDropdown');
+      if(drop && !e.target.closest('#docHospitalDropdown') && e.target.id !== 'docHospitalSearch') {
+        drop.style.display = 'none';
+      }
+    });
+
+    /* --- DOCTOR SLOTS LOGIC --- */
+    window.addDoctorSlot = function() {
+      const h = document.getElementById('docSlotHour').value;
+      const m = document.getElementById('docSlotMin').value;
+      const ap = document.getElementById('docSlotAmPm').value;
+      const timeStr = `${h}:${m} ${ap}`;
+      
+      if(!window._docSlots) window._docSlots = new Set();
+      window._docSlots.add(timeStr);
+      renderDoctorSlots();
+    };
+    
+    window.removeDoctorSlot = function(timeStr) {
+      if(window._docSlots) {
+        window._docSlots.delete(timeStr);
+        renderDoctorSlots();
+      }
+    };
+    
+    window.renderDoctorSlots = function(presetNextSlot) {
+      const container = document.getElementById('docSlotTags');
+      const nextSelect = document.getElementById('docNextSlotSelect');
+      const hiddenInput = document.getElementById('docFinalSlots');
+      if(!container || !nextSelect || !hiddenInput) return;
+      
+      const slots = Array.from(window._docSlots || []);
+      
+      container.innerHTML = slots.map(s => `
+        <div class="lang-tag">${esc(s)} <span class="lang-tag-x" onclick="removeDoctorSlot('${esc(s)}')">×</span></div>
+      `).join('');
+      
+      hiddenInput.value = slots.join(', ');
+      
+      const currentNext = presetNextSlot || nextSelect.value;
+      nextSelect.innerHTML = '<option value="">Select Next Slot</option>' + 
+        slots.map(s => `<option value="${esc(s)}" ${s===currentNext?'selected':''}>${esc(s)}</option>`).join('');
+    };
+
+    /* --- DOCTOR CATEGORY LOGIC --- */
+    window.loadDoctorCategories = async function() {
+      const container = document.getElementById('docCategoryPills');
+      if(!container) return;
+      
+      let cats = typeof _catCache !== 'undefined' && _catCache.length > 0 ? _catCache : [];
+      if(cats.length === 0) {
+        try {
+          const res = await fetch('/api/categories');
+          const json = await res.json();
+          cats = json.data || [];
+        } catch(e) {
+          container.innerHTML = '<span class="hosp-meta" style="color:red;">Error loading categories</span>';
+          return;
+        }
+      }
+      
+      container.innerHTML = cats.map(c => {
+        const isSelected = window._docCategories && window._docCategories.has(c.slug);
+        return `<div class="cat-pill ${isSelected?'selected':''}" id="cat-pill-${esc(c.slug)}" onclick="toggleDoctorCategory('${esc(c.slug)}')">${esc(c.name)}</div>`;
+      }).join('');
+      
+      document.getElementById('docFinalCategories').value = Array.from(window._docCategories || []).join(', ');
+    };
+    
+    window.toggleDoctorCategory = function(slug) {
+      if(!window._docCategories) window._docCategories = new Set();
+      if(window._docCategories.has(slug)) window._docCategories.delete(slug);
+      else window._docCategories.add(slug);
+      
+      const pill = document.getElementById('cat-pill-' + slug);
+      if(pill) pill.classList.toggle('selected', window._docCategories.has(slug));
+      
+      document.getElementById('docFinalCategories').value = Array.from(window._docCategories).join(', ');
+    };
 
     /* From the Categories table → open a blank Treatment form with this category preselected. */
     window.addTreatmentForCategory=function(slug){
