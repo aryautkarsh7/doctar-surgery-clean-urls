@@ -1813,6 +1813,7 @@ ${homeDoctors.slice(0, 8).map(doc => `
             </a>
           `).join('')}
         </div>
+        <a href="#/procedures" class="fp-view-all-bottom">View All Procedures <i class="fa-solid fa-arrow-right"></i></a>
       </div>
     `;
 

@@ -11406,3 +11406,39 @@ a.dpp2-contact-val:hover { color: #6F30E5; }
   }
   .hpp-doc-card { scroll-snap-align: start; }
 }
+
+/* "View All Procedures" bottom button — desktop hides it (header link is used) */
+.fp-view-all-bottom { display: none; }
+
+/* =============================================
+   MOBILE: move "View All Procedures" to a full-width
+   pill BELOW the procedure cards
+   ============================================= */
+@media (max-width: 768px) {
+  /* Hide the top header link on mobile */
+  .fp-new-header .fp-view-all { display: none; }
+
+  /* Centered white outlined pill after the cards grid (matches "View All Surgeons") */
+  .fp-view-all-bottom {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    width: fit-content;
+    max-width: 100%;
+    margin: 24px auto 0;
+    padding: 14px 40px;
+    font-size: 1rem;
+    font-weight: 700;
+    border-radius: 999px;
+    background: #fff;
+    color: #5e4091;
+    border: 1.5px solid #5e4091;
+    text-decoration: none;
+    transition: background 0.2s ease, color 0.2s ease;
+  }
+  .fp-view-all-bottom:hover {
+    background: #5e4091;
+    color: #fff;
+  }
+}
