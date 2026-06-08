@@ -2046,6 +2046,8 @@ ${homeDoctors.slice(0, 8).map(doc => `
   // RENDER TREATMENT PAGE (doctar.in listing style)
   // =====================================================
   async function renderTreatmentPage(slug, filters) {
+    document.body.classList.remove('tpl-filter-open');
+
     const treatment = findTreatment(slug);
     if (!treatment) { handleRoute(); return; }
     const category = findCategory(treatment.categorySlug);
@@ -2099,13 +2101,23 @@ ${homeDoctors.slice(0, 8).map(doc => `
       </div>
 
       <!-- MAIN: SIDEBAR + CARDS -->
-      <div class="container tpl-layout">
+      <div class="container tpl-layout tpl-treatment-layout">
+
+        <div class="tpl-filter-bar" style="display:none">
+          <button type="button" class="tpl-filter-fab" aria-expanded="false" onclick="toggleTPLFilter(true)">
+            <i class="fa-solid fa-filter"></i>
+            <span>FILTER</span>
+            <span class="tpl-filter-count">1</span>
+          </button>
+        </div>
+        <div class="tpl-filter-backdrop" id="tpl-filter-backdrop" style="display:none" onclick="toggleTPLFilter(false)"></div>
 
         <!-- LEFT SIDEBAR: FILTERS -->
         <aside class="tpl-sidebar">
+          <button type="button" class="tpl-filter-close" style="display:none" onclick="toggleTPLFilter(false)" aria-label="Close filters">✕</button>
           <div class="tpl-filter-head">
             <i class="fa-solid fa-sliders"></i> Filter Doctors
-            <button class="tpl-reset-btn" onclick="window._tplFilters={}; renderTreatmentPageGlobal('${slug}')">Reset All</button>
+            <button type="button" class="tpl-reset-btn" onclick="window._tplFilters={}; renderTreatmentPageGlobal('${slug}')">Reset All</button>
           </div>
 
           <div class="tpl-filter-group">
@@ -2253,6 +2265,23 @@ ${homeDoctors.slice(0, 8).map(doc => `
     const filters = Object.assign({}, window._tplFilters || {}, { [key]: value });
     if (key === 'rating') filters.rating = parseFloat(value);
     renderTreatmentPage(slug, filters);
+  };
+
+  window.toggleTPLFilter = function(open) {
+    const sidebar = document.querySelector('.tpl-treatment-layout .tpl-sidebar');
+    const backdrop = document.getElementById('tpl-filter-backdrop');
+    const trigger = document.querySelector('.tpl-filter-fab');
+
+    if (!sidebar || !backdrop) return;
+
+    const shouldOpen = open !== undefined ? open : !sidebar.classList.contains('is-open');
+    sidebar.classList.toggle('is-open', shouldOpen);
+    backdrop.classList.toggle('is-open', shouldOpen);
+    document.body.classList.toggle('tpl-filter-open', shouldOpen);
+
+    if (trigger) {
+      trigger.setAttribute('aria-expanded', shouldOpen ? 'true' : 'false');
+    }
   };
 
   window.renderTreatmentPageGlobal = function(slug) {
@@ -3043,6 +3072,8 @@ ${homeDoctors.slice(0, 8).map(doc => `
   // RENDER DOCTORS LISTING PAGE
   // =====================================================
   async function renderDoctorsListingPage(catSlug, filters) {
+    document.body.classList.remove('dl-filter-open');
+
     const category = findCategory(catSlug);
     if (!category) { handleRoute(); return; }
 
@@ -3085,8 +3116,17 @@ ${homeDoctors.slice(0, 8).map(doc => `
       <!-- LAYOUT: SIDEBAR + CARDS -->
       <div class="container dl-layout">
 
+        <!-- Mobile-only filter trigger + backdrop (hidden on desktop via inline display:none) -->
+        <div class="dl-filter-bar" style="display:none">
+          <button type="button" class="dl-filter-fab" aria-expanded="false" onclick="toggleDLFilter(true)">
+            <i class="fa-solid fa-sliders"></i> Filter
+          </button>
+        </div>
+        <div class="dl-filter-backdrop" id="dl-filter-backdrop" style="display:none" onclick="toggleDLFilter(false)"></div>
+
         <!-- LEFT SIDEBAR: FILTERS -->
         <aside class="dl-sidebar">
+          <button type="button" class="dl-filter-close" style="display:none" onclick="toggleDLFilter(false)" aria-label="Close filters">✕</button>
           <div class="dl-filter-header">
             <i class="fa-solid fa-sliders"></i> Filter Doctors
           </div>
@@ -3232,6 +3272,23 @@ ${homeDoctors.slice(0, 8).map(doc => `
     // parse numeric rating
     if (key === 'rating') filters.rating = parseFloat(value);
     renderDoctorsListingPage(catSlug, filters);
+  };
+
+  window.toggleDLFilter = function(open) {
+    const sidebar = document.querySelector('.dl-sidebar');
+    const backdrop = document.getElementById('dl-filter-backdrop');
+    const trigger = document.querySelector('.dl-filter-fab');
+
+    if (!sidebar || !backdrop) return;
+
+    const shouldOpen = open !== undefined ? open : !sidebar.classList.contains('is-open');
+    sidebar.classList.toggle('is-open', shouldOpen);
+    backdrop.classList.toggle('is-open', shouldOpen);
+    document.body.classList.toggle('dl-filter-open', shouldOpen);
+
+    if (trigger) {
+      trigger.setAttribute('aria-expanded', shouldOpen ? 'true' : 'false');
+    }
   };
 
   // =====================================================

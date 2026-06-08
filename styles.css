@@ -4232,6 +4232,146 @@ footer::before {
   .dl-avail-row { flex-direction: column; align-items: flex-start; }
 }
 
+@media (max-width: 768px) {
+  .dl-hero {
+    padding: 24px 0 18px;
+  }
+
+  .dl-hero-title {
+    font-size: 22px;
+    line-height: 1.25;
+  }
+
+  .dl-trust-badges {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 8px;
+  }
+
+  .dl-badge {
+    width: 100%;
+    min-width: 0;
+    border-radius: 12px;
+    padding: 8px 10px;
+    white-space: normal;
+    line-height: 1.25;
+  }
+
+  .dl-layout {
+    grid-template-columns: 1fr;
+    padding: 24px 0 96px;
+  }
+
+  .dl-cards {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 14px;
+    width: 100%;
+  }
+
+  .dl-card {
+    width: 100%;
+    box-sizing: border-box;
+  }
+
+  .dl-sidebar {
+    display: none;
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    top: auto;
+    z-index: 200;
+    max-height: 80vh;
+    overflow-y: auto;
+    background: #fff;
+    border-radius: 20px 20px 0 0;
+    box-shadow: 0 -4px 20px rgba(0,0,0,0.15);
+    padding: 22px 20px 24px;
+    transform: translateY(100%);
+    transition: transform 0.25s ease;
+  }
+
+  .dl-sidebar.is-open {
+    display: block;
+    transform: translateY(0);
+    animation: dl-filter-sheet-up 0.25s ease;
+  }
+
+  .dl-filter-bar {
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 100;
+    display: flex !important;
+    width: 100%;
+    background: #fff;
+    padding: 12px;
+    box-sizing: border-box;
+    box-shadow: 0 -6px 18px rgba(26, 26, 46, 0.08);
+  }
+
+  .dl-filter-fab {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    width: 100%;
+    min-height: 48px;
+    border: 0;
+    border-radius: 14px;
+    background: var(--primary);
+    color: #fff;
+    font-size: 0.95rem;
+    font-weight: 700;
+    box-shadow: 0 10px 24px rgba(94, 64, 145, 0.28);
+  }
+
+  .dl-filter-backdrop {
+    position: fixed;
+    inset: 0;
+    z-index: 150;
+    display: none;
+    background: rgba(26, 26, 46, 0.48);
+  }
+
+  .dl-filter-backdrop.is-open {
+    display: block !important;
+  }
+
+  .dl-filter-close {
+    display: flex !important;
+    align-items: center;
+    justify-content: center;
+    width: 34px;
+    height: 34px;
+    margin-left: auto;
+    margin-bottom: 10px;
+    border: 1px solid #e8e8f0;
+    border-radius: 50%;
+    background: #fff;
+    color: #1a1a2e;
+    font-size: 1rem;
+    font-weight: 700;
+    cursor: pointer;
+  }
+
+  body.dl-filter-open {
+    overflow: hidden;
+  }
+
+  @keyframes dl-filter-sheet-up {
+    from {
+      transform: translateY(100%);
+    }
+
+    to {
+      transform: translateY(0);
+    }
+  }
+}
+
 /* =========================================
    TREATMENT LISTING PAGE (doctar.in style)
 ========================================= */
@@ -4715,6 +4855,167 @@ footer::before {
   .tpl-card-top { flex-wrap: wrap; }
   .tpl-fee-block { text-align: left; }
   .tpl-avail-row { flex-direction: column; align-items: flex-start; }
+}
+
+@media (max-width: 768px) {
+  .tpl-hero {
+    padding: 20px 0 15px;
+  }
+
+  .tpl-hero-inner,
+  .tpl-treatment-layout {
+    box-sizing: border-box;
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+
+  .tpl-title {
+    font-size: 22px;
+    line-height: 1.25;
+  }
+
+  .tpl-trust-row {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 8px;
+  }
+
+  .tpl-badge {
+    width: 100%;
+    min-width: 0;
+    border-radius: 12px;
+    padding: 8px 10px;
+    white-space: normal;
+    line-height: 1.25;
+  }
+
+  .tpl-treatment-layout {
+    grid-template-columns: 1fr;
+    padding-top: 24px;
+    padding-bottom: 104px;
+  }
+
+  .tpl-treatment-layout .tpl-sidebar {
+    display: none;
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    top: auto;
+    z-index: 200;
+    max-height: 80vh;
+    overflow-y: auto;
+    background: #fff;
+    border-radius: 20px 20px 0 0;
+    box-shadow: 0 -4px 20px rgba(0,0,0,0.15);
+    padding: 22px 20px 24px;
+    transform: translateY(100%);
+  }
+
+  .tpl-treatment-layout .tpl-sidebar.is-open {
+    display: block;
+    transform: translateY(0);
+    animation: tpl-filter-sheet-up 0.25s ease;
+  }
+
+  .tpl-filter-bar {
+    position: fixed;
+    left: 50%;
+    bottom: 14px;
+    z-index: 100;
+    display: flex !important;
+    width: auto;
+    background: transparent;
+    padding: 0;
+    box-sizing: border-box;
+    transform: translateX(-50%);
+  }
+
+  .tpl-filter-fab {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    min-width: 170px;
+    min-height: 58px;
+    padding: 0 26px;
+    border: 0;
+    border-radius: 18px 18px 0 0;
+    background: var(--primary);
+    color: #fff;
+    font-size: 0.86rem;
+    font-weight: 800;
+    letter-spacing: 0.4px;
+    text-transform: uppercase;
+    box-shadow: 0 -8px 24px rgba(94, 64, 145, 0.28);
+  }
+
+  .tpl-filter-count {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 22px;
+    height: 22px;
+    border-radius: 50%;
+    background: #fff;
+    color: var(--primary);
+    font-size: 0.78rem;
+    font-weight: 800;
+  }
+
+  .tpl-filter-backdrop {
+    position: fixed;
+    inset: 0;
+    z-index: 150;
+    display: none;
+    background: rgba(26, 26, 46, 0.48);
+  }
+
+  .tpl-filter-backdrop.is-open {
+    display: block !important;
+  }
+
+  .tpl-filter-close {
+    display: flex !important;
+    align-items: center;
+    justify-content: center;
+    width: 34px;
+    height: 34px;
+    margin-left: auto;
+    margin-bottom: 10px;
+    border: 1px solid #e8e8f0;
+    border-radius: 50%;
+    background: #fff;
+    color: #1a1a2e;
+    font-size: 1rem;
+    font-weight: 700;
+    cursor: pointer;
+  }
+
+  .tpl-treatment-layout .tpl-doctors-grid {
+    grid-template-columns: 1fr;
+    width: 100%;
+    gap: 16px;
+  }
+
+  .tpl-treatment-layout .tpl-doctors-grid .doctor-card {
+    width: 100%;
+    box-sizing: border-box;
+  }
+
+  body.tpl-filter-open {
+    overflow: hidden;
+  }
+
+  @keyframes tpl-filter-sheet-up {
+    from {
+      transform: translateY(100%);
+    }
+
+    to {
+      transform: translateY(0);
+    }
+  }
 }
 
 /* =========================================
@@ -6747,6 +7048,74 @@ footer::before {
   .hpp-doctors,
   .hpp-book-card {
     grid-template-columns: 1fr;
+  }
+}
+
+/* =========================================
+   HOSPITAL DETAIL — MOBILE OVERFLOW FIXES
+   (real classes: .hpp-summary-row is the label|value
+    "info table"; containers are .hpp-hero/.hpp-layout/
+    .hpp-section/.hpp-summary-card/.hpp-sidebar/.hpp-main)
+========================================= */
+@media (max-width: 768px) {
+  /* Summary rows: stack label over value so long values never get cut off */
+  .hpp-summary-row {
+    display: block;
+    margin-bottom: 12px;
+  }
+
+  .hpp-summary-row span {
+    display: block;
+    width: 100%;
+    font-weight: 600;
+    color: #888;
+    font-size: 11px;
+    text-transform: uppercase;
+    word-break: break-word;
+    overflow-wrap: break-word;
+  }
+
+  .hpp-summary-row strong {
+    display: block;
+    width: 100%;
+    text-align: left;
+    color: #111;
+    font-size: 14px;
+    padding-top: 2px;
+    word-break: break-word;
+    overflow-wrap: break-word;
+  }
+
+  /* Outer page containers: keep content within the viewport */
+  .hpp-hero,
+  .hpp-layout,
+  .hpp-section,
+  .hpp-summary-card,
+  .hpp-sidebar,
+  .hpp-main {
+    padding-left: 16px !important;
+    padding-right: 16px !important;
+  }
+
+  .hpp-hero,
+  .hpp-layout,
+  .hpp-section,
+  .hpp-summary-card,
+  .hpp-sidebar,
+  .hpp-main {
+    box-sizing: border-box;
+    max-width: 100%;
+    overflow-x: hidden;
+  }
+
+  /* Stop any long text/value from overflowing its container */
+  .hpp-hero,
+  .hpp-hero *,
+  .hpp-layout,
+  .hpp-layout * {
+    max-width: 100%;
+    overflow-wrap: break-word;
+    word-break: break-word;
   }
 }
 
