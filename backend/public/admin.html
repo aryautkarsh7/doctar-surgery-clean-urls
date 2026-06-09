@@ -1395,6 +1395,9 @@
       background: var(--primary); color: #fff; border-color: var(--primary);
     }
   </style>
+  <!-- Cropper.js (CDN) — used by the hospital image crop tool -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/cropperjs/1.5.13/cropper.min.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/cropperjs/1.5.13/cropper.min.js"></script>
 </head>
 <body>
 
@@ -1995,8 +1998,8 @@
           {key:'rating',label:'Rating',type:'number'},{key:'reviews',label:'Reviews',type:'number'},
           {key:'phone',label:'Phone'},{key:'hours',label:'Hours'},
           {key:'address',label:'Address',full:true},
-          {key:'image',label:'Photo (building/banner)',type:'image',full:true},
-          {key:'logo',label:'Logo',type:'image',full:true},
+          {key:'image',label:'Hospital Image URL',type:'imageUrlCrop',placeholder:'https://example.com/hospital-image.jpg',full:true},
+          {key:'logo',label:'Hospital Logo URL',type:'imageUrl',placeholder:'https://example.com/hospital-logo.png',full:true},
           {key:'map',label:'Location (search or click map to set)',type:'map',full:true},
           {key:'specialties',label:'Specialties (comma separated)',array:true,full:true},
           {key:'amenities',label:'Amenities (comma separated)',array:true,full:true},
@@ -2483,6 +2486,28 @@
           </div>`;
         }
         // Image upload field — file picker + live preview, stores the returned URL.
+        // Image/Logo URL input with live preview (+ optional crop uploader). Hospital-only.
+        if(f.type==='imageUrl' || f.type==='imageUrlCrop'){
+          const url=existing[f.key]||'';
+          const inpId='imgurl-'+f.key;
+          const prevId='imgprev-'+f.key;
+          return `<div class="field full">
+            <label>${f.label}</label>
+            <input type="text" id="${inpId}" data-key="${f.key}" value="${esc(url)}"
+              placeholder="${esc(f.placeholder||'https://example.com/image.jpg')}"
+              oninput="updateImgPreview('${prevId}', this.value)">
+            ${f.type==='imageUrlCrop' ? `
+              <div style="margin-top:8px;">
+                <input type="file" id="cropfile-${f.key}" accept="image/*" style="display:none" onchange="openImageCropper(this,'${inpId}','${prevId}')">
+                <button type="button" class="btn btn-outline btn-sm" onclick="document.getElementById('cropfile-${f.key}').click()">
+                  <i class="fa-solid fa-crop"></i> Upload &amp; Crop Image
+                </button>
+              </div>` : ''}
+            <img id="${prevId}" src="${esc(url)}" alt=""
+              style="margin-top:10px; max-width:100%; max-height:200px; object-fit:cover; border-radius:8px; ${url?'':'display:none;'}"
+              onerror="this.style.display='none'">
+          </div>`;
+        }
         if(f.type==='image'){
           const url=existing[f.key]||'';
           const previewCls = f.previewRatio==='16:9'
@@ -3345,6 +3370,52 @@
     }
     window.handleImageUpload=handleImageUpload;
 
+    /* ---------- Image URL live preview + Cropper.js (hospital form) ---------- */
+    window.updateImgPreview=function(prevId,val){
+      const img=document.getElementById(prevId);
+      if(!img)return;
+      val=(val||'').trim();
+      if(val){ img.src=val; img.style.display=''; }
+      else { img.removeAttribute('src'); img.style.display='none'; }
+    };
+
+    let _hospCropper=null;
+    window.openImageCropper=function(fileInput,targetInputId,prevId){
+      const file=fileInput.files&&fileInput.files[0];
+      if(!file)return;
+      const reader=new FileReader();
+      reader.onload=function(e){
+        const overlay=document.getElementById('cropper-overlay');
+        const img=document.getElementById('cropper-image');
+        overlay.dataset.target=targetInputId;
+        overlay.dataset.prev=prevId;
+        if(_hospCropper){ _hospCropper.destroy(); _hospCropper=null; }
+        img.onload=function(){
+          if(typeof Cropper==='undefined'){ alert('Cropper library not loaded.'); return; }
+          _hospCropper=new Cropper(img,{ aspectRatio:16/9, viewMode:1, autoCropArea:1, background:false });
+        };
+        img.src=e.target.result;
+        overlay.style.display='flex';
+      };
+      reader.readAsDataURL(file);
+      fileInput.value=''; // allow re-selecting the same file
+    };
+    window.applyCrop=function(){
+      const overlay=document.getElementById('cropper-overlay');
+      if(!_hospCropper){ window.closeCropper(); return; }
+      const canvas=_hospCropper.getCroppedCanvas({ maxWidth:1280, maxHeight:720 });
+      const dataUrl=canvas.toDataURL('image/jpeg',0.85);
+      const input=document.getElementById(overlay.dataset.target);
+      if(input){ input.value=dataUrl; }
+      window.updateImgPreview(overlay.dataset.prev,dataUrl);
+      window.closeCropper();
+    };
+    window.closeCropper=function(){
+      const overlay=document.getElementById('cropper-overlay');
+      if(_hospCropper){ _hospCropper.destroy(); _hospCropper=null; }
+      if(overlay) overlay.style.display='none';
+    };
+
     /* ---------- Leaflet map picker ---------- */
     let pickMap=null,pickMarker=null;
     function setPickedCoords(lat,lng){
@@ -3451,5 +3522,17 @@
     }
     window.delItem=delItem;
   </script>
+
+  <!-- IMAGE CROPPER MODAL (hospital image) -->
+  <div id="cropper-overlay" style="display:none; position:fixed; inset:0; z-index:9999; background:rgba(0,0,0,0.7); align-items:center; justify-content:center;">
+    <div style="background:#fff; border-radius:12px; padding:18px; width:660px; max-width:92vw; max-height:92vh; overflow:auto; box-shadow:0 20px 60px rgba(0,0,0,0.4);">
+      <h3 style="margin:0 0 12px; font-size:1.05rem; color:#1a1a2e;">Crop Image (16:9)</h3>
+      <div style="max-height:62vh;"><img id="cropper-image" style="display:block; max-width:100%;"></div>
+      <div style="display:flex; justify-content:flex-end; gap:10px; margin-top:16px;">
+        <button type="button" class="btn btn-outline" onclick="closeCropper()">Cancel</button>
+        <button type="button" class="btn btn-primary" onclick="applyCrop()">Crop &amp; Use</button>
+      </div>
+    </div>
+  </div>
 </body>
 </html>

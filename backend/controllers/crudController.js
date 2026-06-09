@@ -4,10 +4,17 @@
  */
 function crudController(Model, label = 'Item') {
   return {
-    // GET /  — list all (newest first when timestamps exist)
+    // GET /  — list all (newest first when timestamps exist).
+    // Supports filtering by any real schema field via query params,
+    // e.g. GET /api/subcategories?categorySlug=general-surgery
     async getAll(req, res) {
       try {
-        const items = await Model.find().sort({ createdAt: -1 });
+        const filter = {};
+        const paths = Model.schema.paths;
+        for (const key of Object.keys(req.query || {})) {
+          if (paths[key]) filter[key] = req.query[key];
+        }
+        const items = await Model.find(filter).sort({ createdAt: -1 });
         res.json({ success: true, total: items.length, data: items });
       } catch (err) {
         res.status(500).json({ success: false, error: err.message });

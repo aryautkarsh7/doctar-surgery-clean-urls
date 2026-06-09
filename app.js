@@ -1931,6 +1931,29 @@ ${homeDoctors.slice(0, 8).map(doc => `
     const pageVideos = await fetchVideosForPage('category-' + slug);
     const pageBlogs = await fetchBlogsForPage('category-' + slug);
 
+    // Fetch sub-categories for this category (live, filtered by categorySlug).
+    let subcategories = [];
+    try {
+      const subRes = await fetch(API_BASE + `/api/subcategories?categorySlug=${encodeURIComponent(category.slug)}`);
+      const subJson = await subRes.json();
+      subcategories = Array.isArray(subJson) ? subJson : (subJson.data || []);
+    } catch (e) {
+      // Fallback to the bundled global if the API is unavailable
+      subcategories = SUBCATEGORIES.filter(sc => sc.categorySlug === category.slug);
+    }
+    subcategories.sort((a, b) => (a.order || 0) - (b.order || 0));
+
+    const subPillsHTML = subcategories.length > 0 ? `
+      <div class="cp-subcategories">
+        <h3>Browse by Procedure Type</h3>
+        <div class="cp-sub-pills">
+          ${subcategories.map(sub => `
+            <a href="#/treatments?subcategory=${sub.slug}" class="cp-sub-pill">${sub.name}</a>
+          `).join('')}
+        </div>
+      </div>
+    ` : '';
+
     // Single treatment card renderer (reused for grouped + flat layouts)
     const treatmentCardHTML = (t) => `
       <a href="#/treatment/${t.slug}" class="cat-treatment-card" style="--card-color: ${category.color}; --card-light: ${category.colorLight};">
@@ -2022,6 +2045,8 @@ ${homeDoctors.slice(0, 8).map(doc => `
           <h2>All ${category.name} Treatments <span class="cat-count-badge">${treatments.length}</span></h2>
           <p>Click any treatment to see full details, cost, and book a free consultation.</p>
         </div>
+
+        ${subPillsHTML}
 
         ${groupedTreatmentsHTML}
       </div>
@@ -3488,6 +3513,52 @@ ${homeDoctors.slice(0, 8).map(doc => `
   };
 
   // =====================================================
+  // HOSPITAL DISTANCE (live, via Browser Geolocation)
+  // =====================================================
+  // Great-circle distance between two lat/lng points (km), no paid API.
+  function getHaversineDistance(lat1, lng1, lat2, lng2) {
+    const R = 6371;
+    const dLat = (lat2 - lat1) * Math.PI / 180;
+    const dLng = (lng2 - lng1) * Math.PI / 180;
+    const a = Math.sin(dLat / 2) * Math.sin(dLat / 2) +
+              Math.cos(lat1 * Math.PI / 180) * Math.cos(lat2 * Math.PI / 180) *
+              Math.sin(dLng / 2) * Math.sin(dLng / 2);
+    const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
+    return (R * c).toFixed(1);
+  }
+
+  // Ask for location once and update every .hosp-distance span on the page.
+  function updateHospitalDistances() {
+    const els = document.querySelectorAll('.hosp-distance');
+    if (!els.length) return;
+    if (!navigator.geolocation) {
+      els.forEach(el => { el.textContent = 'Distance unavailable'; });
+      return;
+    }
+    navigator.geolocation.getCurrentPosition(
+      (pos) => {
+        const userLat = pos.coords.latitude;
+        const userLng = pos.coords.longitude;
+        document.querySelectorAll('.hosp-distance').forEach(el => {
+          const lat = parseFloat(el.dataset.lat);
+          const lng = parseFloat(el.dataset.lng);
+          if (!isNaN(lat) && !isNaN(lng)) {
+            el.textContent = getHaversineDistance(userLat, userLng, lat, lng) + ' km away';
+          } else {
+            el.textContent = 'Distance unavailable';
+          }
+        });
+      },
+      () => {
+        document.querySelectorAll('.hosp-distance').forEach(el => {
+          el.textContent = 'Distance unavailable';
+        });
+      },
+      { timeout: 8000 }
+    );
+  }
+
+  // =====================================================
   // RENDER ALL HOSPITALS PAGE
   // =====================================================
   function renderAllHospitalsPage(filters) {
@@ -3622,7 +3693,7 @@ ${homeDoctors.slice(0, 8).map(doc => `
                     <h3>${hospital.name}</h3>
                     <div class="hl-meta-list">
                       <span><i class="fa-solid fa-location-dot"></i>${hospital.address}</span>
-                      <span><i class="fa-solid fa-route"></i>${hospital.distance}</span>
+                      <span><i class="fa-solid fa-route"></i> <span class="hosp-distance" data-lat="${hospital.map && hospital.map.lat != null ? hospital.map.lat : ''}" data-lng="${hospital.map && hospital.map.lng != null ? hospital.map.lng : ''}">Locating…</span></span>
                       <span><i class="fa-solid fa-user-doctor"></i>${hospital.type}</span>
                     </div>
                   </div>
@@ -3652,6 +3723,7 @@ ${homeDoctors.slice(0, 8).map(doc => `
 
     appContainer.innerHTML = html;
     window._allHospitalsFilters = filters;
+    updateHospitalDistances();
   }
 
   window.applyAllHospitalsFilter = function(key, value) {

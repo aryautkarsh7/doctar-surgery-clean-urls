@@ -11842,3 +11842,33 @@ a.dpp2-contact-val:hover { color: #6F30E5; }
     color: #fff;
   }
 }
+
+/* =============================================
+   CATEGORY PAGE — "Browse by Procedure Type" pills
+   ============================================= */
+.cp-subcategories { margin: 24px 0; }
+.cp-subcategories h3 {
+  font-size: 18px;
+  font-weight: 600;
+  margin-bottom: 12px;
+}
+.cp-sub-pills {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+.cp-sub-pill {
+  background: #f3f4f6;
+  border: 1px solid #e5e7eb;
+  color: #374151;
+  padding: 8px 16px;
+  border-radius: 20px;
+  font-size: 14px;
+  text-decoration: none;
+  transition: all 0.2s;
+}
+.cp-sub-pill:hover {
+  background: #6c3fc5;
+  color: white;
+  border-color: #6c3fc5;
+}
