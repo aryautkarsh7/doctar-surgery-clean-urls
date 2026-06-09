@@ -11,6 +11,35 @@ document.addEventListener('DOMContentLoaded', () => {
     handleRoute();
   }
 
+  function showSkeleton(type) {
+    const appContainer = document.getElementById('app');
+    const card = `<div class="sk-card">
+      <div class="sk-img sk-box"></div>
+      <div class="sk-line sk-box" style="width:70%"></div>
+      <div class="sk-line sk-box" style="width:50%"></div>
+      <div class="sk-line sk-box" style="width:40%"></div>
+    </div>`;
+    const skeletons = {
+      list: `<div class="sk-wrapper"><div class="sk-list">
+        ${Array(6).fill(card).join('')}
+      </div></div>`,
+      detail: `<div class="sk-wrapper"><div class="sk-detail">
+        <div class="sk-hero sk-box"></div>
+        <div class="sk-line sk-box" style="width:60%"></div>
+        <div class="sk-line sk-box" style="width:80%"></div>
+        <div class="sk-line sk-box" style="width:40%"></div>
+        <div class="sk-line sk-box" style="width:90%"></div>
+      </div></div>`,
+      home: `<div class="sk-wrapper"><div class="sk-home">
+        <div class="sk-hero sk-box"></div>
+        <div class="sk-section">
+          ${Array(4).fill(card).join('')}
+        </div>
+      </div></div>`
+    };
+    appContainer.innerHTML = skeletons[type] || skeletons.list;
+  }
+
   function handleRoute() {
     try {
       const hash = window.location.hash || '#/';
@@ -749,6 +778,7 @@ document.addEventListener('DOMContentLoaded', () => {
   // RENDER HOMEPAGE
   // =====================================================
   async function renderHomePage() {
+    showSkeleton('home');
     const treatmentShowcase = [
       { title: 'Orthopedics', slug: 'orthopedics', image: 'images/service-general.png', icon: 'fa-solid fa-bone', tags: ['Knee', 'Hip', 'Spine'], treatmentCount: 18, color: '#7c3aed' },
       { title: 'Cardiology', slug: 'cardiology', image: 'images/service-cardiac.png', icon: 'fa-solid fa-heart-pulse', tags: ['Angioplasty', 'Bypass', 'Valve'], treatmentCount: 14, color: '#e85d8f' },
@@ -1924,6 +1954,7 @@ ${homeDoctors.slice(0, 8).map(doc => `
   // RENDER CATEGORY PAGE
   // =====================================================
   async function renderCategoryPage(slug) {
+    showSkeleton('list');
     const category = findCategory(slug);
     if (!category) { handleRoute(); return; }
     const treatments = TREATMENTS[slug] || [];
@@ -2079,6 +2110,7 @@ ${homeDoctors.slice(0, 8).map(doc => `
   // RENDER TREATMENT PAGE (doctar.in listing style)
   // =====================================================
   async function renderTreatmentPage(slug, filters) {
+    showSkeleton('detail');
     document.body.classList.remove('tpl-filter-open');
 
     const treatment = findTreatment(slug);
@@ -2327,6 +2359,7 @@ ${homeDoctors.slice(0, 8).map(doc => `
   // RENDER DOCTOR PROFILE PAGE
   // =====================================================
   async function renderDoctorProfilePage(slug) {
+    showSkeleton('detail');
     const doc = DOCTORS.find(d => d.slug === slug);
     if (!doc) { handleRoute(); return; }
     const pageVideos = await fetchVideosForPage('doctor-' + slug);
@@ -2779,6 +2812,7 @@ ${homeDoctors.slice(0, 8).map(doc => `
   // RENDER HOSPITAL DETAIL PAGE
   // =====================================================
   function renderHospitalDetailPage(slug) {
+    showSkeleton('detail');
     const hospital = findHospital(slug);
     if (!hospital) { handleRoute(); return; }
 
@@ -3107,6 +3141,7 @@ ${homeDoctors.slice(0, 8).map(doc => `
   // RENDER DOCTORS LISTING PAGE
   // =====================================================
   async function renderDoctorsListingPage(catSlug, filters) {
+    showSkeleton('list');
     document.body.classList.remove('dl-filter-open');
 
     const category = findCategory(catSlug);
@@ -3330,6 +3365,7 @@ ${homeDoctors.slice(0, 8).map(doc => `
   // RENDER ALL DOCTORS PAGE
   // =====================================================
   async function renderAllDoctorsPage(filters) {
+    showSkeleton('list');
     const currentCity = getCurrentCity();
     filters = filters || { availability: 'all', rating: 0, fee: 'all', experience: 'all', gender: 'all' };
 
@@ -3562,6 +3598,7 @@ ${homeDoctors.slice(0, 8).map(doc => `
   // RENDER ALL HOSPITALS PAGE
   // =====================================================
   function renderAllHospitalsPage(filters) {
+    showSkeleton('list');
     const currentCity = getCurrentCity();
     filters = filters || { type: 'all', rating: 0, accreditation: 'all', service: 'all' };
 
