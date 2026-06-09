@@ -1218,6 +1218,132 @@
       .doc-step-label { display: none; }
     }
 
+    /* ===== HOSPITAL WIZARD ===== */
+    .hw-substep {
+      grid-column: 1 / -1; font-size: 0.8rem; font-weight: 700; color: var(--muted);
+      margin: 4px 0 -4px;
+    }
+    .hw-note {
+      font-size: 0.74rem; color: var(--muted); font-weight: 600; margin-top: 4px;
+    }
+    .field-error {
+      color: var(--red); font-size: 0.76rem; font-weight: 700; margin-top: 4px;
+      min-height: 14px; display: none;
+    }
+    .field.has-error input, .field.has-error textarea, .field.has-error select { border-color: var(--red); }
+    .field.has-error .field-error { display: block; }
+
+    /* Inline helper button (Auto-detect / GPS) */
+    .hw-inline-btn {
+      align-self: flex-start; padding: 7px 14px; font-size: 0.78rem; margin-top: 4px;
+    }
+
+    /* Tag picker (services, amenities, metrics, accreditations, awards) */
+    .hw-tagbox {
+      display: flex; flex-direction: column; gap: 8px;
+      border: 1.5px solid var(--border); border-radius: var(--radius-md); padding: 10px;
+    }
+    .hw-tag-input-row { display: flex; gap: 6px; }
+    .hw-tag-input-row input {
+      flex: 1; padding: 9px 12px; border: 1.5px solid var(--border);
+      border-radius: var(--radius-sm); font-size: 0.86rem; outline: none;
+    }
+    .hw-tag-input-row input:focus { border-color: var(--primary); }
+    .hw-tag-input-row button { padding: 8px 16px; white-space: nowrap; }
+    .hw-tags { display: flex; flex-wrap: wrap; gap: 6px; min-height: 8px; }
+    .hw-tag {
+      display: inline-flex; align-items: center; gap: 6px; padding: 5px 12px;
+      border-radius: 999px; font-size: 0.78rem; font-weight: 700;
+      background: var(--primary-light); color: var(--primary); border: 1px solid #ddd5f0;
+    }
+    .hw-tag .x { cursor: pointer; font-size: 1rem; line-height: 1; opacity: 0.7; }
+    .hw-tag .x:hover { opacity: 1; }
+    .hw-suggest { display: flex; flex-wrap: wrap; gap: 6px; }
+    .hw-suggest-pill {
+      padding: 4px 12px; border-radius: 999px; font-size: 0.76rem; font-weight: 600;
+      cursor: pointer; border: 1.5px dashed var(--border); background: #fff; color: var(--muted);
+      transition: all 0.15s ease; user-select: none;
+    }
+    .hw-suggest-pill:hover { border-color: var(--primary); color: var(--primary); border-style: solid; }
+
+    /* Specialty multi-select pills */
+    .hw-spec-grid { display: flex; flex-wrap: wrap; gap: 7px; }
+    .hw-spec-pill {
+      padding: 7px 14px; border-radius: 999px; font-size: 0.82rem; font-weight: 600;
+      cursor: pointer; border: 1.5px solid var(--border); background: #fff;
+      color: var(--text); transition: all 0.18s ease; user-select: none;
+    }
+    .hw-spec-pill:hover { border-color: var(--primary); background: var(--primary-light); }
+    .hw-spec-pill.selected { background: var(--primary); color: #fff; border-color: var(--primary); }
+
+    /* Operating-hours day rows */
+    .hw-day-row {
+      display: grid; grid-template-columns: 150px 1fr; align-items: center; gap: 14px;
+      padding: 12px 14px; border: 1.5px solid var(--border); border-radius: var(--radius-md);
+    }
+    .hw-day-row.off { opacity: 0.55; }
+    .hw-day-toggle {
+      display: flex; align-items: center; gap: 9px; font-weight: 700; font-size: 0.88rem;
+      cursor: pointer; text-transform: none; letter-spacing: 0; color: var(--text);
+    }
+    .hw-day-toggle input { width: 18px; height: 18px; accent-color: var(--primary); }
+    .hw-day-times { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }
+    .hw-day-times input[type=time] {
+      padding: 8px 10px; border: 1.5px solid var(--border); border-radius: var(--radius-sm);
+      font-size: 0.85rem; font-family: inherit; outline: none;
+    }
+    .hw-day-times input[type=time]:focus { border-color: var(--primary); }
+    .hw-day-times .sep { color: var(--muted); font-weight: 700; }
+    .hw-24-label {
+      display: inline-flex; align-items: center; gap: 6px; font-size: 0.8rem;
+      font-weight: 600; color: var(--text); cursor: pointer; text-transform: none; letter-spacing: 0;
+    }
+    .hw-24-label input { width: 16px; height: 16px; accent-color: var(--primary); }
+
+    /* Gallery grid */
+    .hw-gallery { display: grid; grid-template-columns: repeat(5, 1fr); gap: 10px; }
+    .hw-gallery-cell { display: flex; flex-direction: column; gap: 6px; }
+    .hw-gallery-cell input {
+      padding: 8px 10px; border: 1.5px solid var(--border); border-radius: var(--radius-sm);
+      font-size: 0.78rem; outline: none;
+    }
+    .hw-gallery-cell input:focus { border-color: var(--primary); }
+    .hw-gallery-thumb {
+      width: 100%; aspect-ratio: 1; border-radius: 8px; background: var(--primary-light);
+      object-fit: cover; border: 1px solid var(--border);
+    }
+    @media (max-width: 760px) {
+      .hw-gallery { grid-template-columns: repeat(2, 1fr); }
+      .hw-day-row { grid-template-columns: 1fr; gap: 8px; }
+    }
+
+    /* Nominatim address/city autocomplete dropdown */
+    .nominatim-dropdown {
+      position: absolute;
+      top: 100%;
+      left: 0;
+      right: 0;
+      background: white;
+      border: 1px solid #e5e7eb;
+      border-radius: 8px;
+      box-shadow: 0 4px 16px rgba(0,0,0,0.12);
+      z-index: 9999;
+      max-height: 220px;
+      overflow-y: auto;
+      margin-top: 4px;
+    }
+    .nominatim-item {
+      padding: 10px 14px;
+      cursor: pointer;
+      font-size: 13px;
+      color: #374151;
+      border-bottom: 1px solid #f3f4f6;
+      line-height: 1.4;
+    }
+    .nominatim-item:last-child { border-bottom: none; }
+    .nominatim-item:hover { background: #f3f4f6; }
+    .nominatim-item strong { color: #111; }
+
     /* --- PHONE PREFIX BLOCK --- */
     .phone-prefix-wrap {
       display: flex; align-items: stretch; border: 1.5px solid var(--border);
@@ -2453,6 +2579,15 @@
         modal.classList.add('open');
         return;
       }
+      // ── Hospitals: custom 7-step onboarding wizard ──
+      if(key==='hospitals'){
+        const mp = modal.querySelector('.modal');
+        if (mp) { mp.style.width=''; mp.style.maxWidth=''; mp.style.left=''; }
+        try { _catCache = (await (await fetch('/api/categories')).json()).data || []; } catch(e){ _catCache = []; }
+        renderHospitalMultiStepForm(existing);
+        modal.classList.add('open');
+        return;
+      }
       const needsShowOn = cfg.fields.some(f=>f.type==='showOn');
       if (needsShowOn) await loadShowOnData();
       // Load categories for any dynamic category dropdowns; subcategories for treatment forms.
@@ -3370,6 +3505,695 @@
     }
     window.handleImageUpload=handleImageUpload;
 
+    /* ==========================================================
+       HOSPITALS — 7-step onboarding wizard
+       All inputs carry data-key so the generic modalSave handler
+       collects them; structured fields (operating hours, gallery,
+       coordinates) are folded in by collectHospitalExtras().
+       ========================================================== */
+    const HOSP_STEPS = ['Basic','Contact','Services','Media','Docs','Hours','Review'];
+    const HOSP_TYPES = ['Government Hospital','Private Hospital','Multispeciality Hospital','Specialty Hospital','Clinic','Polyclinic','Nursing Home','Diagnostic Center','Primary Health Center','Community Health Center','Teaching Hospital','Day Care Center','Rehabilitation Center','Maternity Home','Eye Hospital','Dental Clinic','Ayurvedic Hospital','Homeopathy Clinic','Other'];
+    const HOSP_OWNERSHIP = ['Individual','Partnership','Private Limited','Public Limited','Trust','Society','Government','Other'];
+    const HOSP_DAYS = ['Monday','Tuesday','Wednesday','Thursday','Friday','Saturday','Sunday'];
+    const HOSP_SUGGEST = {
+      services: ['Cashless insurance','Modular OT','24/7 Emergency','Free cab assistance','Ambulance','ICU','Blood Bank','Teleconsultation'],
+      amenities: ['Insurance desk','Pharmacy','Diagnostics','Cafeteria','Parking','Waiting Lounge','ATM','Wheelchair Access'],
+      metrics: ['710+ Beds','JCI Accredited','NABH Accredited','24/7 Emergency','50+ Specialists'],
+      accreditations: ['NABH','JCI','ISO 9001','NABL','NQAS'],
+      awards: [],
+    };
+    let _hospStep = 1;
+
+    function renderHospitalMultiStepForm(h){
+      h = h || {};
+      const v = k => esc(h[k] != null ? h[k] : '');
+      const m = h.map || {};
+      const lat = (m.lat!=null)?m.lat:'';
+      const lng = (m.lng!=null)?m.lng:'';
+
+      // ── tag / specialty state ──
+      const toSet = val => new Set((Array.isArray(val)?val:String(val||'').split(',')).map(s=>String(s).trim()).filter(Boolean));
+      window._hospTags = {
+        specialties: toSet(h.specialties), services: toSet(h.services),
+        amenities: toSet(h.amenities), metrics: toSet(h.metrics),
+        accreditations: toSet(h.accreditations), awards: toSet(h.awards),
+      };
+      // ── operating hours state ──
+      const dayDefaults = d => {
+        if(['Saturday'].includes(d)) return { enabled:true, open24:false, open:'09:00', close:'14:00' };
+        if(['Sunday'].includes(d))   return { enabled:false, open24:false, open:'09:00', close:'18:00' };
+        return { enabled:true, open24:false, open:'09:00', close:'18:00' };
+      };
+      window._hospHours = {};
+      HOSP_DAYS.forEach(d=>{
+        const ex = Array.isArray(h.operatingHours) ? h.operatingHours.find(x=>x && x.day===d) : null;
+        window._hospHours[d] = ex ? { enabled:!!ex.enabled, open24:!!ex.open24, open:ex.open||'09:00', close:ex.close||'18:00' } : dayDefaults(d);
+      });
+      window._hospMapInited = false;
+
+      const yearOpts = sel => { let o='<option value="">Year</option>'; for(let y=2026;y>=1900;y--) o+=`<option value="${y}" ${String(sel)===String(y)?'selected':''}>${y}</option>`; return o; };
+      const selOpts = (list,sel) => list.map(o=>`<option value="${esc(o)}" ${sel===o?'selected':''}>${esc(o)}</option>`).join('');
+
+      // Tag-box builder (services / amenities / metrics / accreditations / awards)
+      const tagBox = (key,label,placeholder,full) => `
+        <div class="field ${full?'full':''}"><label>${label}</label>
+          <input type="hidden" data-key="${key}" data-array="1" id="hospTag-${key}" value="${esc(Array.from(window._hospTags[key]).join(', '))}">
+          <div class="hw-tagbox">
+            <div class="hw-tags" id="hospTags-${key}"></div>
+            <div class="hw-tag-input-row">
+              <input type="text" id="hospTagInput-${key}" placeholder="${esc(placeholder)}" onkeypress="if(event.key==='Enter'){event.preventDefault();hwAddTagFromInput('${key}','hospTagInput-${key}');}">
+              <button type="button" class="btn btn-outline btn-sm" onclick="hwAddTagFromInput('${key}','hospTagInput-${key}')">+ Add</button>
+            </div>
+            ${(HOSP_SUGGEST[key]||[]).length?`<div class="hw-suggest">${HOSP_SUGGEST[key].map(s=>`<span class="hw-suggest-pill" onclick="hwAddTag('${key}','${esc(s)}')">+ ${esc(s)}</span>`).join('')}</div>`:''}
+          </div>
+        </div>`;
+
+      const specPills = _catCache.map((c,i)=>`<span class="hw-spec-pill" id="hwspec-${i}" onclick="hwToggleSpec(${i})">${esc(c.name)}</span>`).join('')
+        || '<span class="hw-note">No categories found — add categories first.</span>';
+
+      const galleryArr = Array.isArray(h.gallery) ? h.gallery : [];
+      const galleryCells = [0,1,2,3,4].map(i=>{
+        const u = galleryArr[i]||'';
+        return `<div class="hw-gallery-cell">
+          <img class="hw-gallery-thumb" id="hospGalleryThumb-${i}" src="${esc(u)}" ${u?'':'style="display:none"'} onerror="this.style.display='none'">
+          <input type="text" id="hospGallery-${i}" value="${esc(u)}" placeholder="Image URL ${i+1}" oninput="hwGalleryPreview(${i})">
+        </div>`;
+      }).join('');
+
+      const indicator = `
+        <div class="doc-progress"><div class="doc-progress-bar" id="hospProgressBar"></div></div>
+        <div class="doc-steps">
+          ${HOSP_STEPS.map((s,i)=>`
+            <div class="doc-step-ind" data-step="${i+1}" id="hospInd-${i+1}" onclick="hospitalGoStep(${i+1})">
+              <div class="doc-step-dot">${i+1}</div>
+              <span class="doc-step-label">${s}</span>
+            </div>`).join('')}
+        </div>
+        <p class="hw-note" style="text-align:center;margin-bottom:18px;">Step <span id="hospStepNum">1</span> of 7 · Complete all sections to add hospital</p>`;
+
+      const body = `
+        <input type="hidden" data-key="slug" value="${v('slug')}">
+
+        <!-- STEP 1 · Basic Information -->
+        <div class="dstep" data-step="1">
+          <div class="field full"><label>Hospital Name *</label>
+            <input data-key="name" value="${v('name')}" placeholder="e.g. Apollo Multispeciality Hospital" oninput="this.closest('.field').classList.remove('has-error')">
+            <span class="field-error">Hospital name is required</span></div>
+          <div class="field"><label>Hospital Type</label>
+            <select data-key="type"><option value="">Select Type</option>${selOpts(HOSP_TYPES,h.type)}</select></div>
+          <div class="field"><label>Ownership Type</label>
+            <select data-key="ownershipType"><option value="">Select Ownership</option>${selOpts(HOSP_OWNERSHIP,h.ownershipType)}</select></div>
+          <div class="field"><label>Registration Number *</label>
+            <input data-key="registrationNumber" value="${v('registrationNumber')}" placeholder="e.g. REG/2020/12345" oninput="this.closest('.field').classList.remove('has-error')">
+            <span class="field-error">Registration number is required</span></div>
+          <div class="field"><label>Registration Authority</label>
+            <input data-key="registrationAuthority" value="${h.registrationAuthority!=null?esc(h.registrationAuthority):'Medical Council of India'}"></div>
+          <div class="field"><label>Registration Year</label>
+            <select data-key="registrationYear">${yearOpts(h.registrationYear)}</select></div>
+          <div class="field"><label>Total Beds</label>
+            <input type="number" min="0" data-key="totalBeds" value="${v('totalBeds')}" placeholder="0"></div>
+          <div class="field"><label>ICU Beds</label>
+            <input type="number" min="0" data-key="icuBeds" value="${v('icuBeds')}" placeholder="0"></div>
+          <div class="field"><label>Total Staff</label>
+            <input type="number" min="0" data-key="totalStaff" value="${v('totalStaff')}" placeholder="0"></div>
+          <div class="field full"><label>Description</label>
+            <textarea data-key="overview" placeholder="Short description of the hospital…">${v('overview')}</textarea></div>
+        </div>
+
+        <!-- STEP 2 · Location & Contact -->
+        <div class="dstep" data-step="2" style="display:none;">
+          <div class="field"><label>Hospital Email *</label>
+            <input data-key="email" value="${v('email')}" placeholder="contact@hospital.com" oninput="this.closest('.field').classList.remove('has-error')">
+            <span class="field-error">Email is required</span></div>
+          <div class="field"><label>Hospital Phone *</label>
+            <input data-key="phone" value="${v('phone')}" placeholder="+91 98765 43210" oninput="this.closest('.field').classList.remove('has-error')">
+            <span class="field-error">Phone is required</span></div>
+          <div class="field"><label>Alternate Phone</label>
+            <input data-key="alternatePhone" value="${v('alternatePhone')}" placeholder="+91 …"></div>
+          <div class="field"><label>Website</label>
+            <input data-key="website" value="${v('website')}" placeholder="https://…"></div>
+          <div class="field full"><label>Address *</label>
+            <div style="position:relative;">
+              <textarea data-key="address" id="hospAddress" placeholder="Start typing an address…" autocomplete="off" oninput="hwAddressInput(this.value)" onblur="setTimeout(function(){hwHideDropdown('hospAddressDropdown');},200)">${v('address')}</textarea>
+              <div id="hospAddressDropdown" class="nominatim-dropdown" style="display:none;"></div>
+            </div>
+            <span class="hw-note"><i class="fa-solid fa-magnifying-glass-location"></i> Search powered by OpenStreetMap — pick a suggestion to auto-fill city, state, pincode &amp; coordinates</span>
+            <span class="field-error">Address is required</span></div>
+          <div class="field"><label>City *</label>
+            <div style="position:relative;">
+              <input data-key="city" id="hospCity" value="${v('city')}" autocomplete="off" oninput="hwCityInput(this.value)" onblur="setTimeout(function(){hwHideDropdown('hospCityDropdown');},200)">
+              <div id="hospCityDropdown" class="nominatim-dropdown" style="display:none;"></div>
+            </div>
+            <span class="field-error">City is required</span></div>
+          <div class="field"><label>State *</label>
+            <input data-key="state" id="hospState" value="${v('state')}" oninput="this.closest('.field').classList.remove('has-error')">
+            <span class="field-error">State is required</span></div>
+          <div class="field"><label>Pincode *</label>
+            <input data-key="pincode" value="${v('pincode')}" placeholder="700001" oninput="this.closest('.field').classList.remove('has-error')">
+            <span class="field-error">Pincode is required</span></div>
+          <div class="field"><label>Locality</label>
+            <input data-key="locality" value="${v('locality')}" placeholder="e.g. Salt Lake"></div>
+          <div class="field"><label>Landmark</label>
+            <input data-key="landmark" value="${v('landmark')}" placeholder="e.g. Near City Centre"></div>
+          <div class="field"><label>Emergency Contact</label>
+            <input data-key="emergencyContact" value="${v('emergencyContact')}" placeholder="Emergency phone"></div>
+          <div class="field" style="justify-content:flex-end;">
+            <label class="hw-24-label" style="margin-top:24px;">
+              <input type="checkbox" data-key="emergencyServices" ${h.emergencyServices?'checked':''}> 24/7 Emergency Services Available
+            </label></div>
+          <button type="button" class="btn btn-outline hw-inline-btn" onclick="hospAutoDetectLocation()"><i class="fa-solid fa-location-dot"></i> Auto-detect Location (City/State)</button>
+          <div></div>
+
+          <div class="hw-substep">Social Media</div>
+          <div class="field"><label>Facebook</label><input data-key="facebook" value="${v('facebook')}" placeholder="https://facebook.com/…"></div>
+          <div class="field"><label>Twitter</label><input data-key="twitter" value="${v('twitter')}" placeholder="https://twitter.com/…"></div>
+          <div class="field"><label>Instagram</label><input data-key="instagram" value="${v('instagram')}" placeholder="https://instagram.com/…"></div>
+          <div class="field"><label>LinkedIn</label><input data-key="linkedin" value="${v('linkedin')}" placeholder="https://linkedin.com/…"></div>
+          <div class="field"><label>YouTube</label><input data-key="youtube" value="${v('youtube')}" placeholder="https://youtube.com/…"></div>
+          <div></div>
+
+          <div class="field full"><label>Hospital Coordinates</label>
+            <div class="map-search-row">
+              <input type="text" id="mapSearchInput" placeholder="Search a place, e.g. Apollo Hospital Kolkata" onkeypress="if(event.key==='Enter'){event.preventDefault();hwMapSearch();}">
+              <button type="button" class="btn btn-outline" onclick="hwMapSearch()">Search</button>
+              <button type="button" class="btn btn-primary" onclick="hospAutoFillGPS()"><i class="fa-solid fa-location-crosshairs"></i> Auto-Fill GPS</button>
+            </div>
+            <p class="hw-note" style="margin:0 0 6px;"><i class="fa-solid fa-hand-pointer"></i> Click the map or drag the marker to set the exact location — fields auto-fill from the pin.</p>
+            <div class="map-pick" id="mapPick"></div>
+            <div class="map-coords">
+              <div>Latitude: <input type="number" step="any" id="mapLat" value="${lat}" onchange="hwManualLatLng()" style="width:130px;padding:6px 8px;border:1.5px solid var(--border);border-radius:6px;"></div>
+              <div>Longitude: <input type="number" step="any" id="mapLng" value="${lng}" onchange="hwManualLatLng()" style="width:130px;padding:6px 8px;border:1.5px solid var(--border);border-radius:6px;"></div>
+            </div>
+          </div>
+        </div>
+
+        <!-- STEP 3 · Services & Specialties -->
+        <div class="dstep" data-step="3" style="display:none;">
+          <div class="field full"><label>Specialties (select from categories)</label>
+            <input type="hidden" data-key="specialties" data-array="1" id="hospTag-specialties" value="${esc(Array.from(window._hospTags.specialties).join(', '))}">
+            <div class="hw-spec-grid" id="hospSpecGrid">${specPills}</div>
+          </div>
+          ${tagBox('services','Services Offered','Type a service and press Enter',true)}
+          ${tagBox('amenities','Amenities','Type an amenity and press Enter',true)}
+          ${tagBox('metrics','Metrics','e.g. 710+ Beds',true)}
+        </div>
+
+        <!-- STEP 4 · Media -->
+        <div class="dstep" data-step="4" style="display:none;">
+          <div class="field full"><label>Hospital Image URL (16:9 cover)</label>
+            <input type="text" id="imgurl-image" data-key="image" value="${v('image')}" placeholder="https://example.com/hospital.jpg" oninput="updateImgPreview('imgprev-image', this.value)">
+            <div style="margin-top:8px;">
+              <input type="file" id="cropfile-image" accept="image/*" style="display:none" onchange="openImageCropper(this,'imgurl-image','imgprev-image')">
+              <button type="button" class="btn btn-outline btn-sm" onclick="document.getElementById('cropfile-image').click()"><i class="fa-solid fa-crop"></i> Upload &amp; Crop Image</button>
+            </div>
+            <img id="imgprev-image" src="${v('image')}" alt="" style="margin-top:10px;max-width:100%;max-height:200px;object-fit:cover;border-radius:8px;${h.image?'':'display:none;'}" onerror="this.style.display='none'">
+          </div>
+          <div class="field full"><label>Hospital Logo URL</label>
+            <input type="text" id="imgurl-logo" data-key="logo" value="${v('logo')}" placeholder="https://example.com/logo.png" oninput="updateImgPreview('imgprev-logo', this.value)">
+            <img id="imgprev-logo" src="${v('logo')}" alt="" style="margin-top:10px;max-width:160px;max-height:120px;object-fit:contain;border-radius:8px;${h.logo?'':'display:none;'}" onerror="this.style.display='none'">
+          </div>
+          <div class="field full"><label>Gallery Images (up to 5)</label>
+            <div class="hw-gallery">${galleryCells}</div>
+          </div>
+        </div>
+
+        <!-- STEP 5 · Documents -->
+        <div class="dstep" data-step="5" style="display:none;">
+          ${tagBox('accreditations','Accreditations','e.g. NABH, JCI, ISO',true)}
+          ${tagBox('awards','Awards','Add an award and press Enter',true)}
+          <div class="field"><label>Established Year</label>
+            <select data-key="establishedYear">${yearOpts(h.establishedYear)}</select></div>
+        </div>
+
+        <!-- STEP 6 · Operating Hours -->
+        <div class="dstep" data-step="6" style="display:none;">
+          <div class="field full" style="gap:10px;">
+            <label>Operating Hours</label>
+            <div id="hospHoursList" style="display:flex;flex-direction:column;gap:10px;"></div>
+          </div>
+        </div>
+
+        <!-- STEP 7 · Review -->
+        <div class="dstep" data-step="7" style="display:none;">
+          <h3 style="font-size:1rem;font-weight:800;margin-bottom:14px;color:var(--text);">Review &amp; Submit</h3>
+          <div id="hospReview"></div>
+        </div>
+
+        <div class="doc-nav">
+          <button type="button" class="btn btn-outline" id="hospPrevBtn" onclick="hospitalStep(-1)" style="visibility:hidden;">← Previous</button>
+          <button type="button" class="btn btn-primary" id="hospNextBtn" onclick="hospitalStep(1)">Next →</button>
+        </div>`;
+
+      const mb = document.getElementById('modalBody');
+      mb.style.display = 'block';
+      mb.innerHTML = indicator + body;
+      _hospStep = 1;
+
+      hwRenderTags('services'); hwRenderTags('amenities'); hwRenderTags('metrics');
+      hwRenderTags('accreditations'); hwRenderTags('awards');
+      hwRenderSpec();
+      hwRenderHours();
+      updateHospitalStep();
+    }
+
+    function updateHospitalStep(){
+      document.querySelectorAll('#modalBody .dstep').forEach(el=>{
+        el.style.display = Number(el.dataset.step)===_hospStep ? '' : 'none';
+      });
+      HOSP_STEPS.forEach((_,i)=>{
+        const ind=document.getElementById('hospInd-'+(i+1));
+        if(!ind)return;
+        ind.classList.toggle('active', (i+1)===_hospStep);
+        ind.classList.toggle('done', (i+1)<_hospStep);
+      });
+      const bar=document.getElementById('hospProgressBar');
+      if(bar) bar.style.width = ((_hospStep-1)/(HOSP_STEPS.length-1)*100)+'%';
+      const numEl=document.getElementById('hospStepNum');
+      if(numEl) numEl.textContent=_hospStep;
+      const prev=document.getElementById('hospPrevBtn');
+      const next=document.getElementById('hospNextBtn');
+      const save=document.getElementById('modalSave');
+      if(prev) prev.style.visibility = _hospStep===1 ? 'hidden' : 'visible';
+      if(_hospStep===HOSP_STEPS.length){
+        if(next) next.style.display='none';
+        if(save) save.style.display='';
+        buildHospitalReview();
+      } else {
+        if(next) next.style.display='';
+        if(save) save.style.display='none';
+      }
+      // Lazily initialise the Leaflet picker the first time Step 2 is shown.
+      if(_hospStep===2 && !window._hospMapInited && document.getElementById('mapPick')){
+        try { initHospitalWizardMap(); window._hospMapInited=true; } catch(e){ console.warn('map init failed', e); }
+      }
+    }
+
+    function hwClearHospErrors(){
+      document.querySelectorAll('#modalBody .field.has-error').forEach(f=>f.classList.remove('has-error'));
+    }
+    function validateHospitalStep(step){
+      const reqs = step===1 ? [['name'],['registrationNumber']]
+                 : step===2 ? [['email'],['phone'],['address'],['city'],['state'],['pincode']]
+                 : [];
+      let ok=true, firstBad=null;
+      reqs.forEach(([key])=>{
+        const el=document.querySelector(`#modalBody [data-key="${key}"]`);
+        if(el && !String(el.value).trim()){
+          const f=el.closest('.field'); if(f) f.classList.add('has-error');
+          if(!firstBad) firstBad=el; ok=false;
+        }
+      });
+      if(firstBad) firstBad.focus();
+      return ok;
+    }
+    window.hospitalStep=function(dir){
+      if(dir>0 && !validateHospitalStep(_hospStep)) return;
+      _hospStep = Math.min(HOSP_STEPS.length, Math.max(1, _hospStep+dir));
+      updateHospitalStep();
+    };
+    window.hospitalGoStep=function(n){
+      if(n>_hospStep && !validateHospitalStep(_hospStep)) return;
+      _hospStep=n; updateHospitalStep();
+    };
+
+    /* ---- tag pickers ---- */
+    window.hwAddTag=function(key,val){
+      val=(val||'').trim(); if(!val||!window._hospTags[key])return;
+      window._hospTags[key].add(val); hwRenderTags(key);
+    };
+    window.hwAddTagFromInput=function(key,inputId){
+      const el=document.getElementById(inputId); if(!el)return;
+      hwAddTag(key,el.value); el.value=''; el.focus();
+    };
+    window.hwRemoveTagAt=function(key,i){
+      const a=Array.from(window._hospTags[key]); a.splice(i,1);
+      window._hospTags[key]=new Set(a); hwRenderTags(key);
+    };
+    function hwRenderTags(key){
+      const cont=document.getElementById('hospTags-'+key); if(!cont)return;
+      const tags=Array.from(window._hospTags[key]);
+      cont.innerHTML=tags.map((t,i)=>`<span class="hw-tag">${esc(t)} <span class="x" onclick="hwRemoveTagAt('${key}',${i})">×</span></span>`).join('');
+      const hidden=document.getElementById('hospTag-'+key);
+      if(hidden) hidden.value=tags.join(', ');
+    }
+    window.hwToggleSpec=function(i){
+      const cat=_catCache[i]; if(!cat)return;
+      const name=cat.name;
+      if(window._hospTags.specialties.has(name)) window._hospTags.specialties.delete(name);
+      else window._hospTags.specialties.add(name);
+      hwRenderSpec();
+    };
+    function hwRenderSpec(){
+      _catCache.forEach((c,i)=>{
+        const pill=document.getElementById('hwspec-'+i);
+        if(pill) pill.classList.toggle('selected', window._hospTags.specialties.has(c.name));
+      });
+      const hidden=document.getElementById('hospTag-specialties');
+      if(hidden) hidden.value=Array.from(window._hospTags.specialties).join(', ');
+    }
+
+    /* ---- gallery ---- */
+    window.hwGalleryPreview=function(i){
+      const inp=document.getElementById('hospGallery-'+i);
+      const img=document.getElementById('hospGalleryThumb-'+i);
+      if(!inp||!img)return;
+      const u=inp.value.trim();
+      if(u){ img.src=u; img.style.display=''; } else { img.removeAttribute('src'); img.style.display='none'; }
+    };
+
+    /* ---- operating hours ---- */
+    function hwRenderHours(){
+      const list=document.getElementById('hospHoursList'); if(!list)return;
+      list.innerHTML=HOSP_DAYS.map(day=>{
+        const s=window._hospHours[day];
+        const dis = (s.open24||!s.enabled)?'disabled':'';
+        return `<div class="hw-day-row ${s.enabled?'':'off'}">
+          <label class="hw-day-toggle"><input type="checkbox" ${s.enabled?'checked':''} onchange="hwToggleDay('${day}',this.checked)"> ${day}</label>
+          <div class="hw-day-times">
+            <input type="time" value="${esc(s.open)}" ${dis} onchange="hwSetDay('${day}','open',this.value)">
+            <span class="sep">→</span>
+            <input type="time" value="${esc(s.close)}" ${dis} onchange="hwSetDay('${day}','close',this.value)">
+            <label class="hw-24-label"><input type="checkbox" ${s.open24?'checked':''} ${s.enabled?'':'disabled'} onchange="hwSetDay24('${day}',this.checked)"> Open 24 hours</label>
+          </div>
+        </div>`;
+      }).join('');
+    }
+    window.hwToggleDay=function(day,on){ window._hospHours[day].enabled=on; hwRenderHours(); };
+    window.hwSetDay24=function(day,on){ window._hospHours[day].open24=on; hwRenderHours(); };
+    window.hwSetDay=function(day,field,val){ window._hospHours[day][field]=val; };
+
+    /* ==========================================================
+       GEOCODING (OpenStreetMap data — free, no API key)
+       · Typeahead suggestions  → Photon (photon.komoot.io), a
+         free OSM autocomplete engine that supports prefix
+         matching (e.g. "jams" → Jamshedpur), which Nominatim
+         /search cannot do.
+       · Reverse geocoding (map click/drag/GPS) → Nominatim.
+       Inputs are debounced 400ms and every query/result is
+       cached to respect the public usage policies.
+       ========================================================== */
+    const _nomCache = {};
+    let _hwAddrTimer = null, _hwCityTimer = null;
+
+    // Photon prefix-autocomplete search (biased to India, filtered to IN results).
+    // opts.city = true → restrict to place names (city/town/village) for the City field.
+    async function photonSearch(q, opts){
+      opts = opts || {};
+      const key = 'p|' + (opts.city ? 'c' : 'a') + '|' + q.toLowerCase();
+      if(_nomCache[key]) return _nomCache[key];
+      let url = `https://photon.komoot.io/api?q=${encodeURIComponent(q)}&limit=8&lang=en&lat=22.9734&lon=78.6569`;
+      if(opts.city) url += '&osm_tag=place:city&osm_tag=place:town&osm_tag=place:village';
+      const res = await fetch(url, { headers: { 'Accept-Language': 'en' } });
+      const data = await res.json();
+      const feats = (data.features || []).filter(f => (f.properties || {}).countrycode === 'IN');
+      _nomCache[key] = feats;
+      return feats;
+    }
+
+    // Normalise a Photon GeoJSON feature into our field shape.
+    function hwExtractFromPhoton(f){
+      const p = f.properties || {};
+      const coords = (f.geometry && f.geometry.coordinates) || [];
+      const lng = parseFloat(coords[0]);
+      const lat = parseFloat(coords[1]);
+      const city = p.city || p.town || p.village || p.district || p.county || p.name || '';
+      const parts = [];
+      if(p.name && p.name !== city) parts.push(p.name);
+      if(p.housenumber && p.street) parts.push(p.housenumber + ' ' + p.street);
+      else if(p.street) parts.push(p.street);
+      if(p.district && p.district !== city) parts.push(p.district);
+      if(city) parts.push(city);
+      if(p.state) parts.push(p.state);
+      if(p.postcode) parts.push(p.postcode);
+      if(p.country) parts.push(p.country);
+      return {
+        name: p.name || '',
+        address: parts.filter(Boolean).join(', ') || (p.name || ''),
+        city: city,
+        state: p.state || '',
+        pincode: p.postcode || '',
+        lat: lat,
+        lng: lng,
+      };
+    }
+
+    async function nominatimReverseGeocode(lat, lng){
+      const key = 'r|' + lat + ',' + lng;
+      if(_nomCache[key]) return _nomCache[key];
+      const res = await fetch(
+        `https://nominatim.openstreetmap.org/reverse?lat=${lat}&lon=${lng}&format=json`,
+        { headers: { 'Accept-Language': 'en' } }
+      );
+      const data = await res.json();
+      const a = data.address || {};
+      const out = {
+        address: data.display_name,
+        city: a.city || a.town || a.village || a.county || '',
+        state: a.state || '',
+        pincode: a.postcode || '',
+        lat: lat,
+        lng: lng,
+      };
+      _nomCache[key] = out;
+      return out;
+    }
+
+    function hwSetField(key, val){
+      if(val == null || val === '') return;
+      const el = document.querySelector(`#modalBody [data-key="${key}"]`);
+      if(el){ el.value = val; const f = el.closest('.field'); if(f) f.classList.remove('has-error'); }
+    }
+    function hwFillLocationFields(info, opts){
+      opts = opts || {};
+      if(opts.address) hwSetField('address', info.address);
+      hwSetField('city', info.city);
+      hwSetField('state', info.state);
+      hwSetField('pincode', info.pincode);
+    }
+    function hwSetLatLng(lat, lng){
+      const la = Number(Number(lat).toFixed(6)), ln = Number(Number(lng).toFixed(6));
+      const latEl = document.getElementById('mapLat'), lngEl = document.getElementById('mapLng');
+      if(latEl) latEl.value = la;
+      if(lngEl) lngEl.value = ln;
+      if(_hospPickMarker) _hospPickMarker.setLatLng([la, ln]);
+    }
+    // Reverse-geocode a point and fill every location field (used by map click/drag + GPS).
+    async function hwReverseFill(lat, lng){
+      hwSetLatLng(lat, lng);
+      try { hwFillLocationFields(await nominatimReverseGeocode(lat, lng), { address: true }); }
+      catch(e){ /* keep coordinates even if lookup fails */ }
+    }
+    window.hwHideDropdown = function(id){ const el = document.getElementById(id); if(el) el.style.display = 'none'; };
+
+    /* ---- Address autocomplete ---- */
+    window.hwAddressInput = function(val){
+      const fld = document.getElementById('hospAddress');
+      if(fld){ const f = fld.closest('.field'); if(f) f.classList.remove('has-error'); }
+      clearTimeout(_hwAddrTimer);
+      if(!val || val.trim().length < 3){ hwHideDropdown('hospAddressDropdown'); return; }
+      _hwAddrTimer = setTimeout(()=>hwRunAddressSearch(val.trim()), 400);
+    };
+    async function hwRunAddressSearch(q){
+      const dd = document.getElementById('hospAddressDropdown'); if(!dd) return;
+      dd.style.display = 'block';
+      dd.innerHTML = '<div class="nominatim-item">Searching…</div>';
+      let list = [];
+      try { list = await photonSearch(q); } catch(e){ dd.innerHTML = '<div class="nominatim-item">Search failed — check connection.</div>'; return; }
+      if(!list || !list.length){ dd.innerHTML = '<div class="nominatim-item">No results found</div>'; return; }
+      window._hwAddrResults = list;
+      dd.innerHTML = list.map((f,i)=>{
+        const info = hwExtractFromPhoton(f);
+        const head = info.name || (info.address.split(',')[0]);
+        return `<div class="nominatim-item" onmousedown="event.preventDefault()" onclick="hwSelectAddress(${i})"><strong>${esc(head)}</strong><br>${esc(info.address)}</div>`;
+      }).join('');
+    }
+    window.hwSelectAddress = function(i){
+      const it = (window._hwAddrResults || [])[i]; if(!it) return;
+      const info = hwExtractFromPhoton(it);
+      hwFillLocationFields(info, { address: true });
+      hwSetLatLng(info.lat, info.lng);
+      if(_hospPickMap && !isNaN(info.lat) && !isNaN(info.lng)){
+        _hospPickMap.setView([info.lat, info.lng], 15);
+        if(_hospPickMarker) _hospPickMarker.setLatLng([info.lat, info.lng]);
+        else hwAddDraggableMarker(info.lat, info.lng);
+      }
+      hwHideDropdown('hospAddressDropdown');
+    };
+
+    /* ---- City autocomplete ---- */
+    window.hwCityInput = function(val){
+      const el = document.getElementById('hospCity');
+      if(el){ const f = el.closest('.field'); if(f) f.classList.remove('has-error'); }
+      clearTimeout(_hwCityTimer);
+      if(!val || val.trim().length < 3){ hwHideDropdown('hospCityDropdown'); return; }
+      _hwCityTimer = setTimeout(()=>hwRunCitySearch(val.trim()), 400);
+    };
+    async function hwRunCitySearch(q){
+      const dd = document.getElementById('hospCityDropdown'); if(!dd) return;
+      dd.style.display = 'block';
+      dd.innerHTML = '<div class="nominatim-item">Searching…</div>';
+      let list = [];
+      try { list = await photonSearch(q, { city: true }); } catch(e){ dd.innerHTML = '<div class="nominatim-item">Search failed — check connection.</div>'; return; }
+      if(!list || !list.length){ dd.innerHTML = '<div class="nominatim-item">No results found</div>'; return; }
+      window._hwCityResults = list;
+      dd.innerHTML = list.map((f,i)=>{
+        const info = hwExtractFromPhoton(f);
+        const label = info.name || info.city;
+        const sub = [info.city !== label ? info.city : '', info.state, 'India'].filter(Boolean).join(', ');
+        return `<div class="nominatim-item" onmousedown="event.preventDefault()" onclick="hwSelectCity(${i})"><strong>${esc(label)}</strong><br>${esc(sub)}</div>`;
+      }).join('');
+    }
+    window.hwSelectCity = function(i){
+      const f = (window._hwCityResults || [])[i]; if(!f) return;
+      const info = hwExtractFromPhoton(f);
+      hwSetField('city', info.name || info.city);
+      hwSetField('state', info.state);
+      hwHideDropdown('hospCityDropdown');
+    };
+
+    /* ---- Leaflet map picker (draggable marker + reverse geocode) ---- */
+    let _hospPickMap = null, _hospPickMarker = null;
+    function hwAddDraggableMarker(lat, lng){
+      if(!_hospPickMap) return;
+      _hospPickMarker = L.marker([lat, lng], { draggable: true }).addTo(_hospPickMap);
+      _hospPickMarker.on('dragend', e=>{ const p = e.target.getLatLng(); hwReverseFill(p.lat, p.lng); });
+    }
+    function initHospitalWizardMap(){
+      const el = document.getElementById('mapPick');
+      if(!el || typeof L === 'undefined') return;
+      if(_hospPickMap){ _hospPickMap.remove(); _hospPickMap = null; _hospPickMarker = null; }
+      const startLat = parseFloat(document.getElementById('mapLat').value);
+      const startLng = parseFloat(document.getElementById('mapLng').value);
+      const hasStart = !isNaN(startLat) && !isNaN(startLng);
+      const center = hasStart ? [startLat, startLng] : [22.5726, 88.3639]; // default: Kolkata
+      _hospPickMap = L.map(el).setView(center, hasStart ? 14 : 11);
+      L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
+        attribution: '© OpenStreetMap, © CARTO', maxZoom: 19,
+      }).addTo(_hospPickMap);
+      if(hasStart) hwAddDraggableMarker(center[0], center[1]);
+      _hospPickMap.on('click', e=>{
+        if(_hospPickMarker) _hospPickMarker.setLatLng(e.latlng);
+        else hwAddDraggableMarker(e.latlng.lat, e.latlng.lng);
+        hwReverseFill(e.latlng.lat, e.latlng.lng);
+      });
+      setTimeout(()=>_hospPickMap.invalidateSize(), 250);
+    }
+    window.hwMapSearch = async function(){
+      const q = document.getElementById('mapSearchInput').value.trim();
+      if(!q) return;
+      let list = [];
+      try { list = await photonSearch(q); } catch(e){ alert('Location search failed. Check your connection.'); return; }
+      if(list && list.length){
+        const info = hwExtractFromPhoton(list[0]);
+        if(_hospPickMap) _hospPickMap.setView([info.lat, info.lng], 15);
+        if(_hospPickMarker) _hospPickMarker.setLatLng([info.lat, info.lng]);
+        else hwAddDraggableMarker(info.lat, info.lng);
+        hwFillLocationFields(info, { address: true });
+        hwSetLatLng(info.lat, info.lng);
+      } else {
+        alert('No location found for "' + q + '".');
+      }
+    };
+    // Manual edit of the lat/lng number inputs → move the map + marker.
+    window.hwManualLatLng = function(){
+      const la = parseFloat(document.getElementById('mapLat').value);
+      const ln = parseFloat(document.getElementById('mapLng').value);
+      if(isNaN(la) || isNaN(ln) || !_hospPickMap) return;
+      _hospPickMap.setView([la, ln], _hospPickMap.getZoom() || 14);
+      if(_hospPickMarker) _hospPickMarker.setLatLng([la, ln]);
+      else hwAddDraggableMarker(la, ln);
+    };
+
+    /* ---- geolocation buttons ---- */
+    window.hospAutoFillGPS = function(){
+      if(!navigator.geolocation){ alert('Geolocation not supported by this browser.'); return; }
+      navigator.geolocation.getCurrentPosition(pos=>{
+        const la = pos.coords.latitude, ln = pos.coords.longitude;
+        hwSetLatLng(la, ln);
+        if(_hospPickMap){
+          _hospPickMap.setView([la, ln], 15);
+          if(_hospPickMarker) _hospPickMarker.setLatLng([la, ln]);
+          else hwAddDraggableMarker(la, ln);
+        }
+      }, ()=>alert('Could not get your location. Please allow location access.'));
+    };
+    window.hospAutoDetectLocation = function(){
+      if(!navigator.geolocation){ alert('Geolocation not supported by this browser.'); return; }
+      navigator.geolocation.getCurrentPosition(async pos=>{
+        const la = pos.coords.latitude, ln = pos.coords.longitude;
+        hwSetLatLng(la, ln);
+        if(_hospPickMap){
+          _hospPickMap.setView([la, ln], 15);
+          if(_hospPickMarker) _hospPickMarker.setLatLng([la, ln]);
+          else hwAddDraggableMarker(la, ln);
+        }
+        try {
+          const info = await nominatimReverseGeocode(la, ln);
+          hwFillLocationFields(info, { address: true });
+        } catch(e){ alert('Location lookup failed. Check your connection.'); }
+      }, ()=>alert('Could not get your location. Please allow location access.'));
+    };
+
+    /* ---- review ---- */
+    function buildHospitalReview(){
+      const get=k=>{const el=document.querySelector(`#modalBody [data-key="${k}"]`);return el?(el.type==='checkbox'?el.checked:el.value.trim()):'';};
+      const hoursSummary=HOSP_DAYS.filter(d=>window._hospHours[d].enabled).map(d=>{
+        const s=window._hospHours[d]; return `${d}: ${s.open24?'24 hours':(s.open+'–'+s.close)}`;
+      }).join('<br>') || '—';
+      const gallery=[0,1,2,3,4].map(i=>{const e=document.getElementById('hospGallery-'+i);return e?e.value.trim():'';}).filter(Boolean);
+      const sections=[
+        ['Basic Information',1,[
+          ['Name',get('name')],['Type',get('type')],['Ownership',get('ownershipType')],
+          ['Reg. Number',get('registrationNumber')],['Reg. Authority',get('registrationAuthority')],['Reg. Year',get('registrationYear')],
+          ['Total Beds',get('totalBeds')],['ICU Beds',get('icuBeds')],['Total Staff',get('totalStaff')],['Description',get('overview')],
+        ]],
+        ['Location & Contact',2,[
+          ['Email',get('email')],['Phone',get('phone')],['Alt. Phone',get('alternatePhone')],['Website',get('website')],
+          ['Address',get('address')],['City',get('city')],['State',get('state')],['Pincode',get('pincode')],
+          ['Locality',get('locality')],['Landmark',get('landmark')],['Emergency Contact',get('emergencyContact')],
+          ['24/7 Emergency',get('emergencyServices')?'Yes':'No'],
+          ['Coordinates',(document.getElementById('mapLat')||{}).value?`${document.getElementById('mapLat').value}, ${document.getElementById('mapLng').value}`:''],
+        ]],
+        ['Services & Specialties',3,[
+          ['Specialties',Array.from(window._hospTags.specialties).join(', ')],
+          ['Services',Array.from(window._hospTags.services).join(', ')],
+          ['Amenities',Array.from(window._hospTags.amenities).join(', ')],
+          ['Metrics',Array.from(window._hospTags.metrics).join(', ')],
+        ]],
+        ['Media',4,[
+          ['Cover Image',get('image')?'✓ set':''],['Logo',get('logo')?'✓ set':''],['Gallery',gallery.length?gallery.length+' image(s)':''],
+        ]],
+        ['Documents',5,[
+          ['Accreditations',Array.from(window._hospTags.accreditations).join(', ')],
+          ['Awards',Array.from(window._hospTags.awards).join(', ')],['Established',get('establishedYear')],
+        ]],
+        ['Operating Hours',6,[['Hours',hoursSummary]]],
+      ];
+      const cont=document.getElementById('hospReview');
+      cont.innerHTML=sections.map(([title,step,rows])=>`
+        <div style="border:1px solid var(--border);border-radius:12px;padding:14px 16px;margin-bottom:14px;">
+          <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:8px;">
+            <h4 style="font-size:0.92rem;font-weight:800;color:var(--primary);">${title}</h4>
+            <button type="button" class="act-btn act-edit" onclick="hospitalGoStep(${step})">Edit</button>
+          </div>
+          <div class="doc-review">
+            ${rows.map(([k,val])=>`<div class="doc-review-row"><span class="drk">${k}</span><span class="drv">${val?esc(String(val)).replace(/&lt;br&gt;/g,'<br>'):'<span style=\"color:#bbb\">—</span>'}</span></div>`).join('')}
+          </div>
+        </div>`).join('');
+    }
+
+    /* ---- fold structured fields into the save payload ---- */
+    function collectHospitalExtras(payload){
+      // Operating hours → array of per-day objects
+      payload.operatingHours=HOSP_DAYS.map(day=>{
+        const s=window._hospHours[day];
+        return { day, enabled:!!s.enabled, open24:!!s.open24, open:s.open, close:s.close };
+      });
+      // Gallery → array of non-empty URLs
+      payload.gallery=[0,1,2,3,4].map(i=>{const e=document.getElementById('hospGallery-'+i);return e?e.value.trim():'';}).filter(Boolean);
+    }
+    window.collectHospitalExtras=collectHospitalExtras;
+
     /* ---------- Image URL live preview + Cropper.js (hospital form) ---------- */
     window.updateImgPreview=function(prevId,val){
       const img=document.getElementById(prevId);
@@ -3498,6 +4322,10 @@
       // Collect Show-On selection for any resource that uses the picker.
       if(cfg.fields.some(f=>f.type==='showOn')){
         payload.showOn = readShowOnValue();
+      }
+      // Hospitals wizard: fold in nested/structured fields (operating hours, gallery, coords).
+      if(modalState.key==='hospitals' && typeof collectHospitalExtras==='function'){
+        collectHospitalExtras(payload);
       }
       const url=modalState.id?`${cfg.endpoint}/${modalState.id}`:cfg.endpoint;
       const method=modalState.id?'PUT':'POST';

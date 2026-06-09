@@ -11913,3 +11913,100 @@ a.dpp2-contact-val:hover { color: #6F30E5; }
   .sk-section { grid-template-columns: repeat(2, 1fr); }
   .sk-hero { height: 200px; }
 }
+
+/* =====================================================
+   HOSPITALS — List / Map view toggle + clustered map
+   ===================================================== */
+.hosp-view-toggle {
+  display: inline-flex;
+  gap: 4px;
+  background: #f3f0fa;
+  border: 1px solid #e8e4f0;
+  border-radius: 999px;
+  padding: 3px;
+}
+.hvt-btn {
+  border: none;
+  background: transparent;
+  color: #5e4091;
+  font-weight: 700;
+  font-size: 0.82rem;
+  padding: 7px 16px;
+  border-radius: 999px;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  transition: background 0.18s ease, color 0.18s ease;
+}
+.hvt-btn:hover { color: #4a3275; }
+.hvt-btn.is-active {
+  background: #5e4091;
+  color: #fff;
+  box-shadow: 0 4px 12px rgba(94, 64, 145, 0.25);
+}
+
+.hosp-map-view {
+  margin: 4px 0 18px;
+  border-radius: 14px;
+  overflow: hidden;
+  border: 1px solid #e8e4f0;
+  box-shadow: 0 8px 30px rgba(94, 64, 145, 0.08);
+}
+#allHospitalsMap {
+  width: 100%;
+  height: 560px;
+  position: relative;
+  z-index: 1;
+}
+.hosp-map-overlay-note {
+  position: absolute;
+  top: 12px;
+  left: 50%;
+  transform: translateX(-50%);
+  background: #fff;
+  border: 1px solid #e8e4f0;
+  border-radius: 999px;
+  padding: 8px 16px;
+  font-size: 0.82rem;
+  font-weight: 600;
+  color: #88889b;
+  z-index: 1000;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+}
+
+/* Hospital marker popup (cluster + detail) */
+.hosp-map-popup { display: flex; flex-direction: column; gap: 3px; min-width: 150px; }
+.hosp-map-popup strong { font-size: 0.95rem; color: #1a1a2e; }
+.hosp-map-popup .hmp-type { font-size: 0.78rem; color: #88889b; font-weight: 600; }
+.hosp-map-popup .hmp-rating { font-size: 0.8rem; color: #374151; font-weight: 600; }
+.hosp-map-popup a {
+  margin-top: 5px;
+  font-size: 0.82rem;
+  font-weight: 700;
+  color: #5e4091;
+  text-decoration: none;
+}
+.hosp-map-popup a:hover { text-decoration: underline; }
+
+@media (max-width: 768px) {
+  #allHospitalsMap { height: 420px; }
+}
+
+/* Detail page — coordinates missing */
+.hpp-map-missing {
+  width: 100%;
+  height: 350px;
+  border-radius: 12px;
+  background: #f7f5fb;
+  border: 1px dashed #d9d2ec;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  color: #88889b;
+  font-weight: 600;
+  font-size: 0.92rem;
+}
+.hpp-map-missing i { font-size: 1.8rem; color: #c4b9e0; }

@@ -3107,15 +3107,22 @@ ${homeDoctors.slice(0, 8).map(doc => `
     const mapEl = document.getElementById('hpp-real-map');
     if (!mapEl || typeof L === 'undefined') return;
 
-    const lat = (hospital.map && hospital.map.lat != null) ? hospital.map.lat : 22.5726;
-    const lng = (hospital.map && hospital.map.lng != null) ? hospital.map.lng : 88.3639;
-
     // Tear down any previous instance (re-navigating between hospitals).
     if (window._hospitalDetailMap) {
       window._hospitalDetailMap.remove();
       window._hospitalDetailMap = null;
     }
     mapEl.innerHTML = '';
+
+    // No real coordinates on record → show a clear message instead of a wrong pin.
+    const hasCoords = hospital.map && hospital.map.lat != null && hospital.map.lng != null;
+    if (!hasCoords) {
+      mapEl.innerHTML = '<div class="hpp-map-missing"><i class="fa-solid fa-location-dot"></i><span>Location not available</span></div>';
+      return;
+    }
+
+    const lat = hospital.map.lat;
+    const lng = hospital.map.lng;
 
     const map = L.map('hpp-real-map', {
       zoomControl: true,
@@ -3706,7 +3713,14 @@ ${homeDoctors.slice(0, 8).map(doc => `
         <div class="tpl-cards-col">
           <div class="tpl-results-bar">
             <span><strong>${hospitals.length}</strong> hospital${hospitals.length !== 1 ? 's' : ''} found in ${currentCity}</span>
-            <span class="tpl-sort-label">Sort: <strong>Relevance</strong> ▾</span>
+            <div class="hosp-view-toggle" role="tablist" aria-label="Hospitals view">
+              <button class="hvt-btn is-active" data-view="list" onclick="setHospitalsView('list')"><i class="fa-solid fa-list-ul"></i> List</button>
+              <button class="hvt-btn" data-view="map" onclick="setHospitalsView('map')"><i class="fa-solid fa-map-location-dot"></i> Map</button>
+            </div>
+          </div>
+
+          <div id="hospitalsMapView" class="hosp-map-view" style="display:none;">
+            <div id="allHospitalsMap"></div>
           </div>
 
           ${hospitals.length === 0 ? `
@@ -3714,7 +3728,7 @@ ${homeDoctors.slice(0, 8).map(doc => `
               <i class="fa-solid fa-hospital"></i>
               <p>No partner hospitals match your filters in ${currentCity}. Try adjusting them.</p>
             </div>
-          ` : `<div class="hl-list">` + hospitals.map((hospital, index) => `
+          ` : `<div class="hl-list" id="hospitalsListView">` + hospitals.map((hospital, index) => `
             <article class="hl-card ${index === 0 ? 'is-highlighted' : ''}">
               <div class="hl-image-wrap">
                 <img src="${hospital.image}" alt="${hospital.name}" onerror="this.src='images/about-surgery.png'">
@@ -3760,6 +3774,8 @@ ${homeDoctors.slice(0, 8).map(doc => `
 
     appContainer.innerHTML = html;
     window._allHospitalsFilters = filters;
+    window._allHospitalsList = hospitals;
+    window._allHospitalsView = 'list';
     updateHospitalDistances();
   }
 
@@ -3768,6 +3784,83 @@ ${homeDoctors.slice(0, 8).map(doc => `
     if (key === 'rating') filters.rating = parseFloat(value);
     renderAllHospitalsPage(filters);
   };
+
+  // Resolve a city name → [lat, lng] using the CITY_DATA table (Kolkata fallback).
+  function getCityCoords(cityName) {
+    const cd = CITY_DATA.find(c => c.name.toLowerCase() === String(cityName || '').toLowerCase());
+    return cd ? [cd.lat, cd.lng] : [22.5726, 88.3639];
+  }
+
+  // Toggle the All Hospitals page between List and Map views.
+  window.setHospitalsView = function(view) {
+    const listEl = document.getElementById('hospitalsListView');
+    const emptyEl = document.querySelector('.tpl-cards-col .tpl-empty');
+    const mapView = document.getElementById('hospitalsMapView');
+    document.querySelectorAll('.hvt-btn').forEach(b => b.classList.toggle('is-active', b.dataset.view === view));
+    window._allHospitalsView = view;
+    if (view === 'map') {
+      if (listEl) listEl.style.display = 'none';
+      if (emptyEl) emptyEl.style.display = 'none';
+      if (mapView) mapView.style.display = 'block';
+      initAllHospitalsMap(window._allHospitalsList || []);
+    } else {
+      if (mapView) mapView.style.display = 'none';
+      if (listEl) listEl.style.display = '';
+      if (emptyEl) emptyEl.style.display = '';
+    }
+  };
+
+  // Build a clustered Leaflet map of all (currently filtered) hospitals.
+  function initAllHospitalsMap(hospitals) {
+    const el = document.getElementById('allHospitalsMap');
+    if (!el || typeof L === 'undefined') return;
+
+    if (window._allHospitalsMap) { window._allHospitalsMap.remove(); window._allHospitalsMap = null; }
+    el.innerHTML = '';
+
+    const center = getCityCoords(getCurrentCity());
+    const map = L.map(el, { scrollWheelZoom: true }).setView(center, 11);
+    map.attributionControl.setPrefix('');
+    L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors &copy; CARTO',
+    }).addTo(map);
+
+    const mapped = hospitals.filter(h => h.map && h.map.lat != null && h.map.lng != null);
+
+    // Cluster nearby markers when the plugin is available; otherwise plot plainly.
+    const layer = (typeof L.markerClusterGroup === 'function')
+      ? L.markerClusterGroup({ showCoverageOnHover: false, maxClusterRadius: 50 })
+      : L.layerGroup();
+
+    mapped.forEach(h => {
+      const marker = L.marker([h.map.lat, h.map.lng], { title: h.name });
+      marker.bindPopup(`
+        <div class="hosp-map-popup">
+          <strong>${h.name}</strong>
+          <span class="hmp-type">${h.type || ''}</span>
+          <span class="hmp-rating">⭐ ${h.rating != null ? h.rating : '—'}${h.reviews ? ` (${h.reviews} reviews)` : ''}</span>
+          <a href="#/hospital/${h.slug}">View Details →</a>
+        </div>
+      `);
+      layer.addLayer(marker);
+    });
+    map.addLayer(layer);
+
+    if (mapped.length > 1) {
+      try { map.fitBounds(L.latLngBounds(mapped.map(h => [h.map.lat, h.map.lng])), { padding: [40, 40], maxZoom: 13 }); }
+      catch (e) { /* keep city-centred view */ }
+    } else if (mapped.length === 1) {
+      map.setView([mapped[0].map.lat, mapped[0].map.lng], 14);
+    }
+
+    window._allHospitalsMap = map;
+    setTimeout(() => map.invalidateSize(), 160);
+
+    if (!mapped.length) {
+      el.insertAdjacentHTML('beforeend', '<div class="hosp-map-overlay-note">No mapped hospital locations for this filter yet.</div>');
+    }
+  }
 
 
   // =====================================================
