@@ -32,6 +32,23 @@ npm start
 
 Server runs on `http://localhost:3001`.
 
+## Environment variables
+
+Set these in `.env` locally and in the Render dashboard (Environment → Environment Variables) for deployment:
+
+| Variable | Description |
+|----------|-------------|
+| `PORT` | Server port (default 3001) |
+| `MONGODB_URI` | MongoDB connection string |
+| `EMAIL_USER` / `EMAIL_PASS` | Gmail + App Password for Nodemailer |
+| `ADMIN_EMAIL` | Notification recipient |
+| `CLOUDINARY_CLOUD_NAME` | `dfnkkpmf8` |
+| `CLOUDINARY_API_KEY` | `744157697268941` |
+| `CLOUDINARY_API_SECRET` | `your_secret_here` (keep secret — never commit) |
+
+Image uploads (`POST /api/upload`) are streamed straight to Cloudinary (memory storage,
+no local disk) and stored as WebP capped at 1200px wide in the `doctar-surgery` folder.
+
 ## API
 
 | Method | Endpoint              | Description            |
