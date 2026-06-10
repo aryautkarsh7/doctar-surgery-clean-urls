@@ -10,13 +10,14 @@ const Blog = require('../models/Blog');
 const Review = require('../models/Review');
 const FAQ = require('../models/FAQ');
 const SubCategory = require('../models/SubCategory');
+const SubSubCategory = require('../models/SubSubCategory');
 
 // GET /api/data/all — everything the frontend needs in one call.
 // Treatments are grouped by categorySlug to match the frontend's
 // TREATMENTS object shape.
 router.get('/all', async (req, res) => {
   try {
-    const [categories, treatmentDocs, doctors, hospitals, videos, blogDocs, reviews, faqs, subcategories] = await Promise.all([
+    const [categories, treatmentDocs, doctors, hospitals, videos, blogDocs, reviews, faqs, subcategories, subsubcategories] = await Promise.all([
       Category.find().lean(),
       Treatment.find().lean(),
       Doctor.find().lean(),
@@ -26,6 +27,7 @@ router.get('/all', async (req, res) => {
       Review.find().sort({ createdAt: -1 }).lean(),
       FAQ.find().sort({ order: 1, createdAt: -1 }).lean(),
       SubCategory.find().sort({ order: 1, createdAt: -1 }).lean(),
+      SubSubCategory.find().sort({ order: 1, createdAt: -1 }).lean(),
     ]);
 
     const treatments = {};
@@ -41,7 +43,7 @@ router.get('/all', async (req, res) => {
 
     res.json({
       success: true,
-      data: { categories, treatments, doctors: normalizedDoctors, hospitals, videos, blogs: blogDocs, reviews, faqs, subcategories },
+      data: { categories, treatments, doctors: normalizedDoctors, hospitals, videos, blogs: blogDocs, reviews, faqs, subcategories, subsubcategories },
     });
   } catch (err) {
     res.status(500).json({ success: false, error: err.message });

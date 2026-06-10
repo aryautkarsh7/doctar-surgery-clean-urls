@@ -323,16 +323,16 @@ const TREATMENTS = {
     { name: 'Mole Removal', slug: 'mole-removal', brief: 'Surgical or laser mole excision.', recovery: '3-5 days', costRange: '₹3,000 - ₹15,000', procedure: 'Surgical excision, shave removal, or laser ablation of moles with histopathological examination.', benefits: ['Quick procedure', 'Biopsy included', 'Minimal scarring', 'Expert assessment', 'Cosmetically superior'] },
   ],
   'general-surgery': [
-    { name: 'Appendectomy', slug: 'appendectomy-gen', brief: 'Surgical removal of the appendix.', recovery: '1-3 weeks', costRange: '₹35,000 - ₹80,000', procedure: 'Laparoscopic or open removal of inflamed appendix to prevent rupture.', benefits: ['Prevents peritonitis', 'Quick relief', 'Minimally invasive options', 'Short hospital stay', 'Expert surgeons'] },
-    { name: 'Hernia Repair', slug: 'hernia-repair-gen', brief: 'Surgical correction of hernia.', recovery: '2-4 weeks', costRange: '₹40,000 - ₹1,20,000', procedure: 'Mesh placement via open or laparoscopic surgery to reinforce weakened abdominal wall.', benefits: ['Prevents complications', 'Minimally invasive', 'Low recurrence rate', 'Quick recovery', 'Durable mesh'] },
-    { name: 'Gallbladder Removal', slug: 'gallbladder-removal-gen', brief: 'Cholecystectomy for gallstones.', recovery: '1-2 weeks', costRange: '₹45,000 - ₹1,00,000', procedure: 'Laparoscopic removal of the gallbladder containing stones.', benefits: ['Eliminates gallstone pain', 'Prevents future stones', 'Tiny incisions', 'Fast recovery', 'Same-day discharge possible'] },
-    { name: 'Thyroid Surgery', slug: 'thyroid-surgery-gen', brief: 'Partial or total removal of thyroid.', recovery: '2-3 weeks', costRange: '₹60,000 - ₹1,50,000', procedure: 'Surgical removal of thyroid gland for nodules, cysts, or hyperthyroidism.', benefits: ['Resolves thyroid issues', 'Nerve monitoring', 'Minimal scarring', 'Expert endocrinologists', 'Comprehensive care'] },
-    { name: 'Breast Surgery', slug: 'breast-surgery-gen', brief: 'Surgical procedures for breast conditions.', recovery: '2-4 weeks', costRange: '₹50,000 - ₹2,00,000', procedure: 'Lumpectomy or mastectomy for benign or malignant breast lumps.', benefits: ['Accurate diagnosis', 'Tumor removal', 'Expert oncologists', 'Cosmetic considerations', 'Complete follow-up'] },
-    { name: 'Colon Surgery', slug: 'colon-surgery-gen', brief: 'Surgical treatment for colon issues.', recovery: '4-6 weeks', costRange: '₹1,00,000 - ₹3,00,000', procedure: 'Removal of a portion of the colon for polyps, cancer, or diverticulitis.', benefits: ['Treats severe conditions', 'Laparoscopic options', 'Experienced surgical team', 'Comprehensive recovery plan', 'Improves quality of life'] },
-    { name: 'Spleen Removal', slug: 'splenectomy-gen', brief: 'Surgical removal of the spleen.', recovery: '4-6 weeks', costRange: '₹80,000 - ₹2,00,000', procedure: 'Laparoscopic or open splenectomy for blood disorders or trauma.', benefits: ['Resolves blood disorders', 'Minimally invasive option', 'Expert surgical care', 'Infection prevention plan', 'Safe procedure'] },
-    { name: 'Wound Debridement', slug: 'wound-debridement-gen', brief: 'Removal of dead tissue from wounds.', recovery: '1-3 weeks', costRange: '₹15,000 - ₹50,000', procedure: 'Surgical cleaning of severe or chronic wounds to promote healing.', benefits: ['Prevents infection', 'Promotes faster healing', 'Expert wound care', 'Pain relief', 'Improves tissue health'] },
-    { name: 'Laparoscopic Surgery', slug: 'laparoscopic-surgery-gen', brief: 'Minimally invasive diagnostic surgery.', recovery: '1-2 weeks', costRange: '₹30,000 - ₹80,000', procedure: 'Use of a camera to examine abdominal organs or perform minor repairs.', benefits: ['Small incisions', 'Less pain', 'Faster recovery', 'Accurate diagnosis', 'Short hospital stay'] },
-    { name: 'Abdominal Wall Reconstruction', slug: 'abdominal-reconstruction-gen', brief: 'Repair of complex abdominal hernias.', recovery: '4-8 weeks', costRange: '₹1,00,000 - ₹3,00,000', procedure: 'Complex surgical repair and reinforcement of the abdominal wall.', benefits: ['Restores core strength', 'Prevents hernia recurrence', 'Expert surgical team', 'Customized mesh', 'Improves functionality'] }
+    { name: 'Appendectomy', slug: 'appendectomy-gen', subCategorySlug: 'appendix-surgery', brief: 'Surgical removal of the appendix.', recovery: '1-3 weeks', costRange: '₹35,000 - ₹80,000', procedure: 'Laparoscopic or open removal of inflamed appendix to prevent rupture.', benefits: ['Prevents peritonitis', 'Quick relief', 'Minimally invasive options', 'Short hospital stay', 'Expert surgeons'] },
+    { name: 'Hernia Repair', slug: 'hernia-repair-gen', subCategorySlug: 'hernia-surgery', brief: 'Surgical correction of hernia.', recovery: '2-4 weeks', costRange: '₹40,000 - ₹1,20,000', procedure: 'Mesh placement via open or laparoscopic surgery to reinforce weakened abdominal wall.', benefits: ['Prevents complications', 'Minimally invasive', 'Low recurrence rate', 'Quick recovery', 'Durable mesh'] },
+    { name: 'Gallbladder Removal', slug: 'gallbladder-removal-gen', subCategorySlug: 'gallbladder-surgery', brief: 'Cholecystectomy for gallstones.', recovery: '1-2 weeks', costRange: '₹45,000 - ₹1,00,000', procedure: 'Laparoscopic removal of the gallbladder containing stones.', benefits: ['Eliminates gallstone pain', 'Prevents future stones', 'Tiny incisions', 'Fast recovery', 'Same-day discharge possible'] },
+    { name: 'Thyroid Surgery', slug: 'thyroid-surgery-gen', subCategorySlug: 'thyroid-surgery', brief: 'Partial or total removal of thyroid.', recovery: '2-3 weeks', costRange: '₹60,000 - ₹1,50,000', procedure: 'Surgical removal of thyroid gland for nodules, cysts, or hyperthyroidism.', benefits: ['Resolves thyroid issues', 'Nerve monitoring', 'Minimal scarring', 'Expert endocrinologists', 'Comprehensive care'] },
+    { name: 'Breast Surgery', slug: 'breast-surgery-gen', subCategorySlug: 'breast-surgery', brief: 'Surgical procedures for breast conditions.', recovery: '2-4 weeks', costRange: '₹50,000 - ₹2,00,000', procedure: 'Lumpectomy or mastectomy for benign or malignant breast lumps.', benefits: ['Accurate diagnosis', 'Tumor removal', 'Expert oncologists', 'Cosmetic considerations', 'Complete follow-up'] },
+    { name: 'Colon Surgery', slug: 'colon-surgery-gen', subCategorySlug: 'colon-surgery', brief: 'Surgical treatment for colon issues.', recovery: '4-6 weeks', costRange: '₹1,00,000 - ₹3,00,000', procedure: 'Removal of a portion of the colon for polyps, cancer, or diverticulitis.', benefits: ['Treats severe conditions', 'Laparoscopic options', 'Experienced surgical team', 'Comprehensive recovery plan', 'Improves quality of life'] },
+    { name: 'Spleen Removal', slug: 'splenectomy-gen', subCategorySlug: 'spleen-surgery', brief: 'Surgical removal of the spleen.', recovery: '4-6 weeks', costRange: '₹80,000 - ₹2,00,000', procedure: 'Laparoscopic or open splenectomy for blood disorders or trauma.', benefits: ['Resolves blood disorders', 'Minimally invasive option', 'Expert surgical care', 'Infection prevention plan', 'Safe procedure'] },
+    { name: 'Wound Debridement', slug: 'wound-debridement-gen', subCategorySlug: 'wound-management', brief: 'Removal of dead tissue from wounds.', recovery: '1-3 weeks', costRange: '₹15,000 - ₹50,000', procedure: 'Surgical cleaning of severe or chronic wounds to promote healing.', benefits: ['Prevents infection', 'Promotes faster healing', 'Expert wound care', 'Pain relief', 'Improves tissue health'] },
+    { name: 'Laparoscopic Surgery', slug: 'laparoscopic-surgery-gen', subCategorySlug: 'laparoscopic-surgery', brief: 'Minimally invasive diagnostic surgery.', recovery: '1-2 weeks', costRange: '₹30,000 - ₹80,000', procedure: 'Use of a camera to examine abdominal organs or perform minor repairs.', benefits: ['Small incisions', 'Less pain', 'Faster recovery', 'Accurate diagnosis', 'Short hospital stay'] },
+    { name: 'Abdominal Wall Reconstruction', slug: 'abdominal-reconstruction-gen', subCategorySlug: 'abdominal-surgery-general', brief: 'Repair of complex abdominal hernias.', recovery: '4-8 weeks', costRange: '₹1,00,000 - ₹3,00,000', procedure: 'Complex surgical repair and reinforcement of the abdominal wall.', benefits: ['Restores core strength', 'Prevents hernia recurrence', 'Expert surgical team', 'Customized mesh', 'Improves functionality'] }
   ],
   'pediatric-surgery': [
     { name: 'Pediatric Hernia Repair', slug: 'pediatric-hernia-ped', brief: 'Hernia repair in infants and children.', recovery: '1-2 weeks', costRange: '₹30,000 - ₹80,000', procedure: 'Surgical repair of inguinal or umbilical hernias in pediatric patients.', benefits: ['Safe for children', 'Expert pediatric surgeons', 'Quick recovery', 'Prevents complications', 'Minimal scarring'] },
@@ -634,3 +634,204 @@ function getDoctorsForCategory(catSlug) {
 function findHospital(slug) {
   return HOSPITALS.find(h => h.slug === slug);
 }
+
+window.STATIC_SUBCATEGORIES = [
+  {
+    "name": "Abdominal Surgery",
+    "slug": "abdominal-surgery-general",
+    "categorySlug": "general-surgery",
+    "order": 1
+  },
+  {
+    "name": "Esophageal Surgery",
+    "slug": "esophageal-surgery",
+    "categorySlug": "general-surgery",
+    "order": 2
+  },
+  {
+    "name": "Stomach Surgery",
+    "slug": "stomach-surgery",
+    "categorySlug": "general-surgery",
+    "order": 3
+  },
+  {
+    "name": "Small Intestine Surgery",
+    "slug": "small-intestine-surgery",
+    "categorySlug": "general-surgery",
+    "order": 4
+  },
+  {
+    "name": "Appendix Surgery",
+    "slug": "appendix-surgery",
+    "categorySlug": "general-surgery",
+    "order": 5
+  },
+  {
+    "name": "Colon Surgery",
+    "slug": "colon-surgery",
+    "categorySlug": "general-surgery",
+    "order": 6
+  },
+  {
+    "name": "Rectum & Anus Surgery",
+    "slug": "rectum-anus-surgery",
+    "categorySlug": "general-surgery",
+    "order": 7
+  },
+  {
+    "name": "Liver Surgery",
+    "slug": "liver-surgery",
+    "categorySlug": "general-surgery",
+    "order": 8
+  },
+  {
+    "name": "Gallbladder & Bile Duct Surgery",
+    "slug": "gallbladder-surgery",
+    "categorySlug": "general-surgery",
+    "order": 9
+  },
+  {
+    "name": "Pancreatic Surgery",
+    "slug": "pancreatic-surgery",
+    "categorySlug": "general-surgery",
+    "order": 10
+  },
+  {
+    "name": "Spleen Surgery",
+    "slug": "spleen-surgery",
+    "categorySlug": "general-surgery",
+    "order": 11
+  },
+  {
+    "name": "Hernia Surgery",
+    "slug": "hernia-surgery",
+    "categorySlug": "general-surgery",
+    "order": 12
+  },
+  {
+    "name": "Breast Surgery",
+    "slug": "breast-surgery",
+    "categorySlug": "general-surgery",
+    "order": 13
+  },
+  {
+    "name": "Thyroid Surgery",
+    "slug": "thyroid-surgery",
+    "categorySlug": "general-surgery",
+    "order": 14
+  },
+  {
+    "name": "Parathyroid Surgery",
+    "slug": "parathyroid-surgery",
+    "categorySlug": "general-surgery",
+    "order": 15
+  },
+  {
+    "name": "Adrenal Surgery",
+    "slug": "adrenal-surgery",
+    "categorySlug": "general-surgery",
+    "order": 16
+  },
+  {
+    "name": "Skin & Soft Tissue Surgery",
+    "slug": "skin-soft-tissue-surgery",
+    "categorySlug": "general-surgery",
+    "order": 17
+  },
+  {
+    "name": "Neck Surgery",
+    "slug": "neck-surgery",
+    "categorySlug": "general-surgery",
+    "order": 18
+  },
+  {
+    "name": "Vascular Surgery",
+    "slug": "vascular-surgery",
+    "categorySlug": "general-surgery",
+    "order": 19
+  },
+  {
+    "name": "Trauma Surgery",
+    "slug": "trauma-surgery",
+    "categorySlug": "general-surgery",
+    "order": 20
+  },
+  {
+    "name": "Bariatric Surgery",
+    "slug": "bariatric-surgery",
+    "categorySlug": "general-surgery",
+    "order": 21
+  },
+  {
+    "name": "Laparoscopic Surgery",
+    "slug": "laparoscopic-surgery",
+    "categorySlug": "general-surgery",
+    "order": 22
+  },
+  {
+    "name": "Stomas & Intestinal Diversion",
+    "slug": "stomas-intestinal-diversion",
+    "categorySlug": "general-surgery",
+    "order": 23
+  },
+  {
+    "name": "Thoracic Surgery",
+    "slug": "thoracic-surgery",
+    "categorySlug": "general-surgery",
+    "order": 24
+  },
+  {
+    "name": "Colorectal Cancer Surgery",
+    "slug": "colorectal-cancer-surgery",
+    "categorySlug": "general-surgery",
+    "order": 25
+  },
+  {
+    "name": "Endocrine Tumour Surgery",
+    "slug": "endocrine-tumour-surgery",
+    "categorySlug": "general-surgery",
+    "order": 26
+  },
+  {
+    "name": "Peritoneum Surgery",
+    "slug": "peritoneum-surgery",
+    "categorySlug": "general-surgery",
+    "order": 27
+  },
+  {
+    "name": "Paediatric Surgery",
+    "slug": "paediatric-surgery-general",
+    "categorySlug": "general-surgery",
+    "order": 28
+  },
+  {
+    "name": "Urological Surgery",
+    "slug": "urological-surgery-general",
+    "categorySlug": "general-surgery",
+    "order": 29
+  },
+  {
+    "name": "Gynaecological Surgery",
+    "slug": "gynaecological-surgery-general",
+    "categorySlug": "general-surgery",
+    "order": 30
+  },
+  {
+    "name": "Bariatric Surgery",
+    "slug": "bariatric-surgery-general",
+    "categorySlug": "general-surgery",
+    "order": 31
+  },
+  {
+    "name": "Access & Line Procedures",
+    "slug": "access-procedures",
+    "categorySlug": "general-surgery",
+    "order": 32
+  },
+  {
+    "name": "Wound Management",
+    "slug": "wound-management",
+    "categorySlug": "general-surgery",
+    "order": 33
+  }
+];

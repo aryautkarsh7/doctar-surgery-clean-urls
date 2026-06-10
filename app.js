@@ -328,7 +328,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
   let BLOG_POSTS = [...BLOG_POSTS_FALLBACK];
   let VIDEOS = [];
-  let SUBCATEGORIES = [];
+  let SUBCATEGORIES = window.STATIC_SUBCATEGORIES || [];
+  let SUBSUBCATEGORIES = [];
 
   function formatBlogDate(raw) {
     if (!raw) return '';
@@ -891,7 +892,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const doctorsSubtitle = isCitySpecific
       ? `Highly experienced, board-certified doctors available near you in ${currentCity}.`
       : 'Highly experienced, board-certified doctors dedicated to your care.';
-    const featuredHospitals = getHospitalsForCity(currentCity);
+    const featuredHospitals = getHospitalsForCity(currentCity).slice(0, 3);
 
     const patientReviews = [
       {
@@ -1203,6 +1204,7 @@ ${homeDoctors.slice(0, 8).map(doc => `
                   </div>
                 </article>
               `).join('')}
+              <a href="#/hospitals" class="view-all-btn">View All Hospitals →</a>
             </div>
           </div>
         </div>
@@ -2043,7 +2045,12 @@ ${homeDoctors.slice(0, 8).map(doc => `
     }
     subcategories.sort((a, b) => (a.order || 0) - (b.order || 0));
 
-    const subPillsHTML = subcategories.length > 0 ? `
+    // General Surgery only: show the 33 sub-categories AS the treatment cards.
+    const showSubsAsCards = slug === 'general-surgery' && subcategories.length > 0;
+
+    // Hide the "Browse by Procedure Type" pills for General Surgery (the
+    // sub-categories are now the main cards). All other categories unchanged.
+    const subPillsHTML = (subcategories.length > 0 && !showSubsAsCards) ? `
       <div class="cp-subcategories">
         <h3>Browse by Procedure Type</h3>
         <div class="cp-sub-pills">
@@ -2072,13 +2079,29 @@ ${homeDoctors.slice(0, 8).map(doc => `
         <div class="ctc-cta" style="background: ${category.color};">View Details &nbsp;→</div>
       </a>`;
 
+    // Sub-category card (General Surgery): name + label + view button, no price/recovery.
+    const subcategoryCardHTML = (sc) => `
+      <a href="#/category/general-surgery" class="cat-treatment-card" style="--card-color: ${category.color}; --card-light: ${category.colorLight};">
+        <div class="ctc-top">
+          <div class="ctc-icon" style="background: ${category.colorLight}; color: ${category.color};">
+            ${catIcon(category, 28)}
+          </div>
+          <div class="ctc-badge" style="color: ${category.color};">${category.name}</div>
+        </div>
+        <h3 class="ctc-name">${sc.name}</h3>
+        <div class="ctc-cta" style="background: ${category.color};">View Details &nbsp;→</div>
+      </a>`;
+
     // Group treatments under their sub-categories; ungrouped → "General".
-    const catSubcats = SUBCATEGORIES
+    const catSubcats = subcategories
       .filter(sc => sc.categorySlug === slug)
       .sort((a, b) => (a.order || 0) - (b.order || 0));
 
     let groupedTreatmentsHTML;
-    if (catSubcats.length) {
+    if (showSubsAsCards) {
+      // General Surgery: render each sub-category as a flat card.
+      groupedTreatmentsHTML = `<div class="cat-treatments-grid">${subcategories.map(subcategoryCardHTML).join('')}</div>`;
+    } else if (catSubcats.length) {
       const usedSlugs = new Set();
       const groups = [];
       catSubcats.forEach(sc => {
@@ -2142,7 +2165,7 @@ ${homeDoctors.slice(0, 8).map(doc => `
       <!-- TREATMENTS GRID -->
       <div class="container" style="padding: 50px 0 80px;">
         <div class="cat-section-header">
-          <h2>All ${category.name} Treatments <span class="cat-count-badge">${treatments.length}</span></h2>
+          <h2>All ${category.name} Treatments <span class="cat-count-badge">${showSubsAsCards ? subcategories.length : treatments.length}</span></h2>
           <p>Click any treatment to see full details, cost, and book a free consultation.</p>
         </div>
 
@@ -3835,7 +3858,7 @@ ${homeDoctors.slice(0, 8).map(doc => `
           ` : `<div class="hl-list" id="hospitalsListView">` + hospitals.map((hospital, index) => `
             <article class="hl-card ${index === 0 ? 'is-highlighted' : ''}">
               <div class="hl-image-wrap">
-                <img src="${hospital.image && hospital.image.startsWith('http') ? hospital.image : 'images/about-surgery.png'}" alt="${hospital.name}" onerror="this.src='images/about-surgery.png'">
+                <img src="${hospital.image || 'images/about-surgery.png'}" alt="${hospital.name}" loading="lazy">
                 <div class="card-logo-slot${hospital.logo ? '' : ' is-empty'}" title="Hospital logo">
                   ${hospital.logo
                     ? `<img src="${hospital.logo}" alt="${hospital.name} logo" onerror="this.closest('.card-logo-slot').classList.add('is-empty');this.remove();">`
@@ -4193,6 +4216,9 @@ ${homeDoctors.slice(0, 8).map(doc => `
       }
       if (Array.isArray(d.subcategories)) {
         SUBCATEGORIES = d.subcategories;
+      }
+      if (Array.isArray(d.subsubcategories)) {
+        SUBSUBCATEGORIES = d.subsubcategories;
       }
       console.log('✅ Loaded live data from backend');
     } catch (err) {
@@ -4736,6 +4762,31 @@ ${homeDoctors.slice(0, 8).map(doc => `
   // =====================================================
   let _srQuery = '';
 
+  // Search SubSubCategory keywords (currently General Surgery only).
+  // Returns matched keyword entries that link to the parent category page.
+  function searchSubSubKeywords(q, limit) {
+    const out = [];
+    const seen = new Set();
+    if (!q || typeof SUBSUBCATEGORIES === 'undefined') return out;
+    for (const ssc of SUBSUBCATEGORIES) {
+      if (!ssc || !Array.isArray(ssc.keywords)) continue;
+      for (const kw of ssc.keywords) {
+        if (!String(kw || '').toLowerCase().includes(q)) continue;
+        const key = String(kw).toLowerCase();
+        if (seen.has(key)) continue;
+        seen.add(key);
+        out.push({
+          keyword: kw,
+          groupName: ssc.name,
+          categorySlug: ssc.categorySlug,
+          subCategorySlug: ssc.subCategorySlug,
+        });
+        if (limit && out.length >= limit) return out;
+      }
+    }
+    return out;
+  }
+
   function runSiteSearch(qRaw) {
     const q = (qRaw || '').trim().toLowerCase();
     const m = (hay) => String(hay || '').toLowerCase().includes(q);
@@ -4748,6 +4799,7 @@ ${homeDoctors.slice(0, 8).map(doc => `
         (Array.isArray(d.categories) && d.categories.some(c => m(c)))),
       hospitals: (typeof HOSPITALS !== 'undefined' ? HOSPITALS : []).filter(h => m(h.name) || m(h.address) || m(h.city) || m(h.type)),
       categories: (typeof CATEGORIES !== 'undefined' ? CATEGORIES : []).filter(c => m(c.name) || m(c.description) || (Array.isArray(c.tags) && c.tags.some(tag => m(tag)))),
+      procedures: q ? searchSubSubKeywords(q) : [],
     };
   }
 
@@ -4774,8 +4826,9 @@ ${homeDoctors.slice(0, 8).map(doc => `
       doctors: r.doctors.length,
       hospitals: r.hospitals.length,
       categories: r.categories.length,
+      procedures: r.procedures.length,
     };
-    const total = counts.treatments + counts.doctors + counts.hospitals + counts.categories;
+    const total = counts.treatments + counts.doctors + counts.hospitals + counts.categories + counts.procedures;
 
     const initials = name => String(name || '').replace(/^Dr\.?\s*/i, '').split(/\s+/).map(w => w[0]).join('').slice(0, 2).toUpperCase();
     const fee = v => v ? '₹' + Number(v).toLocaleString('en-IN') : '';
@@ -4844,9 +4897,17 @@ ${homeDoctors.slice(0, 8).map(doc => `
         <span class="sr-cta">Explore <i class="fa-solid fa-arrow-right"></i></span>
       </a>`;
 
-    const cardFor = { treatments: treatmentCard, doctors: doctorCard, hospitals: hospitalCard, categories: categoryCard };
-    const gridClass = { treatments: 'sr-grid-2', doctors: 'sr-grid-2', hospitals: 'sr-grid-2', categories: 'sr-grid-3' };
-    const titles = { treatments: 'Treatments', doctors: 'Doctors', hospitals: 'Hospitals', categories: 'Categories' };
+    const procedureCard = p => `
+      <a href="#/category/${p.categorySlug}" class="sr-ccard" style="--acc:#5e4091; --acc-light:#f0ebff;">
+        <div class="sr-ccard-ic"><i class="fa-solid fa-scalpel" style="font-size:24px;"></i></div>
+        <h3 class="sr-ccard-name">${esc(p.keyword)}</h3>
+        ${p.groupName ? `<p class="sr-ccard-tags">${esc(p.groupName)}</p>` : ''}
+        <span class="sr-cta">View Category <i class="fa-solid fa-arrow-right"></i></span>
+      </a>`;
+
+    const cardFor = { treatments: treatmentCard, doctors: doctorCard, hospitals: hospitalCard, categories: categoryCard, procedures: procedureCard };
+    const gridClass = { treatments: 'sr-grid-2', doctors: 'sr-grid-2', hospitals: 'sr-grid-2', categories: 'sr-grid-3', procedures: 'sr-grid-3' };
+    const titles = { treatments: 'Treatments', doctors: 'Doctors', hospitals: 'Hospitals', categories: 'Categories', procedures: 'Procedures' };
 
     function sectionBlock(key) {
       const items = r[key];
@@ -4866,7 +4927,7 @@ ${homeDoctors.slice(0, 8).map(doc => `
         </section>`;
     }
 
-    const sectionsOrder = ['treatments', 'doctors', 'hospitals', 'categories'];
+    const sectionsOrder = ['treatments', 'procedures', 'doctors', 'hospitals', 'categories'];
     let body;
     if (!total) {
       body = `<div class="sr-empty">
@@ -4960,7 +5021,9 @@ ${homeDoctors.slice(0, 8).map(doc => `
         matches(h.name, q) || matches(h.address, q) || matches(h.city, q) || matches(h.type, q)
       ).slice(0, 3);
 
-      renderResults(qRaw.trim(), { treatments, doctors, categories, hospitals });
+      const procedures = searchSubSubKeywords(q, 3);
+
+      renderResults(qRaw.trim(), { treatments, doctors, categories, hospitals, procedures });
     }
 
     function group(title, items, mapper) {
@@ -4981,11 +5044,14 @@ ${homeDoctors.slice(0, 8).map(doc => `
     }
 
     function renderResults(q, r) {
-      const total = r.treatments.length + r.doctors.length + r.categories.length + r.hospitals.length;
+      const procedures = r.procedures || [];
+      const total = r.treatments.length + r.doctors.length + r.categories.length + r.hospitals.length + procedures.length;
       let html = `<div class="hs-head"><i class="fa-solid fa-magnifying-glass"></i> "${esc(q)}"</div>`;
       if (!total) {
         html += `<div class="hs-empty">No results found for "<strong>${esc(q)}</strong>"</div>`;
       } else {
+        html += group('Procedures', procedures, p =>
+          row(`#/category/${p.categorySlug}`, '🔪', p.keyword, p.groupName || ''));
         html += group('Treatments', r.treatments, t =>
           row(`#/treatment/${t.slug}`, '🏥', t.name, (findCategory(t.categorySlug) || {}).name || ''));
         html += group('Doctors', r.doctors, d =>

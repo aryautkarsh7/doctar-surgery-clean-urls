@@ -22,6 +22,7 @@ const Hospital = require('./models/Hospital');
 const Review = require('./models/Review');
 const FAQ = require('./models/FAQ');
 const SubCategory = require('./models/SubCategory');
+const SubSubCategory = require('./models/SubSubCategory');
 const DoctorClaim = require('./models/DoctorClaim');
 
 // Connect to the database
@@ -58,6 +59,7 @@ app.use('/api/videos', videoRoutes);
 app.use('/api/reviews', resourceRouter(Review, 'Review'));
 app.use('/api/faqs', resourceRouter(FAQ, 'FAQ'));
 app.use('/api/subcategories', resourceRouter(SubCategory, 'SubCategory'));
+app.use('/api/subsubcategories', resourceRouter(SubSubCategory, 'SubSubCategory'));
 app.use('/api/doctor-claims', resourceRouter(DoctorClaim, 'DoctorClaim'));
 app.use('/api/data', dataRoutes);
 app.use('/api/upload', uploadRoutes);
