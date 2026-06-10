@@ -188,6 +188,67 @@ document.addEventListener('DOMContentLoaded', () => {
   }
 
   // =====================================================
+  // DYNAMIC FOOTER SECTION (Nearby Hospitals / Top Specialities / Top Doctors)
+  // Reuses already-loaded HOSPITALS / DOCTORS / CATEGORIES — no extra API calls.
+  // Pass opts to tailor lists/headings per page (see STEP 4 callers).
+  // =====================================================
+  function renderDynamicFooterSection(city, opts) {
+    city = city || getCurrentCity() || 'Kolkata';
+    opts = opts || {};
+
+    const hospitals = (opts.hospitals || HOSPITALS.filter(h =>
+      h.city && h.city.toLowerCase() === city.toLowerCase()
+    )).slice(0, 12);
+
+    const doctors = (opts.doctors || DOCTORS).slice(0, 20);
+
+    const specialties = (opts.specialties || CATEGORIES).slice(0, 20);
+
+    const hospitalsHeading = opts.hospitalsHeading || `Nearby Hospitals in ${city}`;
+    const specialtiesHeading = opts.specialtiesHeading || `Top Doctor Specialities in ${city}`;
+    const doctorsHeading = opts.doctorsHeading || `Top Doctors in ${city}`;
+
+    return `
+      <div class="dynamic-footer-section">
+
+        ${hospitals.length > 0 ? `
+        <div class="dfs-block">
+          <h3 class="dfs-heading">${hospitalsHeading}</h3>
+          <div class="dfs-links">
+            ${hospitals.map(h => `
+              <a href="#/hospital/${h.slug}" class="dfs-link">${h.name}</a>
+            `).join('<span class="dfs-dot">•</span>')}
+          </div>
+        </div>
+        ` : ''}
+
+        ${specialties.length > 0 ? `
+        <div class="dfs-block">
+          <h3 class="dfs-heading">${specialtiesHeading}</h3>
+          <div class="dfs-links">
+            ${specialties.map(cat => `
+              <a href="#/category/${cat.slug}" class="dfs-link">${cat.name} in ${city}</a>
+            `).join('<span class="dfs-dot">•</span>')}
+          </div>
+        </div>
+        ` : ''}
+
+        ${doctors.length > 0 ? `
+        <div class="dfs-block">
+          <h3 class="dfs-heading">${doctorsHeading}</h3>
+          <div class="dfs-links">
+            ${doctors.map(d => `
+              <a href="#/doctor/${d.slug}" class="dfs-link">${d.name}${d.specialty ? ` - ${d.specialty}` : ''}</a>
+            `).join('<span class="dfs-dot">•</span>')}
+          </div>
+        </div>
+        ` : ''}
+
+      </div>
+    `;
+  }
+
+  // =====================================================
   // BLOG POSTS DATA (fetched from API, fallback to defaults)
   // =====================================================
   const BLOG_POSTS_FALLBACK = [
@@ -1423,6 +1484,7 @@ ${homeDoctors.slice(0, 8).map(doc => `
     `;
 
     appContainer.innerHTML = html;
+    appContainer.insertAdjacentHTML('beforeend', renderDynamicFooterSection(currentCity));
     initFeaturedCarousel();
     initTreatmentCarousel();
     initCarousel('ds-track', 'ds-prev', 'ds-next', 3);
@@ -2110,6 +2172,18 @@ ${homeDoctors.slice(0, 8).map(doc => `
     `;
     appContainer.innerHTML = html;
     initBlogCarousel('cat-' + slug);
+    {
+      const city = getCurrentCity() || 'Kolkata';
+      const catName = (category.name || '').toLowerCase();
+      const catHospitals = HOSPITALS.filter(h =>
+        Array.isArray(h.specialties) &&
+        h.specialties.some(s => catName.includes(s.toLowerCase()) || s.toLowerCase().includes(catName))
+      );
+      appContainer.insertAdjacentHTML('beforeend', renderDynamicFooterSection(city, {
+        hospitals: catHospitals.length ? catHospitals : undefined,
+        hospitalsHeading: `Hospitals for ${category.name} in ${city}`,
+      }));
+    }
   }
 
 
@@ -2332,6 +2406,7 @@ ${homeDoctors.slice(0, 8).map(doc => `
     appContainer.innerHTML = html;
     window._tplFilters = filters;
     window._tplSlug = slug;
+    appContainer.insertAdjacentHTML('beforeend', renderDynamicFooterSection(getCurrentCity() || 'Kolkata'));
   }
 
   // Called by filter radio buttons on treatment page
@@ -2740,6 +2815,17 @@ ${homeDoctors.slice(0, 8).map(doc => `
     appContainer.innerHTML = html;
     initBlogCarousel('doc-' + slug);
     window.scrollTo(0, 0);
+    {
+      const city = getCurrentCity() || 'Kolkata';
+      const sameSpecialty = DOCTORS.filter(d =>
+        d.slug !== doc.slug && d.specialty && doc.specialty &&
+        d.specialty.toLowerCase() === doc.specialty.toLowerCase()
+      );
+      appContainer.insertAdjacentHTML('beforeend', renderDynamicFooterSection(city, {
+        doctors: sameSpecialty.length ? sameSpecialty : undefined,
+        doctorsHeading: doc.specialty ? `Top ${doc.specialty}s in ${city}` : `Top Doctors in ${city}`,
+      }));
+    }
   }
 
   window.dpp2SwitchTab = function(tab, btn) {
@@ -3029,6 +3115,15 @@ ${homeDoctors.slice(0, 8).map(doc => `
     appContainer.innerHTML = html;
     initHospitalDetailMap(hospital);
     setupHospitalBookingForm(hospital);
+    {
+      const city = hospital.city || getCurrentCity() || 'Kolkata';
+      const sameCity = HOSPITALS.filter(h =>
+        h.slug !== hospital.slug && h.city && h.city.toLowerCase() === city.toLowerCase()
+      );
+      appContainer.insertAdjacentHTML('beforeend', renderDynamicFooterSection(city, {
+        hospitals: sameCity.length ? sameCity : undefined,
+      }));
+    }
   }
 
   function setupHospitalBookingForm(hospital) {
@@ -3348,6 +3443,7 @@ ${homeDoctors.slice(0, 8).map(doc => `
 
     // Store current filters on window for filter changes
     window._dlFilters = filters;
+    appContainer.insertAdjacentHTML('beforeend', renderDynamicFooterSection(getCurrentCity() || 'Kolkata'));
   }
 
   // Called by filter radio buttons
@@ -3554,6 +3650,7 @@ ${homeDoctors.slice(0, 8).map(doc => `
     appContainer.innerHTML = html + bottomSections;
     initPatientReviews();
     window._allDoctorsFilters = filters;
+    appContainer.insertAdjacentHTML('beforeend', renderDynamicFooterSection(getCurrentCity() || 'Kolkata'));
   }
 
   window.applyAllDoctorsFilter = function(key, value) {
@@ -3784,6 +3881,7 @@ ${homeDoctors.slice(0, 8).map(doc => `
     window._allHospitalsList = hospitals;
     window._allHospitalsView = 'list';
     updateHospitalDistances();
+    appContainer.insertAdjacentHTML('beforeend', renderDynamicFooterSection(getCurrentCity() || 'Kolkata'));
   }
 
   window.applyAllHospitalsFilter = function(key, value) {

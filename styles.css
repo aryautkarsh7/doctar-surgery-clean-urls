@@ -12023,3 +12023,52 @@ a.dpp2-contact-val:hover { color: #6F30E5; }
   font-size: 0.92rem;
 }
 .hpp-map-missing i { font-size: 1.8rem; color: #c4b9e0; }
+
+/* =====================================================
+   DYNAMIC FOOTER SECTION (Nearby Hospitals / Specialities / Doctors)
+===================================================== */
+.dynamic-footer-section {
+  background: #f8f9fa;
+  border-top: 1px solid #e5e7eb;
+  padding: 40px 0;
+  margin-top: 48px;
+}
+.dfs-block {
+  max-width: 1200px;
+  margin: 0 auto 32px;
+  padding: 0 24px;
+}
+.dfs-block:last-child { margin-bottom: 0; }
+.dfs-heading {
+  font-size: 18px;
+  font-weight: 700;
+  color: #111827;
+  margin-bottom: 16px;
+}
+.dfs-links {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 4px;
+  line-height: 1.8;
+}
+.dfs-link {
+  color: #4f46e5;
+  font-size: 14px;
+  text-decoration: none;
+  white-space: nowrap;
+}
+.dfs-link:hover {
+  text-decoration: underline;
+  color: #3730a3;
+}
+.dfs-dot {
+  color: #9ca3af;
+  font-size: 12px;
+  margin: 0 4px;
+}
+@media (max-width: 768px) {
+  .dfs-block { padding: 0 16px; }
+  .dfs-heading { font-size: 16px; }
+  .dfs-link { font-size: 13px; }
+}
