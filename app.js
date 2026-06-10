@@ -155,8 +155,15 @@ document.addEventListener('DOMContentLoaded', () => {
 
     for (const candidate of candidates) {
       if (!candidate) continue;
+      const c = candidate.toLowerCase().trim();
+      // Prefer exact match against CITY_DATA names so user selection is always honoured
+      if (typeof CITY_DATA !== 'undefined') {
+        const direct = CITY_DATA.find(cd => cd.name.toLowerCase() === c);
+        if (direct) return direct.name;
+      }
+      // Fuzzy match against cities derived from doctor locations
       const matchedCity = availableCities.find(city =>
-        candidate.toLowerCase().includes(city.toLowerCase())
+        c.includes(city.toLowerCase())
       );
       if (matchedCity) return matchedCity;
     }
@@ -1105,7 +1112,7 @@ ${homeDoctors.slice(0, 8).map(doc => `
               ${featuredHospitals.map(hospital => `
                 <article class="fh-card" data-hospital-card="${hospital.slug}">
                   <div class="fh-card-media">
-                    <img src="${hospital.image}" alt="${hospital.name}" onerror="this.src='images/about-surgery.png'">
+                    <img src="${hospital.image && hospital.image.startsWith('http') ? hospital.image : 'images/about-surgery.png'}" alt="${hospital.name}" onerror="this.src='images/about-surgery.png'">
                     <div class="card-logo-slot${hospital.logo ? '' : ' is-empty'}" title="Hospital logo">
                       ${hospital.logo
                         ? `<img src="${hospital.logo}" alt="${hospital.name} logo" onerror="this.closest('.card-logo-slot').classList.add('is-empty');this.remove();">`
@@ -2862,7 +2869,7 @@ ${homeDoctors.slice(0, 8).map(doc => `
 
       <section class="container hpp-hero">
         <div class="hpp-hero-media">
-          <img src="${hospital.image}" alt="${hospital.name}">
+          <img src="${hospital.image && hospital.image.startsWith('http') ? hospital.image : 'images/about-surgery.png'}" alt="${hospital.name}" onerror="this.src='images/about-surgery.png'">
           <div class="hpp-hero-logo-slot${hospital.logo ? '' : ' is-empty'}" title="Hospital logo">
             ${hospital.logo
               ? `<img src="${hospital.logo}" alt="${hospital.name} logo" onerror="this.closest('.hpp-hero-logo-slot').classList.add('is-empty');this.remove();">`
@@ -3731,7 +3738,7 @@ ${homeDoctors.slice(0, 8).map(doc => `
           ` : `<div class="hl-list" id="hospitalsListView">` + hospitals.map((hospital, index) => `
             <article class="hl-card ${index === 0 ? 'is-highlighted' : ''}">
               <div class="hl-image-wrap">
-                <img src="${hospital.image}" alt="${hospital.name}" onerror="this.src='images/about-surgery.png'">
+                <img src="${hospital.image && hospital.image.startsWith('http') ? hospital.image : 'images/about-surgery.png'}" alt="${hospital.name}" onerror="this.src='images/about-surgery.png'">
                 <div class="card-logo-slot${hospital.logo ? '' : ' is-empty'}" title="Hospital logo">
                   ${hospital.logo
                     ? `<img src="${hospital.logo}" alt="${hospital.name} logo" onerror="this.closest('.card-logo-slot').classList.add('is-empty');this.remove();">`
@@ -4829,9 +4836,14 @@ ${homeDoctors.slice(0, 8).map(doc => `
 
     function matches(hay, q) { return String(hay || '').toLowerCase().includes(q); }
 
-    function search(qRaw) {
+    async function search(qRaw) {
       const q = qRaw.trim().toLowerCase();
       if (!q) { closeDropdown(); return; }
+
+      // If data hasn't loaded yet, fetch it before searching
+      if (!DOCTORS.length && !HOSPITALS.length) {
+        await loadRemoteData();
+      }
 
       const allTreatments = (typeof TREATMENTS !== 'undefined') ? Object.values(TREATMENTS).flat() : [];
       const treatments = allTreatments.filter(t =>
