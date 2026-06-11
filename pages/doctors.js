@@ -7,6 +7,15 @@
     showSkeleton('detail');
     const doc = DOCTORS.find(d => d.slug === slug);
     if (!doc) { handleRoute(); return; }
+    
+    updatePageMeta({
+      title: `${doc.name} - ${doc.specialty} in ${getDoctorCity(doc)}`,
+      description: `Book consultation with ${doc.name}, ${doc.specialty} at ${doc.hospital}. ${doc.experience} experience. Free consultation and No Cost EMI.`,
+      keywords: `${doc.name}, ${doc.specialty}, surgeon in ${getDoctorCity(doc)}, book doctor appointment, ${doc.hospital}`,
+      image: doc.image,
+      url: window.location.href
+    });
+
     const pageVideos = await fetchVideosForPage('doctor-' + slug);
     const pageBlogs = await fetchBlogsForPage('doctor-' + slug);
 
@@ -475,6 +484,13 @@
     const category = findCategory(catSlug);
     if (!category) { handleRoute(); return; }
 
+    updatePageMeta({
+      title: `Best ${category.name} Surgeons in ${getCurrentCity()}`,
+      description: `Find and book the best ${category.name} specialists in ${getCurrentCity()}. Free consultation, insurance support, and No Cost EMI.`,
+      keywords: `${category.name} surgeons ${getCurrentCity()}, best ${category.name} doctor, book ${category.name} specialist`,
+      url: window.location.href
+    });
+
     filters = filters || { availability: 'all', rating: 0, fee: 'all', experience: 'all', gender: 'all' };
 
     let doctors = getDoctorsForCategory(catSlug);
@@ -697,6 +713,13 @@
     showSkeleton('list');
     const currentCity = getCurrentCity();
     filters = filters || { availability: 'all', rating: 0, fee: 'all', experience: 'all', gender: 'all' };
+
+    updatePageMeta({
+      title: `Best Surgeons in ${currentCity}`,
+      description: `Find and book expert surgeons in ${currentCity}. Verified doctors, free consultation, insurance support, and free cab service.`,
+      keywords: `surgeons in ${currentCity}, best doctors in ${currentCity}, book surgeon appointment`,
+      url: window.location.href
+    });
 
     let doctors = getDoctorsForCity(currentCity);
     console.log('renderAllDoctorsPage first doctor:', doctors[0] || null);

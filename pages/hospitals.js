@@ -8,6 +8,15 @@
     const hospital = findHospital(slug);
     if (!hospital) { handleRoute(); return; }
 
+    updatePageMeta({
+      title: `${hospital.name} - ${hospital.city}`,
+      description: `Book appointments at ${hospital.name}, ${hospital.city}. ${hospital.type} with cashless billing and advanced facilities.`,
+      keywords: `${hospital.name}, ${hospital.city} hospital, best hospital in ${hospital.city}, book hospital appointment`,
+      image: hospital.image,
+      url: window.location.href
+    });
+
+
     // Doctors at this hospital: match by doc.hospitals[] (slug or name) OR doc.hospital string.
     const hospitalDoctors = DOCTORS.filter(doc => {
       if (Array.isArray(doc.hospitals)) {
@@ -399,6 +408,13 @@
     const currentCity = cityOverride || getCurrentCity();
     filters = filters || { type: 'all', rating: 0, accreditation: 'all', service: 'all' };
 
+    updatePageMeta({
+      title: `Top Hospitals in ${currentCity}`,
+      description: `Find the best partner hospitals and surgical clinics in ${currentCity}. Modern modular OT facilities, ICU support, zero cashless billing hassles.`,
+      keywords: `hospitals in ${currentCity}, best clinics in ${currentCity}, partner hospitals Doctar`,
+      url: window.location.href
+    });
+
     let hospitals = getHospitalsForCity(currentCity);
 
     // Filter by type
@@ -593,6 +609,14 @@
     const locLabel = location
       ? String(location).replace(/-/g, ' ').replace(/\b\w/g, ch => ch.toUpperCase())
       : city;
+
+    updatePageMeta({
+      title: `Hospitals for ${subName || catName} near ${locLabel}`,
+      description: `Top hospitals near ${locLabel} offering ${catName} care, with insurance support and guided admission.`,
+      keywords: `hospitals near me, ${subName} hospitals ${locLabel}, ${catName} clinics near me`,
+      url: window.location.href
+    });
+
 
     let hospitals = getHospitalsForCity(city);
     if (catSlug) {

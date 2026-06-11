@@ -6,6 +6,13 @@
   function renderAllCategoriesPage() {
     const totalTreatments = CATEGORIES.reduce((sum, c) => sum + c.treatmentCount, 0);
 
+    updatePageMeta({
+      title: `All Specialities - Doctar`,
+      description: `Explore ${CATEGORIES.length} specialities and ${totalTreatments}+ treatments. Expert surgeons, free consultations & insurance support across India.`,
+      keywords: `surgical specialities, medical procedures, book surgery, Doctar specialities`,
+      url: window.location.href
+    });
+
     const html = `
       <!-- ALL CATEGORIES HERO -->
       <div class="all-cat-hero">
@@ -210,6 +217,14 @@
   // =====================================================
   function renderAllProceduresPage(cityOverride) {
     const currentCity = cityOverride || getCurrentCity();
+    
+    updatePageMeta({
+      title: `Popular Procedures in ${currentCity}`,
+      description: `Browse all procedures across specialities. Find expert surgeons, costs, and book free consultations in ${currentCity}.`,
+      keywords: `surgical procedures ${currentCity}, treatment cost ${currentCity}, medical treatments`,
+      url: window.location.href
+    });
+
     // Gather all treatments across all categories
     const allTreatments = [];
     for (const catSlug in TREATMENTS) {
@@ -304,6 +319,14 @@
     showSkeleton('list');
     const category = findCategory(slug);
     if (!category) { handleRoute(); return; }
+
+    updatePageMeta({
+      title: `${category.name} Treatments - Doctar`,
+      description: category.description,
+      keywords: `${category.name}, ${category.name} surgery, ${category.name} doctors, ${category.tags.join(', ')}`,
+      url: window.location.href
+    });
+
     const treatments = TREATMENTS[slug] || [];
     const relatedDoctors = getDoctorsForCategory(slug).slice(0, 3);
     const pageVideos = await fetchVideosForPage('category-' + slug);

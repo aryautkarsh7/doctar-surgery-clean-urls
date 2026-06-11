@@ -4,16 +4,46 @@
 // Loaded as a classic script — shares global scope with data.js & siblings.
 // =====================================================
 
-  function injectLocationModal() {
-    if (document.getElementById('loc-overlay')) return;
-    const citiesHTML = CITY_DATA.map(c => `
-      <div class="loc-city-item${c.available ? '' : ' loc-city-soon'}"
-           data-city="${c.name}" data-available="${c.available}"
-           onclick="window.locSelectCity('${c.name}',${c.available})">
+  function buildCityListHTML() {
+    // Cities with real hospital data (from MongoDB) — always available.
+    const liveCities = (typeof AVAILABLE_CITIES !== 'undefined' && AVAILABLE_CITIES.length)
+      ? AVAILABLE_CITIES
+      : ['Kolkata'];
+    const liveSet = new Set(liveCities.map(c => c.toLowerCase()));
+
+    // CITY_DATA cities not covered by live data → shown as "Coming Soon".
+    const comingSoon = (typeof CITY_DATA !== 'undefined' ? CITY_DATA : [])
+      .filter(c => !liveSet.has(c.name.toLowerCase()) && !c.available);
+
+    const liveHTML = liveCities.map(name => `
+      <div class="loc-city-item"
+           data-city="${name}" data-available="true"
+           onclick="window.locSelectCity('${name}', true)">
+        <i class="fa-solid fa-location-dot loc-city-icon"></i>
+        <span class="loc-city-name">${name}</span>
+      </div>`).join('');
+
+    const soonHTML = comingSoon.map(c => `
+      <div class="loc-city-item loc-city-soon"
+           data-city="${c.name}" data-available="false"
+           onclick="window.locSelectCity('${c.name}', false)">
         <i class="fa-solid fa-location-dot loc-city-icon"></i>
         <span class="loc-city-name">${c.name}</span>
-        ${!c.available ? '<span class="loc-city-badge">Soon</span>' : ''}
+        <span class="loc-city-badge">Soon</span>
       </div>`).join('');
+
+    return liveHTML + soonHTML;
+  }
+
+  function injectLocationModal() {
+    // If already injected, refresh the city list in case data loaded after first open.
+    const existing = document.getElementById('loc-overlay');
+    if (existing) {
+      const list = document.getElementById('loc-cities-list');
+      if (list) list.innerHTML = buildCityListHTML();
+      return;
+    }
+    const citiesHTML = buildCityListHTML();
 
     document.body.insertAdjacentHTML('beforeend', `
       <div id="loc-overlay" class="loc-overlay" onclick="if(event.target===this)window.closeLocationModal()">

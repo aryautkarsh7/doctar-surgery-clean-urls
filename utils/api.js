@@ -87,6 +87,7 @@
   let SUBCATEGORIES = window.STATIC_SUBCATEGORIES || [];
   let SUBSUBCATEGORIES = [];
   let PET_HOSPITALS = [];
+  let AVAILABLE_CITIES = ['Kolkata'];
 
   function formatBlogDate(raw) {
     if (!raw) return '';
@@ -195,6 +196,23 @@
       }
       if (Array.isArray(d.pethospitals)) {
         PET_HOSPITALS = d.pethospitals;
+      }
+      if (Array.isArray(d.hospitals) && d.hospitals.length) {
+        const _cityBlocklist = /near |opposite |taluk|kachh| patti |naini |mahewa|mirakhpur|mubark|daiwghat|dadanpur|burhanagar|jhusi|karuvatta|kattanam|kollakadavu|kulanada|kumarapuram|malayambakkam|mannanchery|ashoka circle/i;
+        AVAILABLE_CITIES = [...new Set(
+          d.hospitals
+            .map(h => (h.city || '').trim())
+            .filter(c =>
+              c.length > 0 &&
+              c.length <= 30 &&               // skip full-address values
+              !/^\d/.test(c) &&               // skip entries starting with a number
+              !/[,/\\]/.test(c) &&            // skip entries with address punctuation
+              !/\d{4,}/.test(c) &&            // skip entries containing pin codes
+              c.split(/\s+/).length <= 3 &&   // real city names are ≤ 3 words
+              !_cityBlocklist.test(c)          // skip known dirty values
+            )
+            .map(c => c.charAt(0).toUpperCase() + c.slice(1))  // normalise capitalisation
+        )].sort();
       }
       console.log('✅ Loaded live data from backend');
     } catch (err) {

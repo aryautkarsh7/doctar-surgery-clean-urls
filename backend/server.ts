@@ -1,21 +1,21 @@
-const express = require('express');
-const cors = require('cors');
-const dotenv = require('dotenv');
-const path = require('path');
+import express, { Request, Response, NextFunction } from 'express';
+import cors from 'cors';
+import dotenv from 'dotenv';
+import path from 'path';
 
 dotenv.config();
 
-const connectDB = require('./config/db');
-const bookingRoutes = require('./routes/booking');
-const dataRoutes = require('./routes/data');
-const doctorsRouter = require('./routes/doctors');
-const videoRoutes = require('./routes/videos');
-const blogRoutes = require('./routes/blogs');
-const uploadRoutes = require('./routes/upload');
-const { verifyMailer } = require('./utils/mailer');
+import connectDB from './config/db';
+import bookingRoutes from './routes/booking';
+import dataRoutes from './routes/data';
+import doctorsRouter from './routes/doctors';
+import videoRoutes from './routes/videos';
+import blogRoutes from './routes/blogs';
+import uploadRoutes from './routes/upload';
+import { verifyMailer } from './utils/mailer';
 
-const DoctorClaim = require('./models/DoctorClaim');
-const resourceRouter = require('./routes/resource');
+import DoctorClaim from './models/DoctorClaim';
+import resourceRouter from './routes/resource';
 
 // Connect to the database
 connectDB();
@@ -32,7 +32,7 @@ app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
 // Request logging middleware
-app.use((req, res, next) => {
+app.use((req: Request, res: Response, next: NextFunction) => {
   const start = Date.now();
   res.on('finish', () => {
     console.log(`[${new Date().toISOString()}] ${req.method} ${req.originalUrl} - ${res.statusCode} (${Date.now() - start}ms)`);
@@ -61,17 +61,17 @@ app.use('/api/upload', uploadRoutes);
 app.use('/uploads', express.static(path.join(__dirname, 'public', 'uploads')));
 
 // Admin panel (static HTML)
-app.get('/admin', (req, res) => {
+app.get('/admin', (req: Request, res: Response) => {
   res.sendFile(path.join(__dirname, 'public', 'admin.html'));
 });
 
 // Dedicated fullscreen video manager
-app.get('/video-manager', (req, res) => {
+app.get('/video-manager', (req: Request, res: Response) => {
   res.sendFile(path.join(__dirname, 'public', 'video-manager.html'));
 });
 
 // Block access to sensitive server-side folders/files
-app.use((req, res, next) => {
+app.use((req: Request, res: Response, next: NextFunction) => {
   const normalizedPath = req.path.toLowerCase();
   if (
     normalizedPath.startsWith('/backend') ||
@@ -94,7 +94,7 @@ if (process.env.NODE_ENV === 'production') {
 // SPA catch-all: any non-API GET that didn't match a static file returns the
 // app shell so clean URLs (e.g. /hospitals/s) work on direct load / refresh.
 // (Express 5 dropped the bare '*' string route, so use a path-less middleware.)
-app.use((req, res, next) => {
+app.use((req: Request, res: Response, next: NextFunction) => {
   if (req.method !== 'GET' || req.path.startsWith('/api/')) return next();
   if (process.env.NODE_ENV === 'production') {
     res.sendFile(path.join(__dirname, '..', 'dist', 'index.html'));
@@ -104,7 +104,7 @@ app.use((req, res, next) => {
 });
 
 // 404 fallback (unmatched API routes + non-GET)
-app.use((req, res) => {
+app.use((req: Request, res: Response) => {
   res.status(404).json({ success: false, message: 'Route not found' });
 });
 

@@ -11,6 +11,14 @@
     if (!treatment) { handleRoute(); return; }
     const category = findCategory(treatment.categorySlug);
     const currentCity = getCurrentCity();
+    
+    updatePageMeta({
+      title: `${treatment.name} Surgeons in ${currentCity}`,
+      description: `Expert ${treatment.name} specialists in ${currentCity}. Book verified surgeons with free consultation, insurance support & cab service. Estimated cost: ${treatment.costRange}.`,
+      keywords: `${treatment.name} surgery ${currentCity}, best ${treatment.name} doctor ${currentCity}, ${treatment.name} cost`,
+      url: window.location.href
+    });
+
     const pageVideos = await fetchVideosForPage('treatment-' + slug);
 
     filters = filters || { availability: 'all', rating: 0, fee: 'all', experience: 'all', gender: 'all' };

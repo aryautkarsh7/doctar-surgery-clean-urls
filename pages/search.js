@@ -52,6 +52,14 @@
 
   function renderSearchPage(query, sectionFilter) {
     _srQuery = query || '';
+    
+    updatePageMeta({
+      title: `Search results for "${query}" - Doctar`,
+      description: `Search results for doctors, hospitals, and treatments matching "${query}".`,
+      keywords: `search ${query}, doctar search`,
+      url: window.location.href
+    });
+
     const esc = s => String(s == null ? '' : s)
       .replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
 

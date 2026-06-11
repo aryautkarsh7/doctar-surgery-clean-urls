@@ -269,3 +269,48 @@
     const tail = area ? `${area}-${city}` : city;
     return `/hospital/${slug}/${tail}/s`;
   }
+
+  // =====================================================
+  // SEO META TAGS UPDATER
+  // =====================================================
+  window.updatePageMeta = function({ title, description, keywords, image, url }) {
+    if (title) document.title = title + ' | Doctar Surgery';
+    
+    function setMeta(name, content) {
+      if (!content) return;
+      let el = document.querySelector(`meta[name="${name}"]`);
+      if (!el) {
+        el = document.createElement('meta');
+        el.setAttribute('name', name);
+        document.head.appendChild(el);
+      }
+      el.setAttribute('content', content);
+    }
+    
+    function setOG(property, content) {
+      if (!content) return;
+      let el = document.querySelector(`meta[property="${property}"]`);
+      if (!el) {
+        el = document.createElement('meta');
+        el.setAttribute('property', property);
+        document.head.appendChild(el);
+      }
+      el.setAttribute('content', content);
+    }
+
+    setMeta('description', description);
+    setMeta('keywords', keywords);
+    
+    setOG('og:title', title ? title + ' | Doctar Surgery' : '');
+    setOG('og:description', description);
+    setOG('og:image', image || 'https://surgery.doctar.in/images/about-surgery.png');
+    setOG('og:url', url || window.location.href);
+
+    let canonical = document.querySelector('link[rel="canonical"]');
+    if (!canonical) {
+      canonical = document.createElement('link');
+      canonical.setAttribute('rel', 'canonical');
+      document.head.appendChild(canonical);
+    }
+    canonical.setAttribute('href', url || window.location.href);
+  };

@@ -7,6 +7,12 @@
   // =====================================================
   async function renderHomePage() {
     showSkeleton('home');
+    updatePageMeta({
+      title: 'Doctar - Expert Surgical Care',
+      description: 'Book surgery appointments with expert surgeons across India. Piles, Kidney Stone, Cataract, Knee Replacement & 50+ treatments. Free consultation, No Cost EMI, Free Cab.',
+      keywords: 'surgery booking India, expert surgeons, piles treatment, knee replacement, cataract surgery, kidney stone, hernia repair, Doctar',
+      url: 'https://surgery.doctar.in'
+    });
     const treatmentShowcase = [
       { title: 'Orthopedics', slug: 'orthopedics', image: 'images/service-general.png', icon: 'fa-solid fa-bone', tags: ['Knee', 'Hip', 'Spine'], treatmentCount: 18, color: '#7c3aed' },
       { title: 'Cardiology', slug: 'cardiology', image: 'images/service-cardiac.png', icon: 'fa-solid fa-heart-pulse', tags: ['Angioplasty', 'Bypass', 'Valve'], treatmentCount: 14, color: '#e85d8f' },
