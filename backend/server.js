@@ -24,6 +24,7 @@ const FAQ = require('./models/FAQ');
 const SubCategory = require('./models/SubCategory');
 const SubSubCategory = require('./models/SubSubCategory');
 const DoctorClaim = require('./models/DoctorClaim');
+const PetHospital = require('./models/PetHospital');
 
 // Connect to the database
 connectDB();
@@ -61,6 +62,7 @@ app.use('/api/faqs', resourceRouter(FAQ, 'FAQ'));
 app.use('/api/subcategories', resourceRouter(SubCategory, 'SubCategory'));
 app.use('/api/subsubcategories', resourceRouter(SubSubCategory, 'SubSubCategory'));
 app.use('/api/doctor-claims', resourceRouter(DoctorClaim, 'DoctorClaim'));
+app.use('/api/pet-hospitals', resourceRouter(PetHospital, 'PetHospital'));
 app.use('/api/data', dataRoutes);
 app.use('/api/upload', uploadRoutes);
 
@@ -93,7 +95,15 @@ app.use((req, res, next) => {
 // Serve frontend static files from the parent directory
 app.use(express.static(path.join(__dirname, '..')));
 
-// 404 fallback
+// SPA catch-all: any non-API GET that didn't match a static file returns the
+// app shell so clean URLs (e.g. /hospitals/s) work on direct load / refresh.
+// (Express 5 dropped the bare '*' string route, so use a path-less middleware.)
+app.use((req, res, next) => {
+  if (req.method !== 'GET' || req.path.startsWith('/api/')) return next();
+  res.sendFile(path.join(__dirname, '..', 'index.html'));
+});
+
+// 404 fallback (unmatched API routes + non-GET)
 app.use((req, res) => {
   res.status(404).json({ success: false, message: 'Route not found' });
 });

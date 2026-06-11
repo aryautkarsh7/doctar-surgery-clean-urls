@@ -2,6 +2,9 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
+  <!-- Resolve all relative asset/links from the site root so clean deep URLs
+       (e.g. /hospital/x/s) still load scripts, styles and images correctly. -->
+  <base href="/">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Doctar - Expert Surgical Care</title>
   <meta name="description" content="Book surgery appointments with expert surgeons across India. Piles, Kidney Stone, Cataract, Knee Replacement & 50+ treatments. Free consultation, No Cost EMI, Free Cab.">
@@ -12,7 +15,7 @@
   <meta property="og:type" content="website">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://surgery.doctar.in">
-  <link rel="preload" href="styles.css?v=20260608-mobile-tpl" as="style" onload="this.rel='stylesheet'">
+  <link rel="preload" href="styles.css?v=20260611-pethospitals" as="style" onload="this.rel='stylesheet'">
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/MarkerCluster.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/MarkerCluster.Default.css">
@@ -28,7 +31,7 @@
   <header>
     <div class="container header-top">
       <div class="logo-area" style="position: relative;">
-        <a href="#/" class="logo">DOCTAR</a>
+        <a href="/" class="logo">DOCTAR</a>
         <div class="city-selector" id="citySelectorBtn" onclick="window.openLocationModal && window.openLocationModal()">
           <i class="fa-solid fa-location-dot" style="font-size:0.8rem"></i>
           <span id="currentCityText">Kolkata</span>
@@ -97,7 +100,7 @@
   <footer>
     <div class="container footer-grid">
       <div class="footer-brand">
-        <a href="#/" class="logo" style="font-size:24px; font-weight:700; color:white; letter-spacing:1px;">DOCTAR</a>
+        <a href="/" class="logo" style="font-size:24px; font-weight:700; color:white; letter-spacing:1px;">DOCTAR</a>
         <p class="footer-desc">
           Doctar is India's leading surgical care network, ensuring a seamless experience from consultation to recovery with expert doctors and advanced technology.
         </p>
@@ -112,20 +115,20 @@
       <div class="footer-links">
         <h4 class="footer-title">For Patients</h4>
         <ul>
-          <li><a href="#/">Search for Doctors</a></li>
-          <li><a href="#/">Search for Clinics</a></li>
-          <li><a href="#/">Book Appointment</a></li>
-          <li><a href="#/">Our Specialists</a></li>
+          <li><a href="/">Search for Doctors</a></li>
+          <li><a href="/">Search for Clinics</a></li>
+          <li><a href="/">Book Appointment</a></li>
+          <li><a href="/">Our Specialists</a></li>
         </ul>
       </div>
       
       <div class="footer-links">
         <h4 class="footer-title">About Us</h4>
         <ul>
-          <li><a href="#/">Who We Are</a></li>
-          <li><a href="#/">Why Choose Us</a></li>
-          <li><a href="#/">Success Stories</a></li>
-          <li><a href="#/">Contact Us</a></li>
+          <li><a href="/">Who We Are</a></li>
+          <li><a href="/">Why Choose Us</a></li>
+          <li><a href="/">Success Stories</a></li>
+          <li><a href="/">Contact Us</a></li>
         </ul>
       </div>
       
@@ -160,7 +163,26 @@
   <!-- Scripts -->
   <script defer src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
   <script defer src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/leaflet.markercluster.js"></script>
-  <script defer src="data.js?v=20260603-api-data"></script>
-  <script defer src="app.js?v=20260608-mobile-tpl"></script>
+  <!-- Data layer (defines global CATEGORIES / DOCTORS / HOSPITALS / etc.) -->
+  <script defer src="data.js?v=20260611-pethospitals"></script>
+
+  <!-- App modules: classic scripts, share one global scope, load before main.js -->
+  <script defer src="utils/helpers.js?v=20260611-pethospitals"></script>
+  <script defer src="utils/api.js?v=20260611-pethospitals"></script>
+  <script defer src="components/sections.js?v=20260611-pethospitals"></script>
+  <script defer src="components/footer-dynamic.js?v=20260611-pethospitals"></script>
+  <script defer src="components/header.js?v=20260611-pethospitals"></script>
+  <script defer src="components/booking-modal.js?v=20260611-pethospitals"></script>
+  <script defer src="pages/blog.js?v=20260611-pethospitals"></script>
+  <script defer src="pages/home.js?v=20260611-pethospitals"></script>
+  <script defer src="pages/category.js?v=20260611-pethospitals"></script>
+  <script defer src="pages/treatment.js?v=20260611-pethospitals"></script>
+  <script defer src="pages/doctors.js?v=20260611-pethospitals"></script>
+  <script defer src="pages/hospitals.js?v=20260611-pethospitals"></script>
+  <script defer src="pages/search.js?v=20260611-pethospitals"></script>
+  <script defer src="pages/pet.js?v=20260611-pethospitals"></script>
+
+  <!-- Router / entry point (must load last) -->
+  <script defer src="main.js?v=20260611-pethospitals"></script>
 </body>
 </html>

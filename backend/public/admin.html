@@ -1586,6 +1586,9 @@
           <button class="nav-item tab" data-tab="claims">
             <i class="fa-solid fa-user-check"></i> Doctor Claims
           </button>
+          <button class="nav-item tab" data-tab="pethospitals">
+            <i class="fa-solid fa-paw"></i> Pet Hospitals
+          </button>
         </nav>
         <div class="sidebar-footer">
           <div class="sidebar-profile">
@@ -1717,6 +1720,7 @@
           <div class="pane" id="pane-videos"></div>
           <div class="pane" id="pane-reviews"></div>
           <div class="pane" id="pane-faqs"></div>
+          <div class="pane" id="pane-pethospitals"></div>
 
           <!-- DOCTOR CLAIMS PANE -->
           <div class="pane" id="pane-claims">
@@ -1835,7 +1839,8 @@
       videos: 'Videos',
       reviews: 'Reviews Management',
       faqs: 'FAQ Management',
-      claims: 'Doctor Claims'
+      claims: 'Doctor Claims',
+      pethospitals: 'Pet Hospitals'
     };
 
     document.querySelectorAll('.tab').forEach(t=>{
@@ -2181,6 +2186,30 @@
           {key:'category',label:'Category / Specialty',type:'select',optionsSource:'categories'},
           {key:'order',label:'Order',type:'number'},
           {key:'showOn',label:'Show On',type:'showOn',full:true},
+        ]},
+      pethospitals:{ endpoint:'/api/pet-hospitals', title:'Pet Hospitals',
+        columns:[['name','Name'],['city','City'],['petTypes','Pet Types'],['phone','Phone'],['rating','Rating']],
+        fields:[
+          {key:'name',label:'Name'},
+          {key:'slug',label:'Slug'},
+          {key:'type',label:'Type',type:'select',options:['Veterinary Clinic','Pet Hospital','Animal Care Center','Pet Surgery Center']},
+          {key:'phone',label:'Phone'},
+          {key:'alternatePhone',label:'Alternate Phone'},
+          {key:'address',label:'Address',full:true},
+          {key:'city',label:'City'},
+          {key:'state',label:'State'},
+          {key:'pincode',label:'Pincode'},
+          {key:'locality',label:'Locality'},
+          {key:'overview',label:'Overview',type:'textarea',full:true},
+          {key:'image',label:'Hospital Image',type:'imageUrlCrop',placeholder:'https://example.com/pet-hospital.jpg',full:true},
+          {key:'rating',label:'Rating',type:'number'},
+          {key:'hours',label:'Hours'},
+          {key:'website',label:'Website'},
+          {key:'emergencyServices',label:'Emergency Services (24/7)',type:'toggle'},
+          {key:'map',label:'Location (search or click map to set)',type:'map',full:true},
+          {key:'petTypes',label:'Pet Types (comma separated)',array:true,full:true},
+          {key:'services',label:'Services (comma separated)',array:true,full:true},
+          {key:'amenities',label:'Amenities (comma separated)',array:true,full:true},
         ]},
     };
 
