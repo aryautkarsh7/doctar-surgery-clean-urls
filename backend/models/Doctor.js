@@ -19,6 +19,9 @@ const doctorSchema = new mongoose.Schema({
   language: String,
   bio: String,
   categories: [String],
+  city: String,
 }, { timestamps: true });
+
+doctorSchema.index({ city: 1 });
 
 module.exports = mongoose.model('Doctor', doctorSchema);

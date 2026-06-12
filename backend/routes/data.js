@@ -41,7 +41,7 @@ router.get('/critical', async (req, res) => {
       Treatment.find().lean(),
       SubCategory.find().sort({ order: 1, createdAt: -1 }).lean(),
       SubSubCategory.find().sort({ order: 1, createdAt: -1 }).lean(),
-      Hospital.find().select('city').lean(),
+      Hospital.find().select('city').hint({ city: 1 }).lean(),
     ]);
 
     const treatments = {};
@@ -59,17 +59,20 @@ router.get('/critical', async (req, res) => {
 });
 
 // GET /api/data/city?city=Kolkata — hospitals + doctors for ONE city (trimmed fields)
+// Uses case-insensitive collation so the { city: 1 } index is used (regex bypasses it).
 router.get('/city', async (req, res) => {
   try {
     const city = (req.query.city || 'Kolkata').trim();
-    const cityRegex = new RegExp(`^${city.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}$`, 'i');
+    const collation = { locale: 'en', strength: 2 }; // strength:2 = case-insensitive
 
     const [doctorDocs, hospitals, pethospitals] = await Promise.all([
-      Doctor.find({ city: cityRegex }).lean(),
-      Hospital.find({ city: cityRegex })
+      Doctor.find({ city }).collation(collation).lean(),
+      Hospital.find({ city })
+        .collation(collation)
         .select('name slug city image logo rating phone type specialties map address locality services metrics')
+        .limit(40)
         .lean(),
-      PetHospital.find({ city: cityRegex }).lean(),
+      PetHospital.find({ city }).collation(collation).lean(),
     ]);
 
     const doctors = doctorDocs.map(doc => ({ ...doc, iconImage: doc.iconImage || '' }));

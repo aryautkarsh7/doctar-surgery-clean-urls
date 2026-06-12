@@ -79,4 +79,6 @@ const hospitalSchema = new mongoose.Schema({
   hours: String,                // legacy free-text hours string
 }, { timestamps: true });
 
+hospitalSchema.index({ city: 1 });
+
 module.exports = mongoose.model('Hospital', hospitalSchema);
