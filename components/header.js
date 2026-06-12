@@ -217,7 +217,12 @@
     const textSpan = document.getElementById('currentCityText');
     if (textSpan) textSpan.textContent = city;
     window.closeLocationModal();
-    handleRoute();
+    // Reload city-specific data then re-render; falls back to immediate re-render if unavailable
+    if (typeof window.reloadCityData === 'function') {
+      window.reloadCityData(city).catch(() => {}).finally(() => handleRoute());
+    } else {
+      handleRoute();
+    }
   };
 
   function initCitySelector() {

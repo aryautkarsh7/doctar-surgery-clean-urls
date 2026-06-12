@@ -183,60 +183,66 @@
 
   async function _doLoadRemoteData() {
     try {
-      const res = await fetch(API_BASE + '/api/data/all', { cache: 'no-store' });
-      if (!res.ok) throw new Error('bad status ' + res.status);
+      // Stage 1: critical data only (categories, treatments, subcategories, cities list)
+      // This is fast (~10-50ms) and unblocks the router so the page renders immediately.
+      const res1 = await fetch(API_BASE + '/api/data/critical', { cache: 'no-store' });
+      if (!res1.ok) throw new Error('bad status ' + res1.status);
+      const json1 = await res1.json();
+      const d1 = (json1 && json1.data) || {};
+
+      if (Array.isArray(d1.categories) && d1.categories.length) {
+        CATEGORIES.length = 0;
+        CATEGORIES.push(...d1.categories);
+      }
+      if (d1.treatments && Object.keys(d1.treatments).length) {
+        Object.keys(TREATMENTS).forEach(k => delete TREATMENTS[k]);
+        Object.assign(TREATMENTS, d1.treatments);
+      }
+      if (Array.isArray(d1.subcategories)) SUBCATEGORIES = d1.subcategories;
+      if (Array.isArray(d1.subsubcategories)) SUBSUBCATEGORIES = d1.subsubcategories;
+      if (Array.isArray(d1.availableCities) && d1.availableCities.length) {
+        AVAILABLE_CITIES = d1.availableCities;
+      }
+
+      console.log('✅ Stage 1: critical data loaded');
+
+      // Stage 2: hospitals + doctors for current city — runs in background after router starts
+      _loadCityData(getCurrentCity()).catch(() => {});
+
+    } catch (err) {
+      console.warn('⚠️ Using bundled data.js (backend unavailable):', err.message);
+    }
+  }
+
+  // Load hospitals + doctors for a specific city and re-render current route.
+  // Called at boot (stage 2) and whenever the user switches city.
+  async function _loadCityData(city) {
+    try {
+      const res = await fetch(API_BASE + '/api/data/city?city=' + encodeURIComponent(city), { cache: 'no-store' });
+      if (!res.ok) return;
       const json = await res.json();
       const d = (json && json.data) || {};
 
-      // Mutate the existing globals in place (they are const arrays/objects).
-      if (Array.isArray(d.categories) && d.categories.length) {
-        CATEGORIES.length = 0;
-        CATEGORIES.push(...d.categories);
-      }
-      if (d.treatments && Object.keys(d.treatments).length) {
-        Object.keys(TREATMENTS).forEach(k => delete TREATMENTS[k]);
-        Object.assign(TREATMENTS, d.treatments);
-      }
       if (Array.isArray(d.doctors) && d.doctors.length) {
         DOCTORS.length = 0;
         DOCTORS.push(...d.doctors);
-        console.log('/api/data/all first doctor from API:', d.doctors[0]);
       }
       if (Array.isArray(d.hospitals) && d.hospitals.length) {
         HOSPITALS.length = 0;
         HOSPITALS.push(...d.hospitals);
       }
-      if (Array.isArray(d.subcategories)) {
-        SUBCATEGORIES = d.subcategories;
-      }
-      if (Array.isArray(d.subsubcategories)) {
-        SUBSUBCATEGORIES = d.subsubcategories;
-      }
-      if (Array.isArray(d.pethospitals)) {
-        PET_HOSPITALS = d.pethospitals;
-      }
-      if (Array.isArray(d.hospitals) && d.hospitals.length) {
-        const _cityBlocklist = /near |opposite |taluk|kachh| patti |naini |mahewa|mirakhpur|mubark|daiwghat|dadanpur|burhanagar|jhusi|karuvatta|kattanam|kollakadavu|kulanada|kumarapuram|malayambakkam|mannanchery|ashoka circle/i;
-        AVAILABLE_CITIES = [...new Set(
-          d.hospitals
-            .map(h => (h.city || '').trim())
-            .filter(c =>
-              c.length > 0 &&
-              c.length <= 30 &&               // skip full-address values
-              !/^\d/.test(c) &&               // skip entries starting with a number
-              !/[,/\\]/.test(c) &&            // skip entries with address punctuation
-              !/\d{4,}/.test(c) &&            // skip entries containing pin codes
-              c.split(/\s+/).length <= 3 &&   // real city names are ≤ 3 words
-              !_cityBlocklist.test(c)          // skip known dirty values
-            )
-            .map(c => c.charAt(0).toUpperCase() + c.slice(1))  // normalise capitalisation
-        )].sort();
-      }
-      console.log('✅ Loaded live data from backend');
+      if (Array.isArray(d.pethospitals)) PET_HOSPITALS = d.pethospitals;
+
+      console.log('✅ Stage 2: city data loaded for', city);
+      // Re-render the current page so hospitals/doctors sections populate
+      if (typeof handleRoute === 'function') handleRoute();
     } catch (err) {
-      console.warn('⚠️ Using bundled data.js (backend unavailable):', err.message);
+      console.warn('⚠️ Failed to load city data:', err.message);
     }
   }
+
+  // Expose so city-selector can trigger a reload when the user switches city
+  window.reloadCityData = _loadCityData;
 
   // =====================================================
   // DOCTOR CLAIM MODAL

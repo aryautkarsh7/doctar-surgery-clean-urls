@@ -7,15 +7,21 @@ function crudController(Model, label = 'Item') {
     // GET /  — list all (newest first when timestamps exist).
     // Supports filtering by any real schema field via query params,
     // e.g. GET /api/subcategories?categorySlug=general-surgery
+    // Supports pagination via ?page=1&limit=20
     async getAll(req, res) {
       try {
         const filter = {};
         const paths = Model.schema.paths;
+        const reservedKeys = new Set(['page', 'limit']);
         for (const key of Object.keys(req.query || {})) {
-          if (paths[key]) filter[key] = req.query[key];
+          if (!reservedKeys.has(key) && paths[key]) filter[key] = req.query[key];
         }
-        const items = await Model.find(filter).sort({ createdAt: -1 });
-        res.json({ success: true, total: items.length, data: items });
+        const page  = Math.max(1, parseInt(req.query.page)  || 1);
+        const limit = Math.min(200, Math.max(1, parseInt(req.query.limit) || 0));
+        const query = Model.find(filter).sort({ createdAt: -1 });
+        if (limit > 0) query.skip((page - 1) * limit).limit(limit);
+        const items = await query;
+        res.json({ success: true, total: items.length, page: limit > 0 ? page : 1, data: items });
       } catch (err) {
         res.status(500).json({ success: false, error: err.message });
       }

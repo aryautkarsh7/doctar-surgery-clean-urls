@@ -13,9 +13,74 @@ const SubCategory = require('../models/SubCategory');
 const SubSubCategory = require('../models/SubSubCategory');
 const PetHospital = require('../models/PetHospital');
 
-// GET /api/data/all — everything the frontend needs in one call.
-// Treatments are grouped by categorySlug to match the frontend's
-// TREATMENTS object shape.
+// City name blocklist for deriving AVAILABLE_CITIES
+const _cityBlocklist = /near |opposite |taluk|kachh| patti |naini |mahewa|mirakhpur|mubark|daiwghat|dadanpur|burhanagar|jhusi|karuvatta|kattanam|kollakadavu|kulanada|kumarapuram|malayambakkam|mannanchery|ashoka circle/i;
+
+function deriveAvailableCities(hospitals) {
+  return [...new Set(
+    hospitals
+      .map(h => (h.city || '').trim())
+      .filter(c =>
+        c.length > 0 &&
+        c.length <= 30 &&
+        !/^\d/.test(c) &&
+        !/[,/\\]/.test(c) &&
+        !/\d{4,}/.test(c) &&
+        c.split(/\s+/).length <= 3 &&
+        !_cityBlocklist.test(c)
+      )
+      .map(c => c.charAt(0).toUpperCase() + c.slice(1))
+  )].sort();
+}
+
+// GET /api/data/critical — small fast payload: categories + treatments + subcategories + cities list
+router.get('/critical', async (req, res) => {
+  try {
+    const [categories, treatmentDocs, subcategories, subsubcategories, cityDocs] = await Promise.all([
+      Category.find().lean(),
+      Treatment.find().lean(),
+      SubCategory.find().sort({ order: 1, createdAt: -1 }).lean(),
+      SubSubCategory.find().sort({ order: 1, createdAt: -1 }).lean(),
+      Hospital.find().select('city').lean(),
+    ]);
+
+    const treatments = {};
+    for (const t of treatmentDocs) {
+      if (!treatments[t.categorySlug]) treatments[t.categorySlug] = [];
+      treatments[t.categorySlug].push(t);
+    }
+
+    const availableCities = deriveAvailableCities(cityDocs);
+
+    res.json({ success: true, data: { categories, treatments, subcategories, subsubcategories, availableCities } });
+  } catch (err) {
+    res.status(500).json({ success: false, error: err.message });
+  }
+});
+
+// GET /api/data/city?city=Kolkata — hospitals + doctors for ONE city (trimmed fields)
+router.get('/city', async (req, res) => {
+  try {
+    const city = (req.query.city || 'Kolkata').trim();
+    const cityRegex = new RegExp(`^${city.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}$`, 'i');
+
+    const [doctorDocs, hospitals, pethospitals] = await Promise.all([
+      Doctor.find({ city: cityRegex }).lean(),
+      Hospital.find({ city: cityRegex })
+        .select('name slug city image logo rating phone type specialties map address locality services metrics')
+        .lean(),
+      PetHospital.find({ city: cityRegex }).lean(),
+    ]);
+
+    const doctors = doctorDocs.map(doc => ({ ...doc, iconImage: doc.iconImage || '' }));
+
+    res.json({ success: true, data: { doctors, hospitals, pethospitals } });
+  } catch (err) {
+    res.status(500).json({ success: false, error: err.message });
+  }
+});
+
+// GET /api/data/all — full payload kept for admin / backwards compat
 router.get('/all', async (req, res) => {
   try {
     const [categories, treatmentDocs, doctors, hospitals, videos, blogDocs, reviews, faqs, subcategories, subsubcategories, pethospitals] = await Promise.all([
@@ -38,10 +103,7 @@ router.get('/all', async (req, res) => {
       treatments[t.categorySlug].push(t);
     }
 
-    const normalizedDoctors = doctors.map(doc => ({
-      ...doc,
-      iconImage: doc.iconImage || '',
-    }));
+    const normalizedDoctors = doctors.map(doc => ({ ...doc, iconImage: doc.iconImage || '' }));
 
     res.json({
       success: true,

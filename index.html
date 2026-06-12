@@ -193,5 +193,11 @@
 
   <!-- Router / entry point (must load last) -->
   <script defer src="main.js?v=20260611-seo"></script>
+
+  <script>
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('load', () => navigator.serviceWorker.register('/sw.js'));
+    }
+  </script>
 </body>
 </html>

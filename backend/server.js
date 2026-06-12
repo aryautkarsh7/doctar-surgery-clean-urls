@@ -1,5 +1,6 @@
 const express = require('express');
 const cors = require('cors');
+const compression = require('compression');
 const dotenv = require('dotenv');
 const path = require('path');
 
@@ -31,7 +32,25 @@ verifyMailer();
 const app = express();
 const PORT = process.env.PORT || 3001;
 
+// Simple in-memory cache middleware
+const _cache = {};
+function cacheMiddleware(duration) {
+  return (req, res, next) => {
+    const key = req.url;
+    if (_cache[key] && Date.now() - _cache[key].time < duration) {
+      return res.json(_cache[key].data);
+    }
+    const origJson = res.json.bind(res);
+    res.json = (data) => {
+      _cache[key] = { data, time: Date.now() };
+      return origJson(data);
+    };
+    next();
+  };
+}
+
 // Middleware
+app.use(compression());
 app.use(cors());
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
@@ -46,6 +65,9 @@ app.use((req, res, next) => {
 });
 
 // Routes
+app.use('/api/data/critical', cacheMiddleware(10 * 60 * 1000));  // 10 min
+app.use('/api/data/city',     cacheMiddleware(5  * 60 * 1000));  // 5 min
+app.use('/api/categories',    cacheMiddleware(10 * 60 * 1000));  // 10 min
 app.use('/api/bookings', bookingRoutes);
 app.use('/api/categories', require('./routes/categories'));
 app.use('/api/treatments', require('./routes/treatments'));
