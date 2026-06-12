@@ -1,4 +1,4 @@
-const CACHE_NAME = 'doctar-surgery-v1';
+const CACHE_NAME = 'doctar-v2';
 const STATIC_ASSETS = [
   '/',
   '/styles.css',
@@ -37,16 +37,45 @@ self.addEventListener('activate', e => {
 });
 
 self.addEventListener('fetch', e => {
+  const url = new URL(e.request.url);
+
   // Never cache API calls or admin
-  if (e.request.url.includes('/api/') || e.request.url.includes('/admin')) return;
-  // Cache-first for static assets, network-first for HTML navigation
+  if (url.pathname.startsWith('/api/') || url.pathname.startsWith('/admin')) return;
+
+  // Cache-first for images (serve instantly from cache, fetch+update in background)
+  if (e.request.destination === 'image') {
+    e.respondWith(
+      caches.open(CACHE_NAME).then(cache =>
+        cache.match(e.request).then(cached => {
+          const fetchPromise = fetch(e.request).then(response => {
+            if (response.ok) cache.put(e.request, response.clone());
+            return response;
+          }).catch(() => cached);
+          return cached || fetchPromise;
+        })
+      )
+    );
+    return;
+  }
+
+  // Network-first for HTML navigation (always get fresh shell)
   if (e.request.mode === 'navigate') {
     e.respondWith(
       fetch(e.request).catch(() => caches.match('/'))
     );
     return;
   }
+
+  // Stale-while-revalidate for JS/CSS — serve cached instantly, update in background
   e.respondWith(
-    caches.match(e.request).then(cached => cached || fetch(e.request))
+    caches.open(CACHE_NAME).then(cache =>
+      cache.match(e.request).then(cached => {
+        const fetchPromise = fetch(e.request).then(response => {
+          if (response.ok) cache.put(e.request, response.clone());
+          return response;
+        }).catch(() => cached);
+        return cached || fetchPromise;
+      })
+    )
   );
 });

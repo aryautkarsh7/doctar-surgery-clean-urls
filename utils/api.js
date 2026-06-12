@@ -133,7 +133,10 @@
   // pageKey: 'home' | 'doctor-[slug]' | 'category-[slug]'
   async function fetchVideosForPage(pageKey) {
     try {
-      const res = await fetch('/api/videos?page=' + encodeURIComponent(pageKey));
+      const controller = new AbortController();
+      const timeout = setTimeout(() => controller.abort(), 3000);
+      const res = await fetch('/api/videos?page=' + encodeURIComponent(pageKey), { signal: controller.signal });
+      clearTimeout(timeout);
       const json = await res.json();
       return json.data || [];
     } catch (e) {
@@ -183,39 +186,56 @@
 
   async function _doLoadRemoteData() {
     try {
-      // Stage 1: critical data only (categories, treatments, subcategories, cities list)
-      // This is fast (~10-50ms) and unblocks the router so the page renders immediately.
-      const res1 = await fetch(API_BASE + '/api/data/critical', { cache: 'no-store' });
-      if (!res1.ok) throw new Error('bad status ' + res1.status);
-      const json1 = await res1.json();
-      const d1 = (json1 && json1.data) || {};
+      const city = getCurrentCity();
 
-      if (Array.isArray(d1.categories) && d1.categories.length) {
-        CATEGORIES.length = 0;
-        CATEGORIES.push(...d1.categories);
+      // Fetch critical data + city data in parallel so the page renders ONCE with full data.
+      // Sequential fetching caused a double-render flicker (skeleton → empty → full).
+      const [res1, res2] = await Promise.all([
+        fetch(API_BASE + '/api/data/critical', { cache: 'no-store' }),
+        fetch(API_BASE + '/api/data/city?city=' + encodeURIComponent(city), { cache: 'no-store' }),
+      ]);
+
+      // Apply critical data (categories, treatments, subcategories, cities list)
+      if (res1.ok) {
+        const json1 = await res1.json();
+        const d1 = (json1 && json1.data) || {};
+        if (Array.isArray(d1.categories) && d1.categories.length) {
+          CATEGORIES.length = 0;
+          CATEGORIES.push(...d1.categories);
+        }
+        if (d1.treatments && Object.keys(d1.treatments).length) {
+          Object.keys(TREATMENTS).forEach(k => delete TREATMENTS[k]);
+          Object.assign(TREATMENTS, d1.treatments);
+        }
+        if (Array.isArray(d1.subcategories)) SUBCATEGORIES = d1.subcategories;
+        if (Array.isArray(d1.subsubcategories)) SUBSUBCATEGORIES = d1.subsubcategories;
+        if (Array.isArray(d1.availableCities) && d1.availableCities.length) {
+          AVAILABLE_CITIES = d1.availableCities;
+        }
       }
-      if (d1.treatments && Object.keys(d1.treatments).length) {
-        Object.keys(TREATMENTS).forEach(k => delete TREATMENTS[k]);
-        Object.assign(TREATMENTS, d1.treatments);
+
+      // Apply city data (hospitals, doctors for current city)
+      if (res2.ok) {
+        const json2 = await res2.json();
+        const d2 = (json2 && json2.data) || {};
+        if (Array.isArray(d2.doctors) && d2.doctors.length) {
+          DOCTORS.length = 0;
+          DOCTORS.push(...d2.doctors);
+        }
+        if (Array.isArray(d2.hospitals) && d2.hospitals.length) {
+          HOSPITALS.length = 0;
+          HOSPITALS.push(...d2.hospitals);
+        }
+        if (Array.isArray(d2.pethospitals)) PET_HOSPITALS = d2.pethospitals;
       }
-      if (Array.isArray(d1.subcategories)) SUBCATEGORIES = d1.subcategories;
-      if (Array.isArray(d1.subsubcategories)) SUBSUBCATEGORIES = d1.subsubcategories;
-      if (Array.isArray(d1.availableCities) && d1.availableCities.length) {
-        AVAILABLE_CITIES = d1.availableCities;
-      }
 
-      console.log('✅ Stage 1: critical data loaded');
-
-      // Stage 2: hospitals + doctors for current city — runs in background after router starts
-      _loadCityData(getCurrentCity()).catch(() => {});
-
+      console.log('✅ Remote data loaded for', city);
     } catch (err) {
       console.warn('⚠️ Using bundled data.js (backend unavailable):', err.message);
     }
   }
 
-  // Load hospitals + doctors for a specific city and re-render current route.
-  // Called at boot (stage 2) and whenever the user switches city.
+  // Load city-specific data and re-render — used only when the user switches city.
   async function _loadCityData(city) {
     try {
       const res = await fetch(API_BASE + '/api/data/city?city=' + encodeURIComponent(city), { cache: 'no-store' });
@@ -233,15 +253,14 @@
       }
       if (Array.isArray(d.pethospitals)) PET_HOSPITALS = d.pethospitals;
 
-      console.log('✅ Stage 2: city data loaded for', city);
-      // Re-render the current page so hospitals/doctors sections populate
+      console.log('✅ City data reloaded for', city);
       if (typeof handleRoute === 'function') handleRoute();
     } catch (err) {
-      console.warn('⚠️ Failed to load city data:', err.message);
+      console.warn('⚠️ Failed to reload city data:', err.message);
     }
   }
 
-  // Expose so city-selector can trigger a reload when the user switches city
+  // Exposed for city-selector to trigger a reload when the user switches city
   window.reloadCityData = _loadCityData;
 
   // =====================================================

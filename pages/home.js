@@ -2,6 +2,23 @@
 // HOME PAGE
 // Loaded as a classic script — shares global scope with data.js & siblings.
 // =====================================================
+
+  function optimizeCloudinaryUrl(url, w = 400, h = 300) {
+    if (!url || !url.includes('res.cloudinary.com')) return url;
+    return url.replace('/upload/', `/upload/w_${w},h_${h},c_fill,q_auto,f_auto/`);
+  }
+
+  function preloadHospitalImages(hospitals) {
+    hospitals.slice(0, 3).forEach(h => {
+      if (!h.image || !h.image.startsWith('http')) return;
+      const link = document.createElement('link');
+      link.rel = 'preload';
+      link.as = 'image';
+      link.href = optimizeCloudinaryUrl(h.image);
+      document.head.appendChild(link);
+    });
+  }
+
   // =====================================================
   // RENDER HOMEPAGE
   // =====================================================
@@ -58,6 +75,7 @@
       ? `Highly experienced, board-certified doctors available near you in ${currentCity}.`
       : 'Highly experienced, board-certified doctors dedicated to your care.';
     const featuredHospitals = getHospitalsForCity(currentCity).slice(0, 3);
+    preloadHospitalImages(featuredHospitals);
 
     const patientReviews = [
       {
@@ -175,9 +193,11 @@ ${treatmentShowcase.map(item => {
               // Prefer the admin-uploaded category cover image; fall back to the bundled
               // placeholder, then to a colored gradient + emoji/icon if neither exists.
               const liveCat = (typeof findCategory === 'function') ? findCategory(item.slug) : null;
-              const coverImg = (liveCat && liveCat.image) ? liveCat.image : item.image;
+              // Only use DB image if it's an absolute URL — relative paths like cat-*.png 404
+              const liveCatImg = (liveCat && liveCat.image && liveCat.image.startsWith('http')) ? liveCat.image : null;
+              const coverImg = liveCatImg || item.image;
               const visual = coverImg
-                ? `<img src="${coverImg}" alt="${item.title}" onerror="this.onerror=null;this.src='${item.image}'">`
+                ? `<img src="${coverImg}" alt="${item.title}" onerror="this.onerror=null;this.style.display='none'">`
                 : `<div class="treatment-visual-fallback" style="background:linear-gradient(135deg, ${item.color}, ${item.color}cc);"><i class="${item.icon}"></i></div>`;
               return `
               <a href="${urlCategory(item.slug)}" class="treatment-showcase-card tb-card" style="--card-accent: ${item.color};">
@@ -321,7 +341,7 @@ ${homeDoctors.slice(0, 8).map(doc => `
           </div>
 
           <div class="fh-layout">
-            <details class="fh-map-details" open>
+            <details class="fh-map-details">
               <summary>View hospital map</summary>
               <div class="fh-map-panel" aria-label="Featured hospital locations in ${currentCity}">
                 <div id="featuredHospitalMap" class="fh-live-map"></div>
@@ -339,7 +359,7 @@ ${homeDoctors.slice(0, 8).map(doc => `
               ${featuredHospitals.map(hospital => `
                 <article class="fh-card" data-hospital-card="${hospital.slug}">
                   <div class="fh-card-media">
-                    <img src="${hospital.image && hospital.image.startsWith('http') ? hospital.image : 'images/about-surgery.png'}" alt="${hospital.name}" onerror="this.src='images/about-surgery.png'">
+                    <img src="${hospital.image && hospital.image.startsWith('http') ? optimizeCloudinaryUrl(hospital.image) : 'images/about-surgery.png'}" alt="${hospital.name}" onerror="this.src='images/about-surgery.png'">
                     <div class="card-logo-slot${hospital.logo ? '' : ' is-empty'}" title="Hospital logo">
                       ${hospital.logo
                         ? `<img src="${hospital.logo}" alt="${hospital.name} logo" onerror="this.closest('.card-logo-slot').classList.add('is-empty');this.remove();">`
@@ -390,7 +410,7 @@ ${homeDoctors.slice(0, 8).map(doc => `
             ${featuredHospitals.map(hospital => `
               <a href="/specialities/s" class="hnm2-card">
                 <div class="hnm2-card-img">
-                  <img src="${hospital.image && hospital.image.startsWith('http') ? hospital.image : 'images/about-surgery.png'}" alt="${hospital.name}" onerror="this.src='images/about-surgery.png'">
+                  <img src="${hospital.image && hospital.image.startsWith('http') ? optimizeCloudinaryUrl(hospital.image) : 'images/about-surgery.png'}" alt="${hospital.name}" onerror="this.src='images/about-surgery.png'" loading="lazy">
                 </div>
                 <div class="hnm2-card-body">
                   <h3>${hospital.name}</h3>
@@ -744,7 +764,17 @@ ${homeDoctors.slice(0, 8).map(doc => `
     initTreatmentCarousel();
     initCarousel('ds-track', 'ds-prev', 'ds-next', 3);
     initHospitalMapHover();
-    initFeaturedHospitalMap(featuredHospitals, currentCity);
+    // Defer map init until the user opens the details panel — avoids ~20 tile requests on every homepage load
+    const mapDetails = document.querySelector('.fh-map-details');
+    if (mapDetails) {
+      let mapInited = false;
+      mapDetails.addEventListener('toggle', function onToggle() {
+        if (mapDetails.open && !mapInited) {
+          mapInited = true;
+          initFeaturedHospitalMap(featuredHospitals, currentCity);
+        }
+      });
+    }
     initPatientReviews();
     initBlogCarousel('home');
   }
