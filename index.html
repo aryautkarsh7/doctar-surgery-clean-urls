@@ -5,17 +5,26 @@
   <!-- Resolve all relative asset/links from the site root so clean deep URLs
        (e.g. /hospital/x/s) still load scripts, styles and images correctly. -->
   <base href="/">
+  <!-- Warm up TLS to the third-party origins used for map tiles, icons,
+       hospital images (Cloudinary) and GPS reverse-geocoding so those
+       requests don't pay full connection cost on first use. -->
+  <link rel="preconnect" href="https://res.cloudinary.com" crossorigin>
+  <link rel="preconnect" href="https://nominatim.openstreetmap.org">
+  <link rel="preconnect" href="https://unpkg.com" crossorigin>
+  <link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin>
+  <link rel="dns-prefetch" href="https://res.cloudinary.com">
+  <link rel="dns-prefetch" href="https://nominatim.openstreetmap.org">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Doctar - Expert Surgical Care</title>
-  <meta name="description" content="Book surgery appointments with expert surgeons across India. Piles, Kidney Stone, Cataract, Knee Replacement & 50+ treatments. Free consultation, No Cost EMI, Free Cab.">
-  <meta name="keywords" content="surgery booking India, expert surgeons, piles treatment, knee replacement, cataract surgery, kidney stone, hernia repair, Doctar">
-  <meta property="og:title" content="Doctar — Expert Surgical Care in India">
-  <meta property="og:description" content="Book surgery with expert surgeons. 50+ treatments, free consultation, No Cost EMI.">
+  <title>Doctar Surgery - Expert Surgery & Surgeons Across India</title>
+  <meta name="description" content="Find expert surgeons for all surgery types across India. 691 surgery hospitals, 45+ cities. Free consultation, cashless surgery & cab assistance. Book your surgery now.">
+  <meta name="keywords" content="surgery, surgeons, surgical hospitals, laparoscopic surgery, orthopedic surgery, cardiac surgery, surgery cost India, best surgeons India">
+  <meta property="og:title" content="Doctar Surgery - Expert Surgery & Surgeons Across India">
+  <meta property="og:description" content="Find expert surgeons for all surgery types across India. 691 surgery hospitals, 45+ cities. Free consultation, cashless surgery & cab assistance. Book your surgery now.">
   <meta property="og:url" content="https://surgery.doctar.in">
   <meta property="og:type" content="website">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://surgery.doctar.in">
-  <link rel="preload" href="styles.css?v=20260611-pethospitals" as="style" onload="this.rel='stylesheet'">
+  <link rel="preload" href="styles.css?v=20260611-seo" as="style" onload="this.rel='stylesheet'">
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/MarkerCluster.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/MarkerCluster.Default.css">
@@ -164,25 +173,25 @@
   <script defer src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
   <script defer src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/leaflet.markercluster.js"></script>
   <!-- Data layer (defines global CATEGORIES / DOCTORS / HOSPITALS / etc.) -->
-  <script defer src="data.js?v=20260611-pethospitals"></script>
+  <script defer src="data.js?v=20260611-seo"></script>
 
   <!-- App modules: classic scripts, share one global scope, load before main.js -->
-  <script defer src="utils/helpers.js?v=20260611-pethospitals"></script>
-  <script defer src="utils/api.js?v=20260611-pethospitals"></script>
-  <script defer src="components/sections.js?v=20260611-pethospitals"></script>
-  <script defer src="components/footer-dynamic.js?v=20260611-pethospitals"></script>
-  <script defer src="components/header.js?v=20260611-pethospitals"></script>
-  <script defer src="components/booking-modal.js?v=20260611-pethospitals"></script>
-  <script defer src="pages/blog.js?v=20260611-pethospitals"></script>
-  <script defer src="pages/home.js?v=20260611-pethospitals"></script>
-  <script defer src="pages/category.js?v=20260611-pethospitals"></script>
-  <script defer src="pages/treatment.js?v=20260611-pethospitals"></script>
-  <script defer src="pages/doctors.js?v=20260611-pethospitals"></script>
-  <script defer src="pages/hospitals.js?v=20260611-pethospitals"></script>
-  <script defer src="pages/search.js?v=20260611-pethospitals"></script>
-  <script defer src="pages/pet.js?v=20260611-pethospitals"></script>
+  <script defer src="utils/helpers.js?v=20260611-seo"></script>
+  <script defer src="utils/api.js?v=20260611-seo"></script>
+  <script defer src="components/sections.js?v=20260611-seo"></script>
+  <script defer src="components/footer-dynamic.js?v=20260611-seo"></script>
+  <script defer src="components/header.js?v=20260611-seo"></script>
+  <script defer src="components/booking-modal.js?v=20260611-seo"></script>
+  <script defer src="pages/blog.js?v=20260611-seo"></script>
+  <script defer src="pages/home.js?v=20260611-seo"></script>
+  <script defer src="pages/category.js?v=20260611-seo"></script>
+  <script defer src="pages/treatment.js?v=20260611-seo"></script>
+  <script defer src="pages/doctors.js?v=20260611-seo"></script>
+  <script defer src="pages/hospitals.js?v=20260611-seo"></script>
+  <script defer src="pages/search.js?v=20260611-seo"></script>
+  <script defer src="pages/pet.js?v=20260611-seo"></script>
 
   <!-- Router / entry point (must load last) -->
-  <script defer src="main.js?v=20260611-pethospitals"></script>
+  <script defer src="main.js?v=20260611-seo"></script>
 </body>
 </html>

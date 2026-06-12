@@ -54,9 +54,9 @@
     _srQuery = query || '';
     
     updatePageMeta({
-      title: `Search results for "${query}" - Doctar`,
-      description: `Search results for doctors, hospitals, and treatments matching "${query}".`,
-      keywords: `search ${query}, doctar search`,
+      title: `${query} Surgery & Surgeons`,
+      description: `Find surgery specialists and hospitals for ${query}. Expert surgeons, best surgery hospitals across India. Book free surgery consultation.`,
+      keywords: `${query} surgery, ${query} surgeons, surgery specialists, surgery hospitals, book surgery`,
       url: window.location.href
     });
 

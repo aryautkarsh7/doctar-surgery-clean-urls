@@ -92,6 +92,21 @@
   window._locPending = null;
   window._locMap = null;
 
+  // Rebuild the city list from the CURRENT AVAILABLE_CITIES and re-apply the
+  // active-city highlight. Safe to call repeatedly (e.g. after data loads).
+  function refreshCityList() {
+    const list = document.getElementById('loc-cities-list');
+    if (!list) return;
+    list.innerHTML = buildCityListHTML();
+    const current = getCurrentCity();
+    document.querySelectorAll('.loc-city-item').forEach(el => {
+      el.classList.toggle('loc-city-active', el.dataset.city === current);
+    });
+    // Keep the current search filter applied to the freshly-built list.
+    const searchInput = document.getElementById('loc-search-input');
+    if (searchInput && searchInput.value) window.locFilterCities(searchInput.value);
+  }
+
   window.openLocationModal = function() {
     injectLocationModal();
     window._locPending = null;
@@ -99,13 +114,18 @@
     document.getElementById('loc-selected-hint').textContent = 'Select a location from the list or map';
     document.getElementById('loc-search-input').value = '';
     window.locFilterCities('');
-    const current = getCurrentCity();
-    document.querySelectorAll('.loc-city-item').forEach(el => {
-      el.classList.toggle('loc-city-active', el.dataset.city === current);
-    });
+    // Always rebuild the list from the latest AVAILABLE_CITIES on every open.
+    refreshCityList();
     document.getElementById('loc-overlay').classList.add('open');
     document.body.style.overflow = 'hidden';
     setTimeout(window.locInitMap, 100);
+
+    // If hospital data hasn't loaded yet (only the Kolkata fallback is present),
+    // load it then rebuild so all cities appear without needing a reopen.
+    if ((typeof AVAILABLE_CITIES === 'undefined' || AVAILABLE_CITIES.length <= 1)
+        && typeof loadRemoteData === 'function') {
+      loadRemoteData().then(refreshCityList).catch(() => {});
+    }
   };
 
   window.closeLocationModal = function() {
@@ -190,9 +210,12 @@
 
   window.locConfirm = function() {
     if (!window._locPending) return;
-    localStorage.setItem('selectedCity', window._locPending);
+    const city = window._locPending;
+    localStorage.setItem('selectedCity', city);
+    // Clear GPS slug cache so URL builders use the newly selected city.
+    try { sessionStorage.removeItem('userLocationSlug'); } catch (e) {}
     const textSpan = document.getElementById('currentCityText');
-    if (textSpan) textSpan.textContent = window._locPending;
+    if (textSpan) textSpan.textContent = city;
     window.closeLocationModal();
     handleRoute();
   };

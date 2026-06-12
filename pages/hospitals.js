@@ -9,9 +9,9 @@
     if (!hospital) { handleRoute(); return; }
 
     updatePageMeta({
-      title: `${hospital.name} - ${hospital.city}`,
-      description: `Book appointments at ${hospital.name}, ${hospital.city}. ${hospital.type} with cashless billing and advanced facilities.`,
-      keywords: `${hospital.name}, ${hospital.city} hospital, best hospital in ${hospital.city}, book hospital appointment`,
+      title: `${hospital.name} - Surgery Hospital in ${hospital.city}`,
+      description: `${hospital.name} offers expert surgery services in ${hospital.city}. Advanced surgical facilities, expert surgeons & cashless insurance. Book surgery consultation free.`,
+      keywords: `${hospital.name}, surgery hospital in ${hospital.city}, surgeons in ${hospital.city}, surgical facilities, book surgery`,
       image: hospital.image,
       url: window.location.href
     });
@@ -409,9 +409,9 @@
     filters = filters || { type: 'all', rating: 0, accreditation: 'all', service: 'all' };
 
     updatePageMeta({
-      title: `Top Hospitals in ${currentCity}`,
-      description: `Find the best partner hospitals and surgical clinics in ${currentCity}. Modern modular OT facilities, ICU support, zero cashless billing hassles.`,
-      keywords: `hospitals in ${currentCity}, best clinics in ${currentCity}, partner hospitals Doctar`,
+      title: `Best Surgery Hospitals in ${currentCity}`,
+      description: `Top surgery hospitals in ${currentCity} with expert surgeons. Laparoscopic, orthopedic, cardiac & all surgery types. Free consultation. Book now.`,
+      keywords: `surgery hospitals in ${currentCity}, surgeons in ${currentCity}, best surgical hospitals, laparoscopic surgery, book surgery`,
       url: window.location.href
     });
 
@@ -611,9 +611,9 @@
       : city;
 
     updatePageMeta({
-      title: `Hospitals for ${subName || catName} near ${locLabel}`,
-      description: `Top hospitals near ${locLabel} offering ${catName} care, with insurance support and guided admission.`,
-      keywords: `hospitals near me, ${subName} hospitals ${locLabel}, ${catName} clinics near me`,
+      title: `${subName || catName} Surgery Hospitals near ${locLabel}`,
+      description: `Top surgery hospitals near ${locLabel} with expert ${catName} surgeons. Advanced surgical facilities, insurance support & guided admission. Book surgery consultation free.`,
+      keywords: `${subName} surgery hospitals ${locLabel}, ${catName} surgeons near me, surgery hospitals near me, book surgery`,
       url: window.location.href
     });
 

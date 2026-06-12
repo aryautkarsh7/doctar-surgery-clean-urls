@@ -8,10 +8,12 @@
     const doc = DOCTORS.find(d => d.slug === slug);
     if (!doc) { handleRoute(); return; }
     
+    const _docName = String(doc.name || '').replace(/^Dr\.?\s*/i, '');
+    const _docCity = getDoctorCity(doc);
     updatePageMeta({
-      title: `${doc.name} - ${doc.specialty} in ${getDoctorCity(doc)}`,
-      description: `Book consultation with ${doc.name}, ${doc.specialty} at ${doc.hospital}. ${doc.experience} experience. Free consultation and No Cost EMI.`,
-      keywords: `${doc.name}, ${doc.specialty}, surgeon in ${getDoctorCity(doc)}, book doctor appointment, ${doc.hospital}`,
+      title: `Dr. ${_docName} - ${doc.specialty} Surgery Specialist in ${_docCity}`,
+      description: `Book surgery with Dr. ${_docName}, among the best ${doc.specialty} surgeons in ${_docCity}. ${doc.experience} of surgical experience. Free surgery consultation available.`,
+      keywords: `Dr. ${_docName}, ${doc.specialty} surgeon ${_docCity}, surgery specialist, surgeons in ${_docCity}, book surgery`,
       image: doc.image,
       url: window.location.href
     });
@@ -485,9 +487,9 @@
     if (!category) { handleRoute(); return; }
 
     updatePageMeta({
-      title: `Best ${category.name} Surgeons in ${getCurrentCity()}`,
-      description: `Find and book the best ${category.name} specialists in ${getCurrentCity()}. Free consultation, insurance support, and No Cost EMI.`,
-      keywords: `${category.name} surgeons ${getCurrentCity()}, best ${category.name} doctor, book ${category.name} specialist`,
+      title: `Best ${category.name} Surgery Specialists & Surgeons in ${getCurrentCity()}`,
+      description: `Find expert ${category.name} surgeons in ${getCurrentCity()}. ${category.name} surgery procedures, costs & recovery details. Free surgery consultation with verified surgeons.`,
+      keywords: `${category.name} surgeons ${getCurrentCity()}, ${category.name} surgery, surgery specialists, book surgery, surgeons in ${getCurrentCity()}`,
       url: window.location.href
     });
 
@@ -715,9 +717,9 @@
     filters = filters || { availability: 'all', rating: 0, fee: 'all', experience: 'all', gender: 'all' };
 
     updatePageMeta({
-      title: `Best Surgeons in ${currentCity}`,
-      description: `Find and book expert surgeons in ${currentCity}. Verified doctors, free consultation, insurance support, and free cab service.`,
-      keywords: `surgeons in ${currentCity}, best doctors in ${currentCity}, book surgeon appointment`,
+      title: `Best Surgery Specialists & Surgeons in ${currentCity}`,
+      description: `Find verified surgery specialists in ${currentCity}. All surgery types — laparoscopic, orthopedic, cardiac & more. Free consultation, cashless surgery with expert surgeons.`,
+      keywords: `surgery specialists ${currentCity}, surgeons in ${currentCity}, best surgery doctors, laparoscopic surgery, book surgery`,
       url: window.location.href
     });
 
@@ -910,6 +912,14 @@
     showSkeleton('list');
     const locSlug = await getUserLocationSlug();   // "salt-lake-kolkata" / "kolkata"
     const city = cityFromSlug(locSlug);
+
+    updatePageMeta({
+      title: `Surgery Specialists & Surgeons Near Me in ${city}`,
+      description: `Find expert surgeons for all surgery types near you in ${city}. GPS-based results connect you to top surgery specialists. Free surgery consultation available.`,
+      keywords: `surgeons near me ${city}, surgery specialists near me, surgery in ${city}, book surgery, expert surgeons`,
+      url: window.location.href
+    });
+
     const doctors = getDoctorsForCity(city);
     const pageVideos = await fetchVideosForPage('home');
 

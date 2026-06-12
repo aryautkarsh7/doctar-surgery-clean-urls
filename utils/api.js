@@ -163,7 +163,25 @@
       ? 'http://localhost:3001'
       : window.location.origin);
 
+  // Session-level cache so repeat callers (boot, header search, city modal…)
+  // share ONE network request instead of each re-fetching the full payload.
+  let _dataLoaded = false;
+  let _dataLoadPromise = null;
+
   async function loadRemoteData() {
+    if (_dataLoaded) return;              // already loaded this session
+    if (_dataLoadPromise) return _dataLoadPromise; // in-flight — dedupe
+    _dataLoadPromise = _doLoadRemoteData().then(() => {
+      _dataLoaded = true;
+    }).catch((err) => {
+      // Allow a later retry if this attempt failed (e.g. backend was down).
+      _dataLoadPromise = null;
+      throw err;
+    });
+    return _dataLoadPromise;
+  }
+
+  async function _doLoadRemoteData() {
     try {
       const res = await fetch(API_BASE + '/api/data/all', { cache: 'no-store' });
       if (!res.ok) throw new Error('bad status ' + res.status);

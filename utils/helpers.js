@@ -77,6 +77,13 @@
         const direct = CITY_DATA.find(cd => cd.name.toLowerCase() === c);
         if (direct) return direct.name;
       }
+      // Honour an exact match against cities that have real hospital data
+      // (the set offered by the city switcher), e.g. hospital-only cities
+      // like "Agra" that aren't in CITY_DATA and have no listed doctors.
+      if (typeof AVAILABLE_CITIES !== 'undefined') {
+        const liveMatch = AVAILABLE_CITIES.find(name => name.toLowerCase() === c);
+        if (liveMatch) return liveMatch;
+      }
       // Fuzzy match against cities derived from doctor locations
       const matchedCity = availableCities.find(city =>
         c.includes(city.toLowerCase())

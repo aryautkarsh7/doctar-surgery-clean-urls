@@ -13,9 +13,9 @@
     const currentCity = getCurrentCity();
     
     updatePageMeta({
-      title: `${treatment.name} Surgeons in ${currentCity}`,
-      description: `Expert ${treatment.name} specialists in ${currentCity}. Book verified surgeons with free consultation, insurance support & cab service. Estimated cost: ${treatment.costRange}.`,
-      keywords: `${treatment.name} surgery ${currentCity}, best ${treatment.name} doctor ${currentCity}, ${treatment.name} cost`,
+      title: `${treatment.name} Surgery - Cost & Surgeons`,
+      description: `${treatment.name} surgery cost, procedure & recovery guide. Find expert ${treatment.name} surgeons near you in ${currentCity}. Free consultation. Book surgery now.`,
+      keywords: `${treatment.name} surgery, ${treatment.name} surgeons ${currentCity}, ${treatment.name} surgery cost, book surgery`,
       url: window.location.href
     });
 

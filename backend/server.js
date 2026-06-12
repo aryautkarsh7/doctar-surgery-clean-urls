@@ -17,6 +17,11 @@ const { verifyMailer } = require('./utils/mailer');
 const DoctorClaim = require('./models/DoctorClaim');
 const resourceRouter = require('./routes/resource');
 
+const Hospital = require('./models/Hospital');
+const Doctor = require('./models/Doctor');
+const Category = require('./models/Category');
+const Treatment = require('./models/Treatment');
+
 // Connect to the database
 connectDB();
 
@@ -90,6 +95,140 @@ if (process.env.NODE_ENV === 'production') {
 } else {
   app.use(express.static(path.join(__dirname, '../')));
 }
+
+// ==========================================
+// SEO ROUTES (Robots.txt & Sitemap)
+// ==========================================
+
+app.get('/robots.txt', (req, res) => {
+  res.type('text/plain');
+  res.send(`User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /api/
+
+Sitemap: https://surgery.doctar.in/sitemap-index.xml`);
+});
+
+app.get('/sitemap-index.xml', async (req, res) => {
+  const baseUrl = 'https://surgery.doctar.in';
+  const today = new Date().toISOString().split('T')[0];
+  
+  const xml = `<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <sitemap>
+    <loc>${baseUrl}/sitemap.xml</loc>
+    <lastmod>${today}</lastmod>
+  </sitemap>
+</sitemapindex>`;
+
+  res.header('Content-Type', 'application/xml');
+  res.send(xml);
+});
+
+app.get('/sitemap.xml', async (req, res) => {
+  try {
+    const baseUrl = 'https://surgery.doctar.in';
+    
+    const [hospitals, doctors, categories, treatments] = 
+      await Promise.all([
+        Hospital.find({}).select('slug city locality'),
+        Doctor.find({}).select('slug categories'),
+        Category.find({}).select('slug'),
+        Treatment.find({}).select('slug')
+      ]);
+
+    const urls = [];
+
+    // Static pages
+    const staticPages = [
+      { url: '/', priority: '1.0', changefreq: 'daily' },
+      { url: '/specialities/s', priority: '0.9', changefreq: 'weekly' },
+      { url: '/surgeons-near-me/s', priority: '0.8', changefreq: 'daily' },
+    ];
+
+    // City pages from hospitals
+    const cities = [...new Set(hospitals.map(h => h.city).filter(Boolean))];
+    cities.forEach(city => {
+      const citySlug = city.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '');
+      staticPages.push(
+        { url: `/hospitals-in-${citySlug}/s`, priority: '0.8', changefreq: 'daily' },
+        { url: `/surgeries-in-${citySlug}/s`, priority: '0.7', changefreq: 'weekly' },
+        { url: `/surgeons-in-${citySlug}/s`, priority: '0.8', changefreq: 'daily' }
+      );
+    });
+
+    staticPages.forEach(page => {
+      urls.push(`
+  <url>
+    <loc>${baseUrl}${page.url}</loc>
+    <changefreq>${page.changefreq}</changefreq>
+    <priority>${page.priority}</priority>
+    <lastmod>${new Date().toISOString().split('T')[0]}</lastmod>
+  </url>`);
+    });
+
+    // Category pages
+    categories.forEach(cat => {
+      urls.push(`
+  <url>
+    <loc>${baseUrl}/specialities/${cat.slug}/s</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <lastmod>${new Date().toISOString().split('T')[0]}</lastmod>
+  </url>`);
+    });
+
+    // Treatment pages
+    treatments.forEach(t => {
+      urls.push(`
+  <url>
+    <loc>${baseUrl}/treatment/${t.slug}/s</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <lastmod>${new Date().toISOString().split('T')[0]}</lastmod>
+  </url>`);
+    });
+
+    // Hospital pages
+    hospitals.forEach(h => {
+      const area = (h.locality || h.city || 'india')
+        .toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '');
+      const city = (h.city || 'india')
+        .toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '');
+      urls.push(`
+  <url>
+    <loc>${baseUrl}/hospital/${h.slug}/${area}-${city}/s</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <lastmod>${new Date().toISOString().split('T')[0]}</lastmod>
+  </url>`);
+    });
+
+    // Doctor pages
+    doctors.forEach(d => {
+      const catSlug = (d.categories && d.categories[0]) || 'general';
+      urls.push(`
+  <url>
+    <loc>${baseUrl}/surgeons/${catSlug}/${d.slug}/s</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <lastmod>${new Date().toISOString().split('T')[0]}</lastmod>
+  </url>`);
+    });
+
+    const xml = `<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+${urls.join('')}
+</urlset>`;
+
+    res.header('Content-Type', 'application/xml');
+    res.send(xml);
+
+  } catch(err) {
+    res.status(500).send('Sitemap error: ' + err.message);
+  }
+});
 
 // SPA catch-all: any non-API GET that didn't match a static file returns the
 // app shell so clean URLs (e.g. /hospitals/s) work on direct load / refresh.

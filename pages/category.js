@@ -7,9 +7,9 @@
     const totalTreatments = CATEGORIES.reduce((sum, c) => sum + c.treatmentCount, 0);
 
     updatePageMeta({
-      title: `All Specialities - Doctar`,
-      description: `Explore ${CATEGORIES.length} specialities and ${totalTreatments}+ treatments. Expert surgeons, free consultations & insurance support across India.`,
-      keywords: `surgical specialities, medical procedures, book surgery, Doctar specialities`,
+      title: `All Surgery Specialities & Surgeons in ${getCurrentCity()}`,
+      description: `Browse all surgery specialities in ${getCurrentCity()}. Find expert surgeons for laparoscopy, orthopedics, urology, proctology & more. Book free surgery consultation.`,
+      keywords: `surgery specialities, surgeons in ${getCurrentCity()}, laparoscopy surgery, orthopedic surgery, book surgery`,
       url: window.location.href
     });
 
@@ -219,9 +219,9 @@
     const currentCity = cityOverride || getCurrentCity();
     
     updatePageMeta({
-      title: `Popular Procedures in ${currentCity}`,
-      description: `Browse all procedures across specialities. Find expert surgeons, costs, and book free consultations in ${currentCity}.`,
-      keywords: `surgical procedures ${currentCity}, treatment cost ${currentCity}, medical treatments`,
+      title: `All Surgery Types & Procedures in ${currentCity}`,
+      description: `Complete list of surgery procedures available in ${currentCity}. Find expert surgeons & know surgery costs. Book free surgery consultation.`,
+      keywords: `surgery types ${currentCity}, surgery procedures, surgeons in ${currentCity}, surgery cost, book surgery`,
       url: window.location.href
     });
 
@@ -321,9 +321,9 @@
     if (!category) { handleRoute(); return; }
 
     updatePageMeta({
-      title: `${category.name} Treatments - Doctar`,
-      description: category.description,
-      keywords: `${category.name}, ${category.name} surgery, ${category.name} doctors, ${category.tags.join(', ')}`,
+      title: `${category.name} Surgery Specialists in ${getCurrentCity()}`,
+      description: `Expert ${category.name} surgeons in ${getCurrentCity()}. Know surgery cost, recovery time & procedure details. Book free surgery consultation now.`,
+      keywords: `${category.name} surgery, ${category.name} surgeons ${getCurrentCity()}, surgery specialists, book surgery, ${category.tags.join(', ')}`,
       url: window.location.href
     });
 

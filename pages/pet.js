@@ -17,6 +17,12 @@
 
   function renderPetSurgery(city) {
     const c = city || getCurrentCity();
+    updatePageMeta({
+      title: `Pet Surgery & Veterinary Surgeons Near Me in ${c}`,
+      description: `Expert veterinary surgery for dogs, cats, birds & cattle near you in ${c}. Find trusted pet surgeons for all surgery types. Book now.`,
+      keywords: `pet surgery ${c}, veterinary surgeons ${c}, dog surgery, cat surgery, book pet surgery`,
+      url: window.location.href
+    });
     appContainer.innerHTML = `
       <div class="all-cat-hero">
         <div class="container all-cat-hero-inner">
@@ -57,6 +63,12 @@
 
   function renderPetHospitals(city) {
     const c = city || getCurrentCity();
+    updatePageMeta({
+      title: `Pet Surgery Hospitals & Veterinary Surgeons in ${c}`,
+      description: `Trusted veterinary surgery hospitals in ${c} with expert pet surgeons. Dog, cat, bird & cattle surgery facilities. Book pet surgery consultation.`,
+      keywords: `pet surgery hospitals ${c}, veterinary surgeons ${c}, animal surgery, pet surgery, book pet surgery`,
+      url: window.location.href
+    });
     const cityHospitals = (typeof PET_HOSPITALS !== 'undefined' ? PET_HOSPITALS : [])
       .filter(h => h.city && h.city.toLowerCase() === c.toLowerCase());
 
