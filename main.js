@@ -135,9 +135,6 @@ function handleRoute() {
 }
 
 function initRouter() {
-  // Don't block first paint on blog data — each page that needs blogs fetches
-  // them itself (fetchBlogsForPage). Prime the shared fallback in the background.
-  loadBlogPosts().catch(() => {});
   window.addEventListener('popstate', handleRoute);
   handleRoute();
 }

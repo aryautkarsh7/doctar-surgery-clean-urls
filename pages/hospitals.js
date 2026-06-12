@@ -2,6 +2,18 @@
 // HOSPITAL DETAIL & HOSPITAL LISTING PAGES
 // Loaded as a classic script — shares global scope with data.js & siblings.
 // =====================================================
+
+  function getSafeImageUrl(url) {
+    if (!url) return 'images/about-surgery.webp';
+    if (
+      url.includes('wikimedia') ||
+      url.includes('wikipedia') ||
+      url.includes('googleusercontent') ||
+      url.includes('maps.google') ||
+      url.includes('gps-cs-s')
+    ) return 'images/about-surgery.webp';
+    return url;
+  }
   // =====================================================
   function renderHospitalDetailPage(slug) {
     showSkeleton('detail');
@@ -63,7 +75,7 @@
 
       <section class="container hpp-hero">
         <div class="hpp-hero-media">
-          <img loading="lazy" src="${hospital.image && hospital.image.startsWith('http') ? hospital.image : 'images/about-surgery.png'}" alt="${hospital.name}" onerror="this.src='images/about-surgery.png'">
+          <img loading="lazy" src="${getSafeImageUrl(hospital.image)}" alt="${hospital.name}" onerror="this.src='images/about-surgery.webp'">
           <div class="hpp-hero-logo-slot${hospital.logo ? '' : ' is-empty'}" title="Hospital logo">
             ${hospital.logo
               ? `<img src="${hospital.logo}" alt="${hospital.name} logo" onerror="this.closest('.hpp-hero-logo-slot').classList.add('is-empty');this.remove();">`
@@ -537,7 +549,7 @@
           ` : `<div class="hl-list" id="hospitalsListView">` + hospitals.map((hospital, index) => `
             <article class="hl-card ${index === 0 ? 'is-highlighted' : ''}">
               <div class="hl-image-wrap">
-                <img src="${hospital.image || 'images/about-surgery.png'}" alt="${hospital.name}" loading="lazy">
+                <img src="${getSafeImageUrl(hospital.image)}" alt="${hospital.name}" loading="lazy">
                 <div class="card-logo-slot${hospital.logo ? '' : ' is-empty'}" title="Hospital logo">
                   ${hospital.logo
                     ? `<img src="${hospital.logo}" alt="${hospital.name} logo" onerror="this.closest('.card-logo-slot').classList.add('is-empty');this.remove();">`
@@ -632,7 +644,7 @@
       : `<div style="display:grid; grid-template-columns:repeat(auto-fill,minmax(280px,1fr)); gap:20px;">` + hospitals.map(h => `
           <a href="${urlHospital(h)}" style="display:block; background:#fff; border:1.5px solid #ECE6FF; border-radius:18px; overflow:hidden; text-decoration:none; color:inherit; box-shadow:0 2px 14px rgba(94,64,145,0.06);">
             <div style="height:150px; background:#f0ebff; overflow:hidden;">
-              <img loading="lazy" src="${h.image && h.image.startsWith('http') ? h.image : 'images/about-surgery.png'}" alt="${h.name}" style="width:100%;height:100%;object-fit:cover;" onerror="this.src='images/about-surgery.png'">
+              <img loading="lazy" src="${getSafeImageUrl(h.image)}" alt="${h.name}" style="width:100%;height:100%;object-fit:cover;" onerror="this.src='images/about-surgery.webp'">
             </div>
             <div style="padding:18px;">
               <div style="display:flex; justify-content:space-between; align-items:center; gap:8px;">

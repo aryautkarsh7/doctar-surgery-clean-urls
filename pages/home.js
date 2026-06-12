@@ -8,13 +8,26 @@
     return url.replace('/upload/', `/upload/w_${w},h_${h},c_fill,q_auto,f_auto/`);
   }
 
+  function getSafeImageUrl(url) {
+    if (!url) return 'images/about-surgery.webp';
+    if (
+      url.includes('wikimedia') ||
+      url.includes('wikipedia') ||
+      url.includes('googleusercontent') ||
+      url.includes('maps.google') ||
+      url.includes('gps-cs-s')
+    ) return 'images/about-surgery.webp';
+    return url;
+  }
+
   function preloadHospitalImages(hospitals) {
     hospitals.slice(0, 3).forEach(h => {
-      if (!h.image || !h.image.startsWith('http')) return;
+      const src = getSafeImageUrl(h.image);
+      if (!src.startsWith('http')) return; // skip local fallback
       const link = document.createElement('link');
       link.rel = 'preload';
       link.as = 'image';
-      link.href = optimizeCloudinaryUrl(h.image);
+      link.href = optimizeCloudinaryUrl(src);
       document.head.appendChild(link);
     });
   }
@@ -31,18 +44,18 @@
       url: 'https://surgery.doctar.in'
     });
     const treatmentShowcase = [
-      { title: 'Orthopedics', slug: 'orthopedics', image: 'images/service-general.png', icon: 'fa-solid fa-bone', tags: ['Knee', 'Hip', 'Spine'], treatmentCount: 18, color: '#7c3aed' },
-      { title: 'Cardiology', slug: 'cardiology', image: 'images/service-cardiac.png', icon: 'fa-solid fa-heart-pulse', tags: ['Angioplasty', 'Bypass', 'Valve'], treatmentCount: 14, color: '#e85d8f' },
-      { title: 'Ophthalmology', slug: 'ophthalmology', image: 'images/service-neuro.png', icon: 'fa-solid fa-eye', tags: ['Cataract', 'LASIK', 'Retina'], treatmentCount: 15, color: '#8b5cf6' },
-      { title: 'ENT', slug: 'ent', image: 'images/about-surgery.png', icon: 'fa-solid fa-ear-listen', tags: ['Sinus', 'Ear', 'Tonsils'], treatmentCount: 12, color: '#fb923c' },
-      { title: 'Gynecology', slug: 'gynaecology', image: 'images/service-general.png', icon: 'fa-solid fa-venus', tags: ['Fibroid', 'PCOS', 'Pregnancy'], treatmentCount: 16, color: '#e879c4' },
-      { title: 'Urology', slug: 'urology', image: 'images/service-neuro.png', icon: 'fa-solid fa-kit-medical', tags: ['Kidney Stone', 'Prostate', 'UTI'], treatmentCount: 14, color: '#60a5fa' },
-      { title: 'General Surgery', slug: 'laparoscopy', image: 'images/service-general.png', icon: 'fa-solid fa-stethoscope', tags: ['Hernia', 'Gallstone', 'Appendix'], treatmentCount: 20, color: '#34d399' },
-      { title: 'Cosmetic & Skin', slug: 'aesthetics', image: 'images/about-surgery.png', icon: 'fa-solid fa-wand-magic-sparkles', tags: ['Hair', 'Skin', 'Weight Loss'], treatmentCount: 11, color: '#a78bfa' },
-      { title: 'Proctology', slug: 'proctology', image: 'images/service-general.png', icon: 'fa-solid fa-stethoscope', tags: ['Piles', 'Fissure', 'Fistula'], treatmentCount: 5, color: '#8B4513' },
-      { title: 'Vascular', slug: 'vascular', image: 'images/service-cardiac.png', icon: 'fa-solid fa-droplet', tags: ['Varicose Veins', 'DVT', 'AV Fistula'], treatmentCount: 6, color: '#dc2626' },
-      { title: 'Fertility', slug: 'fertility', image: 'images/service-general.png', icon: 'fa-solid fa-baby', tags: ['IVF', 'IUI', 'Egg Freezing'], treatmentCount: 6, color: '#9f1239' },
-      { title: 'Weight Loss', slug: 'weight-loss', image: 'images/about-surgery.png', icon: 'fa-solid fa-weight-scale', tags: ['Bariatric', 'Gastric Balloon', 'Liposuction'], treatmentCount: 3, color: '#65a30d' },
+      { title: 'Orthopedics', slug: 'orthopedics', image: 'images/service-general.webp', icon: 'fa-solid fa-bone', tags: ['Knee', 'Hip', 'Spine'], treatmentCount: 18, color: '#7c3aed' },
+      { title: 'Cardiology', slug: 'cardiology', image: 'images/service-cardiac.webp', icon: 'fa-solid fa-heart-pulse', tags: ['Angioplasty', 'Bypass', 'Valve'], treatmentCount: 14, color: '#e85d8f' },
+      { title: 'Ophthalmology', slug: 'ophthalmology', image: 'images/service-neuro.webp', icon: 'fa-solid fa-eye', tags: ['Cataract', 'LASIK', 'Retina'], treatmentCount: 15, color: '#8b5cf6' },
+      { title: 'ENT', slug: 'ent', image: 'images/about-surgery.webp', icon: 'fa-solid fa-ear-listen', tags: ['Sinus', 'Ear', 'Tonsils'], treatmentCount: 12, color: '#fb923c' },
+      { title: 'Gynecology', slug: 'gynaecology', image: 'images/service-general.webp', icon: 'fa-solid fa-venus', tags: ['Fibroid', 'PCOS', 'Pregnancy'], treatmentCount: 16, color: '#e879c4' },
+      { title: 'Urology', slug: 'urology', image: 'images/service-neuro.webp', icon: 'fa-solid fa-kit-medical', tags: ['Kidney Stone', 'Prostate', 'UTI'], treatmentCount: 14, color: '#60a5fa' },
+      { title: 'General Surgery', slug: 'laparoscopy', image: 'images/service-general.webp', icon: 'fa-solid fa-stethoscope', tags: ['Hernia', 'Gallstone', 'Appendix'], treatmentCount: 20, color: '#34d399' },
+      { title: 'Cosmetic & Skin', slug: 'aesthetics', image: 'images/about-surgery.webp', icon: 'fa-solid fa-wand-magic-sparkles', tags: ['Hair', 'Skin', 'Weight Loss'], treatmentCount: 11, color: '#a78bfa' },
+      { title: 'Proctology', slug: 'proctology', image: 'images/service-general.webp', icon: 'fa-solid fa-stethoscope', tags: ['Piles', 'Fissure', 'Fistula'], treatmentCount: 5, color: '#8B4513' },
+      { title: 'Vascular', slug: 'vascular', image: 'images/service-cardiac.webp', icon: 'fa-solid fa-droplet', tags: ['Varicose Veins', 'DVT', 'AV Fistula'], treatmentCount: 6, color: '#dc2626' },
+      { title: 'Fertility', slug: 'fertility', image: 'images/service-general.webp', icon: 'fa-solid fa-baby', tags: ['IVF', 'IUI', 'Egg Freezing'], treatmentCount: 6, color: '#9f1239' },
+      { title: 'Weight Loss', slug: 'weight-loss', image: 'images/about-surgery.webp', icon: 'fa-solid fa-weight-scale', tags: ['Bariatric', 'Gastric Balloon', 'Liposuction'], treatmentCount: 3, color: '#65a30d' },
     ];
 
     const treatmentTrust = [
@@ -63,8 +76,10 @@
     ];
 
     window.popularProcedures = popularProcedures;
-    const pageVideos = await fetchVideosForPage('home');
-    const pageBlogs = await fetchBlogsForPage('home');
+    // Blogs and videos are pre-loaded in BLOG_POSTS / VIDEOS globals via /api/data/critical.
+    // No extra API calls needed here.
+    const pageVideos = VIDEOS;
+    const pageBlogs = BLOG_POSTS;
     const currentCity = getCurrentCity();
     const homeDoctors = getDoctorsForCity(currentCity);
     const isCitySpecific = homeDoctors.some(doc =>
@@ -99,12 +114,12 @@
     ];
 
     const heroServices = [
-      { title: 'Find a Surgeon Near Me', sub: 'Expert surgeons near your location', img: 'images/hero-surgery.png', icon: 'fa-solid fa-user-doctor', href: urlSurgeonsNearMe() },
-      { title: 'Surgeries', sub: 'Safe & trusted procedures', img: 'images/service-general.png', icon: 'fa-solid fa-scalpel', href: urlSurgeriesInCity(currentCity) },
-      { title: 'Hospital Near Me', sub: 'Best hospitals near you', img: 'images/service-cardiac.png', icon: 'fa-solid fa-hospital', href: urlAllCategories() },
-      { title: 'Hospitals', sub: 'Top partner facilities', img: 'images/about-surgery.png', icon: 'fa-solid fa-building-columns', href: urlHospitalsInCity(currentCity) },
-      { title: 'Pet Surgery Near Me', sub: 'Trusted veterinary surgeons', img: 'images/service-neuro.png', icon: 'fa-solid fa-paw', href: urlPetSurgeryNearMe() },
-      { title: 'Pet Hospitals', sub: 'Pet care facilities near you', img: 'images/service-general.png', icon: 'fa-solid fa-house-medical', href: urlPetHospitals(currentCity) },
+      { title: 'Find a Surgeon Near Me', sub: 'Expert surgeons near your location', img: 'images/hero-surgery.webp', icon: 'fa-solid fa-user-doctor', href: urlSurgeonsNearMe() },
+      { title: 'Surgeries', sub: 'Safe & trusted procedures', img: 'images/service-general.webp', icon: 'fa-solid fa-scalpel', href: urlSurgeriesInCity(currentCity) },
+      { title: 'Hospital Near Me', sub: 'Best hospitals near you', img: 'images/service-cardiac.webp', icon: 'fa-solid fa-hospital', href: urlAllCategories() },
+      { title: 'Hospitals', sub: 'Top partner facilities', img: 'images/about-surgery.webp', icon: 'fa-solid fa-building-columns', href: urlHospitalsInCity(currentCity) },
+      { title: 'Pet Surgery Near Me', sub: 'Trusted veterinary surgeons', img: 'images/service-neuro.webp', icon: 'fa-solid fa-paw', href: urlPetSurgeryNearMe() },
+      { title: 'Pet Hospitals', sub: 'Pet care facilities near you', img: 'images/service-general.webp', icon: 'fa-solid fa-house-medical', href: urlPetHospitals(currentCity) },
     ];
 
     let html = `
@@ -150,7 +165,7 @@
       <!-- TREATMENT BROWSER -->
       <section class="treatment-browser" id="categories">
         <!-- Kolkata city background image -->
-        <div class="tb-city-bg" style="background-image: url('images/image 708.png');"></div>
+        <div class="tb-city-bg" style="background-image: url('images/image 708.webp');"></div>
 
         <div class="container tb-inner">
           <!-- Header row -->
@@ -226,7 +241,7 @@ ${treatmentShowcase.map(item => {
 
       <!-- DOCTORS SECTION -->
       <section class="treatment-browser ds-section" id="doctors-section">
-        <div class="tb-city-bg" style="background-image: url('images/image 708.png'); opacity: 0.30;"></div>
+        <div class="tb-city-bg" style="background-image: url('images/image 708.webp'); opacity: 0.30;"></div>
         <div class="container tb-inner">
           <!-- Header row — same as Explore Treatments -->
           <div class="tb-header">
@@ -320,7 +335,7 @@ ${homeDoctors.slice(0, 8).map(doc => `
 
       <!-- FEATURED HOSPITALS SECTION -->
       <section class="featured-hospitals-section" id="featured-hospitals">
-        <div class="fh-city-bg" style="background-image: url('images/image 708.png');"></div>
+        <div class="fh-city-bg" style="background-image: url('images/image 708.webp');"></div>
         <div class="container fh-inner">
           <div class="fh-header">
             <div>
@@ -359,11 +374,9 @@ ${homeDoctors.slice(0, 8).map(doc => `
               ${featuredHospitals.map(hospital => `
                 <article class="fh-card" data-hospital-card="${hospital.slug}">
                   <div class="fh-card-media">
-                    <img src="${hospital.image && hospital.image.startsWith('http') ? optimizeCloudinaryUrl(hospital.image) : 'images/about-surgery.png'}" alt="${hospital.name}" onerror="this.src='images/about-surgery.png'">
-                    <div class="card-logo-slot${hospital.logo ? '' : ' is-empty'}" title="Hospital logo">
-                      ${hospital.logo
-                        ? `<img src="${hospital.logo}" alt="${hospital.name} logo" onerror="this.closest('.card-logo-slot').classList.add('is-empty');this.remove();">`
-                        : `<i class="fa-solid fa-hospital"></i>`}
+                    <img src="${optimizeCloudinaryUrl(getSafeImageUrl(hospital.image))}" alt="${hospital.name}" onerror="this.src='images/about-surgery.webp'">
+                    <div class="card-logo-slot is-empty" title="Hospital logo">
+                      <i class="fa-solid fa-hospital"></i>
                     </div>
                   </div>
                   <div class="fh-card-body">
@@ -410,7 +423,7 @@ ${homeDoctors.slice(0, 8).map(doc => `
             ${featuredHospitals.map(hospital => `
               <a href="/specialities/s" class="hnm2-card">
                 <div class="hnm2-card-img">
-                  <img src="${hospital.image && hospital.image.startsWith('http') ? optimizeCloudinaryUrl(hospital.image) : 'images/about-surgery.png'}" alt="${hospital.name}" onerror="this.src='images/about-surgery.png'" loading="lazy">
+                  <img src="${optimizeCloudinaryUrl(getSafeImageUrl(hospital.image))}" alt="${hospital.name}" onerror="this.src='images/about-surgery.webp'" loading="lazy">
                 </div>
                 <div class="hnm2-card-body">
                   <h3>${hospital.name}</h3>
@@ -443,7 +456,7 @@ ${homeDoctors.slice(0, 8).map(doc => `
                 ${cityPetHospitals.map(h => `
                   <a href="${urlPetHospitals(currentCity)}" class="hnm2-card">
                     <div class="hnm2-card-img">
-                      <img src="${h.image || 'images/about-surgery.png'}" alt="${h.name}" onerror="this.src='images/about-surgery.png'">
+                      <img src="${getSafeImageUrl(h.image)}" alt="${h.name}" onerror="this.src='images/about-surgery.webp'">
                     </div>
                     <div class="hnm2-card-body">
                       <h3>${h.name}</h3>
@@ -460,9 +473,9 @@ ${homeDoctors.slice(0, 8).map(doc => `
             }
             return `<div class="hnm2-cards">
               ${[
-                { img: 'images/service-general.png', name: 'Dog Hospital', address: 'Veterinary surgical care for dogs', petTypes: ['Dogs'], phone: '' },
-                { img: 'images/service-general.png', name: 'Cat Hospital', address: 'Feline care and surgery specialists', petTypes: ['Cats'], phone: '' },
-                { img: 'images/service-general.png', name: 'Veterinary Clinic', address: 'General pet health and procedures', petTypes: ['Dogs', 'Cats', 'Birds'], phone: '' },
+                { img: 'images/service-general.webp', name: 'Dog Hospital', address: 'Veterinary surgical care for dogs', petTypes: ['Dogs'], phone: '' },
+                { img: 'images/service-general.webp', name: 'Cat Hospital', address: 'Feline care and surgery specialists', petTypes: ['Cats'], phone: '' },
+                { img: 'images/service-general.webp', name: 'Veterinary Clinic', address: 'General pet health and procedures', petTypes: ['Dogs', 'Cats', 'Birds'], phone: '' },
               ].map(card => `
                 <div class="hnm2-card" style="cursor:default;">
                   <div class="hnm2-card-img">

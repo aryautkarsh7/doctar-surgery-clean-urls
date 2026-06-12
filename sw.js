@@ -1,4 +1,4 @@
-const CACHE_NAME = 'doctar-v2';
+const CACHE_NAME = 'doctar-v3';
 const STATIC_ASSETS = [
   '/',
   '/styles.css',
@@ -39,16 +39,16 @@ self.addEventListener('activate', e => {
 self.addEventListener('fetch', e => {
   const url = new URL(e.request.url);
 
-  // Never cache API calls or admin
+  // Never intercept API calls or admin routes
   if (url.pathname.startsWith('/api/') || url.pathname.startsWith('/admin')) return;
 
-  // Cache-first for images (serve instantly from cache, fetch+update in background)
+  // Cache-first for images — serve instantly, update cache in background
   if (e.request.destination === 'image') {
     e.respondWith(
       caches.open(CACHE_NAME).then(cache =>
-        cache.match(e.request).then(cached => {
+        cache.match(url.href).then(cached => {
           const fetchPromise = fetch(e.request).then(response => {
-            if (response.ok) cache.put(e.request, response.clone());
+            if (response.ok) cache.put(url.href, response.clone());
             return response;
           }).catch(() => cached);
           return cached || fetchPromise;
@@ -58,7 +58,23 @@ self.addEventListener('fetch', e => {
     return;
   }
 
-  // Network-first for HTML navigation (always get fresh shell)
+  // Pure cache-first for versioned assets (?v=...) — URL changes when content changes,
+  // so background revalidation is never needed and causes spurious 304 "double-fetches".
+  if (url.search.includes('v=')) {
+    e.respondWith(
+      caches.open(CACHE_NAME).then(cache =>
+        cache.match(url.href).then(cached =>
+          cached || fetch(e.request).then(response => {
+            if (response.ok) cache.put(url.href, response.clone());
+            return response;
+          })
+        )
+      )
+    );
+    return;
+  }
+
+  // Network-first for HTML navigation (always get a fresh shell)
   if (e.request.mode === 'navigate') {
     e.respondWith(
       fetch(e.request).catch(() => caches.match('/'))
@@ -66,12 +82,12 @@ self.addEventListener('fetch', e => {
     return;
   }
 
-  // Stale-while-revalidate for JS/CSS — serve cached instantly, update in background
+  // Stale-while-revalidate for everything else (unversioned JS/CSS)
   e.respondWith(
     caches.open(CACHE_NAME).then(cache =>
-      cache.match(e.request).then(cached => {
+      cache.match(url.href).then(cached => {
         const fetchPromise = fetch(e.request).then(response => {
-          if (response.ok) cache.put(e.request, response.clone());
+          if (response.ok) cache.put(url.href, response.clone());
           return response;
         }).catch(() => cached);
         return cached || fetchPromise;

@@ -96,14 +96,18 @@
     return d.toLocaleDateString('en-IN', { year: 'numeric', month: 'long', day: 'numeric' });
   }
 
-  // Simple in‑memory cache for API GET requests
+  // In-memory cache for API GET requests.
+  // Stores the Promise itself so concurrent callers share one in-flight request
+  // instead of each firing their own fetch (race condition / duplicate network calls).
   const apiCache = new Map();
   async function cachedFetch(url) {
     if (apiCache.has(url)) return apiCache.get(url);
-    const res = await fetch(url);
-    const json = await res.json();
-    apiCache.set(url, json);
-    return json;
+    const promise = fetch(url).then(res => res.json()).catch(err => {
+      apiCache.delete(url); // evict on failure so callers can retry
+      throw err;
+    });
+    apiCache.set(url, promise);
+    return promise;
   }
 
   // Fetch blog posts from the API; updates BLOG_POSTS in-place
@@ -211,6 +215,12 @@
         if (Array.isArray(d1.subsubcategories)) SUBSUBCATEGORIES = d1.subsubcategories;
         if (Array.isArray(d1.availableCities) && d1.availableCities.length) {
           AVAILABLE_CITIES = d1.availableCities;
+        }
+        if (Array.isArray(d1.blogs) && d1.blogs.length) {
+          BLOG_POSTS = d1.blogs.filter(b => b.published !== false);
+        }
+        if (Array.isArray(d1.videos)) {
+          VIDEOS = d1.videos;
         }
       }
 

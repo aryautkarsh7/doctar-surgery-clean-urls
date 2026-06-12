@@ -33,15 +33,17 @@ function deriveAvailableCities(hospitals) {
   )].sort();
 }
 
-// GET /api/data/critical — small fast payload: categories + treatments + subcategories + cities list
+// GET /api/data/critical — fast payload: categories + treatments + subcategories + cities + blogs + videos
 router.get('/critical', async (req, res) => {
   try {
-    const [categories, treatmentDocs, subcategories, subsubcategories, cityDocs] = await Promise.all([
+    const [categories, treatmentDocs, subcategories, subsubcategories, cityDocs, blogDocs, videos] = await Promise.all([
       Category.find().lean(),
       Treatment.find().lean(),
       SubCategory.find().sort({ order: 1, createdAt: -1 }).lean(),
       SubSubCategory.find().sort({ order: 1, createdAt: -1 }).lean(),
       Hospital.find().select('city').hint({ city: 1 }).lean(),
+      Blog.find({ published: true }).sort({ createdAt: -1 }).limit(8).select('title slug category createdAt thumbnail excerpt author published').lean(),
+      Video.find().sort({ order: 1, createdAt: -1 }).lean(),
     ]);
 
     const treatments = {};
@@ -52,7 +54,7 @@ router.get('/critical', async (req, res) => {
 
     const availableCities = deriveAvailableCities(cityDocs);
 
-    res.json({ success: true, data: { categories, treatments, subcategories, subsubcategories, availableCities } });
+    res.json({ success: true, data: { categories, treatments, subcategories, subsubcategories, availableCities, blogs: blogDocs, videos } });
   } catch (err) {
     res.status(500).json({ success: false, error: err.message });
   }
