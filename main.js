@@ -81,6 +81,13 @@ function handleRoute() {
     appContainer.innerHTML = '';
     window.scrollTo(0, 0);
 
+    // Remove page-scoped mobile filter elements appended to <body> by the
+    // hospitals listing, so the pill doesn't linger on other pages.
+    ['filterBtnMobile', 'filterOverlay', 'filterBackdrop'].forEach(id => {
+      const el = document.getElementById(id);
+      if (el) el.remove();
+    });
+
     const seg = window.location.pathname.split('/').filter(Boolean);
     // Drop the trailing "/s" marker segment if present.
     if (seg.length && seg[seg.length - 1] === 's') seg.pop();
@@ -121,6 +128,12 @@ function handleRoute() {
       case 'blogs':               return renderBlogsPage();
       case 'blog':                return renderBlogPage(b);
       case 'search':              return renderSearchPage(decodeURIComponent(b || ''));
+
+      // Static content pages
+      case 'privacy':             return renderPrivacyPage();
+      case 'terms':               return renderTermsPage();
+      case 'about':               return renderAboutPage();
+      case 'contact':             return renderContactPage();
 
       // Back-compat: old single-segment treatment links.
       case 'treatment':           return renderTreatmentPage(b);

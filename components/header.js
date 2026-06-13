@@ -5,20 +5,48 @@
 // =====================================================
 
   function buildCityListHTML() {
-    // Cities with real hospital data (from MongoDB) — always available.
+    // Cities with real hospital data (from MongoDB) — immediately selectable.
     const liveCities = (typeof AVAILABLE_CITIES !== 'undefined' && AVAILABLE_CITIES.length)
       ? AVAILABLE_CITIES
       : ['Kolkata'];
     const liveSet = new Set(liveCities.map(c => c.toLowerCase()));
+    const esc = s => String(s == null ? '' : s).replace(/'/g, "\\'");
 
-    // CITY_DATA cities not covered by live data → shown as "Coming Soon".
+    // Full city directory from MongoDB (602 cities). When present, show every
+    // city with its state; cities with live hospital data are selectable,
+    // the rest are flagged "Soon".
+    if (typeof CITIES !== 'undefined' && CITIES.length) {
+      const sorted = CITIES.slice().sort((a, b) => {
+        const aAvail = liveSet.has((a.name || '').toLowerCase());
+        const bAvail = liveSet.has((b.name || '').toLowerCase());
+        if (aAvail !== bAvail) return aAvail ? -1 : 1; // available first
+        return (a.name || '').localeCompare(b.name || '');
+      });
+      return sorted.map(c => {
+        const name = c.name || '';
+        const available = liveSet.has(name.toLowerCase());
+        return `
+      <div class="loc-city-item${available ? '' : ' loc-city-soon'}"
+           data-city="${name}" data-state="${c.state || ''}" data-available="${available}"
+           onclick="window.locSelectCity('${esc(name)}', ${available})">
+        <i class="fa-solid fa-location-dot loc-city-icon"></i>
+        <span class="loc-city-text">
+          <span class="loc-city-name">${name}</span>
+          ${c.state ? `<span class="loc-city-state">${c.state}</span>` : ''}
+        </span>
+        ${available ? '' : '<span class="loc-city-badge">Soon</span>'}
+      </div>`;
+      }).join('');
+    }
+
+    // Fallback (backend unavailable): live list + CITY_DATA "Coming Soon".
     const comingSoon = (typeof CITY_DATA !== 'undefined' ? CITY_DATA : [])
       .filter(c => !liveSet.has(c.name.toLowerCase()) && !c.available);
 
     const liveHTML = liveCities.map(name => `
       <div class="loc-city-item"
            data-city="${name}" data-available="true"
-           onclick="window.locSelectCity('${name}', true)">
+           onclick="window.locSelectCity('${esc(name)}', true)">
         <i class="fa-solid fa-location-dot loc-city-icon"></i>
         <span class="loc-city-name">${name}</span>
       </div>`).join('');
@@ -26,7 +54,7 @@
     const soonHTML = comingSoon.map(c => `
       <div class="loc-city-item loc-city-soon"
            data-city="${c.name}" data-available="false"
-           onclick="window.locSelectCity('${c.name}', false)">
+           onclick="window.locSelectCity('${esc(c.name)}', false)">
         <i class="fa-solid fa-location-dot loc-city-icon"></i>
         <span class="loc-city-name">${c.name}</span>
         <span class="loc-city-badge">Soon</span>
@@ -70,7 +98,7 @@
                 <span><i class="fa-solid fa-globe"></i> Browse Global Locations</span>
                 <i class="fa-solid fa-chevron-down loc-global-chev"></i>
               </button>
-              <div class="loc-cities-label">POPULAR CITIES</div>
+              <div class="loc-cities-label">ALL CITIES</div>
               <div class="loc-cities-list" id="loc-cities-list">${citiesHTML}</div>
             </div>
             <div class="loc-map-wrap"><div id="loc-map"></div></div>
@@ -133,14 +161,33 @@
     if (el) { el.classList.remove('open'); document.body.style.overflow = ''; }
   };
 
+  // Resolve [lat, lng] for a city name. Prefers the full CITIES directory
+  // (all 602 have coords), then CITY_DATA, then a fuzzy match so names like
+  // "Bokaro Steel City" still find "Bokaro". Returns null if unknown.
+  function locCityCoords(name) {
+    const lc = String(name || '').toLowerCase();
+    if (!lc) return null;
+    const cities = (typeof CITIES !== 'undefined') ? CITIES : [];
+    const exact = cities.find(c => (c.name || '').toLowerCase() === lc);
+    if (exact && exact.lat != null) return [exact.lat, exact.lng];
+    const cd = (typeof CITY_DATA !== 'undefined' ? CITY_DATA : []).find(c => c.name.toLowerCase() === lc);
+    if (cd && cd.lat != null) return [cd.lat, cd.lng];
+    const fuzzy = cities.find(c => {
+      const cl = (c.name || '').toLowerCase();
+      return cl && (lc.includes(cl) || cl.includes(lc));
+    });
+    if (fuzzy && fuzzy.lat != null) return [fuzzy.lat, fuzzy.lng];
+    return null;
+  }
+
   window.locInitMap = function() {
     if (!document.getElementById('loc-map') || typeof L === 'undefined') return;
     if (window._locMap) { window._locMap.invalidateSize(); return; }
     const map = L.map('loc-map', { zoomControl: true, scrollWheelZoom: true, attributionControl: true })
       .setView([22.5, 80.0], 4);
     map.attributionControl.setPrefix('');
-    L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
-      maxZoom: 18, attribution: '© OpenStreetMap contributors © CARTO',
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19, attribution: '© OpenStreetMap',
     }).addTo(map);
     CITY_DATA.forEach(city => {
       const icon = L.divIcon({
@@ -150,17 +197,24 @@
       });
       L.marker([city.lat, city.lng], { icon }).addTo(map)
         .on('click', () => {
-          window.locSelectCity(city.name, city.available);
-          map.flyTo([city.lat, city.lng], 7, { animate: true, duration: 0.8 });
+          window.locSelectCity(city.name, city.available); // handles zoom to city
         });
     });
     window._locMap = map;
   };
 
   window.locSelectCity = function(cityName, available) {
+    // When called with only a name (e.g. from GPS detection), derive
+    // availability from the live hospital-data city set so Confirm enables
+    // for any city we actually have data for.
+    if (available === undefined) {
+      const live = (typeof AVAILABLE_CITIES !== 'undefined') ? AVAILABLE_CITIES : [];
+      available = live.some(c => c.toLowerCase() === String(cityName).toLowerCase());
+    }
     window._locPending = cityName;
+    const lcName = String(cityName).toLowerCase();
     document.querySelectorAll('.loc-city-item').forEach(el => {
-      el.classList.toggle('loc-city-active', el.dataset.city === cityName);
+      el.classList.toggle('loc-city-active', (el.dataset.city || '').toLowerCase() === lcName);
     });
     const confirmBtn = document.getElementById('loc-confirm-btn');
     const hint = document.getElementById('loc-selected-hint');
@@ -171,41 +225,133 @@
       hint.textContent = `${cityName} — coming soon! Please choose an available city.`;
       confirmBtn.disabled = true;
     }
-    const item = document.querySelector(`.loc-city-item[data-city="${cityName}"]`);
+    const item = [...document.querySelectorAll('.loc-city-item')]
+      .find(el => (el.dataset.city || '').toLowerCase() === lcName);
     if (item) item.scrollIntoView({ block: 'nearest', behavior: 'smooth' });
-    const cd = CITY_DATA.find(c => c.name === cityName);
-    if (cd && window._locMap) window._locMap.flyTo([cd.lat, cd.lng], 7, { animate: true, duration: 0.8 });
+    // Zoom the map into the selected city.
+    const coords = locCityCoords(cityName);
+    if (coords && window._locMap) {
+      window._locMap.setView(coords, 12, { animate: true });
+    }
   };
 
   window.locFilterCities = function(query) {
     const q = (query || '').toLowerCase();
     document.querySelectorAll('.loc-city-item').forEach(el => {
-      el.style.display = el.dataset.city.toLowerCase().includes(q) ? '' : 'none';
+      const name = (el.dataset.city || '').toLowerCase();
+      const state = (el.dataset.state || '').toLowerCase();
+      el.style.display = (name.includes(q) || state.includes(q)) ? '' : 'none';
     });
     const label = document.querySelector('.loc-cities-label');
     if (label) label.style.display = q ? 'none' : '';
   };
+
+  // Resolve the user's EXACT city from GPS via Nominatim reverse geocoding.
+  // The old approach snapped coords to the nearest CITY_DATA entry (major
+  // cities only), so e.g. Bokaro collapsed to Kolkata. Reverse geocoding
+  // returns the real city/town name.
+  function detectCurrentLocation() {
+    return new Promise((resolve, reject) => {
+      if (!navigator.geolocation) {
+        reject('Geolocation not supported');
+        return;
+      }
+      navigator.geolocation.getCurrentPosition(
+        async (pos) => {
+          // Remember the precise GPS point so the map can zoom to the exact
+          // detected location, not just the matched city's centroid.
+          window._locLastGPS = [pos.coords.latitude, pos.coords.longitude];
+          try {
+            const res = await fetch(
+              'https://nominatim.openstreetmap.org/reverse?' +
+              'lat=' + pos.coords.latitude +
+              '&lon=' + pos.coords.longitude +
+              '&format=json',
+              { headers: { 'Accept-Language': 'en' } }
+            );
+            const data = await res.json();
+
+            const rawCity =
+              data.address.city ||
+              data.address.town ||
+              data.address.county ||
+              data.address.state_district ||
+              data.address.village || '';
+
+            // Fuzzy match the raw name (Nominatim returns e.g. "Bokaro Steel
+            // City" while our lists may have "Bokaro"). Prefer AVAILABLE_CITIES
+            // — those have real hospital data — so the user lands on a city we
+            // can actually serve; fall back to the CITIES directory otherwise.
+            const rawLower = rawCity.toLowerCase();
+            const available = (typeof AVAILABLE_CITIES !== 'undefined') ? AVAILABLE_CITIES : [];
+            const cities = (typeof CITIES !== 'undefined') ? CITIES : [];
+
+            // Match against AVAILABLE_CITIES first (has real hospital data)
+            const availableMatch = rawLower && available.find(city => {
+              const cityLower = city.toLowerCase();
+              return rawLower.includes(cityLower) ||
+                     cityLower.includes(rawLower) ||
+                     rawLower.startsWith(cityLower) ||
+                     cityLower.startsWith(rawLower);
+            });
+
+            if (availableMatch) {
+              resolve(availableMatch);
+              return;
+            }
+
+            // Fallback to CITIES directory
+            const directoryMatch = rawLower && cities.find(c => {
+              const cityLower = (c.name || '').toLowerCase();
+              if (!cityLower) return false;
+              return rawLower.includes(cityLower) ||
+                     cityLower.includes(rawLower);
+            });
+
+            const finalCity = directoryMatch
+              ? directoryMatch.name
+              : (rawCity || 'Kolkata');
+            resolve(finalCity);
+          } catch (e) {
+            resolve('Kolkata');
+          }
+        },
+        () => reject('Permission denied'),
+        { timeout: 8000 }
+      );
+    });
+  }
 
   window.locUseCurrentLocation = function() {
     if (!navigator.geolocation) { alert('Geolocation not supported.'); return; }
     const btn = document.querySelector('.loc-current-btn');
     btn.innerHTML = '<i class="fa-solid fa-spinner fa-spin"></i> Detecting...';
     btn.disabled = true;
-    navigator.geolocation.getCurrentPosition(pos => {
-      btn.innerHTML = '<i class="fa-solid fa-location-crosshairs"></i> Use Current Location';
-      btn.disabled = false;
-      const { latitude: lat, longitude: lng } = pos.coords;
-      let closest = CITY_DATA[0], minDist = Infinity;
-      CITY_DATA.forEach(c => {
-        const d = Math.hypot(c.lat - lat, c.lng - lng);
-        if (d < minDist) { minDist = d; closest = c; }
+    detectCurrentLocation()
+      .then(city => {
+        btn.innerHTML = '<i class="fa-solid fa-location-crosshairs"></i> Use Current Location';
+        btn.disabled = false;
+        window.locSelectCity(city);
+        // Zoom the map into the detected location (precise GPS if available,
+        // else the matched city's coords) and drop a marker.
+        const map = window._locMap;
+        const target = window._locLastGPS || locCityCoords(city);
+        if (map && target) {
+          map.setView(target, 13, { animate: false });
+          if (window._locDetectedMarker) map.removeLayer(window._locDetectedMarker);
+          window._locDetectedMarker = L.circleMarker(target, {
+            radius: 9, color: '#fff', weight: 2,
+            fillColor: '#6c3fc5', fillOpacity: 1,
+          }).addTo(map).bindPopup(city).openPopup();
+        }
+      })
+      .catch(err => {
+        btn.innerHTML = '<i class="fa-solid fa-location-crosshairs"></i> Use Current Location';
+        btn.disabled = false;
+        alert(err === 'Permission denied'
+          ? 'Could not detect location. Please select manually.'
+          : 'Location detection failed. Please select manually.');
       });
-      window.locSelectCity(closest.name, closest.available);
-    }, () => {
-      btn.innerHTML = '<i class="fa-solid fa-location-crosshairs"></i> Use Current Location';
-      btn.disabled = false;
-      alert('Could not detect location. Please select manually.');
-    });
   };
 
   window.locConfirm = function() {

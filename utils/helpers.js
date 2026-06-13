@@ -280,9 +280,14 @@
   // =====================================================
   // SEO META TAGS UPDATER
   // =====================================================
-  window.updatePageMeta = function({ title, description, keywords, image, url }) {
-    if (title) document.title = title + ' | Doctar Surgery';
-    
+  window.updatePageMeta = function({ title, description, keywords, image, url, robots }) {
+    // Idempotent suffix: some callers (e.g. static pages) already include the
+    // brand in their title — don't append it twice.
+    const fullTitle = title
+      ? (/doctar surgery/i.test(title) ? title : title + ' | Doctar Surgery')
+      : '';
+    if (title) document.title = fullTitle;
+
     function setMeta(name, content) {
       if (!content) return;
       let el = document.querySelector(`meta[name="${name}"]`);
@@ -307,8 +312,11 @@
 
     setMeta('description', description);
     setMeta('keywords', keywords);
-    
-    setOG('og:title', title ? title + ' | Doctar Surgery' : '');
+    // Default back to index,follow so a noindex page doesn't stay noindexed
+    // after navigating elsewhere (renderers share one persistent <meta>).
+    setMeta('robots', robots || 'index, follow');
+
+    setOG('og:title', fullTitle);
     setOG('og:description', description);
     setOG('og:image', image || 'https://surgery.doctar.in/images/about-surgery.png');
     setOG('og:url', url || window.location.href);

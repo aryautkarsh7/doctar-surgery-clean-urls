@@ -3,17 +3,6 @@
 // Loaded as a classic script — shares global scope with data.js & siblings.
 // =====================================================
 
-  function getSafeImageUrl(url) {
-    if (!url) return 'images/about-surgery.webp';
-    if (
-      url.includes('wikimedia') ||
-      url.includes('wikipedia') ||
-      url.includes('googleusercontent') ||
-      url.includes('maps.google') ||
-      url.includes('gps-cs-s')
-    ) return 'images/about-surgery.webp';
-    return url;
-  }
   // =====================================================
   function renderHospitalDetailPage(slug) {
     showSkeleton('detail');
@@ -75,7 +64,7 @@
 
       <section class="container hpp-hero">
         <div class="hpp-hero-media">
-          <img loading="lazy" src="${getSafeImageUrl(hospital.image)}" alt="${hospital.name}" onerror="this.src='images/about-surgery.webp'">
+          <img loading="lazy" src="${hospital.image || 'images/about-surgery.webp'}" alt="${hospital.name}" onerror="this.src='images/about-surgery.webp'">
           <div class="hpp-hero-logo-slot${hospital.logo ? '' : ' is-empty'}" title="Hospital logo">
             ${hospital.logo
               ? `<img src="${hospital.logo}" alt="${hospital.name} logo" onerror="this.closest('.hpp-hero-logo-slot').classList.add('is-empty');this.remove();">`
@@ -89,7 +78,7 @@
           <h1>${hospital.name}</h1>
           <p>${hospital.overview}</p>
           <div class="hpp-hero-meta">
-            <span><i class="fa-solid fa-star"></i> ${hospital.rating} (${hospital.reviews} reviews)</span>
+            <span><i class="fa-solid fa-star"></i> ${hospital.rating} (${hospital.reviews || 0} reviews)</span>
             <span><i class="fa-solid fa-location-dot"></i> ${hospital.address}</span>
             <span><i class="fa-solid fa-clock"></i> ${hospital.hours}</span>
           </div>
@@ -549,7 +538,7 @@
           ` : `<div class="hl-list" id="hospitalsListView">` + hospitals.map((hospital, index) => `
             <article class="hl-card ${index === 0 ? 'is-highlighted' : ''}">
               <div class="hl-image-wrap">
-                <img src="${getSafeImageUrl(hospital.image)}" alt="${hospital.name}" loading="lazy">
+                <img src="${hospital.image || 'images/about-surgery.webp'}" alt="${hospital.name}" loading="lazy" onerror="this.src='images/about-surgery.webp'">
                 <div class="card-logo-slot${hospital.logo ? '' : ' is-empty'}" title="Hospital logo">
                   ${hospital.logo
                     ? `<img src="${hospital.logo}" alt="${hospital.name} logo" onerror="this.closest('.card-logo-slot').classList.add('is-empty');this.remove();">`
@@ -561,27 +550,27 @@
                   <div>
                     <h3>${hospital.name}</h3>
                     <div class="hl-meta-list">
-                      <span><i class="fa-solid fa-location-dot"></i>${hospital.address}</span>
+                      ${hospital.address ? `<span><i class="fa-solid fa-location-dot"></i>${hospital.address}</span>` : ''}
                       <span><i class="fa-solid fa-route"></i> <span class="hosp-distance" data-lat="${hospital.map && hospital.map.lat != null ? hospital.map.lat : ''}" data-lng="${hospital.map && hospital.map.lng != null ? hospital.map.lng : ''}">Locating…</span></span>
-                      <span><i class="fa-solid fa-user-doctor"></i>${hospital.type}</span>
+                      ${hospital.type ? `<span><i class="fa-solid fa-user-doctor"></i>${hospital.type}</span>` : ''}
                     </div>
                   </div>
-                  <div class="hl-rating">${hospital.rating} <i class="fa-solid fa-star"></i> <span>(${hospital.reviews} reviews)</span></div>
+                  ${hospital.rating ? `<div class="hl-rating">${hospital.rating} <i class="fa-solid fa-star"></i> <span>(${hospital.reviews || 0} reviews)</span></div>` : ''}
                 </div>
 
                 <div class="hl-metrics">
-                  ${hospital.metrics.slice(0, 2).map(metric => `<span>${metric}</span>`).join('')}
+                  ${(hospital.metrics || []).slice(0, 2).map(metric => `<span>${metric}</span>`).join('')}
                 </div>
 
                 <div class="hl-tags">
-                  ${hospital.services.map(service => `<span>${service}</span>`).join('')}
+                  ${(hospital.services || []).map(service => `<span>${service}</span>`).join('')}
                 </div>
 
                 <div class="hl-actions">
                   <a href="${urlHospital(hospital)}" class="hl-primary">View Hospital Details →</a>
-                  <a href="tel:${hospital.phone.replace(/-/g, '')}" class="hl-secondary">
+                  ${hospital.phone ? `<a href="tel:${hospital.phone.replace(/-/g, '')}" class="hl-secondary">
                     <i class="fa-solid fa-phone"></i> Call: ${hospital.phone}
-                  </a>
+                  </a>` : ''}
                 </div>
               </div>
             </article>
@@ -596,6 +585,81 @@
     window._allHospitalsView = 'list';
     updateHospitalDistances();
     appContainer.insertAdjacentHTML('beforeend', renderDynamicFooterSection(getCurrentCity() || 'Kolkata'));
+
+    // ── Mobile filter: FAB button + bottom-sheet overlay ──
+    // Clean up any previous mobile filter elements (re-render safe)
+    const oldBtn = document.getElementById('filterBtnMobile');
+    const oldOverlay = document.getElementById('filterOverlay');
+    const oldBackdrop = document.getElementById('filterBackdrop');
+    if (oldBtn) oldBtn.remove();
+    if (oldOverlay) oldOverlay.remove();
+    if (oldBackdrop) oldBackdrop.remove();
+
+    // 1. Create the floating filter button
+    const filterBtn = document.createElement('button');
+    filterBtn.className = 'filter-btn-mobile';
+    filterBtn.innerHTML = '<i class="fa-solid fa-sliders"></i> Filter Hospitals';
+    filterBtn.id = 'filterBtnMobile';
+    document.body.appendChild(filterBtn);
+
+    // 2. Create the backdrop
+    const backdrop = document.createElement('div');
+    backdrop.className = 'filter-overlay-backdrop';
+    backdrop.id = 'filterBackdrop';
+    document.body.appendChild(backdrop);
+
+    // 3. Create the bottom-sheet overlay and clone sidebar filter content into it
+    const overlay = document.createElement('div');
+    overlay.className = 'filter-overlay';
+    overlay.id = 'filterOverlay';
+
+    const sidebar = appContainer.querySelector('.tpl-sidebar');
+    if (sidebar) {
+      // Close button
+      const closeBtn = document.createElement('button');
+      closeBtn.className = 'filter-overlay-close';
+      closeBtn.innerHTML = '✕';
+      closeBtn.onclick = function() { window.closeFilter(); };
+      overlay.appendChild(closeBtn);
+
+      // Clone all filter groups from the sidebar
+      sidebar.querySelectorAll('.tpl-filter-head, .tpl-filter-group').forEach(function(el) {
+        overlay.appendChild(el.cloneNode(true));
+      });
+
+      // Apply button
+      const applyBtn = document.createElement('button');
+      applyBtn.className = 'filter-overlay-apply';
+      applyBtn.textContent = 'Apply Filters';
+      applyBtn.onclick = function() { window.closeFilter(); };
+      overlay.appendChild(applyBtn);
+    }
+    document.body.appendChild(overlay);
+
+    // 4. Wire up the radio buttons inside the overlay to use the same filter logic
+    overlay.querySelectorAll('input[type="radio"]').forEach(function(radio) {
+      radio.addEventListener('change', function() {
+        const name = this.name;
+        const value = this.value;
+        if (name === 'hosp-type') applyAllHospitalsFilter('type', value);
+        else if (name === 'hosp-rating') applyAllHospitalsFilter('rating', parseFloat(value));
+        else if (name === 'hosp-accred') applyAllHospitalsFilter('accreditation', value);
+        else if (name === 'hosp-serv') applyAllHospitalsFilter('service', value);
+      });
+    });
+
+    // 5. Toggle logic
+    filterBtn.onclick = function() {
+      overlay.classList.add('open');
+      backdrop.classList.add('open');
+    };
+
+    window.closeFilter = function() {
+      overlay.classList.remove('open');
+      backdrop.classList.remove('open');
+    };
+
+    backdrop.onclick = window.closeFilter;
   }
 
   window.applyAllHospitalsFilter = function(key, value) {
@@ -644,7 +708,7 @@
       : `<div style="display:grid; grid-template-columns:repeat(auto-fill,minmax(280px,1fr)); gap:20px;">` + hospitals.map(h => `
           <a href="${urlHospital(h)}" style="display:block; background:#fff; border:1.5px solid #ECE6FF; border-radius:18px; overflow:hidden; text-decoration:none; color:inherit; box-shadow:0 2px 14px rgba(94,64,145,0.06);">
             <div style="height:150px; background:#f0ebff; overflow:hidden;">
-              <img loading="lazy" src="${getSafeImageUrl(h.image)}" alt="${h.name}" style="width:100%;height:100%;object-fit:cover;" onerror="this.src='images/about-surgery.webp'">
+              <img loading="lazy" src="${h.image || 'images/about-surgery.webp'}" alt="${h.name}" style="width:100%;height:100%;object-fit:cover;" onerror="this.src='images/about-surgery.webp'">
             </div>
             <div style="padding:18px;">
               <div style="display:flex; justify-content:space-between; align-items:center; gap:8px;">

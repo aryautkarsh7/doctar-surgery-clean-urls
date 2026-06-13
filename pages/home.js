@@ -8,22 +8,10 @@
     return url.replace('/upload/', `/upload/w_${w},h_${h},c_fill,q_auto,f_auto/`);
   }
 
-  function getSafeImageUrl(url) {
-    if (!url) return 'images/about-surgery.webp';
-    if (
-      url.includes('wikimedia') ||
-      url.includes('wikipedia') ||
-      url.includes('googleusercontent') ||
-      url.includes('maps.google') ||
-      url.includes('gps-cs-s')
-    ) return 'images/about-surgery.webp';
-    return url;
-  }
-
   function preloadHospitalImages(hospitals) {
     hospitals.slice(0, 3).forEach(h => {
-      const src = getSafeImageUrl(h.image);
-      if (!src.startsWith('http')) return; // skip local fallback
+      const src = h.image;
+      if (!src || !src.startsWith('http')) return;
       const link = document.createElement('link');
       link.rel = 'preload';
       link.as = 'image';
@@ -374,7 +362,7 @@ ${homeDoctors.slice(0, 8).map(doc => `
               ${featuredHospitals.map(hospital => `
                 <article class="fh-card" data-hospital-card="${hospital.slug}">
                   <div class="fh-card-media">
-                    <img src="${optimizeCloudinaryUrl(getSafeImageUrl(hospital.image))}" alt="${hospital.name}" onerror="this.src='images/about-surgery.webp'">
+                    <img src="${optimizeCloudinaryUrl(hospital.image || 'images/about-surgery.webp')}" alt="${hospital.name}" onerror="this.src='images/about-surgery.webp'">
                     <div class="card-logo-slot is-empty" title="Hospital logo">
                       <i class="fa-solid fa-hospital"></i>
                     </div>
@@ -382,18 +370,18 @@ ${homeDoctors.slice(0, 8).map(doc => `
                   <div class="fh-card-body">
                     <div class="fh-card-top">
                       <h3>${hospital.name}</h3>
-                      <span class="fh-rating">${hospital.rating} <i class="fa-solid fa-star"></i></span>
+                      ${hospital.rating ? `<span class="fh-rating">${hospital.rating} <i class="fa-solid fa-star"></i></span>` : ''}
                     </div>
                     <div class="fh-meta">
-                      <span><i class="fa-solid fa-location-dot"></i> ${hospital.address}</span>
-                      <span><i class="fa-solid fa-route"></i> ${hospital.distance}</span>
-                      <span><i class="fa-solid fa-user-doctor"></i> ${hospital.type}</span>
+                      ${hospital.address ? `<span><i class="fa-solid fa-location-dot"></i> ${hospital.address}</span>` : ''}
+                      ${hospital.distance && hospital.distance !== 'undefined' ? `<span><i class="fa-solid fa-route"></i> ${hospital.distance}</span>` : ''}
+                      ${hospital.type ? `<span><i class="fa-solid fa-user-doctor"></i> ${hospital.type}</span>` : ''}
                     </div>
                     <div class="fh-metrics">
-                      ${hospital.metrics.slice(0, 2).map(metric => `<span>${metric}</span>`).join('')}
+                      ${(hospital.metrics || []).slice(0, 2).map(metric => `<span>${metric}</span>`).join('')}
                     </div>
                     <div class="fh-services">
-                      ${hospital.services.map(service => `<span>${service}</span>`).join('')}
+                      ${(hospital.services || []).map(service => `<span>${service}</span>`).join('')}
                     </div>
                     <div class="fh-card-actions">
                       <a href="${urlHospital(hospital)}" class="fh-card-primary">View Hospital →</a>
@@ -423,7 +411,7 @@ ${homeDoctors.slice(0, 8).map(doc => `
             ${featuredHospitals.map(hospital => `
               <a href="/specialities/s" class="hnm2-card">
                 <div class="hnm2-card-img">
-                  <img src="${optimizeCloudinaryUrl(getSafeImageUrl(hospital.image))}" alt="${hospital.name}" onerror="this.src='images/about-surgery.webp'" loading="lazy">
+                  <img src="${optimizeCloudinaryUrl(hospital.image || 'images/about-surgery.webp')}" alt="${hospital.name}" loading="lazy" onerror="this.src='images/about-surgery.webp'">
                 </div>
                 <div class="hnm2-card-body">
                   <h3>${hospital.name}</h3>
@@ -456,7 +444,7 @@ ${homeDoctors.slice(0, 8).map(doc => `
                 ${cityPetHospitals.map(h => `
                   <a href="${urlPetHospitals(currentCity)}" class="hnm2-card">
                     <div class="hnm2-card-img">
-                      <img src="${getSafeImageUrl(h.image)}" alt="${h.name}" onerror="this.src='images/about-surgery.webp'">
+                      <img src="${h.image || 'images/about-surgery.webp'}" alt="${h.name}" onerror="this.src='images/about-surgery.webp'">
                     </div>
                     <div class="hnm2-card-body">
                       <h3>${h.name}</h3>

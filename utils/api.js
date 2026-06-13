@@ -88,6 +88,7 @@
   let SUBSUBCATEGORIES = [];
   let PET_HOSPITALS = [];
   let AVAILABLE_CITIES = ['Kolkata'];
+  let CITIES = []; // full city directory from MongoDB (name/slug/state/lat/lng)
 
   function formatBlogDate(raw) {
     if (!raw) return '';
@@ -215,6 +216,9 @@
         if (Array.isArray(d1.subsubcategories)) SUBSUBCATEGORIES = d1.subsubcategories;
         if (Array.isArray(d1.availableCities) && d1.availableCities.length) {
           AVAILABLE_CITIES = d1.availableCities;
+        }
+        if (Array.isArray(d1.cities)) {
+          CITIES = d1.cities;
         }
         if (Array.isArray(d1.blogs) && d1.blogs.length) {
           BLOG_POSTS = d1.blogs.filter(b => b.published !== false);

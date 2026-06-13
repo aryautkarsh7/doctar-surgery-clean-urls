@@ -12,6 +12,7 @@ const FAQ = require('../models/FAQ');
 const SubCategory = require('../models/SubCategory');
 const SubSubCategory = require('../models/SubSubCategory');
 const PetHospital = require('../models/PetHospital');
+const City = require('../models/City');
 
 // City name blocklist for deriving AVAILABLE_CITIES
 const _cityBlocklist = /near |opposite |taluk|kachh| patti |naini |mahewa|mirakhpur|mubark|daiwghat|dadanpur|burhanagar|jhusi|karuvatta|kattanam|kollakadavu|kulanada|kumarapuram|malayambakkam|mannanchery|ashoka circle/i;
@@ -36,7 +37,7 @@ function deriveAvailableCities(hospitals) {
 // GET /api/data/critical — fast payload: categories + treatments + subcategories + cities + blogs + videos
 router.get('/critical', async (req, res) => {
   try {
-    const [categories, treatmentDocs, subcategories, subsubcategories, cityDocs, blogDocs, videos] = await Promise.all([
+    const [categories, treatmentDocs, subcategories, subsubcategories, cityDocs, blogDocs, videos, cities] = await Promise.all([
       Category.find().lean(),
       Treatment.find().lean(),
       SubCategory.find().sort({ order: 1, createdAt: -1 }).lean(),
@@ -44,6 +45,7 @@ router.get('/critical', async (req, res) => {
       Hospital.find().select('city').hint({ city: 1 }).lean(),
       Blog.find({ published: true }).sort({ createdAt: -1 }).limit(8).select('title slug category createdAt thumbnail excerpt author published').lean(),
       Video.find().sort({ order: 1, createdAt: -1 }).lean(),
+      City.find({}).select('name slug state lat lng').sort({ name: 1 }).lean(),
     ]);
 
     const treatments = {};
@@ -54,7 +56,7 @@ router.get('/critical', async (req, res) => {
 
     const availableCities = deriveAvailableCities(cityDocs);
 
-    res.json({ success: true, data: { categories, treatments, subcategories, subsubcategories, availableCities, blogs: blogDocs, videos } });
+    res.json({ success: true, data: { categories, treatments, subcategories, subsubcategories, availableCities, cities, blogs: blogDocs, videos } });
   } catch (err) {
     res.status(500).json({ success: false, error: err.message });
   }

@@ -895,6 +895,58 @@
     initPatientReviews();
     window._allDoctorsFilters = filters;
     appContainer.insertAdjacentHTML('beforeend', renderDynamicFooterSection(getCurrentCity() || 'Kolkata'));
+
+    // ── Mobile filter: pill button + bottom-sheet overlay (same pattern as
+    // the hospitals listing; sidebar radios keep their inline onchange when cloned) ──
+    ['filterBtnMobile', 'filterOverlay', 'filterBackdrop'].forEach(id => {
+      const el = document.getElementById(id);
+      if (el) el.remove();
+    });
+
+    const filterBtn = document.createElement('button');
+    filterBtn.className = 'filter-btn-mobile';
+    filterBtn.innerHTML = '<i class="fa-solid fa-sliders"></i> Filter Doctors';
+    filterBtn.id = 'filterBtnMobile';
+    document.body.appendChild(filterBtn);
+
+    const backdrop = document.createElement('div');
+    backdrop.className = 'filter-overlay-backdrop';
+    backdrop.id = 'filterBackdrop';
+    document.body.appendChild(backdrop);
+
+    const overlay = document.createElement('div');
+    overlay.className = 'filter-overlay';
+    overlay.id = 'filterOverlay';
+
+    const sidebar = appContainer.querySelector('.tpl-sidebar');
+    if (sidebar) {
+      const closeBtn = document.createElement('button');
+      closeBtn.className = 'filter-overlay-close';
+      closeBtn.innerHTML = '✕';
+      closeBtn.onclick = function() { window.closeFilter(); };
+      overlay.appendChild(closeBtn);
+
+      sidebar.querySelectorAll('.tpl-filter-head, .tpl-filter-group').forEach(function(el) {
+        overlay.appendChild(el.cloneNode(true));
+      });
+
+      const applyBtn = document.createElement('button');
+      applyBtn.className = 'filter-overlay-apply';
+      applyBtn.textContent = 'Apply Filters';
+      applyBtn.onclick = function() { window.closeFilter(); };
+      overlay.appendChild(applyBtn);
+    }
+    document.body.appendChild(overlay);
+
+    filterBtn.onclick = function() {
+      overlay.classList.add('open');
+      backdrop.classList.add('open');
+    };
+    window.closeFilter = function() {
+      overlay.classList.remove('open');
+      backdrop.classList.remove('open');
+    };
+    backdrop.onclick = window.closeFilter;
   }
 
   window.applyAllDoctorsFilter = function(key, value) {

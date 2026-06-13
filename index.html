@@ -24,7 +24,7 @@
   <meta property="og:type" content="website">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://surgery.doctar.in">
-  <link rel="preload" href="styles.css?v=20260612-fix" as="style" onload="this.rel='stylesheet'">
+  <link rel="stylesheet" href="styles.css?v=20260613-static">
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/MarkerCluster.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/MarkerCluster.Default.css">
@@ -36,7 +36,9 @@
   <header>
     <div class="container header-top">
       <div class="logo-area" style="position: relative;">
-        <a href="/" class="logo">DOCTAR</a>
+        <a href="/" class="logo site-logo">
+          <img src="/images/doctar-logo.png" alt="Doctar Surgery">
+        </a>
         <div class="city-selector" id="citySelectorBtn" onclick="window.openLocationModal && window.openLocationModal()">
           <i class="fa-solid fa-location-dot" style="font-size:0.8rem"></i>
           <span id="currentCityText">Kolkata</span>
@@ -102,66 +104,65 @@
   </main>
 
   <!-- FOOTER (Persistent) -->
-  <footer>
-    <div class="container footer-grid">
-      <div class="footer-brand">
-        <a href="/" class="logo" style="font-size:24px; font-weight:700; color:white; letter-spacing:1px;">DOCTAR</a>
-        <p class="footer-desc">
-          Doctar is India's leading surgical care network, ensuring a seamless experience from consultation to recovery with expert doctors and advanced technology.
-        </p>
-        <div class="social-links">
-          <a href="#" class="social-link"><i class="fab fa-facebook-f"></i></a>
-          <a href="#" class="social-link"><i class="fab fa-twitter"></i></a>
-          <a href="#" class="social-link"><i class="fab fa-instagram"></i></a>
-          <a href="#" class="social-link"><i class="fab fa-youtube"></i></a>
+  <footer class="site-footer">
+    <div class="footer-main">
+      <div class="footer-col">
+        <h4>FOR PATIENTS</h4>
+        <ul>
+          <li><a href="/surgeons-near-me/s">Search Surgeons</a></li>
+          <li><a href="/hospitals-in-kolkata/s">Search Hospitals</a></li>
+          <li><a href="/surgeries-in-kolkata/s">Search Surgeries</a></li>
+          <li><a href="/specialities/s">All Specialities</a></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <h4>DOCTAR SURGERY</h4>
+        <ul>
+          <li><a href="/about/s">About</a></li>
+          <li><a href="/blog/s">Blog</a></li>
+          <li><a href="/careers/s">Careers</a></li>
+          <li><a href="/contact/s">Contact Us</a></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <h4>MORE</h4>
+        <ul>
+          <li><a href="/privacy/s">Privacy Policy</a></li>
+          <li><a href="/terms/s">Terms &amp; Conditions</a></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <h4>SOCIAL</h4>
+        <div class="footer-social">
+          <a href="https://facebook.com/doctar" target="_blank" class="social-icon">
+            <i class="fab fa-facebook-f"></i>
+          </a>
+          <a href="https://instagram.com/doctar" target="_blank" class="social-icon">
+            <i class="fab fa-instagram"></i>
+          </a>
+          <a href="https://linkedin.com/company/doctar" target="_blank" class="social-icon">
+            <i class="fab fa-linkedin-in"></i>
+          </a>
+          <a href="https://youtube.com/@doctar" target="_blank" class="social-icon">
+            <i class="fab fa-youtube"></i>
+          </a>
         </div>
       </div>
-      
-      <div class="footer-links">
-        <h4 class="footer-title">For Patients</h4>
-        <ul>
-          <li><a href="/">Search for Doctors</a></li>
-          <li><a href="/">Search for Clinics</a></li>
-          <li><a href="/">Book Appointment</a></li>
-          <li><a href="/">Our Specialists</a></li>
-        </ul>
-      </div>
-      
-      <div class="footer-links">
-        <h4 class="footer-title">About Us</h4>
-        <ul>
-          <li><a href="/">Who We Are</a></li>
-          <li><a href="/">Why Choose Us</a></li>
-          <li><a href="/">Success Stories</a></li>
-          <li><a href="/">Contact Us</a></li>
-        </ul>
-      </div>
-      
-      <div class="footer-contact">
-        <h4 class="footer-title">Contact</h4>
-        <ul>
-          <li>
-            <i class="fas fa-map-marker-alt"></i>
-            <span>4th Floor, Tower B, DLF Cyber City, Gurugram, Haryana 122002</span>
-          </li>
-          <li>
-            <i class="fas fa-envelope"></i>
-            <span>care@doctar.in</span>
-          </li>
-          <li>
-            <i class="fas fa-phone-alt"></i>
-            <span>+91-8877772277</span>
-          </li>
-        </ul>
+    </div>
+
+    <div class="footer-global">
+      <div class="footer-global-box">
+        <h3>Not from India?</h3>
+        <p>Explore our global network of surgical care professionals.</p>
+        <a href="https://doctar.in/global/countries" class="btn-global">
+          🌐 Find Doctors Worldwide
+        </a>
       </div>
     </div>
-    
-    <div class="container footer-bottom">
-      <p>&copy; 2026 Doctar Health Care. All rights reserved.</p>
-      <div style="display:flex; gap:20px;">
-        <a href="#">Privacy Policy</a>
-        <a href="#">Terms of Service</a>
-      </div>
+
+    <div class="footer-bottom">
+      <span>© 2026 Doctar Surgery. All rights reserved.</span>
+      <span class="footer-status">● All systems operational</span>
     </div>
   </footer>
 
@@ -169,26 +170,27 @@
   <script defer src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
   <script defer src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/leaflet.markercluster.js"></script>
   <!-- Data layer (defines global CATEGORIES / DOCTORS / HOSPITALS / etc.) -->
-  <script defer src="data.js?v=20260612-fix"></script>
+  <script defer src="data.js?v=20260612-mob3"></script>
 
   <!-- App modules: classic scripts, share one global scope, load before main.js -->
-  <script defer src="utils/helpers.js?v=20260612-fix"></script>
-  <script defer src="utils/api.js?v=20260612-fix"></script>
-  <script defer src="components/sections.js?v=20260612-fix"></script>
-  <script defer src="components/footer-dynamic.js?v=20260612-fix"></script>
-  <script defer src="components/header.js?v=20260612-fix"></script>
-  <script defer src="components/booking-modal.js?v=20260612-fix"></script>
-  <script defer src="pages/blog.js?v=20260612-fix"></script>
-  <script defer src="pages/home.js?v=20260612-fix"></script>
-  <script defer src="pages/category.js?v=20260612-fix"></script>
-  <script defer src="pages/treatment.js?v=20260612-fix"></script>
-  <script defer src="pages/doctors.js?v=20260612-fix"></script>
-  <script defer src="pages/hospitals.js?v=20260612-fix"></script>
-  <script defer src="pages/search.js?v=20260612-fix"></script>
-  <script defer src="pages/pet.js?v=20260612-fix"></script>
+  <script defer src="utils/helpers.js?v=20260612-mob3"></script>
+  <script defer src="utils/api.js?v=20260613-cities"></script>
+  <script defer src="components/sections.js?v=20260612-mob3"></script>
+  <script defer src="components/footer-dynamic.js?v=20260612-mob3"></script>
+  <script defer src="components/header.js?v=20260613-mapux3"></script>
+  <script defer src="components/booking-modal.js?v=20260612-mob3"></script>
+  <script defer src="pages/blog.js?v=20260612-mob3"></script>
+  <script defer src="pages/home.js?v=20260612-mob3"></script>
+  <script defer src="pages/category.js?v=20260612-mob3"></script>
+  <script defer src="pages/treatment.js?v=20260612-mob3"></script>
+  <script defer src="pages/doctors.js?v=20260612-mob3"></script>
+  <script defer src="pages/hospitals.js?v=20260612-mob3"></script>
+  <script defer src="pages/search.js?v=20260612-mob3"></script>
+  <script defer src="pages/pet.js?v=20260612-mob3"></script>
+  <script defer src="pages/static.js?v=20260613-static"></script>
 
   <!-- Router / entry point (must load last) -->
-  <script defer src="main.js?v=20260612-fix"></script>
+  <script defer src="main.js?v=20260613-static"></script>
 
   <script>
     if ('serviceWorker' in navigator) {
