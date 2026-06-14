@@ -17,6 +17,7 @@ const jsFiles = [
   'pages/search.js',
   'pages/blog.js',
   'pages/pet.js',
+  'pages/static.js',
   'components/header.js',
   'components/booking-modal.js',
   'components/footer-dynamic.js',
@@ -54,6 +55,12 @@ async function build() {
   // Copy index.html to dist, update script paths
   let html = fs.readFileSync('index.html', 'utf8');
   fs.writeFileSync('dist/index.html', html);
+
+  // Copy the service worker verbatim so dist (served first in production)
+  // never ships a stale cache version behind the source.
+  fs.copyFileSync('sw.js', 'dist/sw.js');
+  console.log('Copied: sw.js');
+
   console.log('Build complete!');
 }
 

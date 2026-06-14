@@ -360,18 +360,24 @@ ${homeDoctors.slice(0, 8).map(doc => `
 
             <div class="fh-cards">
               ${featuredHospitals.map(hospital => `
-                <article class="fh-card" data-hospital-card="${hospital.slug}">
+                <article class="fh-card${hospital.image ? '' : ' fh-img-failed'}" data-hospital-card="${hospital.slug}">
                   <div class="fh-card-media">
-                    <img src="${optimizeCloudinaryUrl(hospital.image || 'images/about-surgery.webp')}" alt="${hospital.name}" onerror="this.src='images/about-surgery.webp'">
+                    <img src="${optimizeCloudinaryUrl(hospital.image || 'images/about-surgery.webp')}" alt="${hospital.name}" onerror="this.onerror=null;this.closest('.fh-card').classList.add('fh-img-failed');this.src='images/about-surgery.webp'">
                     <div class="card-logo-slot is-empty" title="Hospital logo">
                       <i class="fa-solid fa-hospital"></i>
                     </div>
+                    <!-- mobile-only image overlays (hidden on desktop via inline display:none) -->
+                    ${hospital.rating ? `<div class="fh-ov-rating" style="display:none"><i class="fa-solid fa-star"></i> ${hospital.rating}</div>` : ''}
+                    ${hospital.type ? `<div class="fh-ov-type" style="display:none">${hospital.type}</div>` : ''}
+                    <div class="fh-ov-fallback" style="display:none"><i class="fa-solid fa-hospital"></i><span>${hospital.name}</span></div>
                   </div>
                   <div class="fh-card-body">
                     <div class="fh-card-top">
                       <h3>${hospital.name}</h3>
                       ${hospital.rating ? `<span class="fh-rating">${hospital.rating} <i class="fa-solid fa-star"></i></span>` : ''}
                     </div>
+                    <!-- mobile-only address row (hidden on desktop) -->
+                    ${hospital.address ? `<div class="fh-m-addr" style="display:none"><i class="fa-solid fa-location-dot"></i> ${hospital.address}</div>` : ''}
                     <div class="fh-meta">
                       ${hospital.address ? `<span><i class="fa-solid fa-location-dot"></i> ${hospital.address}</span>` : ''}
                       ${hospital.distance && hospital.distance !== 'undefined' ? `<span><i class="fa-solid fa-route"></i> ${hospital.distance}</span>` : ''}

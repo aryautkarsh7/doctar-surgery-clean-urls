@@ -7,7 +7,9 @@
   function renderHospitalDetailPage(slug) {
     showSkeleton('detail');
     const hospital = findHospital(slug);
-    if (!hospital) { handleRoute(); return; }
+    // Not found: redirect to the hospitals listing instead of re-running
+    // handleRoute() on the SAME url, which would recurse infinitely (stack overflow).
+    if (!hospital) { navigate('/hospitals'); return; }
 
     updatePageMeta({
       title: `${hospital.name} - Surgery Hospital in ${hospital.city}`,
@@ -50,7 +52,7 @@
     ].filter(Boolean)));
     const faqs = [
       { q: `Where is ${hospital.name} located?`, a: `${hospital.name} is located at ${hospital.address}.` },
-      { q: `What type of facility is ${hospital.name}?`, a: `${hospital.name} is a ${hospital.type.toLowerCase()} with support for planned surgical care.` },
+      { q: `What type of facility is ${hospital.name}?`, a: `${hospital.name} is a ${(hospital.type || 'hospital').toLowerCase()} with support for planned surgical care.` },
       { q: 'Is insurance support available?', a: 'Yes, our care team helps with insurance paperwork, cashless approval, and claim coordination wherever applicable.' },
       { q: 'Can I book a free consultation here?', a: 'Yes, you can request a free consultation and our coordinator will help confirm the best doctor and slot.' },
     ];
@@ -86,7 +88,7 @@
             <button class="hpp-primary-btn" onclick="window.openBookingModal('','${hospital.name}')">
               <i class="fa-solid fa-calendar-check"></i> Book FREE Appointment
             </button>
-            <a href="tel:${hospital.phone.replace(/-/g, '')}" class="hpp-secondary-btn">
+            <a href="tel:${(hospital.phone || '').replace(/-/g, '')}" class="hpp-secondary-btn">
               <i class="fa-solid fa-phone"></i> Call Hospital
             </a>
             <a href="https://www.google.com/maps/dir/?api=1&destination=${(hospital.map && hospital.map.lat && hospital.map.lng) ? `${hospital.map.lat},${hospital.map.lng}` : encodeURIComponent((hospital.address || '') + ', ' + (hospital.city || ''))}"
@@ -132,21 +134,21 @@
           <section class="hpp-section">
             <h2><i class="fa-solid fa-shield-halved"></i> Services Available</h2>
             <div class="hpp-chip-grid">
-              ${hospital.services.map(service => `<span>${service}</span>`).join('')}
+              ${(hospital.services || []).map(service => `<span>${service}</span>`).join('')}
             </div>
           </section>
 
           <section class="hpp-section">
             <h2><i class="fa-solid fa-stethoscope"></i> Specialities</h2>
             <div class="hpp-specialty-grid">
-              ${hospital.specialties.map(name => `<span><i class="fa-solid fa-circle-check"></i> ${name}</span>`).join('')}
+              ${(hospital.specialties || []).map(name => `<span><i class="fa-solid fa-circle-check"></i> ${name}</span>`).join('')}
             </div>
           </section>
 
           <section class="hpp-section">
             <h2><i class="fa-solid fa-building-circle-check"></i> Amenities</h2>
             <div class="hpp-amenity-grid">
-              ${hospital.amenities.map(item => `<div><i class="fa-solid fa-check"></i><span>${item}</span></div>`).join('')}
+              ${(hospital.amenities || []).map(item => `<div><i class="fa-solid fa-check"></i><span>${item}</span></div>`).join('')}
             </div>
           </section>
 
@@ -536,14 +538,18 @@
               <p>No partner hospitals match your filters in ${currentCity}. Try adjusting them.</p>
             </div>
           ` : `<div class="hl-list" id="hospitalsListView">` + hospitals.map((hospital, index) => `
-            <article class="hl-card ${index === 0 ? 'is-highlighted' : ''}">
+            <article class="hl-card ${index === 0 ? 'is-highlighted' : ''}${hospital.image ? '' : ' hl-img-failed'}">
               <div class="hl-image-wrap">
-                <img src="${hospital.image || 'images/about-surgery.webp'}" alt="${hospital.name}" loading="lazy" onerror="this.src='images/about-surgery.webp'">
+                <img src="${hospital.image || 'images/about-surgery.webp'}" alt="${hospital.name}" loading="lazy" onerror="this.onerror=null;this.closest('.hl-card').classList.add('hl-img-failed');this.src='images/about-surgery.webp'">
                 <div class="card-logo-slot${hospital.logo ? '' : ' is-empty'}" title="Hospital logo">
                   ${hospital.logo
                     ? `<img src="${hospital.logo}" alt="${hospital.name} logo" onerror="this.closest('.card-logo-slot').classList.add('is-empty');this.remove();">`
                     : `<i class="fa-solid fa-hospital"></i>`}
                 </div>
+                <!-- mobile-only image overlays (hidden on desktop via inline display:none) -->
+                ${hospital.rating ? `<div class="hl-ov-rating" style="display:none"><i class="fa-solid fa-star"></i> ${hospital.rating}</div>` : ''}
+                ${hospital.type ? `<div class="hl-ov-type" style="display:none">${hospital.type}</div>` : ''}
+                <div class="hl-ov-fallback" style="display:none"><i class="fa-solid fa-hospital"></i><span>${hospital.name}</span></div>
               </div>
               <div class="hl-content">
                 <div class="hl-title-row">
@@ -558,6 +564,9 @@
                   ${hospital.rating ? `<div class="hl-rating">${hospital.rating} <i class="fa-solid fa-star"></i> <span>(${hospital.reviews || 0} reviews)</span></div>` : ''}
                 </div>
 
+                <!-- mobile-only address row (hidden on desktop) -->
+                ${hospital.address ? `<div class="hl-m-addr" style="display:none"><i class="fa-solid fa-location-dot"></i> ${hospital.address}</div>` : ''}
+
                 <div class="hl-metrics">
                   ${(hospital.metrics || []).slice(0, 2).map(metric => `<span>${metric}</span>`).join('')}
                 </div>
@@ -571,6 +580,8 @@
                   ${hospital.phone ? `<a href="tel:${hospital.phone.replace(/-/g, '')}" class="hl-secondary">
                     <i class="fa-solid fa-phone"></i> Call: ${hospital.phone}
                   </a>` : ''}
+                  <!-- mobile-only "View on Map" (hidden on desktop); replaces Call per mobile design -->
+                  <a href="https://www.google.com/maps/dir/?api=1&destination=${(hospital.map && hospital.map.lat && hospital.map.lng) ? `${hospital.map.lat},${hospital.map.lng}` : encodeURIComponent((hospital.address || '') + ', ' + (hospital.city || ''))}" target="_blank" rel="noopener noreferrer" class="hl-m-map" style="display:none">View on Map</a>
                 </div>
               </div>
             </article>

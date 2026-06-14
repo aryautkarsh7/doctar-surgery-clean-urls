@@ -12905,3 +12905,215 @@ a.dpp2-contact-val:hover { color: #6F30E5; }
   .about-stats { grid-template-columns: repeat(2, 1fr) !important; }
   .contact-grid { grid-template-columns: 1fr !important; }
 }
+
+/* =========================================================
+   MOBILE HOSPITAL CARD REDESIGN  (≤600px ONLY)
+   Banner image on top + overlay chips + purple tags + stacked buttons.
+   Scoped entirely to this media query so the desktop layout is untouched.
+   New mobile-only elements are hidden by inline style="display:none" on
+   desktop and revealed here.
+========================================================= */
+@media (max-width: 600px) {
+  /* ---- shared card shell ---- */
+  .hl-card,
+  .fh-card {
+    display: flex !important;
+    flex-direction: column !important;
+    grid-template-columns: none !important;
+    gap: 0 !important;
+    padding: 0 !important;
+    background: #fff !important;
+    border-radius: 18px !important;
+    overflow: hidden !important;
+    min-height: 0 !important;
+  }
+
+  /* ---- banner image ---- */
+  .hl-image-wrap,
+  .fh-card-media {
+    width: 100% !important;
+    min-width: 0 !important;
+    height: 170px !important;
+    min-height: 170px !important;
+    border-radius: 18px 18px 0 0 !important;
+    overflow: hidden !important;
+    position: relative !important;
+  }
+  .hl-image-wrap img,
+  .fh-card-media img {
+    width: 100% !important;
+    height: 170px !important;
+    min-height: 170px !important;
+    object-fit: cover !important;
+    border-radius: 18px 18px 0 0 !important;
+  }
+
+  /* logo badge is noise on the mobile banner — hide it */
+  .hl-image-wrap .card-logo-slot,
+  .fh-card-media .card-logo-slot { display: none !important; }
+
+  /* ---- rating chip (top-right) ---- */
+  .hl-ov-rating,
+  .fh-ov-rating {
+    display: inline-flex !important;
+    align-items: center;
+    gap: 4px;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    z-index: 3;
+    background: rgba(255,255,255,.95);
+    color: #1a1a2e;
+    font-size: 12px;
+    font-weight: 700;
+    padding: 4px 9px;
+    border-radius: 999px;
+    box-shadow: 0 2px 8px rgba(0,0,0,.12);
+  }
+  .hl-ov-rating i,
+  .fh-ov-rating i { color: #f5b82e; font-size: 11px; }
+
+  /* ---- type pill (bottom-left) ---- */
+  .hl-ov-type,
+  .fh-ov-type {
+    display: inline-flex !important;
+    align-items: center;
+    position: absolute;
+    left: 10px;
+    bottom: 10px;
+    z-index: 3;
+    max-width: calc(100% - 20px);
+    background: rgba(60,40,100,.78);
+    color: #fff;
+    font-size: 12px;
+    font-weight: 500;
+    padding: 4px 10px;
+    border-radius: 999px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  /* ---- missing/failed image placeholder ---- */
+  .hl-card.hl-img-failed .hl-image-wrap img,
+  .fh-card.fh-img-failed .fh-card-media img { display: none !important; }
+  .hl-card.hl-img-failed .hl-ov-fallback,
+  .fh-card.fh-img-failed .fh-ov-fallback {
+    display: flex !important;
+    position: absolute;
+    inset: 0;
+    z-index: 2;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    padding: 12px;
+    text-align: center;
+    background: #F3EBFF;
+    border-radius: 18px 18px 0 0;
+  }
+  .hl-ov-fallback i,
+  .fh-ov-fallback i { font-size: 2rem; color: #7551B3; }
+  .hl-ov-fallback span,
+  .fh-ov-fallback span { font-size: 13px; font-weight: 600; color: #534AB7; }
+
+  /* ---- content ---- */
+  .hl-content,
+  .fh-card-body {
+    width: 100%;
+    padding: 14px 16px 16px !important;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  /* hospital name 18px / weight 500 */
+  .hl-title-row h3,
+  .fh-card-top h3 {
+    font-size: 18px !important;
+    font-weight: 500 !important;
+    margin: 0 !important;
+  }
+  /* in-content rating + meta + metrics move to the banner / are dropped */
+  .hl-rating,
+  .fh-rating,
+  .hl-meta-list,
+  .fh-meta,
+  .hl-metrics,
+  .fh-metrics { display: none !important; }
+  .hl-title-row,
+  .fh-card-top { display: block !important; }
+
+  /* address row with purple pin */
+  .hl-m-addr,
+  .fh-m-addr {
+    display: flex !important;
+    align-items: flex-start;
+    gap: 7px;
+    font-size: 13px;
+    color: #555;
+    line-height: 1.35;
+    margin: 0;
+  }
+  .hl-m-addr i,
+  .fh-m-addr i { color: #7551B3; margin-top: 2px; }
+
+  /* ---- service tags: uniform purple ---- */
+  .hl-tags,
+  .fh-services {
+    display: flex !important;
+    flex-wrap: wrap;
+    gap: 6px;
+    margin: 0 !important;
+  }
+  .hl-tags span,
+  .fh-services span {
+    background: #F3EBFF !important;
+    color: #534AB7 !important;
+    font-size: 12px !important;
+    font-weight: 600 !important;
+    padding: 5px 11px !important;
+    border-radius: 8px !important;
+    min-height: 0 !important;
+  }
+
+  /* ---- stacked full-width buttons ---- */
+  .hl-actions,
+  .fh-card-actions {
+    display: flex !important;
+    flex-direction: column !important;
+    gap: 10px !important;
+    margin-top: 4px !important;
+  }
+  .hl-primary,
+  .fh-card-primary,
+  .hl-m-map,
+  .fh-card-secondary {
+    width: 100% !important;
+    min-width: 0 !important;
+    height: 44px !important;
+    border-radius: 12px !important;
+    font-size: 14px !important;
+    font-weight: 600 !important;
+    display: inline-flex !important;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+  }
+  .hl-primary,
+  .fh-card-primary {
+    background: #7551B3 !important;
+    color: #fff !important;
+    border: none !important;
+    box-shadow: none !important;
+  }
+  .hl-m-map,
+  .fh-card-secondary {
+    background: #fff !important;
+    color: #7551B3 !important;
+    border: 1.5px solid #d9cdf0 !important;
+  }
+  /* hide the desktop "Call" secondary on mobile; "View on Map" replaces it */
+  .hl-secondary { display: none !important; }
+  .hl-m-map { display: inline-flex !important; }
+}
