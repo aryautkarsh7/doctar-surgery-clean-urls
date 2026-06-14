@@ -1440,15 +1440,16 @@ header {
 }
 
 .dc-avatar {
-  width: 72px;
-  height: 72px;
-  min-width: 72px;
+  width: 80px;
+  height: 80px;
+  min-width: 80px;
   background: var(--primary-light);
-  border-radius: 12px;
+  border-radius: 50%;
   display: flex;
   align-items: center;
   justify-content: center;
   font-size: 2.4rem;
+  overflow: hidden;
 }
 
 .doctor-avatar-img,
@@ -4011,11 +4012,12 @@ footer::before {
   width: 80px;
   height: 80px;
   background: #f0eeff;
-  border-radius: 14px;
+  border-radius: 50%;
   display: flex;
   align-items: center;
   justify-content: center;
   font-size: 2.5rem;
+  overflow: hidden;
 }
 
 .dl-card-body {

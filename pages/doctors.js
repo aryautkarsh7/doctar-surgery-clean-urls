@@ -125,7 +125,7 @@
 
         <!-- MOBILE-ONLY MINI DOCTOR BAR (shown on Reviews/Booking) -->
         <div class="dpp-mini-bar" id="dpp-mini-bar">
-          <img class="dpp-mini-photo" src="${doc.image || ''}" alt="${doc.name}" onerror="this.style.display='none'">
+          <img class="dpp-mini-photo" src="${doc.image && doc.image.startsWith('http') ? doc.image : 'images/doctor-placeholder.svg'}" alt="${doc.name}">
           <div>
             <div class="dpp-mini-name">${doc.name}</div>
             <div class="dpp-mini-info">${doc.specialty} | ₹${doc.fee.toLocaleString('en-IN')}</div>
@@ -1009,6 +1009,13 @@
                 <div>
                   <div class="dc-hosp-name">${doc.hospital}</div>
                   <div class="dc-hosp-loc">📍 ${doc.location}</div>
+                </div>
+              </div>
+              <div class="dc-slots">
+                <span class="dc-slots-label">Available Slots</span>
+                <div class="dc-slots-list">
+                  ${doc.slots.map(s => `<span class="dc-slot">🕐 ${s}</span>`).join('')}
+                  <span class="dc-slot dc-slot-more">+ 2 More</span>
                 </div>
               </div>
               <div class="dc-actions">
