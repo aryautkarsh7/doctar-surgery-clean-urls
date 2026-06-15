@@ -88,6 +88,22 @@
         const liveMatch = AVAILABLE_CITIES.find(name => name.toLowerCase() === c);
         if (liveMatch) return liveMatch;
       }
+      // Fuzzy match against CITY_DATA (e.g. 'Bokaro Steel City' → 'Bokaro')
+      if (typeof CITY_DATA !== 'undefined') {
+        const fuzzyCD = CITY_DATA.find(cd => {
+          const n = cd.name.toLowerCase();
+          return n && (c.includes(n) || n.includes(c));
+        });
+        if (fuzzyCD) return fuzzyCD.name;
+      }
+      // Fuzzy match against AVAILABLE_CITIES
+      if (typeof AVAILABLE_CITIES !== 'undefined') {
+        const fuzzyAC = AVAILABLE_CITIES.find(name => {
+          const n = name.toLowerCase();
+          return c.includes(n) || n.includes(c);
+        });
+        if (fuzzyAC) return fuzzyAC;
+      }
       // Fuzzy match against cities derived from doctor locations
       const matchedCity = availableCities.find(city =>
         c.includes(city.toLowerCase())

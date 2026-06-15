@@ -11054,14 +11054,192 @@ a.dpp2-contact-val:hover { color: #6F30E5; }
 }
 .city-selector:hover { background: rgba(255,255,255,0.15); }
 
-/* Mobile */
+/* Mobile — location modal (bottom sheet) */
 @media (max-width: 640px) {
-  .loc-modal { max-height: 95vh; border-radius: 14px 14px 0 0; align-self: flex-end; }
-  .loc-body { flex-direction: column; }
-  .loc-left { width: 100%; border-right: none; border-bottom: 1px solid #f0ecfa; max-height: 280px; }
-  .loc-map-wrap { min-height: 220px; }
-  #loc-map { min-height: 220px; }
-  .loc-overlay { padding: 0; align-items: flex-end; }
+  /* ── Overlay: bottom-aligned ── */
+  .loc-overlay {
+    padding: 0;
+    align-items: flex-end;
+    justify-content: center;
+  }
+
+  /* ── Modal: full-width bottom sheet ── */
+  .loc-modal {
+    width: 100%;
+    max-width: 100%;
+    height: 94vh;
+    max-height: 94vh;
+    border-radius: 20px 20px 0 0;
+    align-self: flex-end;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    background: #fff;
+    box-shadow: 0 -8px 40px rgba(0,0,0,0.18);
+  }
+
+  /* ── STICKY HEADER ── */
+  .loc-header {
+    flex-shrink: 0;
+    padding: 22px 20px 16px;
+    border-bottom: none;
+  }
+  .loc-title { font-size: 1.25rem; font-weight: 800; }
+  .loc-sub   { font-size: 0.85rem; color: #6b6b7b; }
+  .loc-close {
+    width: 36px; height: 36px;
+    font-size: 1.3rem;
+  }
+
+  /* ── SCROLLABLE MIDDLE ── */
+  .loc-body {
+    flex: 1 1 0%;
+    flex-direction: column;
+    overflow-y: auto;
+    overflow-x: hidden;
+    -webkit-overflow-scrolling: touch;
+    min-height: 0;
+  }
+
+  /* No pseudo-element caption on mobile — the footer hint handles it */
+  .loc-body::after {
+    display: none;
+  }
+
+  /* Left panel: stacked, no nested scroll */
+  .loc-left {
+    width: 100%;
+    min-width: 0;
+    border-right: none;
+    border-bottom: none;
+    padding: 8px 20px 4px;
+    max-height: none;
+    overflow: visible;
+    flex-shrink: 0;
+  }
+
+  /* Search input */
+  .loc-search-wrap { margin-bottom: 12px; }
+  .loc-search-input {
+    padding: 14px 14px 14px 40px;
+    font-size: 0.92rem;
+    border-radius: 12px;
+    border-width: 1.5px;
+  }
+  .loc-search-icon { left: 14px; font-size: 0.9rem; }
+
+  /* Current location button */
+  .loc-current-btn {
+    min-height: 48px;
+    font-size: 0.92rem;
+    border-radius: 12px;
+    margin-bottom: 10px;
+    border-color: #6F30E5;
+    font-weight: 700;
+  }
+
+  /* Browse Global Locations */
+  .loc-global-btn {
+    border-radius: 12px;
+    padding: 13px 16px;
+    font-size: 0.92rem;
+    margin-bottom: 16px;
+  }
+
+  /* ALL CITIES label */
+  .loc-cities-label {
+    padding: 0 4px;
+    margin-bottom: 8px;
+    font-size: 0.72rem;
+  }
+
+  /* City list: flows naturally in outer scroll */
+  .loc-cities-list {
+    max-height: none;
+    overflow-y: visible;
+    overflow: visible;
+    flex: none;
+  }
+
+  /* City items: divider + chevron */
+  .loc-city-item {
+    border-bottom: 1px solid #f0ecf5;
+    border-radius: 0;
+    position: relative;
+    padding: 14px 36px 14px 12px;
+    gap: 12px;
+  }
+  .loc-city-item:last-child { border-bottom: none; }
+  .loc-city-item::after {
+    content: '›';
+    position: absolute;
+    right: 14px;
+    top: 50%;
+    transform: translateY(-50%);
+    color: #c0b0e0;
+    font-size: 1.4rem;
+    font-weight: 300;
+    line-height: 1;
+    pointer-events: none;
+  }
+  .loc-city-icon { font-size: 0.9rem; color: #6F30E5; }
+  .loc-city-name { font-weight: 700; font-size: 0.95rem; }
+  .loc-city-state { font-size: 0.75rem; color: #9b9bab; }
+  .loc-city-item.loc-city-active {
+    background: #f5f0ff;
+  }
+
+  /* Map at bottom of scroll area */
+  .loc-map-wrap {
+    min-height: 260px;
+    max-height: 260px;
+    flex-shrink: 0;
+    border-top: 1px solid #f0ecfa;
+    margin-top: 4px;
+  }
+  #loc-map {
+    height: 260px;
+    min-height: 260px;
+    max-height: 260px;
+  }
+
+  /* ── STICKY FOOTER ── */
+  .loc-footer {
+    flex-shrink: 0;
+    flex-direction: column;
+    align-items: stretch;
+    padding: 10px 20px 16px;
+    gap: 10px;
+    flex-wrap: nowrap;
+    border-top: 1px solid #f0ecfa;
+  }
+
+  /* Show the hint text above buttons */
+  .loc-footer-hint {
+    display: flex;
+    justify-content: center;
+    font-size: 0.8rem;
+    gap: 6px;
+  }
+
+  .loc-footer-btns {
+    display: flex;
+    gap: 12px;
+    flex: none;
+  }
+
+  .loc-cancel-btn,
+  .loc-confirm-btn {
+    flex: 1;
+    min-height: 48px;
+    padding: 12px 8px;
+    border-radius: 12px;
+    font-size: 0.95rem;
+    font-weight: 700;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
 }
 
 /* =============================================

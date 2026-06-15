@@ -262,6 +262,11 @@
           // detected location, not just the matched city's centroid.
           window._locLastGPS = [pos.coords.latitude, pos.coords.longitude];
           try {
+            // Ensure the full city directory is loaded before matching
+            // so CITIES (602 entries) and AVAILABLE_CITIES are populated.
+            if (typeof loadRemoteData === 'function') {
+              try { await loadRemoteData(); } catch (e) { /* proceed with whatever data is available */ }
+            }
             const res = await fetch(
               'https://nominatim.openstreetmap.org/reverse?' +
               'lat=' + pos.coords.latitude +
@@ -313,7 +318,18 @@
               : (rawCity || 'Kolkata');
             resolve(finalCity);
           } catch (e) {
-            resolve('Kolkata');
+            // Nominatim failed (network / rate-limit). Fall back to nearest
+            // city from our CITIES directory using the GPS coords we already have.
+            const lat = pos.coords.latitude;
+            const lng = pos.coords.longitude;
+            const allCities = (typeof CITIES !== 'undefined') ? CITIES : [];
+            let best = null, bestDist = Infinity;
+            allCities.forEach(c => {
+              if (c.lat == null) return;
+              const d = Math.pow(c.lat - lat, 2) + Math.pow(c.lng - lng, 2);
+              if (d < bestDist) { bestDist = d; best = c; }
+            });
+            resolve(best ? best.name : 'Kolkata');
           }
         },
         () => reject('Permission denied'),
@@ -331,6 +347,7 @@
       .then(city => {
         btn.innerHTML = '<i class="fa-solid fa-location-crosshairs"></i> Use Current Location';
         btn.disabled = false;
+        // Select city in UI for visual feedback
         window.locSelectCity(city);
         // Zoom the map into the detected location (precise GPS if available,
         // else the matched city's coords) and drop a marker.
@@ -344,13 +361,20 @@
             fillColor: '#6c3fc5', fillOpacity: 1,
           }).addTo(map).bindPopup(city).openPopup();
         }
+        // Auto-confirm: apply city immediately without requiring a second Confirm click.
+        // This fixes the bug where AVAILABLE_CITIES may not be loaded yet on first attempt,
+        // causing the Confirm button to be disabled even after detection succeeds.
+        window.locConfirm();
       })
       .catch(err => {
         btn.innerHTML = '<i class="fa-solid fa-location-crosshairs"></i> Use Current Location';
         btn.disabled = false;
-        alert(err === 'Permission denied'
-          ? 'Could not detect location. Please select manually.'
-          : 'Location detection failed. Please select manually.');
+        const hint = document.getElementById('loc-selected-hint');
+        if (hint) {
+          hint.textContent = err === 'Permission denied'
+            ? '⚠️ Location access denied. Please select a city manually.'
+            : '⚠️ Could not detect location. Please select a city manually.';
+        }
       });
   };
 
