@@ -250,7 +250,7 @@
   // The old approach snapped coords to the nearest CITY_DATA entry (major
   // cities only), so e.g. Bokaro collapsed to Kolkata. Reverse geocoding
   // returns the real city/town name.
-  function detectCurrentLocation() {
+  window.detectCurrentLocation = function detectCurrentLocation() {
     return new Promise((resolve, reject) => {
       if (!navigator.geolocation) {
         reject('Geolocation not supported');
@@ -336,7 +336,7 @@
         { timeout: 8000 }
       );
     });
-  }
+  };
 
   window.locUseCurrentLocation = function() {
     if (!navigator.geolocation) { alert('Geolocation not supported.'); return; }

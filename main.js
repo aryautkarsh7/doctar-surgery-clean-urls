@@ -171,32 +171,56 @@ function setupLinkInterception() {
 }
 
 // -----------------------------------------------------
-// Real-location priming (GPS -> area+city slug, cached for the session).
-// Kicked off once at boot. When a more specific location than the selected
-// city resolves, re-render the current route so already-rendered "surgeons-in-"
-// links (and the address bar) pick up the real location.
+// Auto-detect user's city on first visit.
+// If the user already selected a city (localStorage), skip detection.
+// Otherwise: GPS → Nominatim → match to known city → set as active →
+// reload city data → re-render.
 // -----------------------------------------------------
 let _locationPrimed = false;
-function primeUserLocation() {
+async function primeUserLocation() {
   if (_locationPrimed) return;
   _locationPrimed = true;
-  const fallback = cityToSlug(getCurrentCity());
-  getUserLocationSlug()
-    .then((slug) => {
-      if (slug && slug !== fallback) handleRoute();
-    })
-    .catch(() => {});
+
+  // If user already chose a city, honour it — don't override.
+  try {
+    if (localStorage.getItem('selectedCity')) return;
+  } catch (e) {}
+
+  // Auto-detect via IP on first visit (no prompt).
+  // Precise GPS is reserved for the "Use Current Location" button.
+  try {
+    const controller = new AbortController();
+    const timeout = setTimeout(() => controller.abort(), 2000);
+    const res = await fetch('https://get.geojs.io/v1/ip/geo.json', { signal: controller.signal });
+    clearTimeout(timeout);
+    const data = await res.json();
+    if (data && data.city) {
+      const finalCity = data.city;
+      
+      try { localStorage.setItem('selectedCity', finalCity); } catch (e) {}
+      try { sessionStorage.removeItem('userLocationSlug'); } catch (e) {}
+
+      const textSpan = document.getElementById('currentCityText');
+      if (textSpan) textSpan.textContent = finalCity;
+    }
+  } catch (err) {
+    // IP fetch failed or timed out — stay on default city silently.
+  }
 }
 
 // -----------------------------------------------------
 // Boot
 // -----------------------------------------------------
-document.addEventListener('DOMContentLoaded', () => {
+document.addEventListener('DOMContentLoaded', async () => {
   try {
     initCitySelector();
     initHeaderSearch();
     setupLinkInterception();
-    primeUserLocation();
+    
+    // Wait for auto-location (fast IP fetch) before loading data so we 
+    // fetch the correct city data on the first try.
+    await primeUserLocation();
+    
     loadRemoteData().finally(initRouter);
   } catch (err) {
     console.error('Initialization error:', err);
