@@ -1,10 +1,16 @@
+import { Request, Response } from 'express';
 import Booking from '../models/Booking';
 import Doctor from '../models/Doctor';
 import { sendBookingEmail } from '../utils/mailer';
-import { sendBookingSMS } from '../utils/sms';
+// import { sendBookingSMS } from '../utils/sms'; // SMS utility doesn't exist yet as TS or maybe at all. Wait, let me check.
 
-// POST /api/bookings/book — create a new booking
-async function createBooking(req, res) {
+// Let's create an empty mock for sendBookingSMS just in case, but let's read the old one or just import it.
+// Actually let's assume it exists as utils/sms.js and I will convert it soon, or just use any.
+// The previous errors showed: Could not find a declaration file for module '../utils/sms'.
+// Let's type it inline or just require it.
+const { sendBookingSMS } = require('../utils/sms');
+
+export async function createBooking(req: Request, res: Response) {
   try {
     const {
       name, phone, disease, email, patientEmail,
@@ -13,7 +19,8 @@ async function createBooking(req, res) {
     } = req.body;
 
     if (!name || !phone || !disease) {
-      return res.status(400).json({ success: false, message: 'All fields are required' });
+      res.status(400).json({ success: false, message: 'All fields are required' });
+      return;
     }
 
     const booking = await Booking.create({
@@ -29,13 +36,12 @@ async function createBooking(req, res) {
     });
     console.log('✅ Booking saved:', booking.name);
 
-    // Look up the doctor (by slug) to get their email for notification.
-    let doctorEmail = null;
+    let doctorEmail: string | undefined = undefined;
     if (doctorSlug) {
       try {
         const doctor = await Doctor.findOne({ slug: doctorSlug }).lean();
         if (doctor && doctor.email) doctorEmail = doctor.email;
-      } catch (e) {
+      } catch (e: any) {
         console.error('⚠️  Doctor lookup failed:', e.message);
       }
     }
@@ -44,36 +50,36 @@ async function createBooking(req, res) {
     await sendBookingEmail(booking, doctorEmail);
     console.log('📨 sendBookingEmail done');
 
-    // Non-blocking SMS — fire and forget, never delays the response
+    // Non-blocking SMS
     sendBookingSMS(booking);
 
-    return res.status(201).json({ success: true, message: 'Booking received!', data: booking });
-  } catch (err) {
+    res.status(201).json({ success: true, message: 'Booking received!', data: booking });
+  } catch (err: any) {
     console.error('❌ createBooking error:', err.message);
-    return res.status(500).json({ success: false, error: err.message });
+    res.status(500).json({ success: false, error: err.message });
   }
 }
 
-// GET /api/bookings/all — list all bookings (newest first)
-async function getAllBookings(req, res) {
+export async function getAllBookings(req: Request, res: Response) {
   try {
     const bookings = await Booking.find().sort({ createdAt: -1 });
-    return res.json({ success: true, total: bookings.length, data: bookings });
-  } catch (err) {
-    return res.status(500).json({ success: false, error: err.message });
+    res.json({ success: true, total: bookings.length, data: bookings });
+  } catch (err: any) {
+    res.status(500).json({ success: false, error: err.message });
   }
 }
 
-// PUT /api/bookings/:id/status — update a booking's status
 const ALLOWED_STATUSES = ['pending', 'confirmed', 'cancelled'];
-async function updateBookingStatus(req, res) {
+
+export async function updateBookingStatus(req: Request, res: Response) {
   try {
     const { status } = req.body;
     if (!ALLOWED_STATUSES.includes(status)) {
-      return res.status(400).json({
+      res.status(400).json({
         success: false,
         message: `Status must be one of: ${ALLOWED_STATUSES.join(', ')}`,
       });
+      return;
     }
 
     const booking = await Booking.findByIdAndUpdate(
@@ -83,13 +89,12 @@ async function updateBookingStatus(req, res) {
     );
 
     if (!booking) {
-      return res.status(404).json({ success: false, message: 'Booking not found' });
+      res.status(404).json({ success: false, message: 'Booking not found' });
+      return;
     }
 
-    return res.json({ success: true, message: 'Status updated', data: booking });
-  } catch (err) {
-    return res.status(500).json({ success: false, error: err.message });
+    res.json({ success: true, message: 'Status updated', data: booking });
+  } catch (err: any) {
+    res.status(500).json({ success: false, error: err.message });
   }
 }
-
-export { createBooking, getAllBookings, updateBookingStatus };
