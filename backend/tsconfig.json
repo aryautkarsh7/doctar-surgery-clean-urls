@@ -2,15 +2,25 @@
   "compilerOptions": {
     "target": "ES2020",
     "module": "commonjs",
-    "lib": ["ES2020"],
-    "outDir": "./dist",
-    "rootDir": "./",
-    "strict": false,
+    "strict": true,
+    "useUnknownInCatchVariables": false,
     "esModuleInterop": true,
     "skipLibCheck": true,
-    "resolveJsonModule": true,
-    "types": ["node", "express", "mongoose"]
+    "forceConsistentCasingInFileNames": true,
+    "outDir": "dist-server",
+    "rootDir": "."
   },
-  "include": ["./**/*.ts"],
-  "exclude": ["node_modules", "dist"]
+  "include": [
+    "models/**/*",
+    "config/**/*",
+    "utils/**/*",
+    "controllers/**/*",
+    "routes/**/*",
+    "server.ts"
+  ],
+  "exclude": [
+    "node_modules",
+    "dist",
+    "dist-server"
+  ]
 }

@@ -28,9 +28,14 @@
     "twilio": "^6.0.2"
   },
   "devDependencies": {
+    "@types/compression": "^1.8.1",
+    "@types/cors": "^2.8.19",
     "@types/express": "^5.0.6",
     "@types/mongoose": "^5.11.96",
-    "@types/node": "^25.9.3",
+    "@types/multer": "^2.1.0",
+    "@types/node": "^25.9.4",
+    "@types/nodemailer": "^8.0.1",
+    "@types/sharp": "^0.31.1",
     "clean-css-cli": "^5.6.3",
     "terser": "^5.48.0",
     "ts-node": "^10.9.2",

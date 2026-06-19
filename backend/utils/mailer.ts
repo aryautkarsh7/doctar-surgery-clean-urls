@@ -6,13 +6,11 @@ const transporter = nodemailer.createTransport({
   secure: true,
   auth: {
     user: (process.env.EMAIL_USER || '').trim(),
-    // Gmail app passwords are often copied with spaces ("xxxx xxxx xxxx xxxx");
-    // strip all whitespace so auth doesn't fail.
-    pass: (process.env.EMAIL_PASS || '').replace(/\s+/g, ''),
+    pass: (process.env.EMAIL_PASS || '').replace(/\\s+/g, ''),
   },
 });
 
-function isConfigured() {
+function isConfigured(): boolean {
   const user = process.env.EMAIL_USER || '';
   const pass = process.env.EMAIL_PASS || '';
   if (!user || !pass) return false;
@@ -20,7 +18,7 @@ function isConfigured() {
   return true;
 }
 
-function verifyMailer() {
+export function verifyMailer(): void {
   if (!isConfigured()) {
     console.warn('⚠️  Email not configured — set real EMAIL_USER / EMAIL_PASS in .env');
     return;
@@ -33,7 +31,7 @@ function verifyMailer() {
 
 const brandPurple = '#5e4091';
 
-function patientHtml(booking) {
+function patientHtml(booking: any): string {
   return `
   <div style="font-family:Arial,sans-serif;max-width:560px;margin:0 auto;border:1px solid #eee;border-radius:12px;overflow:hidden">
     <div style="background:${brandPurple};color:#fff;padding:24px 28px">
@@ -65,7 +63,7 @@ function patientHtml(booking) {
   </div>`;
 }
 
-function adminHtml(booking) {
+function adminHtml(booking: any): string {
   return `
   <div style="font-family:Arial,sans-serif;max-width:560px;margin:0 auto;border:1px solid #eee;border-radius:12px;overflow:hidden">
     <div style="background:${brandPurple};color:#fff;padding:20px 28px">
@@ -88,7 +86,7 @@ function adminHtml(booking) {
   </div>`;
 }
 
-function doctorHtml(booking) {
+function doctorHtml(booking: any): string {
   return `
   <div style="font-family:Arial,sans-serif;max-width:560px;margin:0 auto;border:1px solid #eee;border-radius:12px;overflow:hidden">
     <div style="background:${brandPurple};color:#fff;padding:22px 28px">
@@ -112,7 +110,7 @@ function doctorHtml(booking) {
   </div>`;
 }
 
-async function sendBookingEmail(booking, doctorEmail) {
+export async function sendBookingEmail(booking: any, doctorEmail?: string): Promise<void> {
   if (!isConfigured()) {
     console.warn('⚠️  Skipping emails — EMAIL_USER / EMAIL_PASS not configured');
     return;
@@ -121,7 +119,7 @@ async function sendBookingEmail(booking, doctorEmail) {
   const from = `"Doctar" <${process.env.EMAIL_USER}>`;
   const adminEmail = process.env.ADMIN_EMAIL || process.env.EMAIL_USER;
   const patientEmail = booking.patientEmail || booking.email;
-  const jobs = [];
+  const jobs: Promise<any>[] = [];
 
   // EMAIL 1 — Admin (always)
   jobs.push(
@@ -132,7 +130,7 @@ async function sendBookingEmail(booking, doctorEmail) {
       html: adminHtml(booking),
     }).then(
       () => console.log('📧 Admin email sent'),
-      (err) => console.error('❌ Admin email failed:', err.message)
+      (err: any) => console.error('❌ Admin email failed:', err.message)
     )
   );
 
@@ -146,7 +144,7 @@ async function sendBookingEmail(booking, doctorEmail) {
         html: patientHtml(booking),
       }).then(
         () => console.log('📧 Patient email sent'),
-        (err) => console.error('❌ Patient email failed:', err.message)
+        (err: any) => console.error('❌ Patient email failed:', err.message)
       )
     );
   }
@@ -161,7 +159,7 @@ async function sendBookingEmail(booking, doctorEmail) {
         html: doctorHtml(booking),
       }).then(
         () => console.log('📧 Doctor email sent'),
-        (err) => console.error('❌ Doctor email failed:', err.message)
+        (err: any) => console.error('❌ Doctor email failed:', err.message)
       )
     );
   }
@@ -169,9 +167,7 @@ async function sendBookingEmail(booking, doctorEmail) {
   // Never throw — booking must succeed regardless of email outcome.
   try {
     await Promise.allSettled(jobs);
-  } catch (err) {
+  } catch (err: any) {
     console.error('❌ Booking email error:', err.message);
   }
 }
-
-export { sendBookingEmail, verifyMailer };
