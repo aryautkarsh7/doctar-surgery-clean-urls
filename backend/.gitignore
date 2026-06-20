@@ -6,3 +6,6 @@ node_modules/
 # Uploaded images (keep the folder, ignore its contents)
 public/uploads/*
 !public/uploads/.gitkeep
+
+# Compiled TypeScript server output
+dist-server/
