@@ -1,6 +1,6 @@
 import express from 'express';
 const router = express.Router();
-import { createBooking, getAllBookings, updateBookingStatus } from '../controllers/bookingController';
+import { createBooking, getAllBookings, updateBookingStatus } from '../../controllers/surgery/bookingController';
 
 router.post('/book', createBooking);
 router.get('/all', getAllBookings);

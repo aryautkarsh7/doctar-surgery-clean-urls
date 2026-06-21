@@ -1,6 +1,6 @@
 import express from 'express';
 const router = express.Router();
-import controller from '../controllers/faqController';
+import controller from '../../controllers/surgery/videoController';
 
 router.get('/', controller.getAll);
 router.get('/:id', controller.getOne);

@@ -1,14 +1,14 @@
 import { Request, Response } from 'express';
-import Booking from '../models/Booking';
-import Doctor from '../models/Doctor';
-import { sendBookingEmail } from '../utils/mailer';
+import Booking from '../../models/surgery/Booking';
+import Doctor from '../../models/surgery/Doctor';
+import { sendBookingEmail } from '../../utils/mailer';
 // import { sendBookingSMS } from '../utils/sms'; // SMS utility doesn't exist yet as TS or maybe at all. Wait, let me check.
 
 // Let's create an empty mock for sendBookingSMS just in case, but let's read the old one or just import it.
 // Actually let's assume it exists as utils/sms.js and I will convert it soon, or just use any.
 // The previous errors showed: Could not find a declaration file for module '../utils/sms'.
 // Let's type it inline or just require it.
-const { sendBookingSMS } = require('../utils/sms');
+const { sendBookingSMS } = require('../../utils/sms');
 
 export async function createBooking(req: Request, res: Response) {
   try {

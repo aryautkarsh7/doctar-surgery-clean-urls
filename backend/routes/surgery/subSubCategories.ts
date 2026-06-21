@@ -1,6 +1,6 @@
 import express from 'express';
 const router = express.Router();
-import controller from '../controllers/subCategoryController';
+import controller from '../../controllers/surgery/subSubCategoryController';
 
 router.get('/', controller.getAll);
 router.get('/:id', controller.getOne);

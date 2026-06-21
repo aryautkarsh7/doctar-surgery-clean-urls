@@ -1,18 +1,18 @@
 import express, { Request, Response } from 'express';
 const router = express.Router();
 
-import Category from '../models/Category';
-import Treatment from '../models/Treatment';
-import Doctor from '../models/Doctor';
-import Hospital from '../models/Hospital';
-import Video from '../models/Video';
-import Blog from '../models/Blog';
-import Review from '../models/Review';
-import FAQ from '../models/FAQ';
-import SubCategory from '../models/SubCategory';
-import SubSubCategory from '../models/SubSubCategory';
-import PetHospital from '../models/PetHospital';
-import City from '../models/City';
+import Category from '../../models/surgery/Category';
+import Treatment from '../../models/surgery/Treatment';
+import Doctor from '../../models/surgery/Doctor';
+import Hospital from '../../models/surgery/Hospital';
+import Video from '../../models/surgery/Video';
+import Blog from '../../models/shared/Blog';
+import Review from '../../models/surgery/Review';
+import FAQ from '../../models/surgery/FAQ';
+import SubCategory from '../../models/surgery/SubCategory';
+import SubSubCategory from '../../models/surgery/SubSubCategory';
+import PetHospital from '../../models/surgery/PetHospital';
+import City from '../../models/shared/City';
 
 // City name blocklist for deriving AVAILABLE_CITIES
 const _cityBlocklist = /near |opposite |taluk|kachh| patti |naini |mahewa|mirakhpur|mubark|daiwghat|dadanpur|burhanagar|jhusi|karuvatta|kattanam|kollakadavu|kulanada|kumarapuram|malayambakkam|mannanchery|ashoka circle/i;

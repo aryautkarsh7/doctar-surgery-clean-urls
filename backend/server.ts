@@ -8,21 +8,21 @@ import path from 'path';
 dotenv.config({ path: path.resolve(__dirname, '../.env') });
 
 import connectDB from './config/db';
-import bookingRoutes from './routes/booking';
-import dataRoutes from './routes/data';
-import doctorsRouter from './routes/doctors';
-import videoRoutes from './routes/videos';
-import blogRoutes from './routes/blogs';
-import uploadRoutes from './routes/upload';
+import bookingRoutes from './routes/surgery/booking';
+import dataRoutes from './routes/surgery/data';
+import doctorsRouter from './routes/surgery/doctors';
+import videoRoutes from './routes/surgery/videos';
+import blogRoutes from './routes/shared/blogs';
+import uploadRoutes from './routes/shared/upload';
 import { verifyMailer } from './utils/mailer';
 
-import DoctorClaim from './models/DoctorClaim';
-import resourceRouter from './routes/resource';
+import DoctorClaim from './models/surgery/DoctorClaim';
+import resourceRouter from './routes/shared/resource';
 
-import Hospital from './models/Hospital';
-import Doctor from './models/Doctor';
-import Category from './models/Category';
-import Treatment from './models/Treatment';
+import Hospital from './models/surgery/Hospital';
+import Doctor from './models/surgery/Doctor';
+import Category from './models/surgery/Category';
+import Treatment from './models/surgery/Treatment';
 
 // Connect to the database
 connectDB();
@@ -72,35 +72,35 @@ app.use('/api/data/city',     cacheMiddleware(5  * 60 * 1000));  // 5 min
 app.use('/api/categories',    cacheMiddleware(10 * 60 * 1000));  // 10 min
 app.use('/api/bookings', bookingRoutes);
 
-import categoriesRoute from './routes/categories';
+import categoriesRoute from './routes/surgery/categories';
 app.use('/api/categories', categoriesRoute);
 
-import treatmentsRoute from './routes/treatments';
+import treatmentsRoute from './routes/surgery/treatments';
 app.use('/api/treatments', treatmentsRoute);
 
 app.use('/api/doctors', doctorsRouter);
 
-import hospitalsRoute from './routes/hospitals';
+import hospitalsRoute from './routes/surgery/hospitals';
 app.use('/api/hospitals', hospitalsRoute);
 
 app.use('/api/blogs', blogRoutes);
 app.use('/api/videos', videoRoutes);
 
-import reviewsRoute from './routes/reviews';
+import reviewsRoute from './routes/surgery/reviews';
 app.use('/api/reviews', reviewsRoute);
 
-import faqsRoute from './routes/faqs';
+import faqsRoute from './routes/surgery/faqs';
 app.use('/api/faqs', faqsRoute);
 
-import subCategoriesRoute from './routes/subCategories';
+import subCategoriesRoute from './routes/surgery/subCategories';
 app.use('/api/subcategories', subCategoriesRoute);
 
-import subSubCategoriesRoute from './routes/subSubCategories';
+import subSubCategoriesRoute from './routes/surgery/subSubCategories';
 app.use('/api/subsubcategories', subSubCategoriesRoute);
 
 app.use('/api/doctor-claims', resourceRouter(DoctorClaim, 'DoctorClaim'));
 
-import petHospitalsRoute from './routes/petHospitals';
+import petHospitalsRoute from './routes/surgery/petHospitals';
 app.use('/api/pet-hospitals', petHospitalsRoute);
 
 app.use('/api/data', dataRoutes);

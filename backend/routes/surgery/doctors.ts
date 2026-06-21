@@ -1,7 +1,7 @@
 import express, { Request, Response } from 'express';
 const router = express.Router();
-import Doctor from '../models/Doctor';
-import crudController from '../controllers/crudController';
+import Doctor from '../../models/surgery/Doctor';
+import crudController from '../../controllers/shared/crudController';
 
 const c = crudController(Doctor, 'Doctor');
 

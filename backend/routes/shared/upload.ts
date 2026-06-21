@@ -32,7 +32,7 @@ const CLOUD_FOLDERS: Record<string, string> = {
 };
 
 // Local fallback target. Served statically at /uploads.
-const UPLOAD_DIR = path.join(__dirname, '..', 'public', 'uploads');
+const UPLOAD_DIR = path.join(__dirname, '..', '..', 'public', 'uploads');
 fs.mkdirSync(UPLOAD_DIR, { recursive: true });
 
 // Keep the original bytes in memory only — nothing is written to disk on the

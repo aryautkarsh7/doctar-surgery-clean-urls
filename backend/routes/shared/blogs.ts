@@ -1,6 +1,6 @@
 import express, { Request, Response } from 'express';
 const router = express.Router();
-import Blog from '../models/Blog';
+import Blog from '../../models/shared/Blog';
 
 function slugify(value: any): string {
   return String(value || '')

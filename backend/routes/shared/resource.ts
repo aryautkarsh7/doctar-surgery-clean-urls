@@ -1,5 +1,5 @@
 import express, { Router, Request, Response, NextFunction } from 'express';
-import crudController from '../controllers/crudController';
+import crudController from '../../controllers/shared/crudController';
 import { Model, Document } from 'mongoose';
 
 // Build a standard REST router for a model.
