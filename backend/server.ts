@@ -57,9 +57,31 @@ function cacheMiddleware(duration: number) {
   };
 }
 
+// CORS allowlist — one entry per subdomain/dev origin. Add a new line here
+// when a new subdomain goes live; nothing else in this file needs to change.
+const ALLOWED_ORIGINS = [
+  'https://surgery.doctar.in',
+  'https://emergency.doctar.in',
+  'http://localhost:3000',
+  'http://localhost:3001',
+  'http://localhost:3002',
+  'http://localhost:3003',
+];
+
+const corsOptions: cors.CorsOptions = {
+  origin(origin, callback) {
+    // No Origin header (curl, server-to-server, same-origin) — allow.
+    if (!origin || ALLOWED_ORIGINS.includes(origin)) {
+      callback(null, true);
+    } else {
+      callback(new Error(`Not allowed by CORS: ${origin}`));
+    }
+  },
+};
+
 // Middleware
 app.use(compression());
-app.use(cors());
+app.use(cors(corsOptions));
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
@@ -323,6 +345,16 @@ app.use((req: Request, res: Response, next: NextFunction) => {
 // 404 fallback (unmatched API routes + non-GET)
 app.use((req: Request, res: Response) => {
   res.status(404).json({ success: false, message: 'Route not found' });
+});
+
+// Catches the Error thrown by the CORS origin callback above and turns it
+// into a clean 403 instead of Express's default 500 + stack trace.
+app.use((err: any, req: Request, res: Response, next: NextFunction) => {
+  if (err && typeof err.message === 'string' && err.message.startsWith('Not allowed by CORS')) {
+    res.status(403).json({ success: false, message: 'Origin not allowed' });
+    return;
+  }
+  next(err);
 });
 
 // Start server
