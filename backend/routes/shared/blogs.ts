@@ -26,10 +26,86 @@ function normalizeBlogPayload(body: any): any {
   return payload;
 }
 
-// GET /api/blogs?page=home|category-slug|doctor-slug|treatment-slug&siteType=surgery|emergency
-// With page query, return only published blogs matching showOn: all OR page.
-// Without page query, return all blogs for the admin panel.
-// siteType is optional — omitting it returns posts for every subdomain (unchanged default behavior).
+/**
+ * @openapi
+ * /api/blogs:
+ *   get:
+ *     tags: [Shared]
+ *     summary: List blog posts
+ *     description: With `page`, returns only published posts matching showOn 'all' or the given page. Without `page`, returns every post (used by the admin panel). `siteType` is optional — omitting it returns posts for every subdomain.
+ *     parameters:
+ *       - in: query
+ *         name: page
+ *         schema: { type: string }
+ *         description: home | category-slug | doctor-slug | treatment-slug
+ *       - in: query
+ *         name: siteType
+ *         schema: { type: string, enum: [surgery, emergency] }
+ *     responses:
+ *       200: { description: List of blog posts }
+ *   post:
+ *     tags: [Shared]
+ *     summary: Create a blog post (⚠️ No write auth)
+ *     requestBody:
+ *       required: true
+ *       content:
+ *         application/json:
+ *           schema:
+ *             type: object
+ *             required: [title, category]
+ *             properties:
+ *               title: { type: string }
+ *               slug: { type: string, description: "Auto-derived from title if omitted" }
+ *               content: { type: string }
+ *               contentType: { type: string, enum: [standard, html] }
+ *               excerpt: { type: string }
+ *               author: { type: string }
+ *               category: { type: string }
+ *               thumbnail: { type: string, description: "Surgery posts' image field" }
+ *               image: { type: string, description: "Emergency posts' image field" }
+ *               siteType: { type: string, enum: [surgery, emergency], default: surgery }
+ *               tags: { type: array, items: { type: string } }
+ *               published: { type: boolean }
+ *               showOn: { type: array, items: { type: string } }
+ *     responses:
+ *       201: { description: Blog created }
+ * /api/blogs/{id}:
+ *   get:
+ *     tags: [Shared]
+ *     summary: Get a blog post by Mongo _id
+ *     parameters:
+ *       - in: path
+ *         name: id
+ *         required: true
+ *         schema: { type: string }
+ *     responses:
+ *       200: { description: Blog found }
+ *       404: { description: Blog not found }
+ *   put:
+ *     tags: [Shared]
+ *     summary: Update a blog post (⚠️ No write auth)
+ *     parameters:
+ *       - in: path
+ *         name: id
+ *         required: true
+ *         schema: { type: string }
+ *     requestBody:
+ *       content:
+ *         application/json:
+ *           schema: { type: object }
+ *     responses:
+ *       200: { description: Blog updated }
+ *   delete:
+ *     tags: [Shared]
+ *     summary: Delete a blog post (⚠️ No write auth)
+ *     parameters:
+ *       - in: path
+ *         name: id
+ *         required: true
+ *         schema: { type: string }
+ *     responses:
+ *       200: { description: Blog deleted }
+ */
 router.get('/', async (req: Request, res: Response) => {
   try {
     const { page, siteType } = req.query;

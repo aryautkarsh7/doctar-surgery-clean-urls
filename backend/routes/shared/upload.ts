@@ -78,8 +78,44 @@ function uploadBufferToCloudinary(buffer: Buffer, folder: string): Promise<any> 
   });
 }
 
-// POST /api/upload?type=hospital|doctor|category  (multipart/form-data, field "image")
-// hospital/doctor/category → Cloudinary; anything else → local WebP/AVIF pipeline.
+/**
+ * @openapi
+ * /api/upload:
+ *   post:
+ *     tags: [Shared]
+ *     summary: Upload an image (⚠️ No write auth)
+ *     description: type=hospital|doctor|category go to Cloudinary as WebP; any other (or omitted) type falls back to a local WebP/AVIF pipeline served from /uploads.
+ *     parameters:
+ *       - in: query
+ *         name: type
+ *         schema: { type: string, enum: [hospital, doctor, category, general] }
+ *     requestBody:
+ *       required: true
+ *       content:
+ *         multipart/form-data:
+ *           schema:
+ *             type: object
+ *             required: [image]
+ *             properties:
+ *               image:
+ *                 type: string
+ *                 format: binary
+ *                 description: JPG, PNG or WebP, max 15MB
+ *     responses:
+ *       200:
+ *         description: Upload succeeded
+ *         content:
+ *           application/json:
+ *             schema:
+ *               type: object
+ *               properties:
+ *                 success: { type: boolean }
+ *                 url: { type: string }
+ *                 publicId: { type: string, description: "Present for Cloudinary uploads only" }
+ *                 avif: { type: string, nullable: true, description: "Present for local-pipeline uploads only" }
+ *       400: { description: No file received, or wrong file type }
+ *       500: { description: Cloudinary not configured, or conversion failed }
+ */
 router.post('/', upload.single('image'), async (req: Request, res: Response) => {
   try {
     if (!req.file) {

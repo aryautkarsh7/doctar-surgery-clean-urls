@@ -34,7 +34,34 @@ function deriveAvailableCities(hospitals: any[]): string[] {
   )].sort();
 }
 
-// GET /api/data/critical — fast payload: categories + treatments + subcategories + cities + blogs + videos
+/**
+ * @openapi
+ * /api/data/critical:
+ *   get:
+ *     tags: [Surgery]
+ *     summary: Fast aggregate payload for surgery.doctar.in's initial page load
+ *     description: Cached 10 minutes. Bundles categories, treatments (grouped by categorySlug), subcategories, subsubcategories, derived availableCities, cities, latest 8 published blogs, and videos in one round trip.
+ *     responses:
+ *       200:
+ *         description: Aggregate payload
+ *         content:
+ *           application/json:
+ *             schema:
+ *               type: object
+ *               properties:
+ *                 success: { type: boolean }
+ *                 data:
+ *                   type: object
+ *                   properties:
+ *                     categories: { type: array, items: { type: object } }
+ *                     treatments: { type: object, description: "Keyed by categorySlug -> Treatment[]" }
+ *                     subcategories: { type: array, items: { type: object } }
+ *                     subsubcategories: { type: array, items: { type: object } }
+ *                     availableCities: { type: array, items: { type: string } }
+ *                     cities: { type: array, items: { type: object } }
+ *                     blogs: { type: array, items: { type: object } }
+ *                     videos: { type: array, items: { type: object } }
+ */
 router.get('/critical', async (req: Request, res: Response) => {
   try {
     const [categories, treatmentDocs, subcategories, subsubcategories, cityDocs, blogDocs, videos, cities] = await Promise.all([
@@ -62,8 +89,33 @@ router.get('/critical', async (req: Request, res: Response) => {
   }
 });
 
-// GET /api/data/city?city=Kolkata — hospitals + doctors for ONE city (trimmed fields)
-// Uses case-insensitive collation so the { city: 1 } index is used (regex bypasses it).
+/**
+ * @openapi
+ * /api/data/city:
+ *   get:
+ *     tags: [Surgery]
+ *     summary: Doctors + hospitals + pet hospitals for one city
+ *     description: Cached 5 minutes. Case-insensitive city match via collation.
+ *     parameters:
+ *       - in: query
+ *         name: city
+ *         schema: { type: string, default: Kolkata }
+ *     responses:
+ *       200:
+ *         description: Per-city payload
+ *         content:
+ *           application/json:
+ *             schema:
+ *               type: object
+ *               properties:
+ *                 success: { type: boolean }
+ *                 data:
+ *                   type: object
+ *                   properties:
+ *                     doctors: { type: array, items: { type: object } }
+ *                     hospitals: { type: array, items: { type: object } }
+ *                     pethospitals: { type: array, items: { type: object } }
+ */
 router.get('/city', async (req: Request, res: Response) => {
   try {
     const city = (req.query.city as string || 'Kolkata').trim();
@@ -87,7 +139,16 @@ router.get('/city', async (req: Request, res: Response) => {
   }
 });
 
-// GET /api/data/all — full payload kept for admin / backwards compat
+/**
+ * @openapi
+ * /api/data/all:
+ *   get:
+ *     tags: [Surgery]
+ *     summary: Full aggregate payload (admin / legacy backwards-compat)
+ *     description: Uncached, unfiltered — returns every category, treatment, doctor, hospital, video, published blog, review, FAQ, subcategory, subsubcategory and pet hospital in one response.
+ *     responses:
+ *       200: { description: Full payload }
+ */
 router.get('/all', async (req: Request, res: Response) => {
   try {
     const [categories, treatmentDocs, doctors, hospitals, videos, blogDocs, reviews, faqs, subcategories, subsubcategories, pethospitals] = await Promise.all([

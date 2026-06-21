@@ -3,6 +3,8 @@ import cors from 'cors';
 import compression from 'compression';
 import dotenv from 'dotenv';
 import path from 'path';
+import swaggerUi from 'swagger-ui-express';
+import { swaggerSpec } from './config/swagger';
 
 // Load .env from the backend root (one level up from dist-server)
 dotenv.config({ path: path.resolve(__dirname, '../.env') });
@@ -69,6 +71,10 @@ app.use((req: Request, res: Response, next: NextFunction) => {
   });
   next();
 });
+
+// API documentation
+app.get('/api-docs.json', (req: Request, res: Response) => res.json(swaggerSpec));
+app.use('/api-docs', swaggerUi.serve, swaggerUi.setup(swaggerSpec));
 
 // Routes
 app.use('/api/data/critical', cacheMiddleware(10 * 60 * 1000));  // 10 min

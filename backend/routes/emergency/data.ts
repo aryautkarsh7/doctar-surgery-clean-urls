@@ -5,10 +5,34 @@ import BloodBank from '../../models/emergency/BloodBank';
 
 const router = Router();
 
-// GET /api/emergency/data/critical?city=Kolkata
-// Single fast payload the emergency frontend calls on load — everything needed for a city.
-// Namespaced under /api/emergency/data (rather than /api/data) because /api/data/critical
-// is already taken by the surgery site's critical payload route.
+/**
+ * @openapi
+ * /api/emergency/data/critical:
+ *   get:
+ *     tags: [Emergency]
+ *     summary: Fast aggregate payload for emergency.doctar.in's initial page load
+ *     description: Cached 10 minutes. Namespaced under /api/emergency/data (rather than /api/data) because /api/data/critical is already taken by the surgery site's critical payload route.
+ *     parameters:
+ *       - in: query
+ *         name: city
+ *         schema: { type: string, default: Kolkata }
+ *     responses:
+ *       200:
+ *         description: Per-city emergency payload
+ *         content:
+ *           application/json:
+ *             schema:
+ *               type: object
+ *               properties:
+ *                 success: { type: boolean }
+ *                 city: { type: string }
+ *                 data:
+ *                   type: object
+ *                   properties:
+ *                     ambulances: { type: array, items: { type: object } }
+ *                     emergencyCenters: { type: array, items: { type: object } }
+ *                     bloodBanks: { type: array, items: { type: object } }
+ */
 router.get('/critical', async (req: Request, res: Response) => {
   try {
     const city = ((req.query.city as string) || 'Kolkata').trim();
