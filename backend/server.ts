@@ -37,7 +37,11 @@ const PORT = process.env.PORT || 3001;
 const _cache: Record<string, { data: any; time: number }> = {};
 function cacheMiddleware(duration: number) {
   return (req: Request, res: Response, next: NextFunction) => {
-    const key = req.url;
+    // originalUrl (not url) — Express rewrites req.url to be relative to the
+    // mount path, so different app.use(path, cacheMiddleware(...)) mounts can
+    // produce identical relative req.url values and collide in this shared
+    // cache object. originalUrl keeps the full, mount-independent path.
+    const key = req.originalUrl;
     if (_cache[key] && Date.now() - _cache[key].time < duration) {
       res.json(_cache[key].data);
       return;
