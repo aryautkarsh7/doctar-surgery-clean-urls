@@ -1,6 +1,6 @@
 import mongoose, { Document, Schema } from 'mongoose';
 
-export interface IBooking extends Document {
+export interface ISurgeryBooking extends Document {
   name: string;
   phone: string;
   disease: string;
@@ -34,4 +34,7 @@ const bookingSchema = new Schema({
     createdAt: { type: Date, default: Date.now }
 });
 
-export default mongoose.model<IBooking>('Booking', bookingSchema);
+// Explicit collection name pins this to the existing 'bookings' collection —
+// only the model name changes (to avoid colliding with EmergencyBooking), no
+// data moves.
+export default mongoose.model<ISurgeryBooking>('SurgeryBooking', bookingSchema, 'bookings');

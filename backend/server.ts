@@ -106,6 +106,23 @@ app.use('/api/pet-hospitals', petHospitalsRoute);
 app.use('/api/data', dataRoutes);
 app.use('/api/upload', uploadRoutes);
 
+// ── Emergency subdomain (emergency.doctar.in) ──
+// Mounted at the same paths the emergency frontend already expects, except
+// the critical-data payload which is namespaced under /api/emergency/data
+// because /api/data/critical is already taken by the surgery site's route.
+import ambulancesRoute from './routes/emergency/ambulances';
+import emergencyCentersRoute from './routes/emergency/emergencyCenters';
+import bloodBanksRoute from './routes/emergency/bloodBanks';
+import emergencyBookingsRoute from './routes/emergency/emergencyBookings';
+import emergencyDataRoute from './routes/emergency/data';
+
+app.use('/api/emergency/data/critical', cacheMiddleware(10 * 60 * 1000)); // 10 min
+app.use('/api/emergency/data', emergencyDataRoute);
+app.use('/api/ambulances', ambulancesRoute);
+app.use('/api/emergency-centers', emergencyCentersRoute);
+app.use('/api/blood-banks', bloodBanksRoute);
+app.use('/api/emergency-bookings', emergencyBookingsRoute);
+
 // Serve uploaded images (WebP/AVIF) at /uploads/<file>
 // Adjusted path: __dirname is dist-server, so public is at ../public
 app.use('/uploads', express.static(path.join(__dirname, '../public', 'uploads')));

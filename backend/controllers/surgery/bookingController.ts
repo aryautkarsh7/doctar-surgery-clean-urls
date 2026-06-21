@@ -1,5 +1,5 @@
 import { Request, Response } from 'express';
-import Booking from '../../models/surgery/Booking';
+import Booking from '../../models/surgery/SurgeryBooking';
 import Doctor from '../../models/surgery/Doctor';
 import { sendBookingEmail } from '../../utils/mailer';
 // import { sendBookingSMS } from '../utils/sms'; // SMS utility doesn't exist yet as TS or maybe at all. Wait, let me check.

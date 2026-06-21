@@ -26,15 +26,17 @@ function normalizeBlogPayload(body: any): any {
   return payload;
 }
 
-// GET /api/blogs?page=home|category-slug|doctor-slug|treatment-slug
+// GET /api/blogs?page=home|category-slug|doctor-slug|treatment-slug&siteType=surgery|emergency
 // With page query, return only published blogs matching showOn: all OR page.
 // Without page query, return all blogs for the admin panel.
+// siteType is optional — omitting it returns posts for every subdomain (unchanged default behavior).
 router.get('/', async (req: Request, res: Response) => {
   try {
-    const { page } = req.query;
+    const { page, siteType } = req.query;
     const filter: any = page
       ? { published: true, showOn: { $in: ['all', page as string] } }
       : {};
+    if (siteType) filter.siteType = siteType as string;
 
     const blogs = await Blog.find(filter).sort({ createdAt: -1 });
     res.json({ success: true, total: blogs.length, data: blogs });
