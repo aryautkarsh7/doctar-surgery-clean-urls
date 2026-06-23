@@ -4,8 +4,7 @@
     {
       "name": "doctar",
       "runtimeExecutable": "node",
-      "runtimeArgs": ["server.js"],
-      "cwd": "backend",
+      "runtimeArgs": ["backend/dist-server/server.js"],
       "port": 3001,
       "autoPort": true
     }

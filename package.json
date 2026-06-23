@@ -1,35 +1,12 @@
 {
   "scripts": {
-    "build:server": "tsc -p backend/tsconfig.json",
-    "build": "node build.js && npm run build:server",
-    "start": "node backend/dist-server/server.js"
+    "build": "node build.js"
   },
   "dependencies": {
-    "axios": "^1.17.0",
     "clean-css-cli": "^5.6.3",
-    "cloudinary": "^2.10.0",
-    "compression": "^1.8.1",
-    "cors": "^2.8.6",
-    "dotenv": "^17.4.2",
-    "express": "^5.2.1",
-    "mongoose": "^9.6.3",
-    "multer": "^2.1.1",
-    "nodemailer": "^8.0.10",
-    "sharp": "^0.34.5",
-    "terser": "^5.48.0",
-    "twilio": "^6.0.2",
-    "typescript": "^6.0.3",
-    "@types/compression": "^1.8.1",
-    "@types/cors": "^2.8.19",
-    "@types/express": "^5.0.6",
-    "@types/mongoose": "^5.11.96",
-    "@types/multer": "^2.1.0",
-    "@types/node": "^26.0.0",
-    "@types/nodemailer": "^8.0.1",
-    "@types/sharp": "^0.31.1"
+    "terser": "^5.48.0"
   },
   "devDependencies": {
-    "puppeteer": "^25.1.0",
-    "ts-node": "^10.9.2"
+    "puppeteer": "^25.1.0"
   }
 }
