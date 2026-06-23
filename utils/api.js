@@ -165,11 +165,11 @@
 
 
   // =====================================================
-  const API_BASE = window.DOCTAR_API_BASE ||
-    (window.location.protocol === 'file:' ||
-      ((window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1') && window.location.port !== '3001')
-      ? 'http://localhost:3001'
-      : window.location.origin);
+  const API_BASE = window.DOCTAR_API_BASE || 
+    (window.location.protocol === 'file:' || window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1' 
+      ? 'http://localhost:3001' 
+      : 'https://doctar-subdomain-backend-production.up.railway.app');
+  window.API_BASE = API_BASE;
 
   // Session-level cache so repeat callers (boot, header search, city modal…)
   // share ONE network request instead of each re-fetching the full payload.
