@@ -10,7 +10,7 @@ import { swaggerSpec } from './config/swagger';
 dotenv.config({ path: path.resolve(__dirname, '../.env') });
 
 import connectDB from './config/db';
-import bookingRoutes from './routes/surgery/booking';
+import sharedBookingsRoute from './routes/shared/bookings';
 import dataRoutes from './routes/surgery/data';
 import doctorsRouter from './routes/surgery/doctors';
 import videoRoutes from './routes/surgery/videos';
@@ -25,6 +25,7 @@ import Hospital from './models/surgery/Hospital';
 import Doctor from './models/surgery/Doctor';
 import Category from './models/surgery/Category';
 import Treatment from './models/surgery/Treatment';
+import City from './models/shared/City';
 
 // Connect to the database
 connectDB();
@@ -62,6 +63,8 @@ function cacheMiddleware(duration: number) {
 const ALLOWED_ORIGINS = [
   'https://surgery.doctar.in',
   'https://emergency.doctar.in',
+  'https://doctar-surgery-clean-urls.onrender.com',
+  'https://emergency-doctar.onrender.com',
   'http://localhost:3000',
   'http://localhost:3001',
   'http://localhost:3002',
@@ -102,10 +105,22 @@ app.use('/api-docs', swaggerUi.serve, swaggerUi.setup(swaggerSpec));
 app.use('/api/data/critical', cacheMiddleware(10 * 60 * 1000));  // 10 min
 app.use('/api/data/city',     cacheMiddleware(5  * 60 * 1000));  // 5 min
 app.use('/api/categories',    cacheMiddleware(10 * 60 * 1000));  // 10 min
-app.use('/api/bookings', bookingRoutes);
+app.use('/api/bookings', sharedBookingsRoute);
 
 import categoriesRoute from './routes/surgery/categories';
 app.use('/api/categories', categoriesRoute);
+
+app.get('/api/cities', cacheMiddleware(10 * 60 * 1000), async (req: Request, res: Response) => {
+  try {
+    const cities = await City.find({})
+      .select('name slug state lat lng -_id')
+      .sort({ name: 1 })
+      .lean();
+    res.json({ success: true, total: cities.length, data: cities });
+  } catch (err: any) {
+    res.status(500).json({ success: false, error: err.message });
+  }
+});
 
 import treatmentsRoute from './routes/surgery/treatments';
 app.use('/api/treatments', treatmentsRoute);
@@ -145,7 +160,6 @@ app.use('/api/upload', uploadRoutes);
 import ambulancesRoute from './routes/emergency/ambulances';
 import emergencyCentersRoute from './routes/emergency/emergencyCenters';
 import bloodBanksRoute from './routes/emergency/bloodBanks';
-import emergencyBookingsRoute from './routes/emergency/emergencyBookings';
 import emergencyDataRoute from './routes/emergency/data';
 
 app.use('/api/emergency/data/critical', cacheMiddleware(10 * 60 * 1000)); // 10 min
@@ -153,7 +167,7 @@ app.use('/api/emergency/data', emergencyDataRoute);
 app.use('/api/ambulances', ambulancesRoute);
 app.use('/api/emergency-centers', emergencyCentersRoute);
 app.use('/api/blood-banks', bloodBanksRoute);
-app.use('/api/emergency-bookings', emergencyBookingsRoute);
+app.use('/api/emergency-bookings', sharedBookingsRoute);
 
 // Serve uploaded images (WebP/AVIF) at /uploads/<file>
 // Adjusted path: __dirname is dist-server, so public is at ../public

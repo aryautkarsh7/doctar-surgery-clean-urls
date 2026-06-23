@@ -43,9 +43,18 @@ export async function sendBookingSMS(booking: any): Promise<any> {
   console.log(`📤 Attempting SMS  from=${process.env.TWILIO_PHONE}  to=${phone}`);
 
   try {
+    let body = `Dear ${booking.name}, your booking has been received at Doctar. Our team will call you shortly. Helpline: +91-8877772277`;
+    if (booking.source === 'emergency.doctar.in') {
+      body = `Dear ${booking.name}, your emergency ambulance booking is received. Code: ${booking.confirmationCode || 'DOC-CONFIRMED'}. Our driver/team will contact you shortly. Helpline: +91-8877772277`;
+    } else if (booking.source === 'surgery.doctar.in') {
+      body = `Dear ${booking.name}, your appointment for ${booking.disease || 'surgery consultation'} has been booked at Doctar. Our team will call you shortly. Helpline: +91-8877772277`;
+    } else if (booking.source === 'diagnostic.doctar.in') {
+      body = `Dear ${booking.name}, your diagnostic test appointment has been booked at Doctar. Our team will call you shortly. Helpline: +91-8877772277`;
+    }
+
     const client = twilio(process.env.TWILIO_ACCOUNT_SID, process.env.TWILIO_AUTH_TOKEN);
     const msg = await client.messages.create({
-      body: `Dear ${booking.name}, your appointment for ${booking.disease} has been booked at Doctar. Our team will call you shortly. Helpline: +91-8877772277`,
+      body,
       from: process.env.TWILIO_PHONE,
       to: phone,
     });
