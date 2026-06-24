@@ -61,6 +61,12 @@ async function build() {
   fs.copyFileSync('sw.js', 'dist/sw.js');
   console.log('Copied: sw.js');
 
+  // Copy images directory to dist
+  if (fs.existsSync('images')) {
+    fs.cpSync('images', 'dist/images', { recursive: true });
+    console.log('Copied: images/');
+  }
+
   console.log('Build complete!');
 }
 
