@@ -210,30 +210,32 @@
 
       // Apply critical data (categories, treatments, subcategories, cities list)
       if (res1 && res1.ok) {
-        const json1 = await res1.json();
-        const d1 = (json1 && json1.data) || {};
-        if (Array.isArray(d1.categories) && d1.categories.length) {
-          CATEGORIES.length = 0;
-          CATEGORIES.push(...d1.categories);
-        }
-        if (d1.treatments && Object.keys(d1.treatments).length) {
-          Object.keys(TREATMENTS).forEach(k => delete TREATMENTS[k]);
-          Object.assign(TREATMENTS, d1.treatments);
-        }
-        if (Array.isArray(d1.subcategories)) SUBCATEGORIES = d1.subcategories;
-        if (Array.isArray(d1.subsubcategories)) SUBSUBCATEGORIES = d1.subsubcategories;
-        if (Array.isArray(d1.availableCities) && d1.availableCities.length) {
-          AVAILABLE_CITIES = d1.availableCities;
-        }
-        if (Array.isArray(d1.cities)) {
-          CITIES = d1.cities;
-        }
-        if (Array.isArray(d1.blogs) && d1.blogs.length) {
-          BLOG_POSTS = d1.blogs.filter(b => b.published !== false);
-        }
-        if (Array.isArray(d1.videos)) {
-          VIDEOS = d1.videos;
-        }
+        try {
+          const json1 = await res1.json();
+          const d1 = (json1 && json1.data) || {};
+          if (Array.isArray(d1.categories) && d1.categories.length) {
+            CATEGORIES.length = 0;
+            CATEGORIES.push(...d1.categories);
+          }
+          if (d1.treatments && Object.keys(d1.treatments).length) {
+            Object.keys(TREATMENTS).forEach(k => delete TREATMENTS[k]);
+            Object.assign(TREATMENTS, d1.treatments);
+          }
+          if (Array.isArray(d1.subcategories)) SUBCATEGORIES = d1.subcategories;
+          if (Array.isArray(d1.subsubcategories)) SUBSUBCATEGORIES = d1.subsubcategories;
+          if (Array.isArray(d1.availableCities) && d1.availableCities.length) {
+            AVAILABLE_CITIES = d1.availableCities;
+          }
+          if (Array.isArray(d1.cities)) {
+            CITIES = d1.cities;
+          }
+          if (Array.isArray(d1.blogs) && d1.blogs.length) {
+            BLOG_POSTS = d1.blogs.filter(b => b.published !== false);
+          }
+          if (Array.isArray(d1.videos)) {
+            VIDEOS = d1.videos;
+          }
+        } catch(e) { console.warn('Failed to parse critical JSON', e); }
       }
 
       // Apply city data (hospitals, doctors for current city) from local JSON
