@@ -238,37 +238,41 @@
 
       // Apply city data (hospitals, doctors for current city) from local JSON
       if (res2 && res2.ok) {
-        const json2 = await res2.json();
-        if (Array.isArray(json2)) {
-          DOCTORS.length = 0;
-          DOCTORS.push(...json2);
-          
-          const hMap = new Map();
-          json2.forEach(doc => {
-            if (Array.isArray(doc.hospitals)) {
-              doc.hospitals.forEach(h => {
-                if (!hMap.has(h.name)) {
-                  hMap.set(h.name, { ...h, city: city });
-                }
-              });
-            }
-          });
-          HOSPITALS.length = 0;
-          HOSPITALS.push(...Array.from(hMap.values()));
-        }
+        try {
+          const json2 = await res2.json();
+          if (Array.isArray(json2)) {
+            DOCTORS.length = 0;
+            DOCTORS.push(...json2);
+            
+            const hMap = new Map();
+            json2.forEach(doc => {
+              if (Array.isArray(doc.hospitals)) {
+                doc.hospitals.forEach(h => {
+                  if (!hMap.has(h.name)) {
+                    hMap.set(h.name, { ...h, city: city });
+                  }
+                });
+              }
+            });
+            HOSPITALS.length = 0;
+            HOSPITALS.push(...Array.from(hMap.values()));
+          }
+        } catch(e) { console.warn('Failed to parse doctor JSON', e); }
       }
       
       // Merge rich hospital data
       if (res3 && res3.ok) {
-        const json3 = await res3.json();
-        if (Array.isArray(json3) && json3.length > 0) {
-          const existingMap = new Map(HOSPITALS.map(h => [h.name, h]));
-          json3.forEach(h => {
-             existingMap.set(h.name, { ...(existingMap.get(h.name) || {}), ...h, city: h.city || city });
-          });
-          HOSPITALS.length = 0;
-          HOSPITALS.push(...Array.from(existingMap.values()));
-        }
+        try {
+          const json3 = await res3.json();
+          if (Array.isArray(json3) && json3.length > 0) {
+            const existingMap = new Map(HOSPITALS.map(h => [h.name, h]));
+            json3.forEach(h => {
+               existingMap.set(h.name, { ...(existingMap.get(h.name) || {}), ...h, city: h.city || city });
+            });
+            HOSPITALS.length = 0;
+            HOSPITALS.push(...Array.from(existingMap.values()));
+          }
+        } catch(e) { console.warn('Failed to parse hospital JSON', e); }
       }
 
       console.log('✅ Remote data loaded for', city);
@@ -292,36 +296,40 @@
       ]);
 
       if (res && res.ok) {
-        const json = await res.json();
-        if (Array.isArray(json)) {
-          DOCTORS.length = 0;
-          DOCTORS.push(...json);
-          
-          const hMap = new Map();
-          json.forEach(doc => {
-            if (Array.isArray(doc.hospitals)) {
-              doc.hospitals.forEach(h => {
-                if (!hMap.has(h.name)) {
-                  hMap.set(h.name, { ...h, city: city });
-                }
-              });
-            }
-          });
-          HOSPITALS.length = 0;
-          HOSPITALS.push(...Array.from(hMap.values()));
-        }
+        try {
+          const json = await res.json();
+          if (Array.isArray(json)) {
+            DOCTORS.length = 0;
+            DOCTORS.push(...json);
+            
+            const hMap = new Map();
+            json.forEach(doc => {
+              if (Array.isArray(doc.hospitals)) {
+                doc.hospitals.forEach(h => {
+                  if (!hMap.has(h.name)) {
+                    hMap.set(h.name, { ...h, city: city });
+                  }
+                });
+              }
+            });
+            HOSPITALS.length = 0;
+            HOSPITALS.push(...Array.from(hMap.values()));
+          }
+        } catch(e) { console.warn('Failed to parse doctor JSON', e); }
       }
       
       if (resHosp && resHosp.ok) {
-        const jsonHosp = await resHosp.json();
-        if (Array.isArray(jsonHosp) && jsonHosp.length > 0) {
-          const existingMap = new Map(HOSPITALS.map(h => [h.name, h]));
-          jsonHosp.forEach(h => {
-             existingMap.set(h.name, { ...(existingMap.get(h.name) || {}), ...h, city: h.city || city });
-          });
-          HOSPITALS.length = 0;
-          HOSPITALS.push(...Array.from(existingMap.values()));
-        }
+        try {
+          const jsonHosp = await resHosp.json();
+          if (Array.isArray(jsonHosp) && jsonHosp.length > 0) {
+            const existingMap = new Map(HOSPITALS.map(h => [h.name, h]));
+            jsonHosp.forEach(h => {
+               existingMap.set(h.name, { ...(existingMap.get(h.name) || {}), ...h, city: h.city || city });
+            });
+            HOSPITALS.length = 0;
+            HOSPITALS.push(...Array.from(existingMap.values()));
+          }
+        } catch(e) { console.warn('Failed to parse hospital JSON', e); }
       }
 
       console.log('✅ City data reloaded for', city);
