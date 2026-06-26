@@ -79,7 +79,7 @@ function renderPrivacyPage() {
         </div>
       </div>
     </div>
-  \`;
+  `;
 }
 
 function renderTermsPage() {
@@ -88,7 +88,7 @@ function renderTermsPage() {
     description: 'Terms and conditions for using Doctar Surgery platform.',
     robots: 'noindex'
   });
-  document.getElementById('app').innerHTML = \`
+  document.getElementById('app').innerHTML = `
     <div class="static-page">
       <div class="static-page-header">
         <h1>Terms & Conditions</h1>
@@ -186,7 +186,7 @@ function renderTermsPage() {
         </div>
       </div>
     </div>
-  \`;
+  `;
 }
 
 function renderAboutPage() {
@@ -195,7 +195,7 @@ function renderAboutPage() {
     description: "Doctar Surgery connects patients with expert surgeons across India.",
     robots: 'noindex'
   });
-  document.getElementById('app').innerHTML = \`
+  document.getElementById('app').innerHTML = `
     <div class="static-page">
       <div class="static-page-header">
         <h1>About Doctar Surgery</h1>
@@ -240,7 +240,7 @@ function renderAboutPage() {
         </div>
       </div>
     </div>
-  \`;
+  `;
 }
 
 function renderContactPage() {
@@ -249,7 +249,7 @@ function renderContactPage() {
     description: 'Get in touch with the Doctar Surgery team.',
     robots: 'noindex'
   });
-  document.getElementById('app').innerHTML = \`
+  document.getElementById('app').innerHTML = `
     <div class="static-page">
       <div class="static-page-header">
         <h1>Contact Us</h1>
@@ -293,7 +293,7 @@ function renderContactPage() {
         </div>
       </div>
     </div>
-  \`;
+  `;
 }
 
 function renderCareersPage() {
@@ -302,7 +302,7 @@ function renderCareersPage() {
     description: 'Join the team building India’s most trusted surgical care platform.',
     robots: 'noindex'
   });
-  document.getElementById('app').innerHTML = \`
+  document.getElementById('app').innerHTML = `
     <div class="static-page">
       <div class="static-page-header">
         <h1>Careers at Doctar Surgery</h1>
@@ -358,5 +358,5 @@ function renderCareersPage() {
         </div>
       </div>
     </div>
-  \`;
+  `;
 }
