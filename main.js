@@ -218,6 +218,24 @@ document.addEventListener('DOMContentLoaded', async () => {
     initHeaderSearch();
     setupLinkInterception();
     
+    // Parse city from URL if present to override IP/localStorage
+    const path = window.location.pathname;
+    let urlCitySlug = null;
+    const match = path.match(/-(in|near)-([a-zA-Z0-9-]+)\/s$/);
+    if (match && match[2] && match[1] === 'in') {
+      urlCitySlug = match[2];
+    } else {
+      const hospMatch = path.match(/^\/hospital\/[^\/]+\/([^\/]+)\/s$/);
+      if (hospMatch && hospMatch[1]) urlCitySlug = hospMatch[1];
+    }
+    
+    if (urlCitySlug && typeof cityFromSlug === 'function') {
+      const cName = cityFromSlug(urlCitySlug);
+      if (cName) {
+        try { localStorage.setItem('selectedCity', cName); } catch(e){}
+      }
+    }
+
     // Wait for auto-location (fast IP fetch) before loading data so we 
     // fetch the correct city data on the first try.
     await primeUserLocation();

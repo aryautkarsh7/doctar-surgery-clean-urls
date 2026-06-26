@@ -67,6 +67,12 @@ async function build() {
     console.log('Copied: images/');
   }
 
+  // Copy data directory to dist so JSON files are served
+  if (fs.existsSync('data')) {
+    fs.cpSync('data', 'dist/data', { recursive: true });
+    console.log('Copied: data/');
+  }
+
   console.log('Build complete!');
 }
 
