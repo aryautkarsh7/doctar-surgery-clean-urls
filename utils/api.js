@@ -223,29 +223,16 @@
     try {
       const city = getCurrentCity();
 
-      // Fetch critical data + city data in parallel so the page renders ONCE with full data.
-      // Sequential fetching caused a double-render flicker (skeleton → empty → full).
-      
-      const fileName = city.split(' ').map(w => w.charAt(0).toUpperCase() + w.slice(1).toLowerCase()).join('_') + 'doctar.js';
-      const cityUrl = 'data/cities/' + fileName;
-      
-      const hospFileName = city.split(' ').map(w => w.charAt(0).toUpperCase() + w.slice(1).toLowerCase()).join('_') + '.js';
-      const hospUrl = 'data/hospitals/' + hospFileName;
-      
+      // We only fetch critical data, no longer loading city/hospital JSONs
       const controller = new AbortController();
       const fetchTimeout = setTimeout(() => controller.abort(), 3000);
 
-      const [res1, json2, json3] = await Promise.all([
-        fetch(API_BASE + '/api/data/critical', { cache: 'no-store', signal: controller.signal })
-          .then(res => { clearTimeout(fetchTimeout); return res; })
-          .catch(() => { clearTimeout(fetchTimeout); return null; }),
-        loadScriptData(cityUrl, 'DOCTAR_TEMP_CITY'),
-        loadScriptData(hospUrl, 'DOCTAR_TEMP_HOSP'),
-      ]);
+      const res1 = await fetch(API_BASE + '/api/data/critical', { cache: 'no-store', signal: controller.signal })
+        .then(res => { clearTimeout(fetchTimeout); return res; })
+        .catch(() => { clearTimeout(fetchTimeout); return null; });
 
       // Apply critical data (categories, treatments, subcategories, cities list)
       if (res1 && res1.ok) {
-
         try {
           const json1 = await res1.json();
           const d1 = (json1 && json1.data) || {};
@@ -274,23 +261,11 @@
         } catch(e) { console.warn('Failed to parse critical JSON', e); }
       }
 
-      // Load doctors from doctor JS
-      if (json2 && Array.isArray(json2)) {
-        try {
-          DOCTORS.length = 0;
-          DOCTORS.push(...json2);
-        } catch(e) { console.warn('Failed to parse doctor data', e); }
-      }
-      
-      // Load hospitals from hospital JS
-      if (json3 && Array.isArray(json3) && json3.length > 0) {
-        try {
-          HOSPITALS.length = 0;
-          HOSPITALS.push(...json3.map(h => ({ ...h, city: h.city || city })));
-        } catch(e) { console.warn('Failed to parse hospital data', e); }
-      }
+      // Explicitly empty doctor and hospital lists
+      DOCTORS.length = 0;
+      HOSPITALS.length = 0;
 
-      console.log('✅ Remote data loaded for', city);
+      console.log('✅ Remote data loaded (cities only) for', city);
     } catch (err) {
       console.warn('⚠️ Using bundled data.js (backend unavailable):', err.message);
     }
@@ -299,35 +274,11 @@
   // Load city-specific data and re-render — used only when the user switches city.
   async function _loadCityData(city) {
     try {
-      const fileName = city.split(' ').map(w => w.charAt(0).toUpperCase() + w.slice(1).toLowerCase()).join('_') + 'doctar.js';
-      const cityUrl = 'data/cities/' + fileName;
-      
-      const hospFileName = city.split(' ').map(w => w.charAt(0).toUpperCase() + w.slice(1).toLowerCase()).join('_') + '.js';
-      const hospUrl = 'data/hospitals/' + hospFileName;
-      
-      const [json, jsonHosp] = await Promise.all([
-        loadScriptData(cityUrl, 'DOCTAR_TEMP_CITY'),
-        loadScriptData(hospUrl, 'DOCTAR_TEMP_HOSP')
-      ]);
+      // Explicitly empty doctor and hospital lists
+      DOCTORS.length = 0;
+      HOSPITALS.length = 0;
 
-      // Load doctors from doctor JS
-      if (json && Array.isArray(json)) {
-        try {
-          DOCTORS.length = 0;
-          DOCTORS.push(...json);
-        } catch(e) { console.warn('Failed to parse doctor data', e); }
-      }
-      
-      // Load hospitals from hospital JS
-      if (jsonHosp && Array.isArray(jsonHosp) && jsonHosp.length > 0) {
-        try {
-          HOSPITALS.length = 0;
-          HOSPITALS.push(...jsonHosp.map(h => ({ ...h, city: h.city || city })));
-        } catch(e) { console.warn('Failed to parse hospital data', e); }
-      }
-
-
-      console.log('✅ City data reloaded for', city);
+      console.log('✅ City data reloaded (cities only) for', city);
       if (typeof handleRoute === 'function') handleRoute();
     } catch (err) {
       console.warn('⚠️ Failed to reload city data:', err.message);
