@@ -193,15 +193,25 @@
     return new Promise((resolve) => {
       window[varName] = null;
       const script = document.createElement('script');
-      // Append cache buster to bypass aggressive file:/// caching
-      script.src = url + '?v=' + Date.now();
+      
+      const timeout = setTimeout(() => {
+        script.onload = null;
+        script.onerror = null;
+        script.remove();
+        resolve(null);
+      }, 5000);
+
+      script.src = window.location.protocol === 'file:' ? url : url + '?v=' + Date.now();
+      
       script.onload = () => {
+        clearTimeout(timeout);
         const data = window[varName];
         window[varName] = null;
         script.remove();
         resolve(data);
       };
       script.onerror = () => {
+        clearTimeout(timeout);
         script.remove();
         resolve(null);
       };
